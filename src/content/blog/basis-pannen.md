@@ -33,4 +33,4 @@ Leg je bestaande pannen naast je lijstje. Wat ontbreekt er? En welk onderdeel va
 
 Je pannenkast hoeft geen showroom te worden. Als jij er prettig mee kookt, doet hij zijn werk.
 
-<div class="notice"><h3>Jouw volgende stap</h3><p>Twijfel je tussen alles tegelijk kopen of één pan toevoegen? Lees <a href="/blog/set-of-los/">pannenset of losse pannen</a>, of maak je eigen overzicht met de <a href="/portfolio/">keuzehulp</a>.</p></div>
+<div class="notice"><h3>Jouw volgende stap</h3><p>Twijfel je tussen alles tegelijk kopen of één pan toevoegen? Lees <a href="/blog/set-of-los/">pannenset of losse pannen</a>, of maak je eigen overzicht met de <a href="/keuzehulp/">keuzehulp</a>.</p></div>

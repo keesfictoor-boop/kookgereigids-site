@@ -36,4 +36,4 @@ Zo voorkom je dat je een kleinere set vergelijkt met grotere losse pannen, of da
 
 Ook bij RVS blijven dezelfde vragen belangrijk. Welke maten krijg je, past de bodem bij je kookplaat en wat schrijft de fabrikant voor over onderhoud? De materiaalnaam is het begin van je vergelijking, niet het hele antwoord.
 
-<div class="notice"><h3>Houd je eigen lijstje leidend</h3><p>Gebruik de <a href="/portfolio/#vergelijken">vergelijkkaart</a> om twee opties naast elkaar te leggen. Je hoeft geen complete set te kopen om een complete maaltijd te maken.</p></div>
+<div class="notice"><h3>Houd je eigen lijstje leidend</h3><p>Gebruik de <a href="/keuzehulp/#vergelijken">vergelijkkaart</a> om twee opties naast elkaar te leggen. Je hoeft geen complete set te kopen om een complete maaltijd te maken.</p></div>

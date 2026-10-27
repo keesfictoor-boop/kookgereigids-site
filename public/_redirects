@@ -1,7 +1,10 @@
-# Oude .html-adressen van de eerste statische versie
-/index.html      /           301
-/about.html      /about/     301
-/services.html   /services/  301
-/portfolio.html  /portfolio/ 301
-/blog.html       /blog/      301
-/contact.html    /contact/   301
+# Oude adressen van de eerste statische versie en van de Engelse paginanamen
+/index.html      /             301
+/about.html      /over-ons/    301
+/services.html   /koopadvies/  301
+/portfolio.html  /keuzehulp/   301
+/blog.html       /blog/        301
+/contact.html    /contact/     301
+/about/          /over-ons/    301
+/services/       /koopadvies/  301
+/portfolio/      /keuzehulp/   301

@@ -15,7 +15,7 @@ Node.js 22.23 of nieuwer is nodig (zie `.node-version`).
 
 ## Mappen
 
-- `src/pages/` — de pagina's. De bestandsnaam bepaalt de URL (`about.astro` → `/about/`).
+- `src/pages/` — de pagina's. De bestandsnaam bepaalt de URL (`over-ons.astro` → `/over-ons/`).
 - `src/layouts/Base.astro` — gedeelde `<head>`, header en footer, canonical, Open Graph en JSON-LD.
 - `src/content/blog/` — blogartikelen als Markdown.
 - `src/components/` — blogkaart en homepage-slider (vullen zich automatisch met de nieuwste artikelen).
@@ -47,7 +47,7 @@ Optioneel: `tagWarm: true` (warme labelkleur), `updatedDate`, en `draft: true` o
 Een notitieblok maak je met HTML in het Markdown-bestand:
 
 ```html
-<div class="notice"><h3>Titel</h3><p>Tekst met een <a href="/portfolio/">link</a>.</p></div>
+<div class="notice"><h3>Titel</h3><p>Tekst met een <a href="/keuzehulp/">link</a>.</p></div>
 ```
 
 De nieuwste drie artikelen verschijnen automatisch in de slider op de homepage; alle artikelen staan op `/blog/` en in de sitemap.
