@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+dist/
+build/
+.claude/
+Thumbs.db
+desktop.ini
+.DS_Store
