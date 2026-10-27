@@ -64,7 +64,7 @@ npm run foto -- haal 6660803 gietijzeren-pan --alt "Biefstuk met rozemarijn in e
 `zoek` toont id, fotograaf, trefwoorden en link (Nederlandse zoektermen werken bij Pixabay). `haal` downloadt de foto (Pixabay: max. 1280 px breed) naar `public/assets/` en zet `image`, `imageAlt`, `imageCredit`, `imageCreditUrl`, `imageSourceUrl` en `imageSource` in het artikel. Een Nederlandse alt-tekst (`--alt`) is verplicht. De site toont de fotograaf onder het artikel en in de bronnenlijst op `/blog/`.
 
 Controleer elke foto via de link voordat je hem ophaalt:
-- geen AI-beeld (Pixabay markeert die op de fotopagina; de API kan ze niet uitfilteren);
+- geen AI-beeld (uploaders moeten AI-beelden bij Pixabay als zodanig aanmerken; kijk daarom op de fotopagina, want de API kan ze niet uitfilteren);
 - geen herkenbare merken of logo's, en niets wat suggereert dat iemand ons aanbeveelt;
 - een stockfoto is een sfeerbeeld, nooit een eigen producttest.
 
