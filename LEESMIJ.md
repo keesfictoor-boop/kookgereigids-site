@@ -52,18 +52,23 @@ Een notitieblok maak je met HTML in het Markdown-bestand:
 
 De nieuwste drie artikelen verschijnen automatisch in de slider op de homepage; alle artikelen staan op `/blog/` en in de sitemap.
 
-## Foto's ophalen via Pexels
+## Foto's ophalen (Pixabay, of Pexels)
 
-Eenmalig: maak een gratis Pexels-account, vraag een API-sleutel aan (https://www.pexels.com/api/) en kopieer `.env.example` naar `.env` met je sleutel achter `PEXELS_API_KEY=`. `.env` wordt nooit gecommit.
+Eenmalig: kopieer `.env.example` naar `.env` en vul `PIXABAY_API_KEY=` in (sleutel staat na inloggen op https://pixabay.com/api/docs/). `.env` wordt nooit gecommit. Met een `PEXELS_API_KEY` kun je ook Pexels gebruiken (`--bron pexels`); Pexels gaf in oktober 2026 geen nieuwe sleutels uit.
 
 ```bash
-npm run foto -- zoek "cast iron skillet"
-npm run foto -- haal 1234567 gietijzeren-pan --artikel gietijzeren-pan-kiezen --alt "Gietijzeren pan op een gasfornuis"
+npm run foto -- zoek "gietijzeren pan"
+npm run foto -- haal 6660803 gietijzeren-pan --alt "Biefstuk met rozemarijn in een gietijzeren pan" --artikel set-of-los
 ```
 
-`zoek` toont id, fotograaf, beschrijving en link; bekijk de foto via de link. `haal` downloadt hem (max. 1600 px breed) naar `public/assets/` en zet `image`, `imageAlt`, `imageCredit`, `imageCreditUrl` en `imageSourceUrl` in het artikel. De site toont de fotograaf onder het artikel en in de bronnenlijst op `/blog/`. Engelse zoektermen geven meestal meer resultaten; geef altijd een Nederlandse alt-tekst mee.
+`zoek` toont id, fotograaf, trefwoorden en link (Nederlandse zoektermen werken bij Pixabay). `haal` downloadt de foto (Pixabay: max. 1280 px breed) naar `public/assets/` en zet `image`, `imageAlt`, `imageCredit`, `imageCreditUrl`, `imageSourceUrl` en `imageSource` in het artikel. Een Nederlandse alt-tekst (`--alt`) is verplicht. De site toont de fotograaf onder het artikel en in de bronnenlijst op `/blog/`.
 
-Pexels-licentie: gratis, ook commercieel; niet suggereren dat personen of merken op de foto ons aanbevelen. Een stockfoto is een sfeerbeeld, nooit een eigen producttest. Limiet: 200 verzoeken per uur, 20.000 per maand.
+Controleer elke foto via de link voordat je hem ophaalt:
+- geen AI-beeld (Pixabay markeert die op de fotopagina; de API kan ze niet uitfilteren);
+- geen herkenbare merken of logo's, en niets wat suggereert dat iemand ons aanbeveelt;
+- een stockfoto is een sfeerbeeld, nooit een eigen producttest.
+
+Pixabay-voorwaarden (oktober 2026): gratis, ook commercieel, naamsvermelding niet verplicht; niet los doorverkopen; geen massale of systematische downloads; zoekresultaten 24 uur cachen (het script doet dat in `.cache/`). Pixabay garandeert niet dat er model- of eigendomsreleases zijn: die verantwoordelijkheid ligt bij jou.
 
 ## Foto's en lettertypen
 

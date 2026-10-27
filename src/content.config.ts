@@ -16,6 +16,7 @@ const blog = defineCollection({
     imageCredit: z.string().optional(),
     imageCreditUrl: z.url().optional(),
     imageSourceUrl: z.url().optional(),
+    imageSource: z.enum(['Pixabay', 'Pexels']).optional(),
     readingTime: z.number().int().positive(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
