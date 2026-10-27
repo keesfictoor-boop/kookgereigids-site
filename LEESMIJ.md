@@ -52,6 +52,19 @@ Een notitieblok maak je met HTML in het Markdown-bestand:
 
 De nieuwste drie artikelen verschijnen automatisch in de slider op de homepage; alle artikelen staan op `/blog/` en in de sitemap.
 
+## Foto's ophalen via Pexels
+
+Eenmalig: maak een gratis Pexels-account, vraag een API-sleutel aan (https://www.pexels.com/api/) en kopieer `.env.example` naar `.env` met je sleutel achter `PEXELS_API_KEY=`. `.env` wordt nooit gecommit.
+
+```bash
+npm run foto -- zoek "cast iron skillet"
+npm run foto -- haal 1234567 gietijzeren-pan --artikel gietijzeren-pan-kiezen --alt "Gietijzeren pan op een gasfornuis"
+```
+
+`zoek` toont id, fotograaf, beschrijving en link; bekijk de foto via de link. `haal` downloadt hem (max. 1600 px breed) naar `public/assets/` en zet `image`, `imageAlt`, `imageCredit`, `imageCreditUrl` en `imageSourceUrl` in het artikel. De site toont de fotograaf onder het artikel en in de bronnenlijst op `/blog/`. Engelse zoektermen geven meestal meer resultaten; geef altijd een Nederlandse alt-tekst mee.
+
+Pexels-licentie: gratis, ook commercieel; niet suggereren dat personen of merken op de foto ons aanbevelen. Een stockfoto is een sfeerbeeld, nooit een eigen producttest. Limiet: 200 verzoeken per uur, 20.000 per maand.
+
 ## Foto's en lettertypen
 
 - cooking.jpg: Rick Barrett / Ambitious Studio — https://unsplash.com/photos/tXfAH4ixIKk

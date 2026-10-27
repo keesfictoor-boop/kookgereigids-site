@@ -12,6 +12,10 @@ const blog = defineCollection({
     tagWarm: z.boolean().default(false),
     image: z.string(),
     imageAlt: z.string(),
+    // Bronvermelding voor stockfoto's (vult scripts/foto.mjs automatisch in)
+    imageCredit: z.string().optional(),
+    imageCreditUrl: z.url().optional(),
+    imageSourceUrl: z.url().optional(),
     readingTime: z.number().int().positive(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
