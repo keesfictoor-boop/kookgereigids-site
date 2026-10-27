@@ -1,41 +1,61 @@
-# Kookgereigids — lokale HTML/CSS-website
+# Kookgereigids — website (Astro)
 
-Open index.html in een browser. Alle zes pagina’s, foto’s en lettertypen werken vanuit deze map, zonder installatie of internetverbinding. De externe bronvermeldingen, sociale deelacties en e-mailfuncties hebben uiteraard hun eigen verbinding of programma nodig.
+Statische site voor kookgereigids.nl, gebouwd met [Astro](https://astro.build) en gehost op Cloudflare Pages. Elke push naar `main` bouwt en publiceert de site automatisch.
 
-## De zes pagina’s
-- index.html — homepage met handmatig bedienbare blogslider
-- about.html — over Kookgereigids, werkwijze en affiliate-uitleg
-- services.html — koopadvies en negen onderwerpen
-- portfolio.html — keuzehulp, vergelijkingstabel en aankoopchecklist
-- blog.html — drie blogkaarten en drie volledige korte artikelen
-- contact.html — contactformulier via je mailprogramma en uitleg over privacy
+## Lokaal werken
 
-Er is één gedeeld styles.css. Bovenaan staan de CSS-variabelen voor kleuren, lettertypen, afstanden en afrondingen. De vormgeving is gebaseerd op het aangeleverde MarketNest-design: Lora, Open Sans, terracotta, crème en bosgroen. Er zijn geen frameworks, externe bibliotheken of uitvoerbare JavaScript-bestanden. De script-elementen in de HTML bevatten uitsluitend schema.org JSON-LD-gegevens voor zoekmachines.
+```bash
+npm install
+npm run dev      # ontwikkelserver op http://localhost:4321
+npm run build    # bouwt de site naar dist/
+npm run preview  # bekijk de gebouwde site
+```
 
-## Bediening
-- Op kleine schermen opent het menu met het native HTML-element details.
-- De blogslider gebruikt horizontaal scrollen en CSS scroll-snap. De knoppen 01, 02 en 03 brengen je naar het bijbehorende verhaal. Hij start niet automatisch.
-- Veelgestelde vragen werken met details/summary.
-- De keuzehulp bevat lokale vinkvakjes. Ze worden niet verstuurd of opgeslagen door de site.
-- Het contactformulier gebruikt HTML5-validatie en mailto. De knop opent je eigen mailprogramma; de bezoeker verstuurt de e-mail zelf. Ondersteuning voor het overnemen van velden verschilt per browser en mailprogramma. Daarom staat er ook een rechtstreekse e-maillink. Er is geen formulierbackend en geen schijnbevestiging van verzending.
-- De sociale iconen zijn deelacties voor de domeinnaam; ze verwijzen niet naar verzonnen sociale profielen. Deelacties promoten de bestaande domeinnaam en niet dit lokale HTML-voorbeeld.
+Node.js 22.23 of nieuwer is nodig (zie `.node-version`).
 
-## Inhoud en scope
-Alle zichtbare teksten zijn ingevuld. Er staan geen fictieve producten, prijzen, testimonials, testuitslagen, auteursbiografieën of affiliate-bestemmingen in. De primaire route is ‘Vind jouw pan’: zonder geverifieerde producten of echte winkellinks is een werkelijke ‘Koop nu’-knop niet zinvol. Koopadvies en verwijzingen zijn volledig navigeerbaar binnen de zes pagina’s.
+## Mappen
 
-De nieuwe HTML-opdracht vraagt om uitgewerkte teksten; daarom bevat dit lokale ontwerp echte algemene teksten in plaats van de conceptmarkeringen uit de eerdere WordPress-opdracht. De oorspronkelijke WordPress-plannen en -instellingen zijn niet gewijzigd.
+- `src/pages/` — de pagina's. De bestandsnaam bepaalt de URL (`about.astro` → `/about/`).
+- `src/layouts/Base.astro` — gedeelde `<head>`, header en footer, canonical, Open Graph en JSON-LD.
+- `src/content/blog/` — blogartikelen als Markdown.
+- `src/components/` — blogkaart en homepage-slider (vullen zich automatisch met de nieuwste artikelen).
+- `public/` — bestanden die ongewijzigd worden meegeleverd: `styles.css`, foto's en lettertypen in `assets/`, `robots.txt`, `_redirects`.
 
-## Foto’s en lettertypen
-De opgegeven source.unsplash.com-dienst antwoordde tijdens de bouw met HTTP 503. De eigenaar heeft vaste, lokaal meegeleverde Unsplash-foto’s goedgekeurd.
+## Een blogartikel toevoegen
+
+Maak een nieuw bestand in `src/content/blog/`, bijvoorbeeld `koekenpan-kiezen.md`. De bestandsnaam wordt de URL: `/blog/koekenpan-kiezen/`.
+
+```markdown
+---
+title: "Welke koekenpan past bij jou?"
+description: "Korte samenvatting voor de blogkaart en zoekmachines."
+category: "Koekenpannen"
+image: "/assets/skillet.jpg"
+imageAlt: "Beschrijving van de foto"
+readingTime: 4
+pubDate: "2026-11-03"
+intro: "De openingsalinea, groot weergegeven boven het artikel."
+---
+
+### Tussenkop
+
+Tekst van het artikel in Markdown.
+```
+
+Optioneel: `tagWarm: true` (warme labelkleur), `updatedDate`, en `draft: true` om een artikel te verbergen. Artikelen met een `pubDate` in de toekomst verschijnen pas bij de eerste build op of na die datum.
+
+Een notitieblok maak je met HTML in het Markdown-bestand:
+
+```html
+<div class="notice"><h3>Titel</h3><p>Tekst met een <a href="/portfolio/">link</a>.</p></div>
+```
+
+De nieuwste drie artikelen verschijnen automatisch in de slider op de homepage; alle artikelen staan op `/blog/` en in de sitemap.
+
+## Foto's en lettertypen
+
 - cooking.jpg: Rick Barrett / Ambitious Studio — https://unsplash.com/photos/tXfAH4ixIKk
 - kitchen.jpg: Dane Deaner — https://unsplash.com/photos/d9qnD33cBJs
 - skillet.jpg: Max Griss — https://unsplash.com/photos/B3b8dsSfoqg
 - Fotolicentie: https://unsplash.com/license
-- Lettertypen: Lora en Open Sans, via Google Fonts; de OFL-licenties staan in assets.
-
-Foto’s zijn sfeerbeelden en illustreren geen eigen producttests. Elk img-element heeft beschrijvende alt-tekst, afmetingen en loading="lazy". Ook de lettertypen worden lokaal geladen.
-
-## SEO en vóór een eventuele publicatie
-Elke pagina heeft een eigen titel en beschrijving, lang="nl", semantische structuur, Open Graph-gegevens en JSON-LD. Alle interne pagina-, anker-, stylesheet- en assetlinks zijn relatief. Bronvermeldingen en sociale deelacties zijn externe links; e-mail gebruikt mailto.
-
-Voor publicatie: stel definitieve openbare URL’s en canonicals vast, maak Open Graph-afbeeldings-URL’s absoluut, controleer de definitieve inhoud en juridische gegevens, en sluit desgewenst een echte formulierbackend aan. Er is niets naar WordPress, staging of live geüpload.
+- Lettertypen: Lora en Open Sans (lokaal geladen); de OFL-licenties staan in `public/assets/`.

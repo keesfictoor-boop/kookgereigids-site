@@ -308,7 +308,7 @@ tr:last-child th, tr:last-child td { border-bottom: 0; }
 .article-aside .eyebrow { margin-bottom: 12px; }
 .article-aside nav a { display: block; padding: 10px 0; font-size: .8rem; text-decoration: none; }
 .article-body { min-width: 0; max-width: var(--width-reading); }
-.article-body h2 { font-size: clamp(2rem, 3.1vw, 2.8rem); margin: 16px 0 24px; }
+.article-body h1, .article-body h2 { font-size: clamp(2rem, 3.1vw, 2.8rem); letter-spacing: -.04em; margin: 16px 0 24px; }
 .article-body h3 { font-size: 1.45rem; margin: 32px 0 14px; }
 .article-body p, .article-body li { color: var(--color-muted); font-size: .96rem; }
 .article-body li + li { margin-top: 10px; }

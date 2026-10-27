@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import BlogCard from '../../components/BlogCard.astro';
+import { getPosts } from '../../lib/posts';
+const posts = await getPosts();
+const meta = {
+  "title": "Blog: pannen kiezen, inductie en een slimme basis | Kookgereigids",
+  "description": "Lees praktische artikelen over welke pannen je nodig hebt, hoe je inductiegeschiktheid controleert en wanneer een pannenset of losse pannen passen.",
+  "ogTitle": "Blog: pannen kiezen, inductie en een slimme basis",
+  "ogDescription": "Lees praktische artikelen over welke pannen je nodig hebt, hoe je inductiegeschiktheid controleert en wanneer een pannenset of losse pannen passen.",
+  "jsonLd": {
+    "@type": "Blog",
+    "name": "Blog: pannen kiezen, inductie en een slimme basis",
+    "description": "Lees praktische artikelen over welke pannen je nodig hebt, hoe je inductiegeschiktheid controleert en wanneer een pannenset of losse pannen passen.",
+    "inLanguage": "nl-NL",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Kookgereigids",
+      "url": "https://kookgereigids.nl/"
+    },
+    "publisher": {
+      "@id": "https://kookgereigids.nl/#organization"
+    }
+  }
+};
+---
+<Base {...meta} current="blog">
+<nav class="container breadcrumb" aria-label="Broodkruimelpad"><a href="/">Home</a><span aria-hidden="true">/</span><span aria-current="page">Blog</span></nav><section class="container"><div class="page-heading"><p class="eyebrow">Het keukenschrift</p><h1>Een beetje wijzer.<br><em>Een stuk lekkerder koken.</em></h1><p class="lead">Praktische verhalen over pannen kiezen, inductie en een slimme basis in je keuken. Geen ingewikkelde termen waar een heldere uitleg volstaat.</p></div><div class="blog-grid">{posts.map((post) => <BlogCard post={post} />)}</div></section>
+<section class="editorial-band section" id="bronnen"><div class="container split"><div class="flow"><p class="eyebrow">Open over onze bronnen</p><h2>Uitleg die je<br><em>kunt terugvinden.</em></h2><p class="muted">De technische uitleg over inductie verwijst naar openbare informatie van de fabrikant. De overige artikelen zijn praktische keuzehulpen, zonder productranglijst of eigen testresultaten.</p><ul class="source-list"><li><a href="https://www.bosch-home.com/us/owner-support/get-support/what-is-induction-cookware">Bosch: geschikt kookgerei voor inductie</a></li><li><a href="https://media3.bsh-group.com/Documents/9001906402_B.pdf">Bosch-gebruiksaanwijzing: bodemmateriaal en kookzonemaat (PDF, Engels)</a></li></ul><a class="text-link" href="/about/#werkwijze">Meer over onze werkwijze<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div><div class="flow"><h3>Fotografie met keukengevoel.</h3><p class="muted">De foto’s zijn sfeerbeelden. Ze tonen geen door ons geteste producten en zijn geen afbeeldingen van de maker van Kookgereigids.</p><ul class="source-list"><li><a href="https://unsplash.com/photos/a-frying-pan-on-a-stove-with-food-cooking-in-it-tXfAH4ixIKk">Pan op de kookplaat — Rick Barrett / Ambitious Studio, Unsplash</a></li><li><a href="https://unsplash.com/photos/cookware-set-on-floating-shelves-d9qnD33cBJs">Pannen op keukenplanken — Dane Deaner, Unsplash</a></li><li><a href="https://unsplash.com/photos/fried-chicken-on-black-frying-pan-B3b8dsSfoqg">Kip met kruiden — Max Griss, Unsplash</a></li></ul><p class="small muted">Gebruikt onder de <a href="https://unsplash.com/license">Unsplash-licentie</a>.</p></div></div></section><section class="closing-band"><div class="container closing-inner"><div><h2>Minder twijfelen. Meer lekker koken.</h2><p>Begin bij jouw kookgewoonten. De juiste pan volgt vanzelf.</p></div><a class="button button-light" href="/portfolio/">Ontdek jouw volgende pan<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></section>
+</Base>
