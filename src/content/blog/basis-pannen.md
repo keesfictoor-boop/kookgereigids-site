@@ -1,36 +1,99 @@
 ---
-title: "Welke pannen heb je écht nodig in een huishouden?"
-description: "Een fijn uitgeruste keuken hoeft geen volle keukenkast te betekenen. Begin met wat je vaak kookt en kies daarna pas je pannen."
-category: "Pannensets & kiezen"
+title: "Welke pannen heb je écht nodig? De basis voor elke keuken"
+description: "Met vier of vijf pannen kook je bijna alles. Welke pannen dat zijn, welke pan je waarvoor gebruikt en wat het verschil is tussen een koekenpan, hapjespan en wok."
+category: "Pannen kiezen"
 tagWarm: false
 image: "/assets/kitchen.jpg"
 imageAlt: "Kookpannen, steelpannen en koekenpannen op open houten keukenplanken"
-readingTime: 3
+readingTime: 6
 pubDate: "2026-10-26"
-intro: "Begin met wat je vaak kookt. Een verzameling pannen is pas handig als je voor elk exemplaar een duidelijke taak hebt."
+updatedDate: "2026-10-28"
+intro: "Voor de meeste huishoudens is dit genoeg: twee of drie kookpannen in verschillende maten, een steelpan en een goede koekenpan. Kook je graag oosters, zet dan een wok op je lijstje. Een braadpan of hapjespan is een fijne aanvulling, geen must."
 ---
 
-### Maak eerst een klein weekmenu
+Er bestaan tientallen soorten pannen. Sudderpannen, sauteuses, grillpannen, paellapannen, tajines... Maar hoeveel daarvan gebruik je echt? Bij ons in Haarlem wordt elke dag gekookt, met twee kinderen en twee fulltime banen. Dan wil je geen kast vol pannen waar je eerst drie andere voor moet verschuiven. Je wilt de juiste paar.
 
-Denk aan een gewone week, niet aan het feestmaal dat je misschien één keer per jaar maakt. Kook je vaak pasta, rijst of aardappelen? Bak je geregeld groenten, eieren of iets anders in een koekenpan? Schrijf die taken op en kijk welke pannen je daarvoor al gebruikt.
+## De basis: vier of vijf pannen
 
-Je hoeft geen vast aantal pannen te halen om een complete keuken te hebben. Voor jou kan een compacte basis voldoende zijn, terwijl iemand die veel tegelijk kookt juist meerdere kookpannen nodig heeft.
+Met deze pannen kook je vrijwel alles wat er doordeweeks op tafel komt.
 
-### Geef elke pan een eigen rol
+### 1. Twee of drie kookpannen
 
-- **De kookpan:** voor gerechten en ingrediënten die je in water of ander vocht bereidt. Kies de inhoud op basis van je gebruikelijke porties.
-- **De koekenpan:** voor bakken in een lage, open pan. Kijk naar de ruimte op de bodem, niet alleen naar de diameter bovenaan.
-- **De steelpan:** een mogelijke aanvulling voor kleinere hoeveelheden, een saus of een apart onderdeel van je maaltijd.
-- **De hapjes- of braadpan:** interessant als je geregeld gerechten maakt waarvoor je extra inhoud, een hogere rand of een deksel wilt.
+Het werkpaard van je keuken: voor pasta, aardappelen, rijst, groenten en soep. Kies verschillende maten, bijvoorbeeld 16, 20 en 24 cm. Dat zijn ook de maten die je in de meeste kookpannensets terugziet. Let op een **dikke bodem**, zodat rijst en saus minder snel aanbranden, en op een passend **deksel**.
 
-### Controleer de ruimte die je écht hebt
+### 2. Een steelpan
 
-Een grote pan klinkt prettig, maar moet ook op je kookplaat, in je gootsteen en in je kast passen. Bekijk daarom de buitenmaten, inclusief handgrepen. Let bij inductie bovendien op de bodemmaat en de aanwijzingen van de kookplaatfabrikant.
+Een kleine pan met één lange steel. Ideaal voor een saus, een beetje melk, een eitje of het opwarmen van een restje. Omdat je hem met één hand vasthoudt, giet je makkelijk uit.
 
-### Koop de aanvulling, niet de verdubbeling
+### 3. Een koekenpan
 
-Leg je bestaande pannen naast je lijstje. Wat ontbreekt er? En welk onderdeel van een nieuwe set zou vooral dubbel zijn? Zo wordt je keuze veel concreter.
+Voor alles wat je bakt: vlees, vis, eieren, groenten en pannenkoeken. Een koekenpan zit meestal **niet** in een kookpannenset, dus die koop je los. Dat is eigenlijk wel zo handig, want dan kies je zelf of je een antiaanbaklaag wilt of liever een pan zonder coating.
 
-Je pannenkast hoeft geen showroom te worden. Als jij er prettig mee kookt, doet hij zijn werk.
+### 4. Kook je graag oosters? Een wok
 
-<div class="notice"><h3>Jouw volgende stap</h3><p>Twijfel je tussen alles tegelijk kopen of één pan toevoegen? Lees <a href="/blog/set-of-los/">pannenset of losse pannen</a>, of maak je eigen overzicht met de <a href="/keuzehulp/">keuzehulp</a>.</p></div>
+Wij koken graag uit de wereldkeuken, en het liefst oosters. Dan hoort een wok er wat mij betreft gewoon bij. Door de hoge, schuine wanden schep je ingrediënten snel om op hoog vuur, en heb je veel ruimte voor een flinke portie groenten en noedels. Kook je op inductie, kies dan een wok met een **vlakke, magnetische bodem**.
+
+## Fijne aanvullingen (geen must)
+
+- **Hapjespan:** een soort koekenpan met een hogere, rechte rand en vaak een deksel. Voor gerechten met saus, groenten, risotto of een eenpansgerecht.
+- **Braadpan of stoofpan:** een zware pan, vaak van gietijzer of geëmailleerd gietijzer, die warmte lang vasthoudt. Ideaal voor stoofvlees, soep en gerechten die in de oven verder garen.
+- **Hoge soeppan:** handig als je in grote hoeveelheden kookt of soep invriest.
+
+## Welke pan gebruik je waarvoor?
+
+| Gerecht of taak | Beste pan | Waarom |
+|---|---|---|
+| Pasta, aardappelen, rijst | kookpan | ruim, met deksel, dikke bodem tegen aanbranden |
+| Saus, melk, een eitje | steelpan | klein, makkelijk uitgieten |
+| Vlees, vis, eieren bakken | koekenpan | lage rand, veel bakoppervlak |
+| Pannenkoeken | koekenpan (eventueel met antiaanbaklaag) | omdraaien zonder plakken |
+| Groenten met saus, risotto | hapjespan | hogere rand, vaak met deksel |
+| Roerbakken, noedels, curry | wok | hoge schuine wanden, snel omscheppen |
+| Stoofvlees, soep, ovengerecht | braadpan | houdt warmte vast, vaak ovenbestendig |
+
+## Koekenpan of hapjespan: wat is het verschil?
+
+Ze lijken op elkaar, maar ze doen iets anders.
+
+- Een **koekenpan** heeft een lage, vaak schuin oplopende rand. Daardoor kom je er makkelijk bij met een spatel en verdampt vocht snel: precies wat je wilt als je iets krokant wilt bakken.
+- Een **hapjespan** heeft een hogere, rechte rand en meestal een deksel. Daardoor past er meer in en spat er minder uit. Ideaal als je eerst iets aanbakt en het daarna laat sudderen in een saus.
+
+Vuistregel: **bakken = koekenpan, bakken én sudderen = hapjespan.** Heb je weinig ruimte? Dan kan een hapjespan met deksel een koekenpan voor een groot deel vervangen. Andersom lukt dat minder goed.
+
+## Koekenpan of wok?
+
+Twijfel je tussen die twee? Een koekenpan heeft een groot, vlak bakoppervlak: ideaal voor een biefstuk of drie eieren naast elkaar. Een wok heeft een kleinere bodem en hoge, schuine wanden: daardoor kun je op hoog vuur snel roerbakken en blijft alles in de pan. Maak je vooral Hollandse pot, dan heb je genoeg aan een koekenpan. Kook je regelmatig oosters, dan is een wok echt een aanwinst.
+
+## Hoe groot moet je pannen zijn?
+
+Dat hangt af van met hoeveel mensen je eet en van je kookplaat. Een paar aandachtspunten:
+
+- **Kookpannen:** kijk naar de inhoud in liters, niet alleen naar de diameter. Een hoge pan van 20 cm kan meer bevatten dan een lage van 24 cm.
+- **Koekenpan:** de maat op de doos gaat over de bovenrand. Het bakoppervlak op de bodem is kleiner, zeker bij een schuine rand.
+
+### Welke maat koekenpan heb je nodig?
+
+Demeyere/Zwilling geeft deze vuistregel, gemeten aan de bovenrand ([Zwilling](https://www.zwilling.com/nl/demeyere-5-plus-koekenpan-32-cm-40850-860-0/40850-860-0.html)):
+
+| Huishouden | Maat koekenpan |
+|---|---|
+| 1-2 personen | 20 cm |
+| 2-3 personen | 24 cm |
+| 3-4 personen | 28 cm |
+| 4 of meer personen | 30-32 cm |
+
+Coolblue rekent wat ruimer: 24 cm voor 1 à 2 personen en 28 cm of groter voor een volle tafel ([Coolblue](https://www.coolblue.nl/advies/koekenpan-kiezen.html)). Twijfel je, neem dan de grotere maat. Maar let op: een pan van 32 cm past niet altijd naast andere pannen op je kookplaat.
+- **Kookplaat:** een pan moet passen bij de kookzone. Bij inductie geldt een minimale bodemmaat, die in de handleiding van je kookplaat staat.
+
+## Set of losse pannen?
+
+Begin je helemaal opnieuw, dan is een **kookpannenset** vaak de makkelijkste en voordeligste manier om aan je kookpannen en steelpan te komen. De koekenpan en eventueel de wok koop je er los bij. Heb je al een paar goede pannen, vul dan alleen aan wat ontbreekt. Wanneer welke keuze goedkoper is, reken ik voor je uit in [pannenset of losse pannen](/blog/set-of-los/).
+
+## Kort samengevat
+
+- Basis: **2-3 kookpannen, een steelpan en een koekenpan**.
+- Kook je oosters: **een wok** erbij.
+- **Hapjespan en braadpan** zijn fijne aanvullingen.
+- Koop wat je mist, niet wat je al hebt.
+
+<div class="notice"><h3>Wat past bij jouw keuken?</h3><p>In de <a href="/keuzehulp/">keuzehulp</a> vul je in op welke kookplaat je kookt en wat je graag maakt. Kook je op inductie, lees dan ook <a href="/blog/pannen-inductie/">welke pannen geschikt zijn voor inductie</a>.</p></div>

@@ -1,14 +1,14 @@
 ---
 import Base from '../layouts/Base.astro';
 const meta = {
-  "title": "Keuzehulp: welke pan past bij jou? | Kookgereigids",
-  "description": "Kies kookgerei op basis van jouw kookplaat, gerechten en bestaande pannen. Vergelijk sets en losse pannen met een praktische aankoopchecklist.",
-  "ogTitle": "Keuzehulp: welke pan past bij jou?",
-  "ogDescription": "Kies kookgerei op basis van jouw kookplaat, gerechten en bestaande pannen. Vergelijk sets en losse pannen met een praktische aankoopchecklist.",
+  "title": "Keuzehulp: welke pannen passen bij jou? | Kookgereigids",
+  "description": "Beantwoord vier korte vragen over je kookplaat, je huishouden en wat je graag kookt, en ontdek welke pannen, materialen en maten bij jou passen.",
+  "ogTitle": "Keuzehulp: welke pannen passen bij jou?",
+  "ogDescription": "Beantwoord vier korte vragen over je kookplaat, je huishouden en wat je graag kookt, en ontdek welke pannen, materialen en maten bij jou passen.",
   "jsonLd": {
     "@type": "WebPage",
-    "name": "Keuzehulp: welke pan past bij jou?",
-    "description": "Kies kookgerei op basis van jouw kookplaat, gerechten en bestaande pannen. Vergelijk sets en losse pannen met een praktische aankoopchecklist.",
+    "name": "Keuzehulp: welke pannen passen bij jou?",
+    "description": "Beantwoord vier korte vragen over je kookplaat, je huishouden en wat je graag kookt, en ontdek welke pannen, materialen en maten bij jou passen.",
     "inLanguage": "nl-NL",
     "isPartOf": {
       "@type": "WebSite",
@@ -20,12 +20,138 @@ const meta = {
     }
   }
 };
+const arrow = '<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 ---
 <Base {...meta} current="keuzehulp">
-<nav class="container breadcrumb" aria-label="Broodkruimelpad"><a href="/">Home</a><span aria-hidden="true">/</span><span aria-current="page">Keuzehulp</span></nav><section class="container"><div class="page-heading centered"><p class="eyebrow">Jouw keuken is het uitgangspunt</p><h1>Welke pan past<br><em>bij jouw manier van koken?</em></h1><p class="lead">Een keuzehulp zonder lange vragenlijst. Kies de situatie die je herkent en ontdek welke volgende stap voor jou logisch is.</p></div><div class="route-grid"><a class="route-card" href="#begin"><svg class="icon icon-large" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 9h14v10a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2ZM3 10H1m18 0h3M4 6h16M10 6V3h4v3"/></svg><h2>Ik begin opnieuw.</h2><p>Je richt een keuken in of wilt weten wat er echt in je pannenkast hoort.</p><span class="text-link">Maak een slimme basis<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a><a class="route-card" href="#inductie-check"><svg class="icon icon-large" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M2 18c0-8 5-14 7-11s-2 12-5 10S9 3 12 6s-2 12-5 10S14 3 17 6s-2 12-5 10S20 3 22 6s-1 11-4 12"/></svg><h2>Ik stap over op inductie.</h2><p>Je wilt weten welke pannen mee kunnen en wat je eventueel moet vervangen.</p><span class="text-link">Controleer wat je al hebt<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a><a class="route-card" href="#dagelijks"><svg class="icon icon-large" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><ellipse cx="9" cy="14" rx="6" ry="4"/><path d="m15 13 7-7M5 8c-2-2 2-3 0-5M10 7c-2-2 2-3 0-5"/></svg><h2>Ik mis één goede pan.</h2><p>De rest is prima. Je zoekt een aanvulling voor een gerecht dat je graag maakt.</p><span class="text-link">Vind het ontbrekende stuk<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a></div></section>
-<section class="section container"><div class="decision-block" id="begin"><span class="decision-number">01</span><div class="decision-body"><p class="eyebrow">Een eerste of nieuwe basis</p><h2>Begin bij je weekmenu,<br>niet bij een volle doos.</h2><p>Schrijf een paar gerechten op die je regelmatig maakt. Voor pasta of aardappelen denk je aan een kookpan; voor bakken aan een koekenpan. Maak je vaak soep of een gerecht met veel saus, bekijk dan of een ruimere pan of hapjespan iets toevoegt.</p><div class="two-notes"><div class="note-card"><h3>Een set kan passen als…</h3><p>je meerdere pannen nodig hebt én de meegeleverde maten bij je gerechten passen. Tel de bruikbare pannen; deksels kunnen als apart onderdeel meetellen.</p></div><div class="note-card"><h3>Los kopen kan passen als…</h3><p>je al een paar fijne pannen hebt, verschillende materialen wilt kiezen of liever één ontbrekende maat aanvult.</p></div></div><a class="text-link" href="/blog/basis-pannen/">Lees welke pannen je echt nodig hebt<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></div>
-<div class="decision-block" id="inductie-check"><span class="decision-number">02</span><div class="decision-body"><p class="eyebrow">Van je oude kookplaat naar inductie</p><h2>Controleer eerst.<br>Vervang daarna pas.</h2><p>Zoek de inductieaanduiding of productinformatie op. Een magneet die aan de bodem blijft hangen geeft een aanwijzing dat de bodem geschikt materiaal bevat. Controleer daarnaast of de bodemmaat past bij de eisen van jouw kookplaat.</p><ul class="checklist"><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span>Zoek de handleiding van je pan en kookplaat erbij.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span>Controleer de bodem op magnetisch materiaal.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span>Vergelijk de bodemdiameter met de toegestane kookzones.</span></li></ul><a class="text-link" href="/blog/pannen-inductie/">Bekijk de volledige inductiecheck<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></div>
-<div class="decision-block" id="dagelijks"><span class="decision-number">03</span><div class="decision-body"><p class="eyebrow">Een gerichte aanvulling</p><h2>Geef je nieuwe pan<br>een duidelijke taak.</h2><p>Vraag jezelf af wat je huidige pannen niet goed kunnen opvangen. Bak je in meerdere rondes omdat de bakruimte klein is? Mist er een passende deksel? Wil je een pan die volgens de fabrikant ook in de oven mag? Maak die wens concreet.</p><p>Vergelijk vervolgens binnen die taak. Een koekenpan, hapjespan en braadpan hebben elk hun eigen vorm en gebruik. De naam alleen vertelt nog niet of de afmetingen, het gewicht en de onderhoudsinstructies bij jou passen.</p><a class="text-link" href="/koopadvies/">Bekijk de verschillende soorten pannen<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></div></section>
-<section class="editorial-band section" id="vergelijken"><div class="container"><div class="section-heading"><div><p class="eyebrow">Naast elkaar wordt het duidelijk</p><h2>Vergelijk wat je gebruikt.<br><em>Niet alleen wat je betaalt.</em></h2></div><p class="lead">Neem deze punten mee wanneer je twee pannen of pannensets bekijkt.</p></div><div class="table-wrap" tabindex="0" role="region" aria-label="Vergelijkingstabel, horizontaal scrollbaar op kleine schermen"><table><caption>Jouw vergelijkkaart voor pannen</caption><thead><tr><th scope="col">Vergelijkpunt</th><th scope="col">Wat controleer je?</th><th scope="col">Vraag aan jezelf</th></tr></thead><tbody><tr><th scope="row">Warmtebron</th><td>Geschiktheid voor jouw kookplaat en de vereiste bodemmaat.</td><td>Werkt deze uitvoering op mijn kookzone?</td></tr><tr><th scope="row">Materiaal &amp; coating</th><td>De exacte materiaalopbouw en gebruiksinstructies.</td><td>Past het gebruik en onderhoud bij mij?</td></tr><tr><th scope="row">Formaat</th><td>Bodemdiameter, inhoud, hoogte en bruikbare bakruimte.</td><td>Kan mijn gebruikelijke maaltijd hierin?</td></tr><tr><th scope="row">Gewicht &amp; greep</th><td>Gewicht, type handgreep en beschikbare houvast.</td><td>Kan ik deze pan prettig hanteren?</td></tr><tr><th scope="row">Samenstelling van een set</th><td>De losse pannen, deksels en accessoires die je ontvangt.</td><td>Gebruik ik elk onderdeel?</td></tr><tr><th scope="row">Totale aankoop</th><td>Actuele prijs, bezorgkosten en retourvoorwaarden.</td><td>Vergelijk ik echt dezelfde uitvoering?</td></tr></tbody></table></div><p class="image-note">Op mobiel kun je de tabel horizontaal verschuiven. Met het toetsenbord: focus de tabel en gebruik de pijltjestoetsen.</p></div></section>
-<section class="section container" id="laatste-check"><div class="split"><div class="flow"><p class="eyebrow">Klaar om te kiezen?</p><h2>Vijf vinkjes.<br><em>Dan verder kijken.</em></h2><p class="lead">Gebruik dit lijstje voor jezelf. Je keuzes blijven op deze pagina en worden nergens verstuurd.</p><a class="button" href="/koopadvies/">Terug naar het koopadvies<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div><fieldset class="purchase-check"><legend class="sr-only">Checklist voor je aankoop</legend><label><input type="checkbox" name="check-1"><span>Ik weet welke pan of maat ik mis.</span></label><label><input type="checkbox" name="check-2"><span>Ik heb de geschiktheid voor mijn kookplaat gecontroleerd.</span></label><label><input type="checkbox" name="check-3"><span>Ik heb de gebruiks- en onderhoudsinstructies gelezen.</span></label><label><input type="checkbox" name="check-4"><span>Ik heb de uitvoering en meegeleverde onderdelen bekeken.</span></label><label><input type="checkbox" name="check-5"><span>Ik ken de totaalprijs en retourvoorwaarden van de winkel.</span></label></fieldset></div></section><section class="closing-band"><div class="container closing-inner"><div><h2>Je hoeft het niet allemaal tegelijk te weten.</h2><p>Kies één vraag. Begin met één gids.</p></div><a class="button button-light" href="/keuzehulp/">Ontdek jouw volgende pan<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></section>
+<nav class="container breadcrumb" aria-label="Broodkruimelpad"><a href="/">Home</a><span aria-hidden="true">/</span><span aria-current="page">Keuzehulp</span></nav>
+<section class="container"><div class="page-heading centered"><p class="eyebrow">Keuzehulp</p><h1>Welke pannen passen<br><em>bij jouw manier van koken?</em></h1><p class="lead">Vier vragen, een minuut werk. Daarna weet je welke pannen je nodig hebt, welk materiaal bij je past en waar je op moet letten bij jouw kookplaat. Je antwoorden blijven in je eigen browser.</p></div>
+
+<form class="chooser" id="keuzehulp" novalidate>
+<fieldset class="chooser-question"><legend><span class="number">01</span> Op welke kookplaat kook je?</legend>
+<label><input type="radio" name="plaat" value="inductie" required><span>Inductie</span></label>
+<label><input type="radio" name="plaat" value="gas"><span>Gas</span></label>
+<label><input type="radio" name="plaat" value="keramisch"><span>Keramisch of elektrisch</span></label>
+<label><input type="radio" name="plaat" value="overstap"><span>Ik stap binnenkort over op inductie</span></label>
+</fieldset>
+<fieldset class="chooser-question"><legend><span class="number">02</span> Wat heb je nu in de kast?</legend>
+<label><input type="radio" name="kast" value="niets" required><span>(Bijna) niets: ik begin opnieuw</span></label>
+<label><input type="radio" name="kast" value="aanvullen"><span>Een paar goede pannen, maar ik mis iets</span></label>
+<label><input type="radio" name="kast" value="versleten"><span>Genoeg pannen, maar ze zijn aan vervanging toe</span></label>
+</fieldset>
+<fieldset class="chooser-question"><legend><span class="number">03</span> Wat kook je het vaakst? <small>Meerdere antwoorden mogelijk</small></legend>
+<label><input type="checkbox" name="koken" value="koken"><span>Pasta, aardappelen, rijst of groenten koken</span></label>
+<label><input type="checkbox" name="koken" value="bakken"><span>Bakken: vlees, vis, eieren of pannenkoeken</span></label>
+<label><input type="checkbox" name="koken" value="oosters"><span>Oosters: roerbakken, curry’s, noedels</span></label>
+<label><input type="checkbox" name="koken" value="stoven"><span>Stoven, soep en sauzen</span></label>
+</fieldset>
+<fieldset class="chooser-question"><legend><span class="number">04</span> Hoe sta je tegenover een antiaanbaklaag?</legend>
+<label><input type="radio" name="coating" value="zonder" required><span>Liever zonder: geen coating, geen PFAS-zorgen</span></label>
+<label><input type="radio" name="coating" value="met"><span>Prima, ik wil makkelijk bakken zonder aanbakken</span></label>
+<label><input type="radio" name="coating" value="geen"><span>Geen idee, help me kiezen</span></label>
+</fieldset>
+<div class="chooser-actions"><button class="button" type="submit">Toon mijn advies<Fragment set:html={arrow} /></button><p class="form-help" id="keuzehulp-melding" role="status"></p></div>
+</form>
+<div class="chooser-result" id="advies" aria-live="polite" hidden></div>
+</section>
+
+<section class="section container"><div class="section-heading"><div><p class="eyebrow">Liever lezen dan klikken?</p><h2>Drie situaties,<br><em>drie routes.</em></h2></div><p class="lead">Hieronder staat hetzelfde advies als in de keuzehulp, maar dan uitgeschreven. Kies de situatie die je herkent.</p></div>
+<div class="route-grid"><a class="route-card" href="#begin"><svg class="icon icon-large" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 9h14v10a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2ZM3 10H1m18 0h3M4 6h16M10 6V3h4v3"/></svg><h2>Ik begin opnieuw.</h2><p>Een nieuwe keuken, je eerste eigen huis of al je pannen zijn op.</p><span class="text-link">Stel een basis samen<Fragment set:html={arrow} /></span></a><a class="route-card" href="#inductie-check"><svg class="icon icon-large" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M2 18c0-8 5-14 7-11s-2 12-5 10S9 3 12 6s-2 12-5 10S14 3 17 6s-2 12-5 10S20 3 22 6s-1 11-4 12"/></svg><h2>Ik stap over op inductie.</h2><p>Welke van je huidige pannen kunnen mee, en welke niet?</p><span class="text-link">Doe de inductiecheck<Fragment set:html={arrow} /></span></a><a class="route-card" href="#aanvullen"><svg class="icon icon-large" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><ellipse cx="9" cy="14" rx="6" ry="4"/><path d="m15 13 7-7M5 8c-2-2 2-3 0-5M10 7c-2-2 2-3 0-5"/></svg><h2>Ik mis één goede pan.</h2><p>De rest is prima. Je zoekt de juiste pan voor een gerecht dat je vaak maakt.</p><span class="text-link">Vind de pan voor de taak<Fragment set:html={arrow} /></span></a></div></section>
+
+<section class="section container"><div class="decision-block" id="begin"><span class="decision-number">01</span><div class="decision-body"><p class="eyebrow">Een nieuwe basis</p><h2>Vier of vijf pannen<br>dekken bijna alles.</h2><p>Voor de meeste huishoudens is dit genoeg om elke dag te koken:</p><ul class="checklist"><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>Twee of drie kookpannen</strong> in oplopende maten, bijvoorbeeld 16, 20 en 24 cm, met deksels. Voor pasta, aardappelen, rijst, groenten en soep.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>Een steelpan</strong> voor saus, melk of een eitje.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>Een koekenpan</strong> om te bakken. Die zit meestal niet in een kookpannenset, dus die koop je los.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>Kook je graag oosters?</strong> Zet dan een wok op je lijstje. Wij koken graag oosters, dus bij ons hoort hij er gewoon bij.</span></li></ul><p>Een <strong>RVS-pannenset met een dikke (sandwich)bodem</strong> is voor dagelijks koken de meest degelijke basis: RVS gaat lang mee en heeft geen antiaanbaklaag die kan slijten. Tel bij het vergelijken het aantal <em>pannen</em>, niet het aantal ‘delen’ op de doos. Een ‘10-delige’ set kan gewoon 5 pannen met 5 deksels zijn.</p><div class="two-notes"><div class="note-card"><h3>Een set past als…</h3><p>je in één keer meerdere pannen nodig hebt en je de maten uit de set ook echt gebruikt. Dan ben je vaak goedkoper uit dan met losse pannen.</p></div><div class="note-card"><h3>Los kopen past als…</h3><p>je al een paar goede pannen hebt, of per pan een ander materiaal wilt: bijvoorbeeld RVS-kookpannen en een koekenpan met de coating die jij fijn vindt.</p></div></div><a class="text-link" href="/blog/basis-pannen/">Welke pannen heb je echt nodig?<Fragment set:html={arrow} /></a> <a class="text-link" href="/blog/set-of-los/">Pannenset of losse pannen?<Fragment set:html={arrow} /></a></div></div>
+
+<div class="decision-block" id="inductie-check"><span class="decision-number">02</span><div class="decision-body"><p class="eyebrow">Overstappen op inductie</p><h2>Eerst controleren.<br>Dan pas vervangen.</h2><p>Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom werkt een pan alleen als de bodem magnetisch is. Je hoeft dus niet blind al je pannen te vervangen: test eerst wat je hebt.</p><ul class="checklist"><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>Zoek het spiraalsymbool</strong> op de bodem of verpakking. Staat het er, dan is de pan gemaakt voor inductie.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>Doe de magneettest.</strong> Blijft een koelkastmagneet stevig aan de hele bodem plakken, dan werkt de pan. Laat hij los of plakt hij maar een beetje, dan werkt de pan niet of minder goed.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>RVS is niet altijd magnetisch.</strong> RVS 18/10 is van zichzelf meestal niet magnetisch; zo’n pan werkt alleen met een magnetische bodem.</span></li><li><svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12 4 4L19 6"/></svg><span><strong>Kijk naar de bodemmaat.</strong> De maat op de doos gaat over de bovenrand. De bodem is kleiner, en elke kookzone heeft een minimale panmaat. Die staat in de handleiding van je kookplaat.</span></li></ul><p><strong>Goed nieuws andersom:</strong> pannen die op inductie werken, kun je bijna altijd ook op gas of keramisch gebruiken. Kijk voor de zekerheid welke warmtebronnen de fabrikant opgeeft.</p><a class="text-link" href="/blog/pannen-inductie/">Alles over pannen voor inductie<Fragment set:html={arrow} /></a></div></div>
+
+<div class="decision-block" id="aanvullen"><span class="decision-number">03</span><div class="decision-body"><p class="eyebrow">Eén pan erbij</p><h2>Geef je nieuwe pan<br>een duidelijke taak.</h2><p>De vraag is niet ‘welke pan is de beste?’, maar ‘wat lukt nu niet goed?’. Bak je in drie rondes omdat je koekenpan te klein is? Brandt je saus steeds aan? Glijden je groenten uit de pan bij het omscheppen? Dan weet je welke pan je zoekt.</p><div class="table-wrap" tabindex="0" role="region" aria-label="Tabel: welke pan voor welke taak, horizontaal scrollbaar op kleine schermen"><table><caption>Welke pan voor welke taak?</caption><thead><tr><th scope="col">Je wilt…</th><th scope="col">Kies</th><th scope="col">Let op</th></tr></thead><tbody><tr><th scope="row">vlees, vis of eieren bakken</th><td>koekenpan</td><td>de bakruimte op de bodem, en of je een coating wilt</td></tr><tr><th scope="row">groenten met saus, een risotto of iets met deksel</th><td>hapjespan</td><td>een hogere rand dan een koekenpan, vaak met deksel</td></tr><tr><th scope="row">roerbakken en oosterse gerechten</th><td>wok</td><td>op inductie een wok met vlakke, magnetische bodem</td></tr><tr><th scope="row">stoven, sudderen, een stoofpot in de oven</th><td>braadpan of stoofpan van gietijzer of emaille</td><td>houdt warmte goed vast, maar is zwaar</td></tr><tr><th scope="row">saus, melk of een klein portie</th><td>steelpan</td><td>een dikke bodem tegen aanbranden</td></tr><tr><th scope="row">soep of pasta voor een groot gezin</th><td>hoge kookpan of soeppan</td><td>de inhoud in liters, niet alleen de diameter</td></tr></tbody></table></div><a class="text-link" href="/koopadvies/">Bekijk het koopadvies per soort pan<Fragment set:html={arrow} /></a></div></div></section>
+
+<section class="editorial-band section" id="materialen"><div class="container"><div class="section-heading"><div><p class="eyebrow">Materiaal kiezen</p><h2>Welk materiaal<br><em>past bij jou?</em></h2></div><p class="lead">Het materiaal bepaalt hoe een pan kookt, hoe lang hij meegaat en hoeveel onderhoud hij vraagt.</p></div><div class="table-wrap" tabindex="0" role="region" aria-label="Materiaaltabel, horizontaal scrollbaar op kleine schermen"><table><caption>Pannenmaterialen in het kort</caption><thead><tr><th scope="col">Materiaal</th><th scope="col">Sterk in</th><th scope="col">Let op</th><th scope="col">Inductie</th></tr></thead><tbody><tr><th scope="row">RVS met sandwichbodem</th><td>dagelijks koken, gaat lang mee, vaak vaatwasserbestendig</td><td>eten kan aanbakken zonder vet of als de pan niet goed is voorverwarmd</td><td>ja, als de bodem magnetisch is</td></tr><tr><th scope="row">Aluminium met antiaanbaklaag</th><td>licht, snel warm, makkelijk bakken</td><td>de coating slijt; de klassieke laag (PTFE) valt onder PFAS</td><td>alleen met inductiebodem</td></tr><tr><th scope="row">Keramische antiaanbaklaag</th><td>bakken met weinig vet, meestal zonder PFAS</td><td>de antiaanbakwerking gaat sneller achteruit dan bij PTFE</td><td>alleen met inductiebodem</td></tr><tr><th scope="row">Gietijzer en emaille</th><td>warmte vasthouden, stoven en sudderen</td><td>zwaar; emaille kan beschadigen bij een klap</td><td>ja</td></tr></tbody></table></div><p class="image-note">Bronnen: <a href="https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen">Consumentenbond</a> (inductie), <a href="https://doi.org/10.1007/s11998-022-00611-3">Rossi e.a., 2022</a> (keramische coatings), <a href="https://doi.org/10.1021/acs.est.1c06896">Wang e.a., 2021</a> (PTFE als PFAS). Over gezondheid en coatings lees je meer in het <a href="/koopadvies/#materialen">koopadvies over materialen</a>.</p></div></section>
+<section class="closing-band"><div class="container closing-inner"><div><h2>Twijfel je nog?</h2><p>Mail me je situatie: je kookplaat, wat je kookt en wat je al hebt. Ik denk graag mee.</p></div><a class="button button-light" href="/contact/">Stel je vraag<Fragment set:html={arrow} /></a></div></section>
+
+<script>
+  const form = document.getElementById('keuzehulp') as HTMLFormElement;
+  const out = document.getElementById('advies') as HTMLDivElement;
+  const melding = document.getElementById('keuzehulp-melding') as HTMLParagraphElement;
+  const link = (href: string, tekst: string) => `<a href="${href}">${tekst}</a>`;
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const data = new FormData(form);
+    const plaat = data.get('plaat') as string | null;
+    const kast = data.get('kast') as string | null;
+    const coating = data.get('coating') as string | null;
+    const koken = data.getAll('koken') as string[];
+    if (!plaat || !kast || !coating) {
+      melding.textContent = 'Beantwoord vraag 1, 2 en 4 om je advies te zien.';
+      return;
+    }
+    melding.textContent = '';
+    const blokken: { titel: string; tekst: string }[] = [];
+    const inductie = plaat === 'inductie' || plaat === 'overstap';
+
+    if (kast === 'niets' || kast === 'versleten') {
+      blokken.push({
+        titel: 'Begin met een basis van vier of vijf pannen',
+        tekst: `Twee of drie kookpannen met deksel (bijvoorbeeld 16, 20 en 24 cm), een steelpan en een losse koekenpan. Een RVS-set met een dikke bodem is daarvoor de degelijkste keuze; tel de pannen, niet de ‘delen’. Lees ook ${link('/blog/set-of-los/', 'pannenset of losse pannen')}.`,
+      });
+    } else {
+      blokken.push({
+        titel: 'Vul gericht aan',
+        tekst: `Je hebt geen hele set nodig. Bedenk wat er nu niet goed lukt en koop één pan voor die taak. De tabel ‘${link('#aanvullen', 'welke pan voor welke taak')}’ helpt je kiezen.`,
+      });
+    }
+
+    if (inductie) {
+      blokken.push({
+        titel: plaat === 'overstap' ? 'Test je pannen vóór je overstapt' : 'Kies pannen met een magnetische bodem',
+        tekst: `Zoek het spiraalsymbool of doe de magneettest: blijft een magneet stevig aan de hele bodem plakken, dan werkt de pan op inductie. RVS 18/10 alleen is niet genoeg; de bodem moet magnetisch zijn. ${plaat === 'overstap' ? 'Vervang alleen de pannen die zakken voor de test. ' : ''}Meer in ${link('/blog/pannen-inductie/', 'pannen voor inductie')}.`,
+      });
+    } else if (plaat === 'gas') {
+      blokken.push({
+        titel: 'Op gas werkt bijna elke pan',
+        tekst: 'Let vooral op een vlakke, stevige bodem en grepen die niet te dicht bij de vlam komen. Denk je over een paar jaar aan inductie? Kies dan nu al pannen met een inductiebodem, dan kunnen ze mee.',
+      });
+    } else {
+      blokken.push({
+        titel: 'Op keramisch telt een vlakke bodem',
+        tekst: 'Een keramische of elektrische plaat geeft de warmte door via contact. Een bolle of kromgetrokken bodem kookt daardoor ongelijk. Kies een pan met een dikke, vlakke bodem, en eventueel al met een inductiebodem voor later.',
+      });
+    }
+
+    if (koken.includes('bakken')) {
+      const tekst = coating === 'met'
+        ? 'Een koekenpan met antiaanbaklaag bakt het makkelijkst. Keramische lagen zijn meestal zonder PFAS, maar slijten sneller. Verhit een lege antiaanbakpan nooit op hoog vuur, en vervang de pan als de laag beschadigd is.'
+        : 'Een koekenpan van RVS, plaatstaal of gietijzer heeft geen coating en gaat lang mee. Verwarm hem goed voor en gebruik wat vet, dan bak je zonder aanbakken. Wil je toch een antiaanbaklaag voor eieren en pannenkoeken, dan kun je die als tweede pan nemen.';
+      blokken.push({ titel: 'Voor het bakwerk: een goede koekenpan', tekst });
+    }
+    if (koken.includes('oosters')) {
+      blokken.push({
+        titel: 'Voor oosters koken: een wok',
+        tekst: `Een wok heeft hoge, schuine wanden: daardoor kun je ingrediënten snel omscheppen op hoog vuur. ${inductie ? 'Op inductie heb je een wok met een vlakke, magnetische bodem nodig; een ronde wok werkt daar niet.' : 'Op gas kun je ook een wok met ronde bodem gebruiken, met een wokring.'} Liefhebber van roerbakken? Wij ook.`,
+      });
+    }
+    if (koken.includes('stoven')) {
+      blokken.push({
+        titel: 'Voor stoven en soep: een braadpan of hoge kookpan',
+        tekst: 'Een braadpan van gietijzer of geëmailleerd gietijzer houdt de warmte lang vast, ideaal om te sudderen en vaak ook geschikt voor de oven. Hij is wel zwaar. Voor soep en saus volstaat een hoge kookpan met dikke bodem.',
+      });
+    }
+    if (koken.includes('koken') && kast === 'aanvullen') {
+      blokken.push({
+        titel: 'Voor koken: kijk naar inhoud en deksel',
+        tekst: 'Mis je een kookpan, kies dan op inhoud (liters) en zorg dat er een passend deksel bij zit. Een dikke bodem voorkomt aanbranden bij rijst en saus.',
+      });
+    }
+
+    if (coating === 'zonder') {
+      blokken.push({ titel: 'Zonder coating', tekst: 'RVS, gietijzer, plaatstaal en emaille hebben geen antiaanbaklaag en dus geen PFAS-coating. Ze gaan bovendien lang mee.' });
+    } else if (coating === 'geen') {
+      blokken.push({ titel: 'Coating of niet?', tekst: 'Een handige vuistregel: kookpannen zonder coating (RVS), en alleen voor het bakwerk eventueel een koekenpan met antiaanbaklaag. Zo combineer je gemak met pannen die lang meegaan.' });
+    }
+
+    out.innerHTML = `<p class="eyebrow">Jouw advies</p><h2>Dit past bij jouw keuken.</h2><ol class="chooser-list">${blokken
+      .map((b) => `<li><h3>${b.titel}</h3><p>${b.tekst}</p></li>`)
+      .join('')}</ol><p class="small muted">Dit is algemeen advies op basis van je antwoorden. Controleer bij een aankoop altijd de warmtebronnen en maten die de fabrikant opgeeft.</p>`;
+    out.hidden = false;
+    out.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+</script>
 </Base>

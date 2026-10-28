@@ -1,39 +1,85 @@
 ---
-title: "Een pannenset of losse pannen: wat past bij jou?"
-description: "Alles in één keer kopen of je verzameling rustig opbouwen? Kijk eerst wat je mist, voordat je een hele set in huis haalt."
+title: "Pannenset of losse pannen: wat is goedkoper en wat past bij jou?"
+description: "Ik heb drie bekende pannensets naast dezelfde pannen los gelegd. De uitkomst: een set is flink goedkoper, mits je alle pannen gebruikt. Zo maak je de keuze."
 category: "Slim kiezen"
 tagWarm: true
 image: "/assets/skillet.jpg"
 imageAlt: "Krokant gebakken kip met groene kruiden, geserveerd in een donkere schaal"
-readingTime: 3
+readingTime: 6
 pubDate: "2026-10-26"
-intro: "Een pannenset past vooral als je meerdere onderdelen nodig hebt. Losse pannen zijn logisch wanneer je gericht wilt aanvullen of per taak een ander materiaal wilt kiezen."
+updatedDate: "2026-10-28"
+intro: "In mijn vergelijking van drie bekende sets was een pannenset 18 tot 30% goedkoper dan dezelfde pannen los. Dat voordeel heb je alleen als je alle pannen uit de set ook echt gebruikt. Heb je al een paar goede pannen, dan is gericht los aanvullen slimmer."
 ---
 
-### Wanneer een pannenset handig kan zijn
+Het is een van de eerste vragen als je nieuwe pannen zoekt: koop ik een complete set, of stel ik zelf iets samen? Het antwoord hangt af van twee dingen. Wat kost het? En wat gebruik je echt? Voor het eerste heb ik de rekenmachine erbij gepakt.
 
-Je begint in een nieuwe keuken of vervangt meerdere pannen tegelijk. Dan kan het prettig zijn om in één keer passende maten bij elkaar te zoeken. Kijk wel naar de werkelijke inhoud van de set: worden deksels en accessoires meegeteld als losse onderdelen?
+## Wat is goedkoper: een set of losse pannen?
 
-Een set met veel onderdelen is niet automatisch vollediger voor jouw manier van koken. Een pan die je niet gebruikt, neemt vooral kastruimte in.
+Ik heb op 28 oktober 2026 drie bekende RVS-sets vergeleken met precies dezelfde pannen, los gekocht. Waar het kon bij dezelfde winkel en dezelfde verkoper, zodat het een eerlijke vergelijking is.
 
-### Wanneer je beter per pan kunt kijken
+### Demeyere Classico 3, 5-delig: set 30% goedkoper
 
-Heb je al goede kookpannen, maar ontbreekt er een fijne koekenpan? Dan is vergelijken per onderdeel een duidelijke route. Je kunt ook per gerecht nadenken over materiaal en afwerking, in plaats van alles uit dezelfde serie te kiezen.
+Dit is de zuiverste vergelijking. De set en alle losse pannen worden op bol.com verkocht door Demeyere-Zwilling zelf, en alles was op voorraad.
 
-Bij losse aankopen kun je stap voor stap aanvullen. Houd wel bij welke maten en deksels je al hebt, zodat je geen onhandige dubbelingen maakt.
+| Pan | Los |
+|---|---|
+| Kookpan 16 cm met deksel | €45,00 |
+| Kookpan 18 cm met deksel | €55,00 |
+| Kookpan 20 cm met deksel | €65,00 |
+| Kookpan 24 cm met deksel | €75,00 |
+| Steelpan 16 cm | €45,00 |
+| **Totaal los** | **€285,00** |
+| **Set van 5** ([bol.com](https://www.bol.com/nl/nl/p/demeyere-classico-3-kookpannenset-5-delig/9300000074934414/)) | **€198,90** |
 
-### Maak een eerlijke vergelijking
+Met de set bespaar je **€86,10, ruim 30%**.
 
-1. Noteer de pannen die je daadwerkelijk nodig hebt.
-2. Schrijf bij een set de maten, inhoud en meegeleverde deksels op.
-3. Zoek bij losse pannen een vergelijkbare uitvoering en maat.
-4. Vergelijk de actuele totaalbedragen, inclusief bezorgkosten.
-5. Bekijk de retourvoorwaarden en garantie-informatie van de verkoper.
+### BK Profiline, 5-delig: los niet eens compleet te krijgen
 
-Zo voorkom je dat je een kleinere set vergelijkt met grotere losse pannen, of dat een aantrekkelijk totaalbedrag je afleidt van de onderdelen die je echt gebruikt.
+Bij BK’s eigen webshop kost de set €249,90. Vier van de vijf pannen los kosten daar samen al €250,60, en de kookpan van 18 cm kon ik nergens los vinden: niet bij bk.nl, bol.com, Coolblue of BCC. Reken je die 18 cm-pan met de laatst bekende prijs van €54 mee, dan kom je los op ongeveer €305: de set is zo’n **18% goedkoper**.
 
-### En hoe zit het met een RVS-pannenset?
+Op bol.com stond dezelfde set op die dag voor €134,00. Dan is het verschil nog groter. Zo’n prijs is vaak een actie, dus vergelijk zelf even de actuele prijzen.
 
-Ook bij RVS blijven dezelfde vragen belangrijk. Welke maten krijg je, past de bodem bij je kookplaat en wat schrijft de fabrikant voor over onderhoud? De materiaalnaam is het begin van je vergelijking, niet het hele antwoord.
+### Tefal Duetto+, 4-delig: twee losse pannen al duurder dan de set
 
-<div class="notice"><h3>Houd je eigen lijstje leidend</h3><p>Gebruik de <a href="/keuzehulp/#vergelijken">vergelijkkaart</a> om twee opties naast elkaar te leggen. Je hoeft geen complete set te kopen om een complete maaltijd te maken.</p></div>
+De set kostte €72,99 op bol.com. Alleen de kookpannen van 20 en 24 cm waren los te vinden, samen voor €88,98. Dat is dus al **€16 meer dan de hele set**, en dan mis je nog twee pannen.
+
+### De uitkomst
+
+In alle drie de gevallen was de **set duidelijk goedkoper** dan dezelfde pannen los. Maar die korting is alleen een voordeel als je elke pan uit de set gebruikt. Een pan van €45 die in de kast blijft staan, is geen €45 bespaard.
+
+## Wanneer kies je een set?
+
+- Je **begint opnieuw**: een nieuwe keuken, je eerste eigen huis, of al je pannen zijn op.
+- Je **stapt over op inductie** en je oude pannen werken niet meer.
+- De **maten in de set passen** bij hoe en voor hoeveel mensen je kookt.
+
+Een kookpannenset bevat meestal kookpannen in oplopende maten (16, 20, 24 cm) en vaak een steelpan. Een koekenpan zit er meestal niet bij. Die koop je los, en dan kies je meteen zelf of je een antiaanbaklaag wilt.
+
+## Wanneer koop je los?
+
+- Je hebt al een paar **goede pannen** en mist er maar één of twee.
+- Je wilt **per pan een ander materiaal**: bijvoorbeeld RVS-kookpannen, een gietijzeren braadpan en een wok van plaatstaal. Kook je, net als wij, graag oosters? Dan is zo’n mix vaak logischer dan alles uit één serie.
+- De set bevat **maten die je niet gebruikt**. Kook je voor twee, dan heb je misschien niets aan een soeppan van 24 cm.
+
+## Let op: ‘delig’ betekent niet hetzelfde
+
+Op de doos staat ‘5-delig’ of ‘10-delig’, maar daar is geen vaste regel voor. Bij BK, Demeyere en WMF betekent ‘5-delig’ vijf pannen (met deksels). Een Tefal Duetto+-set met vijf pannen en vijf deksels heet op bol.com ‘10 stuks’. En de GreenPan Mayflower ‘9-delig’ bestaat uit vier pannen, één deksel en vier accessoires. **Tel dus altijd het aantal pannen**, en kijk welke maten en deksels erbij zitten.
+
+## Zo vergelijk je zelf eerlijk
+
+1. Schrijf op welke pannen je **echt nodig hebt**, met maat.
+2. Schrijf bij de set de **pannen, maten en deksels** op.
+3. Zoek dezelfde pannen **los**, in dezelfde serie en maat.
+4. Tel alleen de pannen mee die je gebruikt.
+5. Vergelijk de **totaalprijs**, inclusief bezorgkosten, en kijk naar de garantie.
+
+## Kort samengevat
+
+- Een set was in mijn vergelijking **18 tot 30% goedkoper** dan dezelfde pannen los.
+- Dat voordeel telt alleen als je **alle pannen gebruikt**.
+- **Opnieuw beginnen?** Kies een set en koop de koekenpan los.
+- **Aanvullen?** Koop gericht los, en kies per pan het materiaal dat bij je past.
+
+<div class="notice"><h3>Welke pannen heb jij nodig?</h3><p>Lees eerst <a href="/blog/basis-pannen/">welke pannen je echt nodig hebt</a>, of vul de <a href="/keuzehulp/">keuzehulp</a> in. Kook je op inductie, check dan ook <a href="/blog/pannen-inductie/">welke pannen geschikt zijn voor inductie</a>.</p></div>
+
+*Prijzen gecontroleerd op 28 oktober 2026 bij bol.com, bk.nl, Coolblue en BCC. Prijzen veranderen snel; controleer ze bij de winkel voordat je koopt.*
