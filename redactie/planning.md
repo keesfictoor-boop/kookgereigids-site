@@ -8,7 +8,7 @@ Dit is de werklijst van de wekelijkse routine. Hij volgt de bouwlijst uit het zo
 - **Zoekwoorden en vragen:** de kolom 'eigenaar van' toont de eerste 5; de volledige lijst, volumes en de geplande links staan in `architecture.json` (zoek op de slug).
 - **Status bijwerken:** `gepubliceerd (<datum>): <url>`, `concept (<reden>)`, of `samengevoegd in <url>` (zie README, 'Samenvoegen').
 
-Al klaar (niet opnieuw maken): /pannensets/ (H1), basis-pannen (H1.S02), hoeveel-uitgeven (H1.S01), set-of-los (H1.S05), beste-pannenset (H1.S04, afgedekt door /pannensets/), pannen-inductie (H2.S02 + H2.S03), pannenset-inductie-pfas-vrij (H2.S01, grotendeels), /wokpan/ (H9, alleen woks), wokpan-inductie (H9.S01), beste-wok (H9.S02, afgedekt door /wokpan/), koekenpan-kiezen (H3.S02, proefrun 29-10). Buiten de bouwlijst ook: wok-inbranden, roerbakken.
+Al klaar (niet opnieuw maken): /pannensets/ (H1), basis-pannen (H1.S02), hoeveel-uitgeven (H1.S01), set-of-los (H1.S05), beste-pannenset (H1.S04, afgedekt door /pannensets/), pannen-inductie (H2.S02 + H2.S03), pannenset-inductie-pfas-vrij (H2.S01, grotendeels), /wokpan/ (H9, alleen woks), wokpan-inductie (H9.S01), beste-wok (H9.S02, afgedekt door /wokpan/), /blog/koekenpan-kiezen/ (H3.S02, gepubliceerd 29-10-2026 na proefrun en vierde controle). Buiten de bouwlijst ook: wok-inbranden, roerbakken.
 
 | # | Wave | Actie | Type | Slug (voorstel) | Onderwerp | Gids | Eigenaar van (zoekwoorden/vragen) | Status |
 |---|---|---|---|---|---|---|---|---|

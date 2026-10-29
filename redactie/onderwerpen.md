@@ -1,3 +1,5 @@
+> **Vervallen (29-10-2026).** De routine gebruikt `planning.md` (volgorde van de waves). Dit bestand blijft alleen als archief staan.
+
 # Onderwerpenwachtrij
 
 Neem steeds het eerste onderwerp met status `open`. Volumes zijn maandelijkse zoekvolumes in Nederland uit het zoekwoordonderzoek (DataForSEO, oktober 2026); "vraag" betekent dat het onderwerp uit vragen van zoekers en AI-antwoorden komt (volume per vraag onbekend). De eigenaar kan de volgorde aanpassen of onderwerpen toevoegen.
