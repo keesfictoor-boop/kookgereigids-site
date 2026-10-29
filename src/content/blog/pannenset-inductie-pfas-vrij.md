@@ -44,6 +44,8 @@ Voorbeelden van keramische sets die de fabrikant als PFAS-vrij en geschikt voor 
 
 ## Zo check je of een set op inductie werkt
 
+![Dampende steelpan op een glazen kookplaat](/assets/steelpan-kookplaat-stoom.jpg)
+
 Een **inductiekookplaat** verwarmt de pan via een magnetisch veld. Daarom heeft je pan een bodem nodig die magnetiseerbaar is, en die helemaal vlak is ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Zo controleer je dat:
 
 1. **Zoek het inductiesymbool.** Dat is een spiraal op de pan of de verpakking ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/gebruikstips)).

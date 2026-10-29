@@ -45,8 +45,14 @@ Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 6974153 (merknaam op d
 | biefstuk-gietijzeren-pan.jpg | 3766548 | felix_w | koekenpan-kiezen |
 | koekenpan-rijst-broccoli.jpg | 2618192 | StockSnap | koekenpan-kiezen |
 | eieren-koekenpan.jpg | 1694991 | drnight2 | koekenpan-kiezen |
+| antiaanbakpan-spekjes.jpg | 933054 | tookapic | /pannensets/ (extra foto, 29-10-2026) |
+| pannen-deksels-stoom.jpg | 345707 | 256417 | /pannensets/ (extra foto, 29-10-2026) |
+| steelpan-kookplaat-stoom.jpg | 820012 | Republica | pannenset-inductie-pfas-vrij (extra foto, 29-10-2026) |
+| witte-koekenpan-pannenkoek.jpg | 5455249 | congerdesign | koekenpan-kiezen (extra foto, 29-10-2026) |
 | cooking.jpg, kitchen.jpg | Unsplash | Rick Barrett, Dane Deaner | home, over-ons, koopadvies |
 
 Afgewezen wave 3 (29-10-2026): 6660682 (logo op deksel), 573961 (mogelijk tekst op het mes), 1850233 (logo op kleding, persoon herkenbaar).
 
 Afgewezen koekenpan-kiezen (29-10-2026): 2969649 (merknaam leesbaar op de snijplank).
+
+Afgewezen extra foto's (29-10-2026): 10489109 (mogelijk AI-beeld, leesbare boekruggen), 338139 (merknaam op messenblok), 1006694 (tekst "SOUP"), 4229579 (logo op handvat).

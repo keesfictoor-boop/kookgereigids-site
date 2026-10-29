@@ -84,6 +84,8 @@ RVS bevat nikkel. Volgens de Europese Autoriteit voor Voedselveiligheid (EFSA) i
 
 ### Aluminium en antiaanbaklagen
 
+![Spekjes bakken in een koekenpan met donkere antiaanbaklaag](/assets/antiaanbakpan-spekjes.jpg)
+
 **Aluminium** is licht en warmt snel op. Je vindt het vooral in sets met een **antiaanbaklaag**. Dat bakt makkelijk, maar de laag slijt met de tijd. Aluminium zelf werkt niet op inductie; daarvoor moet er een speciale magnetische bodem onder zitten.
 
 Keramische antiaanbaklagen zijn meestal sol-gel-lagen op basis van silica. In onderzoek werd in zo'n laag geen fluor gevonden, maar de antiaanbakwerking ging in de test wel sneller achteruit dan bij PTFE, vooral na slijtage en vaatwasserbeurten ([Rossi e.a., 2022](https://doi.org/10.1007/s11998-022-00611-3)). Dat onderzoek ging maar over een paar producten. Het zegt dus niets over hoeveel jaar jouw pan meegaat, wel dat een keramische laag zorg vraagt.
@@ -146,6 +148,8 @@ Vergelijk dan wel eerlijk: tel bij een set alleen de pannen die je echt gebruikt
 Als het materiaal en de kookplaat kloppen, maken de details het verschil in het dagelijks gebruik.
 
 ### Deksels en afgieten
+
+![Twee dampende RVS-kookpannen op het fornuis, een met een deksel vol condens](/assets/pannen-deksels-stoom.jpg)
 
 Een **glazen deksel** is fijn, want je ziet zonder optillen of het water kookt. Sommige sets hebben een **afgietsysteem**: gaatjes in de rand van het deksel, zodat je pasta of aardappelen kunt afgieten zonder vergiet. Handig, maar geen must. Kijk vooral of er bij elke kookpan een **deksel** zit.
 

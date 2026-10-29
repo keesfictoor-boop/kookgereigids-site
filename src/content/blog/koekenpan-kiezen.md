@@ -42,6 +42,8 @@ Wil je hier meer over weten, lees dan [pannensets voor inductie en PFAS-vrij kok
 
 ## Keramische antiaanbaklaag
 
+![Pannenkoekbeslag in een witte koekenpan op de kookplaat, met een spatel](/assets/witte-koekenpan-pannenkoek.jpg)
+
 Een keramische laag is een alternatief als je wel een antiaanbakpan wilt, maar zonder PTFE. In de koopgids staat dat suikers, gluten en eiwitten minder aan zo'n laag hechten, en dat het resultaat tussen een RVS-pan en een PTFE-pan in zit. Ook deze laag is gevoeliger voor slijtage en oververhitting dan RVS ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
 
 De Consumentenbond test keramische koekenpannen. In de openbare uitleg bij die test staat dat de kwaliteit van de laag sterk verschilt per pan, dat bij alle geteste pannen de bodem aan het eind blijvend vervormd was, en dat goed opbergen veel uitmaakt ([Consumentenbond](https://www.consumentenbond.nl/koekenpan)). Mijn tip: leg een doekje of pannenbeschermer tussen gestapelde pannen.
