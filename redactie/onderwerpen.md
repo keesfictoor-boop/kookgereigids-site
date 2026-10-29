@@ -4,7 +4,7 @@ Neem steeds het eerste onderwerp met status `open`. Volumes zijn maandelijkse zo
 
 | # | Slug (voorstel) | Hoofdvraag | Zoekwoorden / volume | Type | Let op | Status |
 |---|---|---|---|---|---|---|
-| 1 | koekenpan-kiezen | Welke koekenpan past bij jou? | koekenpan, beste koekenpan, goede koekenpan, koekenpan met deksel (16.390) | koopgids | materialen (RVS, gietijzer, plaatstaal, PTFE, keramisch), maat, inductie; PFAS via bronnen; link naar /blog/pannenset-inductie-pfas-vrij/ | open |
+| 1 | koekenpan-kiezen | Welke koekenpan past bij jou? | koekenpan, beste koekenpan, goede koekenpan, koekenpan met deksel (16.390) | koopgids | materialen (RVS, gietijzer, plaatstaal, PTFE, keramisch), maat, inductie; PFAS via bronnen; link naar /blog/pannenset-inductie-pfas-vrij/ | concept (3 controlerondes, laatste afgekeurd; branch concept/koekenpan-kiezen) |
 | 2 | eten-plakt-aan-rvs-pan | Hoe voorkom je dat eten aan een RVS-pan blijft plakken? | vraag | uitleg | Kees wokt met een RVS-wok (Demeyere Apollo 7): als feit noemen mag; link naar /wokpan/ | open |
 | 3 | koekenpan-vervangen | Wanneer moet je een koekenpan vervangen? | vraag | uitleg | beschadigde coating: alleen met officiële bronnen (Voedingscentrum, Rijksoverheid, BfR) | open |
 | 4 | hapjespan-kiezen | Welke hapjespan past bij jou? | hapjespan, hapjespan met deksel, beste hapjespan (14.290) | koopgids | maat voor een gezin van vier; inductie | open |

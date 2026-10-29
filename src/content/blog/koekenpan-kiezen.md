@@ -29,8 +29,6 @@ Antiaanbak, keramisch, RVS, plaatstaal, gietijzer: de keuze is groot. In dit art
 | Plaatstaal (carbonstaal) | dichtschroeien, bakken op hoog vuur | inbranden, kan roesten | niet weken, niet in de vaatwasser |
 | Gietijzer | dichtschroeien, ovengerechten | zwaar | niet in de vaatwasser |
 
-Hieronder lees je per materiaal wat de bronnen erover zeggen.
-
 ## Pan met antiaanbaklaag (PTFE)
 
 ![Koekenpan met antiaanbaklaag, met rijst, broccoli en kip](/assets/koekenpan-rijst-broccoli.jpg)
@@ -55,7 +53,7 @@ Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Bij 
 
 Een RVS-koekenpan is volgens dezelfde koopgids vaak de beste keuze om in te bakken: ideaal voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Hij mag in de vaatwasser en gaat bij normaal gebruik heel lang mee ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)). Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
 
-De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. De fabrikant raadt een meerlaagse bodem aan voor een gelijkmatige warmteverdeling en een vlakke bodem ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
+De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. De fabrikant raadt een meerlaagse bodem aan voor een gelijkmatige warmteverdeling en een bodem die minder snel vervormt ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
 
 ## Plaatstaal (carbonstaal)
 
@@ -75,7 +73,7 @@ Reken op gewicht. Een gietijzeren pan van 30 cm, zoals de Petromax in het overzi
 
 ## Welke maat koekenpan heb je nodig?
 
-De maat op de doos is de diameter van de **bovenrand**. Het bakoppervlak onderin is kleiner. De koopgids van Demeyere geeft deze vuistregel ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)):
+Demeyere geeft als maat de diameter van de **bovenrand** op; kijk bij andere merken wat er met de maat bedoeld wordt. Het bakoppervlak onderin is kleiner. De koopgids van Demeyere geeft deze vuistregel ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)):
 
 | Diameter | Aantal personen |
 |---|---|
@@ -114,6 +112,6 @@ Je kunt ook twee koekenpannen nemen: een antiaanbakpan voor eieren en pannenkoek
 - [ ] Mag hij in de vaatwasser en in de oven, en tot welke temperatuur?
 - [ ] Hoe zwaar is hij? Bij gietijzer maakt dat echt verschil.
 
-Onder dit artikel staan vijf koekenpannen om te vergelijken, in verschillende materialen en prijsklassen: van ongeveer €40 tot ruim €170. Ze zijn gekozen op spreiding, niet op een eigen test. Een pan met PTFE-laag staat er niet tussen: ik heb gekozen voor RVS, keramisch, plaatstaal en gietijzer, de soorten zonder PTFE. De gegevens komen van de productpagina's van de fabrikant of de winkel.
+Onder dit artikel staan vijf koekenpannen om te vergelijken, in verschillende materialen en prijsklassen: van ongeveer €40 tot ruim €170. Ze zijn gekozen op spreiding, niet op een eigen test. Een pan met PTFE-laag staat er niet tussen: ik heb gekozen voor RVS, keramisch, plaatstaal en gietijzer, soorten waar normaal geen PTFE in zit. Bij de keramische Tefal zegt de productpagina daar niets expliciet over. De gegevens komen van de productpagina's van de fabrikant of de winkel.
 
 Twijfel je nog over welke pannen je in totaal nodig hebt? De [keuzehulp](/keuzehulp/) helpt je op weg.
