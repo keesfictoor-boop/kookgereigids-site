@@ -25,9 +25,9 @@ Het lastige is dat er heel veel soorten zijn. In dit artikel zet ik de materiale
 |---|---|---|---|
 | Antiaanbak (PTFE) | eieren, vis, gepaneerd | niet te heet, laag slijt | met de hand, geen metalen spatel |
 | Keramische antiaanbaklaag | eieren, pannenkoeken | laag slijt, voorzichtig opbergen | met de hand |
-| RVS zonder coating | vlees dichtschroeien, groenten | eten plakt sneller | mag vaak in de vaatwasser |
+| RVS zonder coating | vlees, gevogelte, groenten | vraagt wat meer aandacht | mag in de vaatwasser (check de fabrikant) |
 | Plaatstaal (carbonstaal) | dichtschroeien, bakken op hoog vuur | inbranden, kan roesten | niet weken, niet in de vaatwasser |
-| Gietijzer | dichtschroeien, ovengerechten | zwaar, warmt langzaam op | niet in de vaatwasser |
+| Gietijzer | dichtschroeien, ovengerechten | zwaar | niet in de vaatwasser |
 
 Hieronder lees je per materiaal wat de bronnen erover zeggen.
 
@@ -35,7 +35,7 @@ Hieronder lees je per materiaal wat de bronnen erover zeggen.
 
 ![Koekenpan met antiaanbaklaag, met rijst, broccoli en kip](/assets/koekenpan-rijst-broccoli.jpg)
 
-De klassieke antiaanbakpan heeft een laag van PTFE, de stof die veel mensen kennen als Teflon. Demeyere, onderdeel van Zwilling, noemt zo'n pan geschikt voor delicate vis en gepaneerde producten. Je hebt er weinig vet bij nodig. Wel is hij volgens de fabrikant gevoeliger voor slijtage en oververhitting dan RVS, en kleurt je eten er minder mooi bruin in ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
+De klassieke antiaanbakpan heeft een laag van PTFE, de stof die veel mensen kennen als Teflon. Demeyere, onderdeel van Zwilling, heeft een handige koopgids voor koekenpannen. Daarin heet zo'n pan geschikt voor delicate vis en gepaneerde producten. Je hebt er weinig vet bij nodig. Wel is hij volgens de fabrikant gevoeliger voor slijtage en oververhitting dan RVS, en bakt je eten er minder krokant in ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
 
 Over de gezondheidskant zijn de officiële instanties duidelijk. De Rijksoverheid schrijft dat er PFAS in teflonpannen met een antiaanbaklaag zitten, maar dat je zo'n pan veilig kunt blijven gebruiken als je de gebruiksaanwijzing volgt. Is de laag beschadigd, dan is de pan niet meer bruikbaar. Je kunt hem dan inleveren of bij het restafval gooien ([Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/pfas/vraag-en-antwoord/er-zitten-pfas-in-mijn-antiaanbakpan-moet-ik-deze-weggooien)). Het Voedingscentrum zegt hetzelfde over normaal gebruik, en wijst erop dat je met pannen zonder antiaanbaklaag zorgt dat er minder PFAS in het milieu komt. Of een pan PFAS bevat, staat niet op het etiket; je kunt het aan de fabrikant vragen ([Voedingscentrum](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx)).
 
@@ -45,17 +45,17 @@ Wil je hier meer over weten, lees dan [pannensets voor inductie en PFAS-vrij kok
 
 ## Keramische antiaanbaklaag
 
-Een keramische laag is een alternatief als je wel een antiaanbakpan wilt, maar zonder PTFE. Volgens Demeyere hechten suikers, gluten en eiwitten minder aan zo'n laag, en zit het resultaat tussen een RVS-pan en een PTFE-pan in. Ook deze laag is gevoeliger voor slijtage en oververhitting dan RVS ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
+Een keramische laag is een alternatief als je wel een antiaanbakpan wilt, maar zonder PTFE. In de koopgids staat dat suikers, gluten en eiwitten minder aan zo'n laag hechten, en dat het resultaat tussen een RVS-pan en een PTFE-pan in zit. Ook deze laag is gevoeliger voor slijtage en oververhitting dan RVS ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
 
-De Consumentenbond test keramische koekenpannen. In de openbare uitleg bij die test staat dat de kwaliteit van de laag sterk verschilt per pan, dat bij alle geteste pannen de bodem aan het eind blijvend vervormd was, en dat goed opbergen veel uitmaakt ([Consumentenbond](https://www.consumentenbond.nl/koekenpan)). Leg dus een doekje of pannenbeschermer tussen gestapelde pannen.
+De Consumentenbond test keramische koekenpannen. In de openbare uitleg bij die test staat dat de kwaliteit van de laag sterk verschilt per pan, dat bij alle geteste pannen de bodem aan het eind blijvend vervormd was, en dat goed opbergen veel uitmaakt ([Consumentenbond](https://www.consumentenbond.nl/koekenpan)). Mijn tip: leg een doekje of pannenbeschermer tussen gestapelde pannen.
 
-"Keramisch" zegt trouwens niet automatisch "PFAS-vrij". Kijk wat de fabrikant precies belooft.
+Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Bij de keramische Tefal onder dit artikel noemt de productpagina PFAS niet.
 
 ## RVS zonder coating
 
-Een RVS-koekenpan is volgens Demeyere vaak de beste keuze om vlees dicht te schroeien, en geschikt voor gevogelte, groenten en vette vis zoals zalm. Hij mag in de vaatwasser en gaat bij normaal gebruik heel lang mee ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)). Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
+Een RVS-koekenpan is volgens dezelfde koopgids vaak de beste keuze om in te bakken: ideaal voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Hij mag in de vaatwasser en gaat bij normaal gebruik heel lang mee ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)). Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
 
-De keerzijde: zonder coating plakt eten sneller dan in een antiaanbakpan, en dat merk je vooral bij eieren. Let ook op de bodem. Demeyere raadt een meerlaagse bodem aan voor een gelijkmatige warmteverdeling en een vlakke bodem ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
+De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. De fabrikant raadt een meerlaagse bodem aan voor een gelijkmatige warmteverdeling en een vlakke bodem ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)).
 
 ## Plaatstaal (carbonstaal)
 
@@ -69,13 +69,13 @@ Hoe inbranden precies gaat, lees je in [wok inbranden](/blog/wok-inbranden/). Vo
 
 ![Gietijzeren koekenpan met eieren in brood op een kookplaat](/assets/eieren-koekenpan.jpg)
 
-Gietijzer is zwaar en houdt warmte lang vast. Veel gietijzeren pannen worden voorgebrand verkocht. Lodge, een Amerikaanse fabrikant, schrijft dat zijn pannen al ingebrand uit de gieterij komen. Die laag is olie die door verhitting op het ijzer is gebakken, en hij wordt beter naarmate je de pan meer gebruikt ([Lodge](https://www.lodgecastiron.com/discover/cleaning-and-care/cast-iron/all-about-seasoning)). Met zure gerechten wacht je volgens Lodge liever tot de laag goed is opgebouwd.
+Gietijzer is zwaar en houdt warmte lang vast. Sommige gietijzeren pannen worden voorgebrand verkocht. Lodge, een Amerikaanse fabrikant, schrijft dat zijn pannen al ingebrand uit de gieterij komen. Die laag is olie die door verhitting op het ijzer is gebakken, en hij wordt beter naarmate je de pan meer gebruikt ([Lodge](https://www.lodgecastiron.com/discover/cleaning-and-care/cast-iron/all-about-seasoning)). Met zure gerechten wacht je volgens Lodge liever tot de laag goed is opgebouwd.
 
 Reken op gewicht. Een gietijzeren pan van 30 cm, zoals de Petromax in het overzicht hieronder, weegt volgens de winkel 3,7 kilo. Daarmee schud je niet even een pan groenten om. Voor een biefstuk of iets dat daarna de oven in gaat, is dat gewicht juist een voordeel.
 
 ## Welke maat koekenpan heb je nodig?
 
-De maat op de doos is de diameter van de **bovenrand**. Het bakoppervlak onderin is kleiner. Demeyere geeft deze vuistregel ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)):
+De maat op de doos is de diameter van de **bovenrand**. Het bakoppervlak onderin is kleiner. De koopgids van Demeyere geeft deze vuistregel ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)):
 
 | Diameter | Aantal personen |
 |---|---|
@@ -84,13 +84,13 @@ De maat op de doos is de diameter van de **bovenrand**. Het bakoppervlak onderin
 | 28 cm | 5, of 4 grote eters |
 | 32 cm | 6, of 5 grote eters |
 
-Volgens Demeyere bak je het best in een pan die vrij vol ligt. Groter is dus niet automatisch beter.
+Je bakt het best in een pan die vrij vol ligt. Groter is dus niet automatisch beter.
 
 Kijk daarnaast naar de **bodemdiameter**, zeker op inductie. Bij de RVS-pan van Demeyere in het overzicht is de bovenrand 28 cm en de bodem 22 cm ([Zwilling](https://www.zwilling.com/nl/demeyere-industry-5-koekenpan-28-cm/1029691.html)). Die bodem moet passen bij de kookzone waar je de pan op zet. Meer daarover lees je in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/).
 
 ## Koken op inductie
 
-Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetiseerbaar en helemaal vlak is ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Gietijzer en plaatstaal zijn van zichzelf magnetisch; alle vijf de pannen onder dit artikel zijn volgens de productpagina geschikt voor inductie. Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt, houd er dan een magneet tegen.
+Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetiseerbaar en helemaal vlak is ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Gietijzer en plaatstaal werken in de regel op inductie (meer in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/)); alle vijf de pannen onder dit artikel zijn volgens de productpagina geschikt voor inductie. Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt, houd er dan een magneet tegen.
 
 ## Met of zonder deksel?
 
@@ -114,6 +114,6 @@ Je kunt ook twee koekenpannen nemen: een antiaanbakpan voor eieren en pannenkoek
 - [ ] Mag hij in de vaatwasser en in de oven, en tot welke temperatuur?
 - [ ] Hoe zwaar is hij? Bij gietijzer maakt dat echt verschil.
 
-Twijfel je nog over welke pannen je in totaal nodig hebt? De [keuzehulp](/keuzehulp/) helpt je op weg.
+Onder dit artikel staan vijf koekenpannen om te vergelijken, in verschillende materialen en prijsklassen: van zo’n €35 tot ruim €170. Ze zijn gekozen op spreiding, niet op een eigen test. De gegevens komen van de productpagina's van de fabrikant of de winkel.
 
-Onder dit artikel staan vijf koekenpannen om te vergelijken, in verschillende materialen en prijsklassen: van ongeveer €40 tot bijna €200. Ze zijn gekozen op spreiding, niet op een eigen test. De gegevens komen van de productpagina's van de fabrikant of de winkel.
+Twijfel je nog over welke pannen je in totaal nodig hebt? De [keuzehulp](/keuzehulp/) helpt je op weg.
