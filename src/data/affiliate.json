@@ -4,6 +4,10 @@
     "bol": { "label": "bol", "siteId": "" },
     "amazon": { "label": "Amazon.nl", "tag": "" },
     "lidl": { "label": "Lidl" },
-    "greenpan": { "label": "GreenPan" }
+    "greenpan": { "label": "GreenPan" },
+    "tefal": { "label": "Tefal" },
+    "zwilling": { "label": "Zwilling" },
+    "meesterslijpers": { "label": "Meesterslijpers" },
+    "knivesandtools": { "label": "Knivesandtools" }
   }
 }

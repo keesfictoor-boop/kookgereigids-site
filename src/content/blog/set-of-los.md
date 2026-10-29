@@ -60,7 +60,7 @@ In alle drie de gevallen was de **set duidelijk goedkoper** dan dezelfde pannen 
 - Je **stapt over op inductie** en je oude pannen werken niet meer.
 - De **maten in de set passen** bij hoe en voor hoeveel mensen je kookt.
 
-Een kookpannenset bevat meestal kookpannen in oplopende maten (16, 20, 24 cm) en vaak een steelpan. Een koekenpan zit er meestal niet bij. Die koop je los, en dan kies je meteen zelf of je een antiaanbaklaag wilt.
+Een kookpannenset bevat meestal kookpannen in oplopende maten (16, 20, 24 cm) en vaak een steelpan. Een koekenpan zit er meestal niet bij. Die koop je los, en dan kies je meteen zelf of je een antiaanbaklaag wilt. In [koekenpan kiezen](/blog/koekenpan-kiezen/) zet ik de materialen naast elkaar.
 
 ## Wanneer koop je los?
 
