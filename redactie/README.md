@@ -4,7 +4,7 @@ Deze map wordt niet gebouwd (Astro gebruikt alleen `src/` en `public/`). Hij bev
 
 ## Bestanden
 
-- `tone-of-voice.md`: toon en de **enige** toegestane persoonlijke feiten van de schrijver (Kees).
+- `tone-of-voice.md`: **schrijfstijl en SEO-richtlijnen (leidend, eigenaar 29-10-2026)**, het aantal foto's per lengte, de toon en de **enige** toegestane persoonlijke feiten van de schrijver (Kees). Lees het volledig vóór je schrijft.
 - `planning.md`: **de leidende werklijst**, in de volgorde van de waves (bouwlijst en architectuur). Neem steeds de eerste regel met status `open` waarvan de gids al klaar is.
 - `briefs/`: per onderdeel een korte brief (zie 'Brief eerst').
 - `onderwerpen.md`: vervallen (oude wachtrij); niet meer gebruiken.
@@ -62,7 +62,7 @@ Bij elke bewering over gezondheid, materialen, hitte of voedingswaarde zoek je n
 
 - Tekst in `src/hubs/<slug>.md` (frontmatter zoals `src/hubs/wokpan.md`: title, description, intro, updatedDate, readingTime, image + bronvelden, producten).
 - Pagina: kopieer `src/pages/wokpan.astro` naar `src/pages/<slug>.astro` en pas aan: het importpad van de hub, de lijst `spokes` (slugs van bestaande artikelen onder deze gids), het broodkruimelpad, de tag en de koppen in de zijbalk.
-- Een gids is breed: het korte antwoord bovenaan, keuzecriteria, een materiaal- of soortentabel, maat, kookplaat, onderhoud en (alleen als het mag, zie stap 3 hieronder) een productblok, met doorverwijzingen naar de artikelen eronder. Lengte 1800–2500 woorden.
+- Een gids is breed: het korte antwoord bovenaan, keuzecriteria, een materiaal- of soortentabel, maat, kookplaat, onderhoud en (alleen als het mag, zie stap 3 hieronder) een productblok, met doorverwijzingen naar de artikelen eronder. Geen vaste lengte: zo uitgebreid als nodig, zonder opvulling (een gids is in de praktijk breder dan een artikel). Foto's volgens de tabel in `tone-of-voice.md`.
 - Voeg de gids toe waar hij hoort: de categoriekaart op de homepage (`src/pages/index.astro`) en `src/pages/koopadvies.astro` mogen een link naar de nieuwe gids krijgen (alleen die link aanpassen).
 
 ## Een artikel maken
@@ -70,13 +70,13 @@ Bij elke bewering over gezondheid, materialen, hitte of voedingswaarde zoek je n
 1. **Onderwerp** uit `planning.md` (zie 'Het wave-systeem'). Controleer met `ls src/content/blog src/hubs` dat het niet al bestaat.
 2. **Onderzoek** met WebSearch/WebFetch. Kijk wat Nederlandse zoekers vragen (de vragen in de wachtrij, "Mensen vragen ook" als je die vindt). Noteer per bewering de bron (URL) die je zelf geopend hebt.
 3. **Producten** (alleen bij koopgidsen, en alleen als het mag): **Productverwijzingen (besluit eigenaar 29-10-2026):** (1) verwijs alleen naar producten bij winkels waarmee we een affiliateprogramma hebben (later via Daisycon, na goedkeuring) of naar bol.com of Amazon.nl; geen links naar andere winkels of productpagina's van fabrikanten. (2) Maak alleen een productoverzicht als er van elk product een foto geplaatst kan worden die we mogen gebruiken. Kan dat niet, dan geen productblok en geen tekst als 'hieronder staan…'; beschrijf dan soorten pannen en waar je op let, zonder specifieke producten aan te wijzen. De code dwingt dit af: `src/lib/affiliate.ts` toont alleen producten van winkels met `toegestaan: true` in `affiliate.json` én met een `afbeelding`. Op dit moment heeft geen enkel product een toegestane foto, en bol.com blokkeert automatische controle; maak daarom **geen** productblok en noem geen specifieke producten als koopadvies, tot de eigenaar meldt dat productfoto's (via het partnerprogramma) beschikbaar zijn.
-4. **Schrijven** in `src/content/blog/<slug>.md`. Frontmatter zoals de bestaande artikelen (`title`, `description` (max ±160 tekens), `category`, `image`, `imageAlt`, `readingTime`, `pubDate` (vandaag), `intro`, optioneel `producten`). De `intro` geeft meteen het korte antwoord (2–3 zinnen, citeerbaar). Lengte: 1000–1800 woorden, afhankelijk van de vraag. Bronnen als Markdown-links in de tekst. Gebruik tabellen en genummerde stappen waar dat helpt.
+4. **Schrijven** in `src/content/blog/<slug>.md`. Frontmatter zoals de bestaande artikelen (`title`, `description` (max ±160 tekens), `category`, `image`, `imageAlt`, `readingTime`, `pubDate` (vandaag), `intro`, optioneel `producten`). Volg de **schrijfstijl en SEO-richtlijnen in `tone-of-voice.md`**: één zoekvraag en de behoefte erachter (kiezen, vergelijken, gebruiken of onderhouden), zoekterm natuurlijk in `title` en H1, beschrijvende tussenkoppen, voordelen én nadelen, termen uitgelegd, eigen meerwaarde. `title` is de SEO-titel, `description` de metaomschrijving zonder overdreven beloften. De `intro` geeft meteen het korte antwoord (2–3 zinnen, citeerbaar). Geen vast aantal woorden: zo uitgebreid als nodig, zonder opvulling. Bronnen als Markdown-links in de tekst. Gebruik tabellen en genummerde stappen waar dat helpt.
 5. **Interne links:** minstens 2 links naar bestaande pagina's (zie `src/content/blog/`, `/pannensets/`, `/wokpan/`, `/keuzehulp/`, `/koopadvies/`), en voeg in 1 of 2 bestaande, passende artikelen een natuurlijke link naar het nieuwe artikel toe. Herschrijf bestaande pagina's verder niet.
-6. **Foto's:** 3 per artikel, van Pixabay:
+6. **Foto's:** minimaal 3 per pagina, meer bij langere pagina's (tot ca. 1500 woorden 3, tot ca. 2200 4, tot ca. 2900 5, daarna 1 extra per ca. 700 woorden; zie `tone-of-voice.md`), van Pixabay:
    - zoeken: `npm run foto -- zoek "<term>"`
    - ophalen: `npm run foto -- haal <id> <bestandsnaam> --alt "Nederlandse alt-tekst"` (met `--artikel <slug>` voor de hoofdfoto: dat vult de frontmatter).
    - Bekijk elke foto voordat je hem gebruikt (Read op het jpg-bestand): **geen merknamen, logo's of leesbare tekst, geen herkenbare personen, geen AI-gegenereerd beeld** (let op de Pixabay-tags "ai gegenereerd"). Gebruik geen id die al in `fotobronnen.md` staat.
-   - De twee extra foto's als Markdown-afbeelding onder een kop: `![alt](/assets/<naam>.jpg)`.
+   - De extra foto's (naast de hoofdfoto) als Markdown-afbeelding onder een kop, verspreid over de pagina: `![alt](/assets/<naam>.jpg)`.
    - Registreer elke foto (en afgewezen kandidaten) in `fotobronnen.md`.
    - Geen zichtbare fotobronvermelding in de tekst.
    - Werkt Pixabay niet (geen sleutel, foutmelding), gebruik dan bestaande foto's uit `public/assets/` die passen, en meld dat in het logboek.
@@ -90,6 +90,7 @@ Start een **aparte agent** (Agent-tool, nieuwe agent zonder jouw context) met de
 2. markeert feitelijke beweringen zonder bron;
 3. controleert productgegevens tegen de productpagina's;
 4. controleert de persoonlijke feiten tegen `tone-of-voice.md` (niets verzonnen) en dat er niets op eigen testen lijkt;
+4b. toetst de **schrijfstijl en SEO-richtlijnen** uit `tone-of-voice.md`: korte actieve zinnen, je-vorm, geen verkooppraat of onnodige uitroeptekens, korte intro zonder clichés of opvulling, concreet advies (voor wie, welke kooktaak, wanneer iets anders), voordelen én nadelen, uitgelegde termen, één duidelijke zoekvraag die vroeg beantwoord wordt, zoekterm natuurlijk in titel en H1, beschrijvende tussenkoppen, passende metaomschrijving, alleen bestaande interne links, en het juiste aantal foto's voor de lengte. Een flagrante afwijking (verkooppraat, verzonnen test, te weinig foto's, hoofdvraag niet beantwoord) is een **moet**-punt;
 5. beoordeelt of de tekst **natuurlijk en menselijk** leest en niet als AI-tekst voelt. Signalen van AI-tekst: holle openingszinnen ("In de wereld van…", "Of je nu… of…"), "Kortom"/"Al met al", veel opsommingen van precies drie, woorden als "essentieel", "cruciaal", "naadloos", "duik in", overdreven enthousiasme, elke alinea even lang, herhaling van de vraag, retorische vragen achter elkaar, Engelse zinsbouw, veel gedachtestreepjes;
 6. geeft per punt een ernst: **moet** (fout, bron steunt het niet, veiligheid/gezondheid, verzonnen persoonlijk detail), **beter**, of **ok**, plus een cijfer 1–10 voor natuurlijkheid;
 7. eindigt met een oordeel: **GOEDGEKEURD** (geen moet-punten en natuurlijkheid ≥ 8) of **AFGEKEURD**.
