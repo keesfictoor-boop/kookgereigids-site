@@ -37,7 +37,7 @@ Voor alles wat je bakt: vlees, vis, eieren, groenten en pannenkoeken. Een koeken
 
 ### 4. Kook je graag oosters? Een wok
 
-Wij wokken veel en koken graag uit de wereldkeuken. Dan hoort een wok er wat mij betreft gewoon bij. Door de hoge, schuine wanden schep je ingrediënten snel om op hoog vuur, en heb je veel ruimte voor een flinke portie groenten en noedels. Kook je op inductie, kies dan een wok met een **vlakke, magnetische bodem**.
+Wij wokken veel en koken graag uit de wereldkeuken. Dan hoort een wok er wat mij betreft gewoon bij. Door de hoge, schuine wanden schep je ingrediënten snel om op hoog vuur, en heb je veel ruimte voor een flinke portie groenten en noedels. Kook je op inductie, kies dan een wok met een **vlakke, magnetische bodem**. In mijn gids [wokpan kiezen](/wokpan/) lees je welk materiaal en welke maat bij jou past.
 
 ## Fijne aanvullingen (geen must)
 

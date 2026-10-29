@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+import { Content, frontmatter as d } from '../hubs/wokpan.md';
+import { getPosts } from '../lib/posts';
+import ProductList from '../components/ProductList.astro';
+
+// Hub-pagina (pijler Woks): de tekst staat in src/hubs/wokpan.md, de artikelen eronder komen uit de blog.
+const spokes = ['wokpan-inductie', 'wok-inbranden', 'roerbakken'];
+const posts = (await getPosts()).filter((p) => spokes.includes(p.id));
+const jsonLd = {
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
+  inLanguage: 'nl-NL',
+  dateModified: d.updatedDate,
+  image: new URL(d.image, Astro.site).href,
+  author: { '@type': 'Person', '@id': 'https://kookgereigids.nl/over-ons/#kees', name: 'Kees', url: 'https://kookgereigids.nl/over-ons/' },
+  publisher: { '@id': 'https://kookgereigids.nl/#organization' },
+};
+---
+<Base title={`${d.title} | Kookgereigids`} description={d.description} ogImage={d.image} ogType="article" jsonLd={jsonLd} current="koopadvies">
+<nav class="container breadcrumb" aria-label="Broodkruimelpad"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/koopadvies/">Koopadvies</a><span aria-hidden="true">/</span><span aria-current="page">Wokpan</span></nav>
+<article class="article-section"><div class="container article-layout"><aside class="article-aside"><p class="eyebrow">Meer over wokken</p><nav aria-label="Artikelen over wokken">{posts.map((p) => <a href={`/blog/${p.id}/`}>{p.data.title}</a>)}</nav><hr><p class="small muted">Eerst begrijpen.<br>Dan pas kopen.</p></aside><div class="article-body"><span class="tag">Woks</span><h1>{d.title}</h1><div class="article-meta"><span>Door <a href="/over-ons/">Kees</a></span><span>{d.readingTime} min leestijd</span></div><p class="article-intro">{d.intro}</p><figure class="article-image"><img src={d.image} alt={d.imageAlt} width="1280" height="853" decoding="async" fetchpriority="high"></figure><Content /><ProductList ids={d.producten} titel="Woks die in deze gids voorkomen" /><a class="text-link" href="/keuzehulp/">Pas dit toe in jouw keuken<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></div></article>
+<section class="closing-band"><div class="container closing-inner"><div><h2>Minder twijfelen. Meer lekker koken.</h2><p>Begin bij jouw kookgewoonten. De juiste pan volgt vanzelf.</p></div><a class="button button-light" href="/keuzehulp/">Ontdek jouw volgende pan<svg class="icon " viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></section>
+</Base>
