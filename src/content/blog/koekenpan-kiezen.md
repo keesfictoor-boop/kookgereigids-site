@@ -8,7 +8,6 @@ imageAlt: "Twee biefstukken met rozemarijn in een hete gietijzeren pan"
 readingTime: 7
 pubDate: "2026-10-29"
 intro: "Bak je vooral eieren, vis en pannenkoeken, dan is een pan met antiaanbaklaag het makkelijkst. Wil je vlees mooi dichtschroeien en een pan die jaren meegaat, kies dan RVS, plaatstaal of gietijzer. Voor een gezin van vier is 28 cm een handige maat, en op inductie moet de bodem magnetisch zijn."
-producten: ["tefal-duetto-on-28", "demeyere-industry5-28", "tefal-experience-ceram-28", "debuyer-mineralb-element-28", "petromax-fp30-t"]
 imageCredit: "felix_w"
 imageCreditUrl: "https://pixabay.com/users/felix_w-6547745/"
 imageSourceUrl: "https://pixabay.com/photos/steak-pan-rosemary-food-flesh-3766548/"
@@ -47,7 +46,7 @@ Een keramische laag is een alternatief als je wel een antiaanbakpan wilt, maar z
 
 De Consumentenbond test keramische koekenpannen. In de openbare uitleg bij die test staat dat de kwaliteit van de laag sterk verschilt per pan, dat bij alle geteste pannen de bodem aan het eind blijvend vervormd was, en dat goed opbergen veel uitmaakt ([Consumentenbond](https://www.consumentenbond.nl/koekenpan)). Mijn tip: leg een doekje of pannenbeschermer tussen gestapelde pannen.
 
-Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Bij de keramische Tefal onder dit artikel noemt de productpagina PFAS niet.
+Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet elke productpagina zegt daar iets over.
 
 ## RVS zonder coating
 
@@ -69,7 +68,7 @@ Hoe inbranden precies gaat, lees je in [wok inbranden](/blog/wok-inbranden/). Vo
 
 Gietijzer is zwaar en houdt warmte lang vast. Sommige gietijzeren pannen worden voorgebrand verkocht. Lodge, een Amerikaanse fabrikant, schrijft dat zijn pannen al ingebrand uit de gieterij komen. Die laag is olie die door verhitting op het ijzer is gebakken, en hij wordt beter naarmate je de pan meer gebruikt ([Lodge](https://www.lodgecastiron.com/discover/cleaning-and-care/cast-iron/all-about-seasoning)). Met zure gerechten wacht je volgens Lodge liever tot de laag goed is opgebouwd.
 
-Reken op gewicht. Een gietijzeren pan van 30 cm, zoals de Petromax in het overzicht hieronder, weegt volgens de winkel 3,7 kilo. Daarmee schud je niet even een pan groenten om. Gietijzeren pannen mogen vaak de oven in, zoals de Petromax; handig als je iets eerst aanbakt en daarna in de oven laat garen.
+Reken op gewicht: een grote gietijzeren pan weegt al snel een paar kilo. Daarmee schud je niet even een pan groenten om. Gietijzeren pannen mogen vaak de oven in; handig als je iets eerst aanbakt en daarna in de oven laat garen.
 
 ## Welke maat koekenpan heb je nodig?
 
@@ -84,11 +83,11 @@ Demeyere geeft als maat de diameter van de **bovenrand** op; kijk bij andere mer
 
 Je bakt het best in een pan die vrij vol ligt. Groter is dus niet automatisch beter.
 
-Kijk daarnaast naar de **bodemdiameter**, zeker op inductie. Bij de RVS-pan van Demeyere in het overzicht is de bovenrand 28 cm en de bodem 22 cm ([Zwilling](https://www.zwilling.com/nl/demeyere-industry-5-koekenpan-28-cm/1029691.html)). Die bodem moet passen bij de kookzone waar je de pan op zet. Meer daarover lees je in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/).
+Kijk daarnaast naar de **bodemdiameter**, zeker op inductie. De bodem is kleiner dan de bovenrand, en de fabrikant noemt hem vaak apart in de productgegevens. Die bodem moet passen bij de kookzone waar je de pan op zet. Meer daarover lees je in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/).
 
 ## Koken op inductie
 
-Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetiseerbaar en helemaal vlak is ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Gietijzer en plaatstaal werken in de regel op inductie (meer in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/)); alle vijf de pannen onder dit artikel zijn volgens de productpagina geschikt voor inductie. Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt? In dat artikel over inductie lees je hoe je de magneettest doet.
+Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetiseerbaar en helemaal vlak is ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Gietijzer en plaatstaal werken in de regel op inductie (meer in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/)). Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt? In dat artikel over inductie lees je hoe je de magneettest doet.
 
 ## Met of zonder deksel?
 
@@ -111,7 +110,5 @@ Je kunt ook twee koekenpannen nemen: een antiaanbakpan voor eieren en pannenkoek
 - [ ] Heeft de pan een coating? Zo ja, welke, en wat zegt de fabrikant over PFAS?
 - [ ] Mag hij in de vaatwasser en in de oven, en tot welke temperatuur?
 - [ ] Hoe zwaar is hij? Bij gietijzer maakt dat echt verschil.
-
-Onder dit artikel staan vijf koekenpannen om te vergelijken, in verschillende materialen en prijsklassen: van ongeveer €40 tot ruim €170. Ze zijn gekozen op spreiding, niet op een eigen test. Een pan met PTFE-laag staat er niet tussen: ik heb gekozen voor RVS, keramisch, plaatstaal en gietijzer, soorten waar normaal geen PTFE in zit. Bij de keramische Tefal zegt de productpagina daar niets expliciet over. De gegevens komen van de productpagina's van de fabrikant of de winkel.
 
 Twijfel je nog over welke pannen je in totaal nodig hebt? De [keuzehulp](/keuzehulp/) helpt je op weg.

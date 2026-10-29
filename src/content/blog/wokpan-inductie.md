@@ -66,4 +66,4 @@ Ja, maar ze zijn zeldzaam. Sommige fabrikanten verkopen een inductie-wokkookzone
 - **Een wok met antiaanbaklaag en inductiebodem** als je af en toe wokt en het makkelijk wilt houden.
 - **Gietijzer** als je grote porties maakt en het gewicht geen bezwaar is.
 
-Hieronder staan een paar woks die volgens de winkel geschikt zijn voor inductie. Meer uitleg over materialen, maten en PFAS lees je in mijn gids [wokpan kiezen](/wokpan/).
+Meer uitleg over materialen, maten en PFAS lees je in mijn gids [wokpan kiezen](/wokpan/).

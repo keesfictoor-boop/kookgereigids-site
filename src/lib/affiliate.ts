@@ -12,7 +12,9 @@ export interface Product {
   afbeelding: string | null;
 }
 
-interface Winkel { label: string; siteId?: string; tag?: string }
+// 'toegestaan': alleen bol, Amazon.nl en winkels met een eigen affiliateprogramma (bijv. via Daisycon)
+// mogen in een productblok staan (afspraak eigenaar 29-10-2026).
+interface Winkel { label: string; toegestaan?: boolean; siteId?: string; tag?: string }
 
 // Deeplink van het bol partnerprogramma. Controleer dit formaat in het partnerportaal
 // zodra er een site-ID is.
@@ -34,14 +36,17 @@ function partnerLink(winkel: string, w: Winkel, url: string, naam: string): stri
   return null;
 }
 
+// Geeft alleen producten terug die in een productblok mogen: van een toegestane winkel én met een productfoto.
+// Zonder zulke producten toont de pagina geen productblok.
 export function getProducten(ids: string[] = []): Product[] {
   const alle = data.producten as Record<string, { naam: string; kort: string; winkel: string; url: string; afbeelding: string | null }>;
   const winkels = partners.winkels as Record<string, Winkel>;
-  return ids.map((id) => {
+  return ids.flatMap((id) => {
     const p = alle[id];
     if (!p) throw new Error(`Onbekend product in frontmatter: ${id}`);
     const w = winkels[p.winkel] ?? { label: p.winkel };
+    if (!w.toegestaan || !p.afbeelding) return [];
     const link = partnerLink(p.winkel, w, p.url, p.naam);
-    return { id, ...p, winkelLabel: w.label, href: link ?? p.url, affiliate: link !== null };
+    return [{ id, ...p, winkelLabel: w.label, href: link ?? p.url, affiliate: link !== null }];
   });
 }

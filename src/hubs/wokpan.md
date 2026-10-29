@@ -96,13 +96,3 @@ Hoe dat precies zit, wat "PFOA-vrij" wel en niet zegt en wat de overheid advisee
 - **Je kookt op inductie:** in alle gevallen een vlakke, magnetische bodem.
 
 Hoe je daarna een goede roerbak maakt, lees je in [roerbakken: zo doe je het thuis](/blog/roerbakken/).
-
-## De woks in deze gids
-
-Hieronder staan woks in verschillende materialen en prijsklassen, van een paar tientjes tot rond de honderd euro. Ze zijn allemaal volgens de winkel geschikt voor inductie. Ik koos ze op materiaal, bodem en openbare productinformatie, niet omdat ik er meer aan verdien. Prijzen veranderen; kijk bij de winkel voor de actuele prijs.
-
-- **de Buyer Mineral B (28 of 32 cm):** plaatstaal zonder coating, met een brede vlakke bodem. Voor wie de klassieke wok wil en wil inbranden.
-- **Skottsberg RVS (28 cm):** RVS zonder coating met een bodem van drie lagen. Weinig onderhoud.
-- **Skottsberg gietijzer (34 cm):** groot en zwaar (ruim 2,5 kilo), voorgebrand.
-- **Tefal Experience (28 cm):** aluminium met antiaanbaklaag, licht.
-- **BK Easy Induction (30 cm):** keramische antiaanbaklaag, die BK als PFAS-vrij verkoopt.

@@ -33,7 +33,7 @@ Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bij
 6. **Sitetekst in de jij-vorm.**
 7. **Geen sauna- of wellnessonderwerpen.**
 8. **Consumentenbond:** alleen openbare informatie, met bron; testuitslagen achter de betaalmuur niet overnemen.
-9. **Merken:** partnermerken niet bevoordelen; kies producten op spreiding van materiaal en prijs en op openbare productinformatie.
+9. **Merken:** partnermerken niet bevoordelen (zie ook de productregels bij 'Een artikel maken', stap 3); kies producten op spreiding van materiaal en prijs en op openbare productinformatie.
 10. **Geen geheimen** in commits of logs (de Pixabay-sleutel staat alleen als omgevingsvariabele `PIXABAY_API_KEY`).
 
 ## Het wave-systeem
@@ -50,14 +50,14 @@ Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bij
 
 - Tekst in `src/hubs/<slug>.md` (frontmatter zoals `src/hubs/wokpan.md`: title, description, intro, updatedDate, readingTime, image + bronvelden, producten).
 - Pagina: kopieer `src/pages/wokpan.astro` naar `src/pages/<slug>.astro` en pas aan: het importpad van de hub, de lijst `spokes` (slugs van bestaande artikelen onder deze gids), het broodkruimelpad, de tag en de koppen in de zijbalk.
-- Een gids is breed: het korte antwoord bovenaan, keuzecriteria, een materiaal- of soortentabel, maat, kookplaat, onderhoud en een productblok, met doorverwijzingen naar de artikelen eronder. Lengte 1800–2500 woorden.
+- Een gids is breed: het korte antwoord bovenaan, keuzecriteria, een materiaal- of soortentabel, maat, kookplaat, onderhoud en (alleen als het mag, zie stap 3 hieronder) een productblok, met doorverwijzingen naar de artikelen eronder. Lengte 1800–2500 woorden.
 - Voeg de gids toe waar hij hoort: de categoriekaart op de homepage (`src/pages/index.astro`) en `src/pages/koopadvies.astro` mogen een link naar de nieuwe gids krijgen (alleen die link aanpassen).
 
 ## Een artikel maken
 
 1. **Onderwerp** uit `planning.md` (zie 'Het wave-systeem'). Controleer met `ls src/content/blog src/hubs` dat het niet al bestaat.
 2. **Onderzoek** met WebSearch/WebFetch. Kijk wat Nederlandse zoekers vragen (de vragen in de wachtrij, "Mensen vragen ook" als je die vindt). Noteer per bewering de bron (URL) die je zelf geopend hebt.
-3. **Producten** (bij koopgidsen): 4–6 producten, verspreid over materiaal en prijs, bij voorkeur op bol.com. Open elke productpagina en neem alleen gegevens over die er staan. Voeg ze toe aan `src/data/producten.json` (zelfde vorm als de bestaande items; `afbeelding: null`, winkel `bol`, schone URL zonder trackingparameters) en zet de id's in de frontmatter onder `producten`. Geen productfoto's van winkels kopiëren.
+3. **Producten** (alleen bij koopgidsen, en alleen als het mag): **Productverwijzingen (besluit eigenaar 29-10-2026):** (1) verwijs alleen naar producten bij winkels waarmee we een affiliateprogramma hebben (later via Daisycon, na goedkeuring) of naar bol.com of Amazon.nl; geen links naar andere winkels of productpagina's van fabrikanten. (2) Maak alleen een productoverzicht als er van elk product een foto geplaatst kan worden die we mogen gebruiken. Kan dat niet, dan geen productblok en geen tekst als 'hieronder staan…'; beschrijf dan soorten pannen en waar je op let, zonder specifieke producten aan te wijzen. De code dwingt dit af: `src/lib/affiliate.ts` toont alleen producten van winkels met `toegestaan: true` in `affiliate.json` én met een `afbeelding`. Op dit moment heeft geen enkel product een toegestane foto, en bol.com blokkeert automatische controle; maak daarom **geen** productblok en noem geen specifieke producten als koopadvies, tot de eigenaar meldt dat productfoto's (via het partnerprogramma) beschikbaar zijn.
 4. **Schrijven** in `src/content/blog/<slug>.md`. Frontmatter zoals de bestaande artikelen (`title`, `description` (max ±160 tekens), `category`, `image`, `imageAlt`, `readingTime`, `pubDate` (vandaag), `intro`, optioneel `producten`). De `intro` geeft meteen het korte antwoord (2–3 zinnen, citeerbaar). Lengte: 1000–1800 woorden, afhankelijk van de vraag. Bronnen als Markdown-links in de tekst. Gebruik tabellen en genummerde stappen waar dat helpt.
 5. **Interne links:** minstens 2 links naar bestaande pagina's (zie `src/content/blog/`, `/pannensets/`, `/wokpan/`, `/keuzehulp/`, `/koopadvies/`), en voeg in 1 of 2 bestaande, passende artikelen een natuurlijke link naar het nieuwe artikel toe. Herschrijf bestaande pagina's verder niet.
 6. **Foto's:** 3 per artikel, van Pixabay:
