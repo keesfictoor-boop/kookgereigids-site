@@ -1,7 +1,7 @@
 {
   "_uitleg": "Partnergegevens per winkel. Alleen winkels met 'toegestaan': true mogen in een productblok staan: bol, Amazon.nl en winkels met een eigen affiliateprogramma (bijv. via Daisycon, na goedkeuring toevoegen). Een product verschijnt bovendien alleen als het een productfoto heeft ('afbeelding' in producten.json). Zolang de partnercode leeg is, linkt een product gewoon naar de winkel, zonder affiliatecode. bol: vul 'siteId' in (site-ID uit het bol partnerprogramma). Amazon: vul 'tag' in (Associates-tag, eindigt meestal op -21).",
   "winkels": {
-    "bol": { "label": "bol", "toegestaan": true, "siteId": "" },
+    "bol": { "label": "bol", "toegestaan": true, "siteId": "1554178" },
     "amazon": { "label": "Amazon.nl", "toegestaan": true, "tag": "" },
     "lidl": { "label": "Lidl" },
     "greenpan": { "label": "GreenPan" },
