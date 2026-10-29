@@ -42,6 +42,11 @@ Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 6974153 (merknaam op d
 | wok-vlammen.jpg | 4343863 | Engin_Akyurt | roerbakken (wave 3) |
 | groenten-snijden.jpg | 6552011 | MYCCF | roerbakken (wave 3) |
 | roerbakgroenten-zeef.jpg | 546808 | schuetz-mediendesign | roerbakken (wave 3) |
+| biefstuk-gietijzeren-pan.jpg | 3766548 | felix_w | koekenpan-kiezen |
+| koekenpan-rijst-broccoli.jpg | 2618192 | StockSnap | koekenpan-kiezen |
+| eieren-koekenpan.jpg | 1694991 | drnight2 | koekenpan-kiezen |
 | cooking.jpg, kitchen.jpg | Unsplash | Rick Barrett, Dane Deaner | home, over-ons, koopadvies |
 
 Afgewezen wave 3 (29-10-2026): 6660682 (logo op deksel), 573961 (mogelijk tekst op het mes), 1850233 (logo op kleding, persoon herkenbaar).
+
+Afgewezen koekenpan-kiezen (29-10-2026): 2969649 (merknaam leesbaar op de snijplank).

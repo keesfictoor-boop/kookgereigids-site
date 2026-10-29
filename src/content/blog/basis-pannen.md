@@ -33,7 +33,7 @@ Een kleine pan met één lange steel. Ideaal voor een saus, een beetje melk, een
 
 ![Twee gebakken eieren in een RVS-koekenpan](/assets/rvs-koekenpan-eieren.jpg)
 
-Voor alles wat je bakt: vlees, vis, eieren, groenten en pannenkoeken. Een koekenpan zit meestal **niet** in een kookpannenset, dus die koop je los. Dat is eigenlijk wel zo handig, want dan kies je zelf of je een antiaanbaklaag wilt of liever een pan zonder coating.
+Voor alles wat je bakt: vlees, vis, eieren, groenten en pannenkoeken. Een koekenpan zit meestal **niet** in een kookpannenset, dus die koop je los. Dat is eigenlijk wel zo handig, want dan kies je zelf of je een antiaanbaklaag wilt of liever een pan zonder coating. Hoe je die keuze maakt, lees je in [welke koekenpan past bij jou](/blog/koekenpan-kiezen/).
 
 ### 4. Kook je graag oosters? Een wok
 
