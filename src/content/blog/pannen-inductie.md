@@ -3,19 +3,23 @@ title: "Welke pannen zijn geschikt voor inductie? Zo weet je het zeker"
 description: "Welke pannen werken op inductie, welke niet, en hoe test je je eigen pannen? Met de magneettest, een materiaaltabel en het antwoord op gas versus inductie."
 category: "Pannen voor inductie"
 tagWarm: false
-image: "/assets/cooking.jpg"
-imageAlt: "Roestvrijstalen koekenpan met eten op een glazen kookplaat"
+image: "/assets/wok-op-inductie.jpg"
+imageAlt: "Groenten en vlees roerbakken in een wok op een losse inductiekookplaat"
 readingTime: 6
 pubDate: "2026-10-26"
 updatedDate: "2026-10-28"
 intro: "Pannen met een magnetische bodem werken op inductie: gietijzer, emaille op staal en RVS met een magnetische (sandwich)bodem. Aluminium, koper en glas werken alleen met een speciale inductiebodem, of helemaal niet. Met een magneet zie je het in tien seconden."
+imageCredit: "Fxq19910504"
+imageCreditUrl: "https://pixabay.com/users/Fxq19910504-2080391/"
+imageSourceUrl: "https://pixabay.com/photos/stir-fry-potato-floss-1797624/"
+imageSource: "Pixabay"
 ---
 
 Een nieuwe inductiekookplaat is heerlijk: snel, strak en makkelijk schoon te maken. Maar dan komt de vraag die iedereen stelt: *kunnen mijn pannen mee?* Het goede nieuws: dat zoek je zelf in een paar minuten uit, en je hoeft echt niet meteen alles te vervangen.
 
 ## Waarom werkt niet elke pan op inductie?
 
-Een inductiekookplaat wordt zelf niet heet. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Daarom heb je een pan nodig met een **magnetiseerbare bodem die helemaal vlak is** ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
+Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Het glas wordt alleen warm doordat de hete pan erop staat. Daarom heb je een pan nodig met een **magnetiseerbare bodem die helemaal vlak is** ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
 
 ## Welke materialen werken wel en niet?
 
@@ -32,15 +36,17 @@ Een inductiekookplaat wordt zelf niet heet. Onder het glas zit een spoel die een
 
 ### RVS: het grote misverstand
 
-Veel mensen denken: RVS is metaal, dus dat werkt wel. Helaas niet altijd. RVS van het type 18/10 (18% chroom, 10% nikkel) is van zichzelf in de regel **niet magnetisch** ([Carpenter Technology](https://www.carpentertechnology.com/blog/magnetic-properties-of-stainless-steels)). Een RVS-pan werkt alleen op inductie als er een magnetische bodem onder zit. Bij de meeste moderne RVS-pannen is dat zo, maar check het.
+Veel mensen denken: RVS is metaal, dus dat werkt wel. Helaas niet altijd. RVS van het type 18/10 (18% chroom, 10% nikkel) is van zichzelf in de regel **niet magnetisch** ([Carpenter Technology](https://www.carpentertechnology.com/blog/magnetic-properties-of-stainless-steels)). Een RVS-pan werkt alleen op inductie als er een magnetische bodem onder zit ([Eclipse Magnetics](https://www.eclipsemagnetics.com/resources/are-all-stainless-steels-magnetic/)). Veel RVS-pannen hebben zo’n bodem, maar check het altijd.
 
 Kookplaatfabrikant Siemens raadt aan om pannen met een **volledig magnetische bodem** te kiezen. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm ([Siemens](https://www.siemens-home.bsh-group.com/be/nl/service/online-hulp/hulp/kookplaten)).
 
 ## Zo test je je eigen pannen
 
+![Groenten bakken in een koekenpan op een inductiekookplaat](/assets/koekenpan-inductieplaat.jpg)
+
 ### 1. Zoek het inductiesymbool
 
-Kijk op de bodem, de verpakking of de handleiding. Het inductiesymbool lijkt op een **spiraal of een spoel met lussen** ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/gebruikstips)). Staat het erop, dan is de pan gemaakt voor inductie. Vaak staat er ook een rijtje warmtebronnen bij: gas, elektrisch, keramisch, inductie.
+Kijk op de bodem, de verpakking of de handleiding. Het inductiesymbool lijkt op een **spiraal of een spoel met lussen** ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/gebruikstips)). Staat het erop, dan heeft de fabrikant de pan voor inductie bedoeld. De magneettest is een goede extra check. Vaak staat er ook een rijtje warmtebronnen bij: gas, elektrisch, keramisch, inductie.
 
 ### 2. Doe de magneettest
 
@@ -56,9 +62,11 @@ Test de **hele onderkant**, niet alleen het midden. Bij sommige pannen zit er aa
 
 De maat op de doos (bijvoorbeeld 24 cm) gaat meestal over de **bovenrand**. De bodem is kleiner. En elke kookzone heeft een minimale panmaat: is de bodem te klein, dan herkent de plaat de pan niet.
 
-Hoe groot die minimale maat is, verschilt per kookplaat. Bij een Miele KM 6395 is dat bijvoorbeeld 10 cm voor kookpannen en 14,5 cm voor koekenpannen. Kijk dus in de handleiding van **jouw** kookplaat. Sommige fabrikanten geven zelfs een aparte ‘inductiebreedte’ op: GreenPan noemt voor een braadpan van 24 cm een inductiebreedte van 18 cm ([GreenPan](https://greenpan.nl/products/mayflower-set-9-delig)).
+Hoe groot die minimale maat is, verschilt per kookplaat en soms per kookzone. Kijk dus in de handleiding van **jouw** kookplaat. Sommige fabrikanten geven zelfs een aparte ‘inductiebreedte’ op: GreenPan noemt voor een braadpan van 24 cm een inductiebreedte van 18 cm ([GreenPan](https://greenpan.nl/products/mayflower-set-9-delig)).
 
 ## Kun je je oude pannen van gas op inductie gebruiken?
+
+![Koekenpan met donkere bodem op een strakke kookplaat](/assets/pan-op-kookplaat.jpg)
 
 Alleen als de bodem magnetisch is. Je oude gietijzeren braadpan of geëmailleerde soeppan doet het vrijwel zeker. Een oude aluminium koekenpan of een RVS-pan zonder magnetische bodem niet. Doe de magneettest, en vervang alleen de pannen die zakken voor de test. Dat scheelt geld en kastruimte.
 
@@ -68,7 +76,7 @@ Ja, bijna altijd. Een pan met een magnetische bodem werkt ook prima op gas, kera
 
 ## Wok op inductie: let op de bodem
 
-Wij koken graag oosters, dus voor ons is dit een belangrijke: kan een wok op inductie? Ja, als hij een **vlakke, magnetische bodem** heeft. Een klassieke wok met ronde bodem maakt te weinig contact met de vlakke kookplaat. Woks van plaatstaal of gietijzer met een platte bodem werken goed.
+Wij wokken veel, dus voor ons is dit een belangrijke: kan een wok op inductie? Ja, als hij een **vlakke, magnetische bodem** heeft. Een klassieke wok met ronde bodem maakt te weinig contact met de vlakke kookplaat. Woks van plaatstaal of gietijzer met een platte bodem werken goed.
 
 ## Wat als je kookplaat de pan niet herkent?
 
@@ -84,11 +92,10 @@ Blijft het onduidelijk, vraag dan de fabrikant van de pan of de kookplaat om adv
 ## Kort samengevat
 
 - Een pan werkt op inductie als de bodem **magnetisch en vlak** is.
-- **Gietijzer, emaille en plaatstaal** werken altijd; **RVS** alleen met een magnetische bodem.
+- **Gietijzer, emaille en plaatstaal** werken vrijwel altijd; **RVS** alleen met een magnetische bodem.
 - **Aluminium en koper** alleen met een inductiebodem; glas en aardewerk niet.
 - Test je pannen met een **magneet**, en vervang alleen wat niet werkt.
 - Inductiepannen werken ook op **gas**, andersom niet altijd.
 
 <div class="notice"><h3>Op zoek naar nieuwe pannen?</h3><p>In de <a href="/keuzehulp/">keuzehulp</a> vul je je kookplaat en kookstijl in en zie je welke pannen bij je passen. Twijfel je tussen een set en losse pannen, lees dan <a href="/blog/set-of-los/">pannenset of losse pannen</a>.</p></div>
 
-*Bronnen gecontroleerd op 28 oktober 2026.*

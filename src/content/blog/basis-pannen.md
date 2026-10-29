@@ -3,15 +3,19 @@ title: "Welke pannen heb je écht nodig? De basis voor elke keuken"
 description: "Met vier of vijf pannen kook je bijna alles. Welke pannen dat zijn, welke pan je waarvoor gebruikt en wat het verschil is tussen een koekenpan, hapjespan en wok."
 category: "Pannen kiezen"
 tagWarm: false
-image: "/assets/kitchen.jpg"
-imageAlt: "Kookpannen, steelpannen en koekenpannen op open houten keukenplanken"
+image: "/assets/wok-groenten.jpg"
+imageAlt: "Groenten roerbakken in een wok op een gasbrander, met een grote kookpan erachter"
 readingTime: 6
 pubDate: "2026-10-26"
 updatedDate: "2026-10-28"
-intro: "Voor de meeste huishoudens is dit genoeg: twee of drie kookpannen in verschillende maten, een steelpan en een goede koekenpan. Kook je graag oosters, zet dan een wok op je lijstje. Een braadpan of hapjespan is een fijne aanvulling, geen must."
+intro: "Voor de meeste huishoudens zijn twee of drie kookpannen genoeg. Met een steelpan en een goede koekenpan in de juiste maat, kun je al heel veel gerechten koken. Kook je graag oosters, zet dan een wok op je lijstje. Een braadpan of hapjespan is een fijne aanvulling, maar het is geen must. Wij hebben zelf jarenlang zonder een braadpan en hapjespan gekookt, zelfs toen we al veel in de keuken te vinden waren en we al flink waren aangestoken met het ‘kookvirus’."
+imageCredit: "Pexels"
+imageCreditUrl: "https://pixabay.com/users/Pexels-2286921/"
+imageSourceUrl: "https://pixabay.com/photos/cooking-wok-chinese-asian-food-1835369/"
+imageSource: "Pixabay"
 ---
 
-Er bestaan tientallen soorten pannen. Sudderpannen, sauteuses, grillpannen, paellapannen, tajines... Maar hoeveel daarvan gebruik je echt? Bij ons in Haarlem wordt elke dag gekookt, met twee kinderen en twee fulltime banen. Dan wil je geen kast vol pannen waar je eerst drie andere voor moet verschuiven. Je wilt de juiste paar.
+Er bestaan tientallen soorten pannen. Sudderpannen, sauteuses, grillpannen, paellapannen, tajines... Maar wees nou eens eerlijk, hoeveel daarvan gebruik je echt? Bij ons in Haarlem wordt elke dag gekookt, met twee kinderen en twee fulltime banen. Dan wil je geen kast vol pannen waar je eerst drie andere voor moet verschuiven. Je wilt de juiste paar. En ja, ook wij zijn schuldig aan het kopen van pannen die veel te weinig gebruikt worden!
 
 ## De basis: vier of vijf pannen
 
@@ -27,17 +31,21 @@ Een kleine pan met één lange steel. Ideaal voor een saus, een beetje melk, een
 
 ### 3. Een koekenpan
 
+![Twee gebakken eieren in een RVS-koekenpan](/assets/rvs-koekenpan-eieren.jpg)
+
 Voor alles wat je bakt: vlees, vis, eieren, groenten en pannenkoeken. Een koekenpan zit meestal **niet** in een kookpannenset, dus die koop je los. Dat is eigenlijk wel zo handig, want dan kies je zelf of je een antiaanbaklaag wilt of liever een pan zonder coating.
 
 ### 4. Kook je graag oosters? Een wok
 
-Wij koken graag uit de wereldkeuken, en het liefst oosters. Dan hoort een wok er wat mij betreft gewoon bij. Door de hoge, schuine wanden schep je ingrediënten snel om op hoog vuur, en heb je veel ruimte voor een flinke portie groenten en noedels. Kook je op inductie, kies dan een wok met een **vlakke, magnetische bodem**.
+Wij wokken veel en koken graag uit de wereldkeuken. Dan hoort een wok er wat mij betreft gewoon bij. Door de hoge, schuine wanden schep je ingrediënten snel om op hoog vuur, en heb je veel ruimte voor een flinke portie groenten en noedels. Kook je op inductie, kies dan een wok met een **vlakke, magnetische bodem**.
 
 ## Fijne aanvullingen (geen must)
 
+![Soep met groenten in een RVS-pan op een inductiekookplaat](/assets/soep-rvs-pan.jpg)
+
 - **Hapjespan:** een soort koekenpan met een hogere, rechte rand en vaak een deksel. Voor gerechten met saus, groenten, risotto of een eenpansgerecht.
 - **Braadpan of stoofpan:** een zware pan, vaak van gietijzer of geëmailleerd gietijzer, die warmte lang vasthoudt. Ideaal voor stoofvlees, soep en gerechten die in de oven verder garen.
-- **Hoge soeppan:** handig als je in grote hoeveelheden kookt of soep invriest.
+- **Hoge soeppan:** handig als je in grote hoeveelheden kookt of soep invriest. Ben je, net als wij, gek op soep? Dan is een hoge soeppan eerder basis dan luxe.
 
 ## Welke pan gebruik je waarvoor?
 
@@ -56,7 +64,7 @@ Wij koken graag uit de wereldkeuken, en het liefst oosters. Dan hoort een wok er
 Ze lijken op elkaar, maar ze doen iets anders.
 
 - Een **koekenpan** heeft een lage, vaak schuin oplopende rand. Daardoor kom je er makkelijk bij met een spatel en verdampt vocht snel: precies wat je wilt als je iets krokant wilt bakken.
-- Een **hapjespan** heeft een hogere, rechte rand en meestal een deksel. Daardoor past er meer in en spat er minder uit. Ideaal als je eerst iets aanbakt en het daarna laat sudderen in een saus.
+- Een **hapjespan** heeft een hogere, rechte rand en vaak een deksel. Daardoor past er meer in en spat er minder uit. Ideaal als je eerst iets aanbakt en het daarna laat sudderen in een saus.
 
 Vuistregel: **bakken = koekenpan, bakken én sudderen = hapjespan.** Heb je weinig ruimte? Dan kan een hapjespan met deksel een koekenpan voor een groot deel vervangen. Andersom lukt dat minder goed.
 
@@ -69,7 +77,8 @@ Twijfel je tussen die twee? Een koekenpan heeft een groot, vlak bakoppervlak: id
 Dat hangt af van met hoeveel mensen je eet en van je kookplaat. Een paar aandachtspunten:
 
 - **Kookpannen:** kijk naar de inhoud in liters, niet alleen naar de diameter. Een hoge pan van 20 cm kan meer bevatten dan een lage van 24 cm.
-- **Koekenpan:** de maat op de doos gaat over de bovenrand. Het bakoppervlak op de bodem is kleiner, zeker bij een schuine rand.
+- **Koekenpan:** de maat op de doos gaat over de bovenrand ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)). Het bakoppervlak op de bodem is kleiner, zeker bij een schuine rand.
+- **Kookplaat:** een pan moet passen bij de kookzone. Bij inductie geldt een minimale bodemmaat, die in de handleiding van je kookplaat staat.
 
 ### Welke maat koekenpan heb je nodig?
 
@@ -82,12 +91,11 @@ Demeyere/Zwilling geeft deze vuistregel, gemeten aan de bovenrand ([Zwilling](ht
 | 3-4 personen | 28 cm |
 | 4 of meer personen | 30-32 cm |
 
-Coolblue rekent wat ruimer: 24 cm voor 1 à 2 personen en 28 cm of groter voor een volle tafel ([Coolblue](https://www.coolblue.nl/advies/koekenpan-kiezen.html)). Twijfel je, neem dan de grotere maat. Maar let op: een pan van 32 cm past niet altijd naast andere pannen op je kookplaat.
-- **Kookplaat:** een pan moet passen bij de kookzone. Bij inductie geldt een minimale bodemmaat, die in de handleiding van je kookplaat staat.
+Coolblue rekent wat ruimer: 24 cm voor 1 à 2 personen en 28 cm of groter voor een volle tafel ([Coolblue](https://www.coolblue.nl/pannen/koekenpannen/bk)). Twijfel je, neem dan de grotere maat. Maar let op: volgens Coolblue kun je bij een pan van 32 cm de andere kookzones vaak niet tegelijk gebruiken ([Coolblue](https://www.coolblue.nl/advies/koekenpan-kiezen.html)).
 
 ## Set of losse pannen?
 
-Begin je helemaal opnieuw, dan is een **kookpannenset** vaak de makkelijkste en voordeligste manier om aan je kookpannen en steelpan te komen. De koekenpan en eventueel de wok koop je er los bij. Heb je al een paar goede pannen, vul dan alleen aan wat ontbreekt. Wanneer welke keuze goedkoper is, reken ik voor je uit in [pannenset of losse pannen](/blog/set-of-los/).
+Begin je helemaal opnieuw, dan is een [kookpannenset](/pannensets/) vaak de makkelijkste en voordeligste manier om aan je kookpannen en steelpan te komen. De koekenpan en eventueel de wok koop je er los bij. Heb je al een paar goede pannen, vul dan alleen aan wat ontbreekt. Wanneer welke keuze goedkoper is, reken ik voor je uit in [pannenset of losse pannen](/blog/set-of-los/).
 
 ## Kort samengevat
 

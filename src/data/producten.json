@@ -1,0 +1,68 @@
+{
+  "_uitleg": "Producten die in artikelen genoemd worden. Een artikel toont ze via 'producten: [id, ...]' in de frontmatter. 'afbeelding' blijft leeg tot er een productfoto is die we mogen gebruiken (bijv. via het partnerprogramma van de winkel). De affiliate-link wordt gemaakt in src/lib/affiliate.ts zodra er een partner-ID in src/data/affiliate.json staat.",
+  "producten": {
+    "tefal-duetto-4": {
+      "naam": "Tefal Duetto+ kookpannenset 4-delig",
+      "kort": "Vier RVS-kookpannen met glazen deksels; geschikt voor inductie.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/tefal-duetto-pannenset-4-delig-kookpannenset/9200000119891804/",
+      "afbeelding": null
+    },
+    "herzberg-12": {
+      "naam": "Herzberg RVS-pannenset met glazen deksels",
+      "kort": "Voordelige RVS-set voor inductie en gas.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/herzberg-pannenset-12-delig-voor-inductie-en-gas-vaatwasser-bestendig-rvs-met-glazen-deksels/9200000133030603/",
+      "afbeelding": null
+    },
+    "silvercrest-5": {
+      "naam": "SilverCrest RVS-pannenset 5-delig",
+      "kort": "Vijf RVS-pannen met deksels, voor alle kookplaten.",
+      "winkel": "lidl",
+      "url": "https://www.lidl.nl/p/silvercrest-rvs-pannenset-5-delig/p100409978",
+      "afbeelding": null
+    },
+    "bk-profiline-5": {
+      "naam": "BK Profiline pannenset 5-delig",
+      "kort": "Vijf RVS-pannen met sandwichbodem, zonder coating.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/bk-profiline-pannenset-5-delig-rvs-nductie/9200000002757685/",
+      "afbeelding": null
+    },
+    "bk-qlinair-5": {
+      "naam": "BK Q-linair Master Glas pannenset 5-delig",
+      "kort": "RVS-pannen met glazen deksels en afgietsysteem.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/bk-q-linair-master-glas-pannenset-5-delig-glazen-deksel-veilig-afgietsysteem-inductie/9200000002757689/",
+      "afbeelding": null
+    },
+    "wmf-comfortline-5": {
+      "naam": "WMF Comfort Line pannenset 5-delig",
+      "kort": "RVS-pannen met glazen deksels, universele bodem.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/wmf-comfort-line-pannenset-5-delig-rvs/9300000120126698/",
+      "afbeelding": null
+    },
+    "demeyere-classico3-5": {
+      "naam": "Demeyere Classico 3 kookpannenset 5-delig",
+      "kort": "Vier kookpotten met deksel en een steelpan, RVS met capsulebodem.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/demeyere-classico-3-kookpannenset-5-delig/9300000074934414/",
+      "afbeelding": null
+    },
+    "greenpan-mayflower-9": {
+      "naam": "GreenPan Mayflower set 9-delig",
+      "kort": "Pannen met keramische antiaanbaklaag; volgens GreenPan PFAS-vrij.",
+      "winkel": "greenpan",
+      "url": "https://greenpan.nl/products/mayflower-set-9-delig",
+      "afbeelding": null
+    },
+    "tefal-ingenio-ceram-8": {
+      "naam": "Tefal Ingenio Intens'Ceram pannenset 8-delig",
+      "kort": "Keramisch gecoate pannen met afneembare greep.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/tefal-ingenio-intens-ceram-pannenset-keramisch-anti-aanbaklaag-afneembare-handgreep-8-delig-inductie-pfas-vrij/9300000230366829/",
+      "afbeelding": null
+    }
+  }
+}

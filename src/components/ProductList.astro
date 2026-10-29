@@ -1,0 +1,27 @@
+---
+import { getProducten } from '../lib/affiliate';
+
+interface Props { ids?: string[]; titel?: string }
+const { ids = [], titel = 'De sets uit dit artikel' } = Astro.props;
+const producten = getProducten(ids);
+const heeftAffiliate = producten.some((p) => p.affiliate);
+const heeftAmazon = producten.some((p) => p.affiliate && p.winkel === 'amazon');
+---
+{producten.length > 0 && (
+<section class="product-list" aria-labelledby="producten-titel">
+  <h2 id="producten-titel">{titel}</h2>
+  <div class="product-grid">
+    {producten.map((p) => (
+      <article class="product-card">
+        {p.afbeelding
+          ? <img src={p.afbeelding} alt={p.naam} width="400" height="400" loading="lazy" decoding="async">
+          : <div class="product-placeholder" aria-hidden="true"><svg class="icon icon-large" viewBox="0 0 24 24" focusable="false"><path d="M5 9h14v10a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2ZM3 10H1m18 0h3M4 6h16M10 6V3h4v3"/></svg></div>}
+        <h3>{p.naam}</h3>
+        <p>{p.kort}</p>
+        <a class="button button-outline" href={p.href} rel={p.affiliate ? 'sponsored nofollow noopener' : 'nofollow noopener'} target="_blank">Bekijk bij {p.winkelLabel}</a>
+      </article>
+    ))}
+  </div>
+  {heeftAffiliate && <p class="small muted">Sommige links zijn affiliate-links: koop je via zo’n link, dan krijg ik een kleine commissie. Jij betaalt niets extra.{heeftAmazon && ' Als Amazon-partner verdien ik aan in aanmerking komende aankopen.'} <a href="/over-ons/#affiliate">Meer uitleg</a>.</p>}
+</section>
+)}

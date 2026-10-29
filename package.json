@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "foto": "node scripts/foto.mjs"
+    "foto": "node scripts/foto.mjs",
+    "redactie": "node scripts/redactie.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.7.4",

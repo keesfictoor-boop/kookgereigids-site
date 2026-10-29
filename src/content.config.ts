@@ -22,6 +22,8 @@ const blog = defineCollection({
     updatedDate: z.coerce.date().optional(),
     intro: z.string(),
     draft: z.boolean().default(false),
+    // Producten uit src/data/producten.json die onder het artikel als productblok verschijnen
+    producten: z.array(z.string()).default([]),
   }),
 });
 

@@ -468,3 +468,29 @@ a.hero-caption:hover, a.hero-caption:focus-visible { border-color: var(--color-p
 .chooser-list h3 { font-size: 1.15rem; margin-bottom: 6px; }
 .chooser-list p { font-size: .92rem; }
 @media (min-width: 900px) { .chooser { grid-template-columns: 1fr 1fr; } .chooser-actions { grid-column: 1 / -1; } }
+
+/* Artikelfoto onder de intro */
+.article-image { margin: 28px 0 36px; }
+.article-image img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: var(--radius-medium); display: block; }
+.article-image figcaption { margin-top: 8px; }
+
+/* Foto's midden in een artikel (Markdown-afbeeldingen) */
+.article-body p > img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: var(--radius-medium); margin: 8px 0 4px; }
+
+/* Rij met sfeerfoto's op vaste pagina's */
+.photo-row-wrap { margin-block: 8px 40px; }
+.photo-row { display: grid; gap: 14px; grid-template-columns: 1fr; }
+.photo-row figure { margin: 0; }
+.photo-row img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: var(--radius-medium); display: block; }
+@media (min-width: 700px) { .photo-row-2 { grid-template-columns: 1fr 1fr; } .photo-row-3 { grid-template-columns: repeat(3, 1fr); } }
+
+/* Productblokken onder een artikel */
+.product-list { margin-top: 44px; padding-top: 28px; border-top: 1px solid var(--color-border); }
+.product-list h2 { font-size: 1.6rem; margin-bottom: 18px; }
+.product-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.product-card { display: flex; flex-direction: column; gap: 8px; padding: 16px; border: 1px solid var(--color-border); border-radius: var(--radius-medium); background: var(--color-surface); }
+.product-card img, .product-placeholder { width: 100%; aspect-ratio: 1; object-fit: contain; border-radius: 6px; background: var(--color-soft); }
+.product-placeholder { display: grid; place-items: center; color: var(--color-muted); }
+.product-card h3 { font-size: 1.05rem; margin: 4px 0 0; }
+.product-card p { font-size: .85rem; color: var(--color-muted); flex: 1; }
+.product-card .button { align-self: flex-start; }

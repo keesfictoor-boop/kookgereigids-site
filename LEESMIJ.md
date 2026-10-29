@@ -52,6 +52,38 @@ Een notitieblok maak je met HTML in het Markdown-bestand:
 
 De nieuwste drie artikelen verschijnen automatisch in de slider op de homepage; alle artikelen staan op `/blog/` en in de sitemap.
 
+## Zelf tekst aanpassen (redactie)
+
+Dubbelklik op **`Redactie starten.bat`** in de projectmap, of typ in `site/`:
+
+```bash
+npm run redactie
+```
+
+De editor opent in je browser op http://localhost:4400:
+
+- **Links** kies je een pagina: artikelen, gidsen (zoals Pannenset kiezen) en de vaste pagina's.
+- **In het midden** pas je de tekst aan. Opslaan met de knop of **Ctrl+S**. In het vak erboven kun je een korte opmerking voor Claude typen.
+- **Rechts** zie je de pagina zoals hij op de site komt. Het voorbeeld ververst na het opslaan vanzelf.
+
+Bij opslaan gebeurt dit:
+
+1. Het bestand wordt bijgewerkt.
+2. De wijziging wordt als woord-diff (`[-oud-]` en `{+nieuw+}`) toegevoegd aan `seo-pijplijn/redactie/wijzigingen.md`, samen met je opmerking.
+3. Bij je volgende bericht aan Claude krijgt Claude die nieuwe wijzigingen automatisch te zien, via een hook in `.claude/settings.json`.
+
+**Waar je op let:**
+
+- **Artikelen en gidsen (Markdown):**
+  - Laat het blok bovenaan tussen de twee regels `---` heel. Daar staan de titel, de beschrijving en de intro tussen aanhalingstekens.
+  - `##` maakt een kopje, `**tekst**` maakt tekst vet, en een link schrijf je als `[linktekst](/adres/)`.
+  - De editor weigert op te slaan als het blok bovenaan beschadigd is.
+- **Vaste pagina's (HTML):**
+  - Verander alleen de leesbare tekst tussen de tags.
+  - De editor weigert op te slaan als het aantal tekens `<`, `>`, `{` of `}` verandert.
+
+Er wordt niets gepubliceerd. Publiceren gaat pas via een push, na akkoord.
+
 ## Foto's ophalen (Pixabay, of Pexels)
 
 Eenmalig: kopieer `.env.example` naar `.env` en vul `PIXABAY_API_KEY=` in (sleutel staat na inloggen op https://pixabay.com/api/docs/). `.env` wordt nooit gecommit. Met een `PEXELS_API_KEY` kun je ook Pexels gebruiken (`--bron pexels`); Pexels gaf in oktober 2026 geen nieuwe sleutels uit.

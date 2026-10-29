@@ -1,0 +1,9 @@
+{
+  "_uitleg": "Partnergegevens per winkel. Zolang de partnercode leeg is, linkt een productblok gewoon naar de winkel, zonder affiliatecode en zonder 'gesponsord'-melding. bol: vul 'siteId' in (site-ID uit het bol partnerprogramma). Amazon: vul 'tag' in (je Associates-tag, eindigt meestal op -21).",
+  "winkels": {
+    "bol": { "label": "bol", "siteId": "" },
+    "amazon": { "label": "Amazon.nl", "tag": "" },
+    "lidl": { "label": "Lidl" },
+    "greenpan": { "label": "GreenPan" }
+  }
+}
