@@ -20,6 +20,7 @@ De cloudroutine kloont ook de privé-repo `kookgereigids-project` (meestal naast
 - `seo-pijplijn/data/runs/run-02/`: nieuwere run met ChatGPT-citaties per vraag.
 - `seo-pijplijn/output/run-02/content/research/` en `output/run-02/wave3/research/`: al gecontroleerd onderzoek (PFAS, coatings, ECHA, prijzen, wokbronnen). Hergebruik die bronnen, maar open ze zelf opnieuw voordat je ze citeert.
 - `seo-pijplijn/data/wetenschap/bronnen.json`: wetenschappelijke publicaties die al gebruikt en beoordeeld zijn.
+- `seo-pijplijn/data/wetenschap/zoekprofielen.json`: vaste zoekprofielen per gids (thema's, officiële bronnen, zoektermen).
 - `seo-pijplijn/scripts/wetenschap_zoeken.py`: zoekt wetenschappelijke literatuur in **Europe PMC** (geen sleutel nodig) en **OpenAlex** (sleutel als omgevingsvariabele `OPENALEX_API_KEY`; ontbreekt of faalt die, dan alleen Europe PMC). Zie 'Wetenschappelijke bronnen' hieronder.
 
 Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bijbehorende vragen en zoekwoorden mee in je opbouw. Ontbreekt de repo, ga dan door met de zoekwoorden in `planning.md` en meld dat in het logboek.
@@ -42,11 +43,14 @@ Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bij
 Bij elke bewering over gezondheid, materialen, hitte of voedingswaarde zoek je naast de officiële bronnen ook in de literatuur:
 
 1. **Eerst hergebruiken:** kijk in `bronnen.json` of er al een beoordeelde publicatie is voor de bewering.
-2. **Zoeken:** vanuit de map `seo-pijplijn` van de privé-repo: `python scripts/wetenschap_zoeken.py zoek "<Engelse zoekterm>" --onderwerp <slug> --max 10` (eventueel `--vanaf 2015` of `--synoniemen`). Open-access-tekst lezen: `python scripts/wetenschap_zoeken.py tekst <doi-of-PMCID>`. De uitvoer komt in `data/wetenschap/zoekresultaten/`; dat is werkruimte, niet committen (de privé-repo is alleen-lezen).
-3. **Beoordelen:** lees minstens de samenvatting, bij een kernclaim liever de volledige tekst. Geen preprints, geen teruggetrokken artikelen, geen conclusies over een specifiek product uit onderzoek naar alleen een materiaal of een labsituatie.
-4. **Citeren** met een DOI-link in de tekst (`[Achternaam e.a., jaar](https://doi.org/...)`), niet met een link naar Europe PMC of OpenAlex.
-5. **Registreren:** schrijf elke nieuw gebruikte publicatie in `redactie/logboek.md` (DOI/PMID, de bewering die hij steunt, samenvatting of volledige tekst gelezen). Een lokale sessie neemt die over in `bronnen.json`.
-6. **De onafhankelijke controle** opent elke wetenschappelijke bron en controleert dat die de bewering echt steunt.
+2. **Zoekprofiel:** kijk eerst welk profiel bij de gids hoort: `python scripts/wetenschap_zoeken.py profiel <gids-id>` (bijv. `H5`; zonder id een overzicht). Dat toont per thema de beweringen, de officiële bronnen (eerst openen), vaste Engelse zoektermen en aandachtspunten (`data/wetenschap/zoekprofielen.json`). Met `--zoek` draai je alle zoektermen van het profiel (`--max 5` per term). Gebruik alleen de thema's die je artikel echt nodig heeft.
+3. **Zoeken (aanvullend):** vanuit de map `seo-pijplijn` van de privé-repo: `python scripts/wetenschap_zoeken.py zoek "<Engelse zoekterm>" --onderwerp <slug> --max 10` (eventueel `--vanaf 2015` of `--synoniemen`). Open-access-tekst lezen: `python scripts/wetenschap_zoeken.py tekst <doi-of-PMCID>`. De uitvoer komt in `data/wetenschap/zoekresultaten/`; dat is werkruimte, niet committen (de privé-repo is alleen-lezen).
+4. **Beoordelen:** lees minstens de samenvatting, bij een kernclaim liever de volledige tekst. Geen preprints, geen teruggetrokken artikelen, geen conclusies over een specifiek product uit onderzoek naar alleen een materiaal of een labsituatie.
+5. **Citeren** met een DOI-link in de tekst (`[Achternaam e.a., jaar](https://doi.org/...)`), niet met een link naar Europe PMC of OpenAlex.
+6. **Registreren:** zet elke gebruikte publicatie als één regel in `redactie/logboek.md`, precies in dit formaat:
+   `- BRON: doi=10.xxxx/yyyy | artikel=<slug> | toegang=samenvatting | claim=<de bewering in één zin>` (`toegang` is `samenvatting` of `volledige_tekst`).
+   Een lokale sessie neemt die regels automatisch over in `bronnen.json` (`python scripts/wetenschap_zoeken.py importeer`).
+7. **De onafhankelijke controle** opent elke wetenschappelijke bron en controleert dat die de bewering echt steunt.
 
 ## Het wave-systeem
 
