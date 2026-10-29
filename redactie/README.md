@@ -5,7 +5,9 @@ Deze map wordt niet gebouwd (Astro gebruikt alleen `src/` en `public/`). Hij bev
 ## Bestanden
 
 - `tone-of-voice.md`: toon en de **enige** toegestane persoonlijke feiten van de schrijver (Kees).
-- `onderwerpen.md`: de wachtrij. Neem steeds het eerste onderwerp met status `open`.
+- `planning.md`: **de leidende werklijst**, in de volgorde van de waves (bouwlijst en architectuur). Neem steeds de eerste regel met status `open` waarvan de gids al klaar is.
+- `briefs/`: per onderdeel een korte brief (zie 'Brief eerst').
+- `onderwerpen.md`: vervallen (oude wachtrij); niet meer gebruiken.
 - `logboek.md`: wat er per run gedaan is (onderwerp, bronnen, controle-uitslag, gepubliceerd of niet).
 - `fotobronnen.md`: register van alle gebruikte foto's (Pixabay-id, fotograaf, pagina) en afgewezen foto's.
 
@@ -19,7 +21,7 @@ De cloudroutine kloont ook de privé-repo `kookgereigids-project` (meestal naast
 - `seo-pijplijn/output/run-02/content/research/` en `output/run-02/wave3/research/`: al gecontroleerd onderzoek (PFAS, coatings, ECHA, prijzen, wokbronnen). Hergebruik die bronnen, maar open ze zelf opnieuw voordat je ze citeert.
 - `seo-pijplijn/data/wetenschap/bronnen.json`: wetenschappelijke publicaties die al gebruikt en beoordeeld zijn.
 
-Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bijbehorende vragen en zoekwoorden mee in je opbouw. Ontbreekt de repo, ga dan door met `onderwerpen.md` en meld dat in het logboek.
+Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bijbehorende vragen en zoekwoorden mee in je opbouw. Ontbreekt de repo, ga dan door met de zoekwoorden in `planning.md` en meld dat in het logboek.
 
 ## Vaste regels (niet onderhandelbaar)
 
@@ -34,9 +36,26 @@ Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bij
 9. **Merken:** partnermerken niet bevoordelen; kies producten op spreiding van materiaal en prijs en op openbare productinformatie.
 10. **Geen geheimen** in commits of logs (de Pixabay-sleutel staat alleen als omgevingsvariabele `PIXABAY_API_KEY`).
 
+## Het wave-systeem
+
+- **Volgorde:** `planning.md` volgt de bouwlijst (`build-list.json`): eerst wave 2, dan wave 3, per gids eerst de gids en dan de artikelen eronder. Wijk daar niet van af, behalve:
+  - **Afhankelijkheid:** een artikel (spoke) pas als zijn gids gepubliceerd is (`depends_on` in de bouwlijst). Is de gids nog niet klaar, neem dan de gids zelf.
+  - **Bestaat al:** staat het onderwerp al (grotendeels) op de site, zet de status op `afgedekt door <url>` en neem de volgende regel.
+- **Zoekwoorden en vragen:** zoek de regel op in `architecture.json` (op `spoke_slug` of `hub_slug`). Gebruik `primary_question`, `question_cluster` en `keywords` voor de opbouw; de primaire vraag wordt de H1 of een vroege H2 met een direct antwoord.
+- **Interne links volgens de architectuur:** neem de links uit `link_graph` over: elk artikel linkt naar zijn gids (`spoke_to_hub`) en naar de broertjes die `spoke_spoke_links` noemt, als die al bestaan. Een nieuwe gids linkt naar al zijn bestaande artikelen; in die artikelen voeg je één link terug naar de gids toe (dat mag, ook al zijn het bestaande pagina's).
+- **Samenvoegen:** sommige koopgidsen in de bouwlijst zijn varianten (bijv. "klein of groot formaat", "elektrisch"). Zou een aparte pagina grotendeels herhalen wat in de gids of een ander artikel staat, maak dan geen aparte pagina maar voeg een korte, bruikbare sectie toe aan de gids. Status: `samengevoegd in <url>`. Ook dat gaat langs de onafhankelijke controle.
+- **Brief eerst:** schrijf vóór het artikel een korte brief in `redactie/briefs/<actie-id>-<slug>.md` (doelgroep, primaire vraag, vragencluster, zoekwoorden, opbouw met H2's, interne links, bronnen die je gaat gebruiken), naar het voorbeeld van `kookgereigids-project/seo-pijplijn/output/run-02/wave3/wokpan.md`. Het artikel volgt de brief.
+
+## Een gids maken (type 'gids')
+
+- Tekst in `src/hubs/<slug>.md` (frontmatter zoals `src/hubs/wokpan.md`: title, description, intro, updatedDate, readingTime, image + bronvelden, producten).
+- Pagina: kopieer `src/pages/wokpan.astro` naar `src/pages/<slug>.astro` en pas aan: het importpad van de hub, de lijst `spokes` (slugs van bestaande artikelen onder deze gids), het broodkruimelpad, de tag en de koppen in de zijbalk.
+- Een gids is breed: het korte antwoord bovenaan, keuzecriteria, een materiaal- of soortentabel, maat, kookplaat, onderhoud en een productblok, met doorverwijzingen naar de artikelen eronder. Lengte 1800–2500 woorden.
+- Voeg de gids toe waar hij hoort: de categoriekaart op de homepage (`src/pages/index.astro`) en `src/pages/koopadvies.astro` mogen een link naar de nieuwe gids krijgen (alleen die link aanpassen).
+
 ## Een artikel maken
 
-1. **Onderwerp** uit `onderwerpen.md`. Controleer met `ls src/content/blog src/hubs` dat het niet al bestaat; anders volgende onderwerp.
+1. **Onderwerp** uit `planning.md` (zie 'Het wave-systeem'). Controleer met `ls src/content/blog src/hubs` dat het niet al bestaat.
 2. **Onderzoek** met WebSearch/WebFetch. Kijk wat Nederlandse zoekers vragen (de vragen in de wachtrij, "Mensen vragen ook" als je die vindt). Noteer per bewering de bron (URL) die je zelf geopend hebt.
 3. **Producten** (bij koopgidsen): 4–6 producten, verspreid over materiaal en prijs, bij voorkeur op bol.com. Open elke productpagina en neem alleen gegevens over die er staan. Voeg ze toe aan `src/data/producten.json` (zelfde vorm als de bestaande items; `afbeelding: null`, winkel `bol`, schone URL zonder trackingparameters) en zet de id's in de frontmatter onder `producten`. Geen productfoto's van winkels kopiëren.
 4. **Schrijven** in `src/content/blog/<slug>.md`. Frontmatter zoals de bestaande artikelen (`title`, `description` (max ±160 tekens), `category`, `image`, `imageAlt`, `readingTime`, `pubDate` (vandaag), `intro`, optioneel `producten`). De `intro` geeft meteen het korte antwoord (2–3 zinnen, citeerbaar). Lengte: 1000–1800 woorden, afhankelijk van de vraag. Bronnen als Markdown-links in de tekst. Gebruik tabellen en genummerde stappen waar dat helpt.
@@ -69,4 +88,4 @@ Verwerk alle moet-punten en de zinvolle beter-punten. Na aanpassingen laat je ee
 
 - **GOEDGEKEURD en build geslaagd:** commit op `main` en push. Een push naar `main` zet de site automatisch live (Cloudflare Pages). Commitbericht in het Nederlands, eindigend met de regel `Co-Authored-By: Claude <noreply@anthropic.com>`.
 - **Na 3 rondes nog AFGEKEURD:** niet op `main`. Push naar een branch `concept/<slug>` en schrijf in het logboek waarom.
-- Zet in `onderwerpen.md` de status op `gepubliceerd (<datum>)` of `concept (<reden>)`, en vul `logboek.md` aan. Commit die wijzigingen mee.
+- Zet in `planning.md` de status op `gepubliceerd (<datum>): <url>`, `concept (<reden>)`, `afgedekt door <url>` of `samengevoegd in <url>`, en vul `logboek.md` aan met het actie-id (bijv. H3.S03). Commit de brief, de planning en het logboek mee.
