@@ -9,6 +9,18 @@ Deze map wordt niet gebouwd (Astro gebruikt alleen `src/` en `public/`). Hij bev
 - `logboek.md`: wat er per run gedaan is (onderwerp, bronnen, controle-uitslag, gepubliceerd of niet).
 - `fotobronnen.md`: register van alle gebruikte foto's (Pixabay-id, fotograaf, pagina) en afgewezen foto's.
 
+## Onderzoeksdata (privé-repo, alleen lezen)
+
+De cloudroutine kloont ook de privé-repo `kookgereigids-project` (meestal naast deze repo, bijv. `../kookgereigids-project`; zoek anders met `ls ..`). Gebruik die als **bron**, schrijf er niet in:
+
+- `seo-pijplijn/data/architecture.json`: welke vraag/spoke bij welke gids hoort, met zoekwoorden, volumes en geplande interne links (`link_graph`).
+- `seo-pijplijn/data/questions.json` en `seo-pijplijn/data/universe.json`: vragen van zoekers, zoekwoorden per subonderwerp; `seo-pijplijn/data/raw/aio_per_question.json`: welke bronnen Google AI-overzichten citeren.
+- `seo-pijplijn/data/runs/run-02/`: nieuwere run met ChatGPT-citaties per vraag.
+- `seo-pijplijn/output/run-02/content/research/` en `output/run-02/wave3/research/`: al gecontroleerd onderzoek (PFAS, coatings, ECHA, prijzen, wokbronnen). Hergebruik die bronnen, maar open ze zelf opnieuw voordat je ze citeert.
+- `seo-pijplijn/data/wetenschap/bronnen.json`: wetenschappelijke publicaties die al gebruikt en beoordeeld zijn.
+
+Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bijbehorende vragen en zoekwoorden mee in je opbouw. Ontbreekt de repo, ga dan door met `onderwerpen.md` en meld dat in het logboek.
+
 ## Vaste regels (niet onderhandelbaar)
 
 1. **Eerlijk.** Geen aannames als feit. Onderscheid gecontroleerd, schatting en onbekend. Ontbreekt onderbouwing, laat de bewering weg.
