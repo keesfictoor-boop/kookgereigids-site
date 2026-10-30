@@ -10,6 +10,7 @@ export interface Product {
   href: string;
   affiliate: boolean;
   afbeelding: string | null;
+  ean?: string;
 }
 
 // 'toegestaan': alleen bol, Amazon.nl en winkels met een eigen affiliateprogramma (bijv. via Daisycon)
@@ -39,7 +40,7 @@ function partnerLink(winkel: string, w: Winkel, url: string, naam: string): stri
 // Geeft alleen producten terug die in een productblok mogen: van een toegestane winkel én met een productfoto.
 // Zonder zulke producten toont de pagina geen productblok.
 export function getProducten(ids: string[] = []): Product[] {
-  const alle = data.producten as Record<string, { naam: string; kort: string; winkel: string; url: string; afbeelding: string | null }>;
+  const alle = data.producten as Record<string, { naam: string; kort: string; winkel: string; url: string; afbeelding: string | null; ean?: string }>;
   const winkels = partners.winkels as Record<string, Winkel>;
   return ids.flatMap((id) => {
     const p = alle[id];

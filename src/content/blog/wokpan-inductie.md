@@ -18,9 +18,9 @@ Heb je een nieuwe inductiekookplaat? Dan vraag je je misschien af: kan mijn wok 
 
 ## Kun je wokken op inductie?
 
-Ja. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarvoor moet de bodem van de pan **magnetisch** zijn en **helemaal vlak en glad**. Anders herkent de kookplaat de pan slecht of niet ([Bosch, handleiding inductiekookplaat](https://media3.bsh-group.com/Documents/9001874615_E.pdf)).
+Ja. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarvoor moet de bodem van de pan **magnetisch** zijn en **helemaal vlak en glad**. Anders herkent de kookplaat de pan slecht of niet.
 
-Een traditionele wok heeft een **bolle bodem**. Die is gemaakt voor een gasvlam, waar de hitte zich op de bodem concentreert ([Wikipedia: Wok](https://en.wikipedia.org/wiki/Wok)). Op een vlakke inductieplaat raakt zo'n wok de plaat maar op een klein stukje, en dat is te weinig contact. Voor inductie kies je dus een wok met een **vlakke bodem**.
+Een traditionele wok heeft een **bolle bodem**. Die is gemaakt voor een gasvlam, waar de hitte zich op de bodem concentreert. Op een vlakke inductieplaat raakt zo'n wok de plaat maar op een klein stukje, en dat is te weinig contact. Voor inductie kies je dus een wok met een **vlakke bodem**.
 
 ## Welke wokpan werkt op inductie?
 
@@ -38,7 +38,7 @@ Twijfel je over een wok die je al hebt? Houd er een magneet tegen. Blijft hij st
 
 ## Past de wok op je kookzone?
 
-Let bij een wok op inductie niet alleen op de maat die op de doos staat. Die gaat over de **bovenrand**; de bodem is veel kleiner. Bij de woks in [mijn wokgids](/wokpan/) waarvan de bodemmaat bekend is, is die volgens de productinformatie 13,7 tot 20 cm, bij een bovenmaat van 28 tot 34 cm. Elke kookzone heeft een minimale panmaat; die vind je in de handleiding van je kookplaat. Een te kleine bodem op een grote zone wordt soms niet herkend of verwarmt minder goed; kies dan een kleinere zone ([Bosch](https://media3.bsh-group.com/Documents/9001874615_E.pdf)).
+Let bij een wok op inductie niet alleen op de maat die op de doos staat. Die gaat over de **bovenrand**; de bodem is veel kleiner. Bij de woks in [mijn wokgids](/wokpan/) is de bodem ongeveer 14 tot 20 cm, terwijl de bovenrand 28 tot 34 cm is. Elke kookzone heeft een minimale panmaat; die vind je in de handleiding van je kookplaat. Een te kleine bodem op een grote zone wordt soms niet herkend of verwarmt minder goed; kies dan een kleinere zone.
 
 Kijk ook naar het gewicht. Op inductie hoef je je wok niet op te tillen om te schudden (daarover zo meer), maar een gietijzeren wok van 34 cm weegt ruim 2,5 kilo. Een carbonstalen wok van 32 cm is lichter, ongeveer 1,8 kilo.
 
@@ -46,10 +46,10 @@ Kijk ook naar het gewicht. Op inductie hoef je je wok niet op te tillen om te sc
 
 Wokken op inductie vraagt een paar aanpassingen:
 
-1. **Laat de wok op de plaat staan.** Til je de pan op, dan merkt de kookplaat dat er geen pan meer staat. De stand gaat knipperen en na een tijdje schakelt de zone uit ([Bosch](https://media3.bsh-group.com/Documents/9001874615_E.pdf)). Veel opgooien en schudden, zoals bij een wok boven een grote vlam, werkt hier dus minder goed. Schep je eten om met een spatel of wokschep.
-2. **Verwarm de wok voor, maar niet leeg op de hoogste stand.** Inductie wordt heel snel heet. De Buyer raadt voor zijn stalen pannen op inductie een matige stand aan, zonder booster, en de lege pan niet te oververhitten; vooral grote pannen kunnen anders vervormen ([De Buyer](https://www.cuisinstore.com/media/notices/de-buyer/notice-poele-mineral-b-11859.pdf)). Ook Bosch raadt af leeg kookgerei te verhitten ([Bosch](https://media3.bsh-group.com/Documents/9001874615_E.pdf)). Een wok met antiaanbaklaag verhit je sowieso niet leeg ([Test Aankoop](https://www.test-aankoop.be/woning-energie/wokpannen/hoe-kiezen)). Roerbakken doe je wel op hoge temperatuur. Volgens het Voedingscentrum is de pan heet genoeg als een druppel water opspringt en snel verdampt ([Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx)).
+1. **Laat de wok op de plaat staan.** Til je de pan op, dan merkt de kookplaat dat er geen pan meer staat. De stand gaat knipperen en na een tijdje schakelt de zone uit. Veel opgooien en schudden, zoals bij een wok boven een grote vlam, werkt hier dus minder goed. Schep je eten om met een spatel of wokschep.
+2. **Verwarm de wok voor, maar niet leeg op de hoogste stand.** Inductie wordt heel snel heet. Gebruik daarom een matige stand zonder booster, en verhit de lege pan niet te lang. Vooral grote pannen kunnen anders vervormen. Een wok met antiaanbaklaag verhit je sowieso niet leeg. Roerbakken doe je wel op hoge temperatuur: de pan is heet genoeg als een druppel water opspringt en snel verdampt.
 3. **Bak in kleine porties.** Op inductie wordt vooral de bodem heet, en die is bij een wok klein. Te veel tegelijk in de pan, en je groenten gaan stoven in plaats van bakken.
-4. **Gebruik een olie die tegen hitte kan.** Bij wokken worden pan en olie 180 tot 230 °C. Het Voedingscentrum raadt dan zonnebloemolie of roerbakolie aan; extra vierge olijfolie is minder geschikt ([Voedingscentrum: oliën](https://www.voedingscentrum.nl/encyclopedie/olien.aspx)).
+4. **Gebruik een olie die tegen hitte kan.** Bij wokken worden pan en olie 180 tot 230 °C. Het [Voedingscentrum](https://www.voedingscentrum.nl/encyclopedie/olien.aspx) raadt dan zonnebloemolie of roerbakolie aan; extra vierge olijfolie is minder geschikt.
 
 ![Bord met geroerbakte garnalen, peultjes, wortel en broccoli](/assets/garnalen-roerbak.jpg)
 
@@ -57,7 +57,7 @@ Meer over de techniek en de volgorde lees je in [roerbakken: zo doe je het thuis
 
 ### Bestaan er speciale wokzones voor inductie?
 
-Ja, maar ze zijn zeldzaam. Sommige fabrikanten verkopen een inductie-wokkookzone met een kuil en een bijpassende wok, bijvoorbeeld BORA ([productblad PKIW3](https://www.bora.com/product-documentation/product-information-sheets/pis-pkiw3-pkiw3ab-en.pdf)) en Miele ([CSWP 1400](https://shop.miele.co.nz/en/miele-product-types/care-collection/cswp-1400-induction-wok-zid07132780)). Dat zijn aparte inbouwtoestellen met een prijskaartje dat daarbij hoort. Voor een gewone inductiekookplaat is een wok met vlakke bodem de oplossing.
+Ja, maar ze zijn zeldzaam. Sommige fabrikanten verkopen een inductie-wokkookzone met een kuil en een bijpassende wok, bijvoorbeeld BORA en Miele. Dat zijn aparte inbouwtoestellen met een prijskaartje dat daarbij hoort. Voor een gewone inductiekookplaat is een wok met vlakke bodem de oplossing.
 
 ## Welke wok kies je voor inductie?
 

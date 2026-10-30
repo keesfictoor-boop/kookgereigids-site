@@ -19,11 +19,32 @@ const heeftBol = producten.some((p) => p.winkel === 'bol');
           : <div class="product-placeholder" aria-hidden="true"><svg class="icon icon-large" viewBox="0 0 24 24" focusable="false"><path d="M5 9h14v10a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2ZM3 10H1m18 0h3M4 6h16M10 6V3h4v3"/></svg></div>}
         <h3>{p.naam}</h3>
         <p>{p.kort}</p>
+        {p.winkel === 'bol' && p.ean && <p class="product-prijs" data-bol-ean={p.ean} hidden></p>}
         <a class="button button-outline" href={p.href} rel={p.affiliate ? 'sponsored nofollow noopener' : 'nofollow noopener'} target="_blank">Bekijk bij {p.winkelLabel}</a>
       </article>
     ))}
   </div>
   {heeftAffiliate && <p class="small muted">Sommige links zijn affiliate-links: koop je via zo’n link, dan krijg ik een kleine commissie. Jij betaalt niets extra.{heeftAmazon && ' Als Amazon-partner verdien ik aan in aanmerking komende aankopen.'} <a href="/over-ons/#affiliate">Meer uitleg</a>.</p>}
-  {heeftBol && <p class="small muted">Productfoto’s en productinformatie komen van bol. Je koopt deze producten bij bol, niet bij mij.</p>}
+  {heeftBol && <p class="small muted">Productfoto’s, prijzen en productinformatie komen van bol. Je koopt deze producten bij bol, niet bij mij.</p>}
 </section>
 )}
+
+<script>
+  // De prijs komt bij elk bezoek van bol (functions/api/prijzen.js), zodat hij klopt. Lukt dat niet, dan blijft alleen de knop staan.
+  const velden = [...document.querySelectorAll<HTMLElement>('[data-bol-ean]')];
+  if (velden.length > 0) {
+    const eans = [...new Set(velden.map((v) => v.dataset.bolEan))].join(',');
+    const euro = new Intl.NumberFormat('nl-NL', { style: 'currency', currency: 'EUR' });
+    fetch(`/api/prijzen?ean=${eans}`)
+      .then((res) => (res.ok ? res.json() : { prijzen: {} }))
+      .then(({ prijzen }) => {
+        for (const veld of velden) {
+          const prijs = prijzen[veld.dataset.bolEan ?? ''];
+          if (typeof prijs !== 'number') continue;
+          veld.textContent = `${euro.format(prijs)} bij bol`;
+          veld.hidden = false;
+        }
+      })
+      .catch(() => {});
+  }
+</script>

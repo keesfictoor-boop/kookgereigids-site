@@ -16,6 +16,16 @@ Schrijf in duidelijk, toegankelijk en natuurlijk Nederlands. Help lezers begrijp
 - **Korte introducties.** Geen clichés, geen herhaling, geen algemene zinnen die weinig toevoegen.
 - **Duidelijke tussenkoppen**, en waar nuttig opsommingen of vergelijkingstabellen.
 
+## Bronnen en leesbaarheid (eigenaar 30-10-2026, leidend)
+
+- **Gebruik bronnen om informatie te halen, niet om ernaar te verwijzen.** Maximaal één uitgaande bronlink per pagina, en alleen als die de lezer echt helpt (meestal een publieksvriendelijke pagina van het Voedingscentrum of de Rijksoverheid). Geen link is ook goed. Links naar bol en andere winkels in productblokken tellen niet mee.
+- **Geen bronnenlijsten**, geen regels met "Bronnen:", geen auteursnamen, jaartallen van studies, DOI's, wetsartikelen of namen van commissies in de tekst.
+- **Schrijf als een ervaren kok die het uitlegt aan een vriend**, niet als een onderzoeker. Vertel wat de lezer moet weten en doen, niet hoe je het hebt uitgezocht.
+- **Vermijd vaktermen** als een gewoon woord ook kan: niet "polymeriseert", "sol-gel", "W/m·K", "voedselcontactmaterialen" of "ontleden". Is een term nodig om te kiezen (RVS, PTFE, inductie), leg hem dan kort uit.
+- **Niet in elke alinea "volgens fabrikant X".** Geef het advies gewoon. Noem een merk alleen als het echt alleen voor dat merk geldt, zoals een garantie.
+- **Bij gezondheid mag je de instantie wel noemen**, zonder link als de ene link al gebruikt is, want daar wil de lezer weten wie het zegt: "het Voedingscentrum", "de Rijksoverheid". Maak de bewering niet stelliger dan de bron. Gebruik geen labdetails: "in labtests" is genoeg.
+- De onderbouwing verdwijnt niet: elke bewering heeft een bron in de brief en het logboek, en de onafhankelijke controle kijkt die na.
+
 ## SEO
 
 - Elk artikel draait om **één duidelijke zoekvraag** en de behoefte erachter: wil de lezer iets **kiezen, vergelijken, gebruiken of onderhouden**?

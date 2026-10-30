@@ -19,9 +19,9 @@ Toch gaat het vaak net mis: de groenten worden slap, er staat een plasje vocht i
 
 ## Wat is roerbakken?
 
-**Roerbakken** of **wokken** is kleine stukjes groente, vlees, vis of kip in een klein beetje olie heel snel gaar bakken op hoge temperatuur ([Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx)). Je blijft omscheppen, zodat alles gelijkmatig gaart en niets aanbrandt.
+**Roerbakken** of **wokken** is kleine stukjes groente, vlees, vis of kip in een klein beetje olie heel snel gaar bakken op hoge temperatuur. Je blijft omscheppen, zodat alles gelijkmatig gaart en niets aanbrandt.
 
-De techniek komt uit China. De rokerige smaak die je in een goed restaurant proeft, *wok hei*, wordt vooral met de Kantonese keuken in verband gebracht ([Wikipedia: Stir frying](https://en.wikipedia.org/wiki/Stir_frying)).
+De techniek komt uit China. De rokerige smaak die je in een goed restaurant proeft, *wok hei*, wordt vooral met de Kantonese keuken in verband gebracht.
 
 ### Is er verschil tussen wokken en roerbakken?
 
@@ -32,14 +32,14 @@ Nauwelijks. Wokken is roerbakken in een wok. Je kunt ook roerbakken in een grote
 ![Ui wordt gesneden naast bakjes met gesneden kool, edamame en paprika](/assets/groenten-snijden.jpg)
 
 1. **Snijd alles vooraf.** Als de pan eenmaal heet is, heb je geen tijd meer om te snijden. Zet alles klaar in bakjes. Snijd in kleine, gelijke stukjes, zodat alles tegelijk gaar is.
-2. **Maak de pan goed heet.** Doe een druppel water in de pan: springt die op en verdampt hij snel, dan is de pan heet genoeg ([Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx)). Heb je een wok met antiaanbaklaag? Verhit die dan niet leeg op de hoogste stand ([Test Aankoop](https://www.test-aankoop.be/woning-energie/wokpannen/hoe-kiezen)).
-3. **Gebruik weinig olie, en de juiste.** Ongeveer een eetlepel is genoeg ([Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx)). Bij wokken worden pan en olie 180 tot 230 °C. Neem dan een olie die daartegen kan, zoals zonnebloemolie of roerbakolie. Extra vierge olijfolie en lijnzaadolie roken al onder 180 °C ([Voedingscentrum: oliën](https://www.voedingscentrum.nl/encyclopedie/olien.aspx)).
+2. **Maak de pan goed heet.** Doe een druppel water in de pan: springt die op en verdampt hij snel, dan is de pan heet genoeg. Heb je een wok met antiaanbaklaag? Verhit die dan niet leeg op de hoogste stand.
+3. **Gebruik weinig olie, en de juiste.** Ongeveer een eetlepel is genoeg. Bij wokken worden pan en olie 180 tot 230 °C. Neem dan een olie die daartegen kan, zoals zonnebloemolie of roerbakolie. Extra vierge olijfolie en lijnzaadolie roken al onder 180 °C.
 4. **Niet te veel tegelijk.** Doe je te veel in de pan, dan zakt de temperatuur, komt er vocht uit de groenten en gaan ze stoven. Bak liever in twee keer.
 5. **Blijf omscheppen.** Met een spatel of wokschep, zodat alles even lang in contact met de hete bodem is.
 
 ## In welke volgorde gaat alles erin?
 
-Het Voedingscentrum houdt deze volgorde aan ([Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx)):
+Het [Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx) houdt deze volgorde aan:
 
 1. **Eerst vlees, kip, vis, garnalen of een vleesvervanger.** Wok dit tot het gaar is.
 2. **Dan stevige groenten**, zoals wortel, broccoli of sperziebonen. Die kun je ook kort voorkoken.
@@ -56,20 +56,20 @@ Het liefst een **wok**. Op gas mag dat een wok met bolle bodem zijn, op inductie
 
 Heb je geen wok? Dan kan een grote [koekenpan](/blog/basis-pannen/) ook. Bak dan in kleinere porties, want het bakoppervlak is kleiner en je ingrediënten vallen er sneller uit.
 
-Kook je op inductie, til de pan dan niet steeds op om te schudden. Staat er een tijdje geen pan op de zone, dan schakelt de kookplaat die uit ([Bosch](https://media3.bsh-group.com/Documents/9001874615_E.pdf)). Meer daarover in [wokpan voor inductie](/blog/wokpan-inductie/).
+Kook je op inductie, til de pan dan niet steeds op om te schudden. Staat er een tijdje geen pan op de zone, dan schakelt de kookplaat die uit. Meer daarover in [wokpan voor inductie](/blog/wokpan-inductie/).
 
 ## Is roerbakken gezond?
 
-Roerbakken heeft een paar dingen mee: je gebruikt weinig olie en je kunt er veel groenten in kwijt. Het Voedingscentrum schrijft dat je bij wokken veel smaak en vitamines behoudt ([Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx)).
+Roerbakken heeft een paar dingen mee: je gebruikt weinig olie en je kunt er veel groenten in kwijt. Het Voedingscentrum schrijft dat je bij wokken veel smaak en vitamines behoudt.
 
-Over die vitamines is wel een kanttekening te maken. In een laboratoriumonderzoek met broccoli ging bij roerbakken wel een deel van de vitamine C verloren, al minder dan bij koken. Bij stomen was er geen duidelijk verlies ([Yuan e.a., 2009](https://doi.org/10.1631/jzus.b0920051)). Dat was één onderzoek met één groente, dus het zegt niet alles. Maar roerbakken is niet de "beste" manier om vitamines te bewaren; wel een smakelijke manier om veel groenten te eten.
+Eén kanttekening: in een onderzoek met broccoli ging bij roerbakken wel wat vitamine C verloren, al minder dan bij koken. Bij stomen was er geen duidelijk verlies. Dat was één onderzoek met één groente, dus het zegt niet alles. Roerbakken is niet de "beste" manier om vitamines te bewaren, maar wel een smakelijke manier om veel groenten te eten.
 
 Hoe gezond je roerbak is, hangt ook sterk af van wat erin gaat: veel groenten en niet te veel olie.
 
 ## Veelgestelde vragen
 
 **Hoe heet moet de wok zijn?**
-Zo heet dat een druppel water opspringt en snel verdampt ([Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx)). Laat de olie niet roken of walmen ([Voedingscentrum: oliën](https://www.voedingscentrum.nl/encyclopedie/olien.aspx)).
+Zo heet dat een druppel water opspringt en snel verdampt. Laat de olie niet roken of walmen.
 
 **Wat is het beste vlees om te roerbakken?**
 Vlees dat snel gaar en mals is, in dunne reepjes: kipfilet, kippendij of een mals stuk rund- of varkensvlees. Stoofvlees heeft juist lang de tijd nodig en past niet bij roerbakken.

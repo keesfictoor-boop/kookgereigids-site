@@ -19,7 +19,7 @@ Een nieuwe inductiekookplaat is heerlijk: snel, strak en makkelijk schoon te mak
 
 ## Waarom werkt niet elke pan op inductie?
 
-Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Het glas wordt alleen warm doordat de hete pan erop staat. Daarom heb je een pan nodig met een **magnetiseerbare bodem die helemaal vlak is** ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/inductie-pannen)). Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
+Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Het glas wordt alleen warm doordat de hete pan erop staat. Daarom heb je een pan nodig met een **magnetiseerbare bodem die helemaal vlak is**. Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
 
 ## Welke materialen werken wel en niet?
 
@@ -36,9 +36,9 @@ Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een s
 
 ### RVS: het grote misverstand
 
-Veel mensen denken: RVS is metaal, dus dat werkt wel. Helaas niet altijd. RVS van het type 18/10 (18% chroom, 10% nikkel) is van zichzelf in de regel **niet magnetisch** ([Carpenter Technology](https://www.carpentertechnology.com/blog/magnetic-properties-of-stainless-steels)). Een RVS-pan werkt alleen op inductie als er een magnetische bodem onder zit ([Eclipse Magnetics](https://www.eclipsemagnetics.com/resources/are-all-stainless-steels-magnetic/)). Veel RVS-pannen hebben zo’n bodem, maar check het altijd.
+Veel mensen denken: RVS is metaal, dus dat werkt wel. Helaas niet altijd. RVS van het type 18/10 (18% chroom, 10% nikkel) is van zichzelf in de regel **niet magnetisch**. Een RVS-pan werkt alleen op inductie als er een magnetische bodem onder zit. Veel RVS-pannen hebben zo’n bodem, maar check het altijd.
 
-Kookplaatfabrikant Siemens raadt aan om pannen met een **volledig magnetische bodem** te kiezen. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm ([Siemens](https://www.siemens-home.bsh-group.com/be/nl/service/online-hulp/hulp/kookplaten)).
+Kies het liefst een pan met een **volledig magnetische bodem**. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
 
 ## Zo test je je eigen pannen
 
@@ -46,23 +46,23 @@ Kookplaatfabrikant Siemens raadt aan om pannen met een **volledig magnetische bo
 
 ### 1. Zoek het inductiesymbool
 
-Kijk op de bodem, de verpakking of de handleiding. Het inductiesymbool lijkt op een **spiraal of een spoel met lussen** ([Consumentenbond](https://www.consumentenbond.nl/inductiekookplaat/gebruikstips)). Staat het erop, dan heeft de fabrikant de pan voor inductie bedoeld. De magneettest is een goede extra check. Vaak staat er ook een rijtje warmtebronnen bij: gas, elektrisch, keramisch, inductie.
+Kijk op de bodem, de verpakking of de handleiding. Het inductiesymbool lijkt op een **spiraal of een spoel met lussen**. Staat het erop, dan heeft de fabrikant de pan voor inductie bedoeld. De magneettest is een goede extra check. Vaak staat er ook een rijtje warmtebronnen bij: gas, elektrisch, keramisch, inductie.
 
 ### 2. Doe de magneettest
 
 Pak een koelkastmagneet en houd hem tegen de bodem van de pan.
 
 - **Blijft hij stevig plakken?** Dan werkt de pan op inductie.
-- **Plakt hij maar een beetje?** Dan werkt de pan minder goed ([Kassa](https://www.bnnvara.nl/kassa/artikelen/koken-op-inductie-waarom-zijn-sommige-pannen-ongeschikt)).
+- **Plakt hij maar een beetje?** Dan werkt de pan minder goed.
 - **Valt hij eraf?** Dan werkt de pan niet.
 
-Test de **hele onderkant**, niet alleen het midden. Bij sommige pannen zit er aan de rand te weinig magnetisch materiaal ([NEFF](https://www.neff-home.com/nl/service/probleemoplossing-en-foutcodes/inductiekookplaten/gebruik)). Het is misschien wel de goedkoopste test die er bestaat. Je koelkast mist die magneet heus niet even.
+Test de **hele onderkant**, niet alleen het midden. Bij sommige pannen zit er aan de rand te weinig magnetisch materiaal. Het is misschien wel de goedkoopste test die er bestaat. Je koelkast mist die magneet heus niet even.
 
 ### 3. Controleer de bodemmaat
 
 De maat op de doos (bijvoorbeeld 24 cm) gaat meestal over de **bovenrand**. De bodem is kleiner. En elke kookzone heeft een minimale panmaat: is de bodem te klein, dan herkent de plaat de pan niet.
 
-Hoe groot die minimale maat is, verschilt per kookplaat en soms per kookzone. Kijk dus in de handleiding van **jouw** kookplaat. Sommige fabrikanten geven zelfs een aparte ‘inductiebreedte’ op: GreenPan noemt voor een braadpan van 24 cm een inductiebreedte van 18 cm ([GreenPan](https://greenpan.nl/products/mayflower-set-9-delig)).
+Hoe groot die minimale maat is, verschilt per kookplaat en soms per kookzone. Kijk dus in de handleiding van **jouw** kookplaat.
 
 ## Kun je je oude pannen van gas op inductie gebruiken?
 

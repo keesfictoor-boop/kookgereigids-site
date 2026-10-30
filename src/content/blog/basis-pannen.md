@@ -77,12 +77,12 @@ Twijfel je tussen die twee? Een koekenpan heeft een groot, vlak bakoppervlak: id
 Dat hangt af van met hoeveel mensen je eet en van je kookplaat. Een paar aandachtspunten:
 
 - **Kookpannen:** kijk naar de inhoud in liters, niet alleen naar de diameter. Een hoge pan van 20 cm kan meer bevatten dan een lage van 24 cm.
-- **Koekenpan:** de maat op de doos gaat over de bovenrand ([Zwilling](https://www.zwilling.com/nl/magazine/productkennis-kookgerei/cookware_choosing-a-pan.html)). Het bakoppervlak op de bodem is kleiner, zeker bij een schuine rand.
+- **Koekenpan:** de maat op de doos gaat over de bovenrand. Het bakoppervlak op de bodem is kleiner, zeker bij een schuine rand.
 - **Kookplaat:** een pan moet passen bij de kookzone. Bij inductie geldt een minimale bodemmaat, die in de handleiding van je kookplaat staat.
 
 ### Welke maat koekenpan heb je nodig?
 
-Demeyere/Zwilling geeft deze vuistregel, gemeten aan de bovenrand ([Zwilling](https://www.zwilling.com/nl/demeyere-5-plus-koekenpan-32-cm-40850-860-0/40850-860-0.html)):
+Demeyere/Zwilling geeft deze vuistregel, gemeten aan de bovenrand:
 
 | Huishouden | Maat koekenpan |
 |---|---|
@@ -91,7 +91,7 @@ Demeyere/Zwilling geeft deze vuistregel, gemeten aan de bovenrand ([Zwilling](ht
 | 3-4 personen | 28 cm |
 | 4 of meer personen | 30-32 cm |
 
-Coolblue rekent wat ruimer: 24 cm voor 1 à 2 personen en 28 cm of groter voor een volle tafel ([Coolblue](https://www.coolblue.nl/pannen/koekenpannen/bk)). Twijfel je, neem dan de grotere maat. Maar let op: volgens Coolblue kun je bij een pan van 32 cm de andere kookzones vaak niet tegelijk gebruiken ([Coolblue](https://www.coolblue.nl/advies/koekenpan-kiezen.html)).
+Sommige winkels rekenen wat ruimer: 24 cm voor 1 à 2 personen en 28 cm of groter voor een volle tafel. Twijfel je, neem dan de grotere maat. Let wel op: bij een pan van 32 cm kun je de andere kookzones vaak niet tegelijk gebruiken.
 
 ## Set of losse pannen?
 

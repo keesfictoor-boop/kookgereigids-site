@@ -18,7 +18,7 @@ producten: ["herzberg-12", "tefal-duetto-4", "silvercrest-5", "greenpan-mayflowe
 
 Je staat in de winkel (of, eerlijker gezegd, je scrolt 's avonds op de bank door een webshop) en ziet sets van €45 én van €300. Allebei RVS, allebei geschikt voor inductie, allebei met glimmende deksels op de foto. Wat is dan het verschil? En hoeveel moet je nu echt uitgeven?
 
-Eerlijk is eerlijk: met twee kinderen en allebei een fulltime baan wil ik niet uren vergelijken. Ik wil een set die na een werkdag gewoon doet wat hij moet doen. Daarom zet ik hieronder op een rij wat je in elke prijsklasse krijgt, waar het prijsverschil in zit en wanneer meer betalen zin heeft. Alles hieronder komt uit productinformatie, garantievoorwaarden en prijzen die ik zelf op de winkelpagina's heb bekeken.
+Eerlijk is eerlijk: met twee kinderen en allebei een fulltime baan wil ik niet uren vergelijken. Ik wil een set die na een werkdag gewoon doet wat hij moet doen. Daarom zet ik hieronder op een rij wat je in elke prijsklasse krijgt, waar het prijsverschil in zit en wanneer meer betalen zin heeft.
 
 ## Het korte antwoord: wat kost een goede pannenset?
 
@@ -46,9 +46,8 @@ Deze indeling heb ik gemaakt op basis van de prijzen op de productpagina's. Prij
 | €150–€200 | BK Q-linair Master Glas 5-delig | RVS-pannen, glazen deksels met afgietsysteem |
 | €150–€200 | Demeyere Classico 3 5-delig | 5 RVS-pannen, 4 deksels, bodem van 3 lagen |
 
-Bronnen: de productpagina's op [bol.com](https://www.bol.com/), [lidl.nl](https://www.lidl.nl/p/silvercrest-rvs-pannenset-5-delig/p100409978) en [greenpan.nl](https://greenpan.nl/products/mayflower-set-9-delig).
 
-Opvallend: dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. De BK Profiline 5-delig was toen ik keek in de webshop van BK zelf bijna twee keer zo duur als op bol.com, voor dezelfde set ([bk.nl](https://bk.nl/products/profiline-pannenset-5-delig)). Een hoge "adviesprijs" zegt dus weinig over de kwaliteit.
+Opvallend: dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. De BK Profiline 5-delig was toen ik keek in de webshop van BK zelf bijna twee keer zo duur als op bol.com, voor dezelfde set. Een hoge "adviesprijs" zegt dus weinig over de kwaliteit.
 
 ## Waar betaal je eigenlijk voor?
 
@@ -73,7 +72,6 @@ Een set met een **antiaanbaklaag** (bijvoorbeeld een keramische coating) bakt ma
 | Tefal | 2 jaar; RVS met sterren-markering op de bodem 5 of 10 jaar | 2 jaar tegen blaren en afbladderen |
 | GreenPan (Mayflower) | levenslang op materiaal- en fabricagefouten | 5 jaar |
 
-Bronnen: garantievoorwaarden en productpagina's van [BK](https://bk.nl/products/profiline-pannenset-5-delig), [Demeyere/Zwilling](https://www.zwilling.com/nl/customer-service/garantie.html), [Tefal](https://tefal.nl/potsandpans-product-guidance) en [GreenPan](https://greenpan.nl/products/mayflower-set-9-delig).
 
 Let op: bij alle merken vallen normale slijtage, krassen en verkleuring buiten de garantie. En de garantie die een winkel noemt, wijkt soms af van wat de fabrikant zegt. Kijk daarom altijd naar de voorwaarden van de fabrikant zelf, en bewaar je aankoopbewijs.
 

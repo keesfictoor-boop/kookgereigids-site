@@ -17,7 +17,7 @@ Bij ons thuis wordt veel gewokt. We houden van de wereldkeuken, en vooral van de
 
 Zelf koken we op een AEG-inductiekookplaat en wokken we met een RVS-wok van Demeyere, de Apollo 7. Dat betekent niet dat dit voor iedereen de beste keuze is: er zijn goede redenen om voor carbonstaal, gietijzer of een antiaanbaklaag te gaan, en die lees je hieronder.
 
-Maar welke wok koop je? In de winkel zie je woks van een paar tientjes tot een paar honderd euro, van zwart staal, glanzend RVS, zwaar gietijzer of met een antiaanbaklaag. Op deze pagina zet ik op een rij waar je op let, welk materiaal bij jou past, welke bodem je nodig hebt voor jouw kookplaat en welke maat handig is. De feiten op deze pagina komen uit productinformatie, handleidingen van fabrikanten en officiële bronnen; waar ik zelf advies geef, zeg ik dat. Ik test zelf geen pannen.
+Maar welke wok koop je? In de winkel zie je woks van een paar tientjes tot een paar honderd euro, van zwart staal, glanzend RVS, zwaar gietijzer of met een antiaanbaklaag. Op deze pagina zet ik op een rij waar je op let, welk materiaal bij jou past, welke bodem je nodig hebt voor jouw kookplaat en welke maat handig is. Ik test zelf geen pannen.
 
 ## Waar let je op bij een wokpan?
 
@@ -43,29 +43,29 @@ Vijf dingen bepalen of een wok bij je past:
 
 ### Carbonstaal: de klassieker
 
-Een klassieke wok is gemaakt van **koolstofstaal** (carbonstaal, ook plaatstaal genoemd) of gietijzer. Koolstofstaal is betaalbaar, relatief licht en wordt snel heet ([Wikipedia: Wok](https://en.wikipedia.org/wiki/Wok)). Het heeft geen coating. Je brandt de wok eerst in: daarbij vormt olie een dunne, harde laag op het metaal die beschermt tegen roest en ervoor zorgt dat eten minder plakt ([Virginia Tech](https://news.vt.edu/articles/2024/08/cast-iron-myths.html)). Hoe vaker je hem gebruikt en hoe donkerder hij wordt, hoe minder er aanbakt ([De Buyer, gebruiksaanwijzing](https://www.cuisinstore.com/media/notices/de-buyer/notice-poele-mineral-b-11859.pdf)). Op inductie raadt De Buyer een matige stand aan, zonder booster, en de lege pan niet te oververhitten. Hoe je dat doet, lees je in [wok inbranden](/blog/wok-inbranden/).
+Een klassieke wok is gemaakt van **koolstofstaal** (carbonstaal, ook plaatstaal genoemd) of gietijzer. Koolstofstaal is betaalbaar, relatief licht en wordt snel heet. Het heeft geen coating. Je brandt de wok eerst in: daarbij vormt olie een dunne, harde laag op het metaal die beschermt tegen roest en ervoor zorgt dat eten minder plakt. Hoe vaker je hem gebruikt en hoe donkerder hij wordt, hoe minder er aanbakt. Kook je op inductie, gebruik dan een matige stand zonder booster en verhit de lege pan niet te lang. Hoe inbranden gaat, lees je in [wok inbranden](/blog/wok-inbranden/).
 
-Het nadeel: een carbonstalen wok kan roesten als je hem nat laat staan, en hij mag niet in de vaatwasser ([De Buyer](https://www.cuisinstore.com/media/notices/de-buyer/notice-poele-mineral-b-11859.pdf)).
+Het nadeel: een carbonstalen wok kan roesten als je hem nat laat staan, en hij mag niet in de vaatwasser.
 
 ### RVS
 
-Dit is het type wok dat wij thuis gebruiken. Een **RVS-wok** (roestvrij staal) hoef je niet in te branden: een afwas met warm water en afwasmiddel is genoeg voor het eerste gebruik ([Demeyere](https://www.zwilling.com/nl/magazine/merken-inhoud/demeyere-content/maintenance-stainless-steel-wok.html)). Hij roest niet en vaak mag hij in de vaatwasser. Wel geleidt RVS warmte veel slechter dan koolstofstaal of gietijzer: ongeveer 15 tegenover 40 tot 55 W/m·K ([Engineering ToolBox](https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html)). Daarom hebben veel RVS-pannen een bodem of kern van aluminium of koper. Reken erop dat je in RVS wat meer vet en geduld nodig hebt om aanbakken te voorkomen.
+Dit is het type wok dat wij thuis gebruiken. Een **RVS-wok** (roestvrij staal) hoef je niet in te branden: een afwas met warm water en afwasmiddel is genoeg voor het eerste gebruik. Hij roest niet en vaak mag hij in de vaatwasser. Wel geeft RVS warmte zo'n drie keer slechter door dan koolstofstaal of gietijzer. Daarom hebben veel RVS-pannen een bodem of kern van aluminium of koper. Reken erop dat je in RVS wat meer vet en geduld nodig hebt om aanbakken te voorkomen.
 
 ### Gietijzer
 
-**Gietijzer** houdt de warmte lang vast en is heel stevig. Westerse gietijzeren woks zijn dik en zwaar; Chinese gietijzeren woks zijn veel dunner ([Wikipedia: Wok](https://en.wikipedia.org/wiki/Wok)). De gietijzeren wok van 34 cm verderop weegt ruim 2,5 kilo: schudden en omscheppen gaat daar niet makkelijk mee. Veel gietijzeren pannen worden voorgebrand geleverd ([Lodge](https://lodgecastiron.com/discover/cleaning-and-care/cast-iron/all-about-seasoning)).
+**Gietijzer** houdt de warmte lang vast en is heel stevig. Westerse gietijzeren woks zijn dik en zwaar; Chinese gietijzeren woks zijn veel dunner. De gietijzeren wok van 34 cm verderop weegt ruim 2,5 kilo: schudden en omscheppen gaat daar niet makkelijk mee. Veel gietijzeren pannen worden voorgebrand geleverd.
 
 ### Antiaanbak: PTFE of keramisch
 
-Een wok met **antiaanbaklaag** is meestal van aluminium, zoals de twee antiaanbakwoks verderop: licht en snel warm. Je hoeft hem niet in te branden ([Test Aankoop](https://www.test-aankoop.be/woning-energie/wokpannen/hoe-kiezen)), en eten laat makkelijk los. Maar roerbakken vraagt juist veel hitte, en een antiaanbaklaag houdt niet van heel hoge temperaturen: verhit hem niet leeg ([Test Aankoop](https://www.test-aankoop.be/woning-energie/wokpannen/hoe-kiezen)). Bovendien slijt de laag na verloop van tijd. Wil je een wok die jaren meegaat en echt heet mag worden, dan is een ongecoate wok de betere keuze.
+Een wok met **antiaanbaklaag** is meestal van aluminium, zoals de twee antiaanbakwoks verderop: licht en snel warm. Je hoeft hem niet in te branden, en eten laat makkelijk los. Maar roerbakken vraagt juist veel hitte, en een antiaanbaklaag houdt niet van heel hoge temperaturen: verhit hem niet leeg. Bovendien slijt de laag na verloop van tijd. Wil je een wok die jaren meegaat en echt heet mag worden, dan is een ongecoate wok de betere keuze.
 
 ## Vlakke of bolle bodem?
 
 ![Kok schept groenten om in een bolle wok boven een open vuur](/assets/wok-boven-vuur.jpg)
 
-Een traditionele wok heeft een **bolle bodem**. Die werkt het best op een gasvlam of wokbrander, waar de hitte op de bodem geconcentreerd is. Op een elektrische kookplaat of inductie werkt een **vlakke bodem** beter ([Wikipedia: Wok](https://en.wikipedia.org/wiki/Wok)).
+Een traditionele wok heeft een **bolle bodem**. Die werkt het best op een gasvlam of wokbrander, waar de hitte op de bodem geconcentreerd is. Op een elektrische kookplaat of inductie werkt een **vlakke bodem** beter.
 
-Op een gewone inductiekookplaat is dat geen voorkeur maar een eis. De bodem moet magnetisch zijn en helemaal vlak en glad, anders herkent de kookplaat de pan slecht of niet ([Bosch, handleiding inductiekookplaat](https://media3.bsh-group.com/Documents/9001874615_E.pdf)). Een bolle wok raakt de plaat maar op een klein stukje. Meer daarover lees je in [wokpan voor inductie](/blog/wokpan-inductie/).
+Op een gewone inductiekookplaat is dat geen voorkeur maar een eis. De bodem moet magnetisch zijn en helemaal vlak en glad, anders herkent de kookplaat de pan slecht of niet. Een bolle wok raakt de plaat maar op een klein stukje. Meer daarover lees je in [wokpan voor inductie](/blog/wokpan-inductie/).
 
 Kook je op gas en wil je toch een bolle wok, dan heb je een wokring nodig zodat hij stabiel staat.
 
@@ -83,9 +83,9 @@ Bij roerbakken heb je geen deksel nodig. Een deksel is handig als je ook stooft 
 
 ## Een wokpan zonder PFAS
 
-"PFAS-vrij" staat op steeds meer woks. Wat betekent dat? Een wok **zonder antiaanbaklaag**, dus kaal carbonstaal, gietijzer of RVS, heeft geen coating en dus ook geen PFAS-coating. Bij een wok met **keramische antiaanbaklaag** gaat het meestal om zogenoemde sol-gel-lagen, waarin in onderzoek geen fluor werd gevonden ([Rossi e.a., 2022](https://doi.org/10.1007/s11998-022-00611-3)); 'PFAS-vrij' blijft wel een bewering van de fabrikant. Een klassieke antiaanbaklaag van **PTFE** valt volgens de definitie die de OESO in 2021 opstelde onder PFAS ([Wang e.a., 2021](https://doi.org/10.1021/acs.est.1c06896)).
+"PFAS-vrij" staat op steeds meer woks. Wat betekent dat? Een wok **zonder antiaanbaklaag**, dus kaal carbonstaal, gietijzer of RVS, heeft geen coating en dus ook geen PFAS-coating. Een wok met **keramische antiaanbaklaag** is meestal zonder PFAS, maar dat blijft een bewering van de fabrikant. Een klassieke antiaanbaklaag van **PTFE** valt wel onder PFAS.
 
-Hoe dat precies zit, wat "PFOA-vrij" wel en niet zegt en wat de overheid adviseert, lees je uitgebreid in [pannensets voor inductie én PFAS-vrij koken](/blog/pannenset-inductie-pfas-vrij/). Dat geldt net zo goed voor een wok.
+Wat "PFOA-vrij" wel en niet zegt en wat de overheid adviseert, lees je in [pannensets voor inductie én PFAS-vrij koken](/blog/pannenset-inductie-pfas-vrij/). Dat geldt net zo goed voor een wok.
 
 ## Welke wok past bij jou?
 
