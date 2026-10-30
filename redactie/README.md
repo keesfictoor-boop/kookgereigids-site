@@ -21,6 +21,7 @@ De cloudroutine kloont ook de privé-repo `kookgereigids-project` (meestal naast
 - `seo-pijplijn/output/run-02/content/research/` en `output/run-02/wave3/research/`: al gecontroleerd onderzoek (PFAS, coatings, ECHA, prijzen, wokbronnen). Hergebruik die bronnen, maar open ze zelf opnieuw voordat je ze citeert.
 - `seo-pijplijn/data/wetenschap/bronnen.json`: wetenschappelijke publicaties die al gebruikt en beoordeeld zijn.
 - `seo-pijplijn/data/wetenschap/zoekprofielen.json`: vaste zoekprofielen per gids (thema's, officiële bronnen, zoektermen).
+- `seo-pijplijn/data/wetenschap/officiele-bronnen.json`: register van officiële bronnen met per bewering de **vaste formulering**, de pagina's die hem gebruiken en waar je op moet letten. Zie 'Wetenschappelijke bronnen' hieronder.
 - `seo-pijplijn/scripts/wetenschap_zoeken.py`: zoekt wetenschappelijke literatuur in **Europe PMC** (geen sleutel nodig) en **OpenAlex** (sleutel als omgevingsvariabele `OPENALEX_API_KEY`; ontbreekt of faalt die, dan alleen Europe PMC). Zie 'Wetenschappelijke bronnen' hieronder.
 
 Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bijbehorende vragen en zoekwoorden mee in je opbouw. Ontbreekt de repo, ga dan door met de zoekwoorden in `planning.md` en meld dat in het logboek.
@@ -39,6 +40,10 @@ Zoek het onderwerp in `architecture.json` (op slug of hoofdvraag) en neem de bij
 10. **Geen geheimen** in commits of logs (de sleutels staan alleen als omgevingsvariabelen `PIXABAY_API_KEY` en `OPENALEX_API_KEY`).
 
 ## Wetenschappelijke bronnen
+
+**Officiële bronnen eerst.** Kijk in `officiele-bronnen.json` of de bewering er al in staat. Zo ja, open de bron opnieuw en gebruik de `vaste_formulering`: dezelfde strekking, niet stelliger, en de `let_op` meegenomen. De zinsbouw mag je aan je tekst aanpassen. Wijkt de bron inmiddels af, volg dan de bron en meld dat in het logboek. Staat de bewering er niet in, open dan zelf de bron en noteer hem als één regel in `redactie/logboek.md`, precies in dit formaat:
+`- OFFICIEEL: url=<url> | artikel=<slug> | bewering=<de bewering in één zin> | formulering=<de zin op de site>`
+Een lokale sessie neemt die regels over in het register.
 
 Bij elke bewering over gezondheid, materialen, hitte of voedingswaarde zoek je naast de officiële bronnen ook in de literatuur:
 
