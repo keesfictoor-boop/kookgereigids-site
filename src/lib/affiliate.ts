@@ -72,9 +72,9 @@ export function bolProductlink(p: Product) {
     familyId: '',
     siteId: (partners.winkels as Record<string, Winkel>).bol.siteId,
     target: true,
-    rating: false,
+    rating: true,
     price: true,
-    deliveryDescription: false,
+    deliveryDescription: true,
     button: true,
     linkName: encodeURIComponent(p.naam).replace(/'/g, '%27'),
     linkSubId: '',
@@ -87,7 +87,7 @@ function productTip(p: Product) {
   const product = p.winkel === 'bol'
     ? bolProductlink(p)
     : `<img src="${tekst(p.afbeelding ?? '')}" alt="${tekst(p.naam)}" width="110" height="110" loading="lazy" decoding="async"><a class="button button-outline" href="${tekst(p.href)}" rel="${rel}" target="_blank">Bekijk bij ${tekst(p.winkelLabel)}</a>`;
-  const herkomst = p.winkel === 'bol' ? ' · foto en prijs van bol' : '';
+  const herkomst = p.winkel === 'bol' ? ' · foto, prijs en levertijd van bol · reviews zijn eigendom van bol' : '';
   return `<aside class="product-tip">${product}<div class="product-tip-tekst"><p>${tekst(p.kort)}</p><p class="product-tip-melding">${p.affiliate ? 'Affiliate-link' : 'Winkellink'}${herkomst}</p></div></aside>`;
 }
 
