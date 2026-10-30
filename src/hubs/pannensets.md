@@ -159,8 +159,6 @@ Een **glazen deksel** is fijn, want je ziet zonder optillen of het water kookt. 
 
 Let op de **handgrepen**: zitten ze stevig vast en blijven ze redelijk koel? Heb je een kleine keuken, dan kan een set die **stapelbaar** is of een **afneembare handgreep** heeft veel kastruimte schelen. Zo'n afneembare greep vind je bijvoorbeeld bij de Tefal Ingenio-lijn.
 
-[[product:tefal-ingenio-ceram-8]]
-
 ### Vaatwasser en oven
 
 Veel RVS-pannen mogen in de **vaatwasser**. Bij pannen met een antiaanbaklaag is dat vaak af te raden, omdat de laag er sneller van slijt. Wil je een pan ook in de **oven** gebruiken, kijk dan of de handgrepen en het deksel daar tegen kunnen. De fabrikant vermeldt dat meestal.

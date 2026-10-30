@@ -58,8 +58,6 @@ Fabrikant Demeyere noemt RVS vaak de beste keuze om in te bakken: ideaal voor vl
 
 De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
 
-[[product:tefal-virtuoso-koekenpan-24]]
-
 ## Plaatstaal (carbonstaal)
 
 Plaatstaal ken je misschien van de klassieke wok. Er zit geen coating op. De pan bouwt zelf een laag op: je brandt hem in, en daarna bakt hij beter hoe vaker je hem gebruikt. Hoe zwarter de binnenkant, hoe minder er aanbakt.
