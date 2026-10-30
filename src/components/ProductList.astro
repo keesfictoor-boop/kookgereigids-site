@@ -1,12 +1,10 @@
 ---
-import { bolProductlink, getProducten } from '../lib/affiliate';
+import { bolProductlink, getProducten, productMelding } from '../lib/affiliate';
 
 interface Props { ids?: string[]; titel?: string }
 const { ids = [], titel = 'De pannen uit dit artikel' } = Astro.props;
 const producten = getProducten(ids);
-const heeftAffiliate = producten.some((p) => p.affiliate);
 const heeftAmazon = producten.some((p) => p.affiliate && p.winkel === 'amazon');
-const heeftBol = producten.some((p) => p.winkel === 'bol');
 ---
 {producten.length > 0 && (
 <section class="product-list" aria-labelledby="producten-titel">
@@ -22,11 +20,11 @@ const heeftBol = producten.some((p) => p.winkel === 'bol');
               <a class="button button-outline" href={p.href} rel={p.affiliate ? 'sponsored nofollow noopener' : 'nofollow noopener'} target="_blank">Bekijk bij {p.winkelLabel}</a>
             </>}
         <p>{p.kort}</p>
+        <p class="product-tip-melding">{productMelding(p)}</p>
       </article>
     ))}
   </div>
-  {heeftAffiliate && <p class="small muted">Sommige links zijn affiliate-links: koop je via zo’n link, dan krijg ik een kleine commissie. Jij betaalt niets extra.{heeftAmazon && ' Als Amazon-partner verdien ik aan in aanmerking komende aankopen.'} <a href="/over-ons/#affiliate">Meer uitleg</a>.</p>}
-  {heeftBol && <p class="small muted">Productfoto’s, prijzen en productinformatie komen van bol. Je koopt deze producten bij bol, niet bij mij.</p>}
+  {heeftAmazon && <p class="small muted">Als Amazon-partner verdien ik aan in aanmerking komende aankopen. <a href="/over-ons/#affiliate">Meer uitleg</a>.</p>}
 </section>
 )}
 

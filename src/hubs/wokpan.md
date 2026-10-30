@@ -53,13 +53,9 @@ Het nadeel: een carbonstalen wok kan roesten als je hem nat laat staan, en hij m
 
 Dit is het type wok dat wij thuis gebruiken. Een **RVS-wok** (roestvrij staal) hoef je niet in te branden: een afwas met warm water en afwasmiddel is genoeg voor het eerste gebruik. Hij roest niet en vaak mag hij in de vaatwasser. Wel geeft RVS warmte zo'n drie keer slechter door dan koolstofstaal of gietijzer. Daarom hebben veel RVS-pannen een bodem of kern van aluminium of koper. Reken erop dat je in RVS wat meer vet en geduld nodig hebt om aanbakken te voorkomen.
 
-[[product:skottsberg-wok-rvs-28]]
-
 ### Gietijzer
 
 **Gietijzer** houdt de warmte lang vast en is heel stevig. Westerse gietijzeren woks zijn dik en zwaar; Chinese gietijzeren woks zijn veel dunner. De gietijzeren wok van 34 cm verderop weegt ruim 2,5 kilo: schudden en omscheppen gaat daar niet makkelijk mee. Veel gietijzeren pannen worden voorgebrand geleverd.
-
-[[product:skottsberg-wok-gietijzer-34]]
 
 ### Antiaanbak: PTFE of keramisch
 
@@ -82,6 +78,8 @@ Bij een wok gaat de maat over de **bovenrand**. De bodem is veel kleiner: bij ee
 - **28 cm**: fijn voor één tot twee personen, of als bijgerecht.
 - **30 tot 32 cm**: de handigste maat voor een gezin van vier. Met een gezin van vier zou ik niet kleiner kiezen: je hebt ruimte om om te scheppen zonder dat de helft over de rand vliegt.
 - **34 cm en groter**: voor grote porties. Let op het gewicht en of de wok nog op je kookplaat past.
+
+[[product:skottsberg-wok-gietijzer-34]]
 
 ### Met of zonder deksel?
 

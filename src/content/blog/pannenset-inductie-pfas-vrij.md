@@ -44,8 +44,6 @@ Er is wel een keerzijde. In labtests liet eten minder goed los van een keramisch
 
 Voorbeelden van keramische sets die de fabrikant als PFAS-vrij en geschikt voor inductie verkoopt, zijn de GreenPan Mayflower en de Tefal Ingenio Intens'Ceram. "PFAS-vrij" is hier een bewering van de fabrikant; die hebben we niet zelf gecontroleerd.
 
-[[product:tefal-ingenio-ceram-8]]
-
 ## Zo check je of een set op inductie werkt
 
 ![Dampende steelpan op een glazen kookplaat](/assets/steelpan-kookplaat-stoom.jpg)
@@ -100,6 +98,8 @@ Na een werkdag wil je een pan die gewoon doet wat hij moet doen. Welke soort daa
 RVS heeft één aandachtspunt: het bevat nikkel. Volgens de Europese voedselautoriteit EFSA komt er uit RVS van goede kwaliteit waarschijnlijk weinig nikkel vrij, vergeleken met wat er van nature in eten zit. Heb je een **nikkelallergie**? Overleg dan met je huisarts of dermatoloog welke pannen voor jou het beste zijn.
 
 Een veelgebruikte combinatie: een ongecoate RVS-set voor koken, aangevuld met één losse koekenpan voor bakken. Dan heb je de duurzaamheid van RVS en het gemak van een bakpan, zonder een hele set met coating.
+
+[[product:tefal-ingenio-ceram-8]]
 
 ## Checklist voor je aankoop
 

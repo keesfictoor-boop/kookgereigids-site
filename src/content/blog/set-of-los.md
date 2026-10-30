@@ -36,8 +36,6 @@ Bij BK’s eigen webshop kost de set €249,90. Vier van de vijf pannen los kost
 
 Op bol.com was dezelfde set op die dag een stuk goedkoper dan bij BK zelf. Dan is het verschil nog groter. Zo’n prijs is vaak een actie, dus vergelijk zelf even de actuele prijzen.
 
-[[product:bk-profiline-5]]
-
 ### Tefal Duetto+, 4-delig: twee losse pannen al duurder dan de set
 
 Alleen de kookpannen van 20 en 24 cm waren los te vinden. Die twee waren samen toen al **duurder dan de hele set** op bol.com, en dan mis je nog twee pannen. De pan van 20 cm heette op bol.com ‘Duetto’ en werd door een andere verkoper aangeboden, dus helemaal zuiver is deze vergelijking niet.

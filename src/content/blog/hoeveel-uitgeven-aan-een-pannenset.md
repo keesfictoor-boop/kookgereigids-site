@@ -101,8 +101,6 @@ Meer uitgeven loont vooral als:
 - je vaak sauzen of rijst maakt die snel aanbranden; dan merk je een goede warmteverdeling echt;
 - je gemak belangrijk vindt, zoals een afgietdeksel of stapelbare pannen in een kleine keuken.
 
-[[product:demeyere-classico3-5]]
-
 Minder uitgeven is prima als:
 
 - je net begint en nog niet weet wat je echt gebruikt;
