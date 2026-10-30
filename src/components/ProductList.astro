@@ -2,7 +2,7 @@
 import { getProducten } from '../lib/affiliate';
 
 interface Props { ids?: string[]; titel?: string }
-const { ids = [], titel = 'De sets uit dit artikel' } = Astro.props;
+const { ids = [], titel = 'De pannen uit dit artikel' } = Astro.props;
 const producten = getProducten(ids);
 const heeftAffiliate = producten.some((p) => p.affiliate);
 const heeftAmazon = producten.some((p) => p.affiliate && p.winkel === 'amazon');
