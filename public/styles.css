@@ -487,20 +487,20 @@ a.hero-caption:hover, a.hero-caption:focus-visible { border-color: var(--color-p
 /* Productblokken onder een artikel */
 .product-list { margin-top: 44px; padding-top: 28px; border-top: 1px solid var(--color-border); }
 .product-list h2 { font-size: 1.6rem; margin-bottom: 18px; }
-.product-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.product-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr)); }
 .product-card { display: flex; flex-direction: column; gap: 8px; padding: 16px; border: 1px solid var(--color-border); border-radius: var(--radius-medium); background: var(--color-surface); }
 .product-card img, .product-placeholder { width: 100%; aspect-ratio: 1; object-fit: contain; border-radius: 6px; background: var(--color-soft); }
 .product-placeholder { display: grid; place-items: center; color: var(--color-muted); }
 .product-card h3 { font-size: 1.05rem; margin: 4px 0 0; }
 .product-card p { font-size: .85rem; color: var(--color-muted); flex: 1; }
-.product-card .product-prijs { flex: none; margin: 0; font-size: 1rem; font-weight: 600; color: var(--color-primary); }
-.product-tip { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 14px 18px; align-items: center; margin: 28px 0; padding: 16px; border: 1px solid var(--color-border); border-radius: var(--radius-medium); background: var(--color-surface); }
-.product-tip img { width: 88px; height: 88px; object-fit: contain; border-radius: 6px; background: white; }
-.product-tip-tekst p { margin: 0; font-size: .85rem; }
-.article-body .product-tip-tekst p { font-size: .85rem; }
-.article-body .product-tip-tekst .product-tip-naam { font-family: var(--font-heading); font-size: 1.05rem; color: var(--color-text, inherit); }
-.article-body .product-tip-tekst .product-prijs { margin-top: 4px; font-size: 1rem; font-weight: 600; color: var(--color-primary); }
-.article-body .product-tip-tekst .product-tip-melding { margin-top: 4px; font-size: .7rem; }
-.product-tip .button { grid-column: 1 / -1; justify-self: start; }
-@media (min-width: 640px) { .product-tip { grid-template-columns: 110px minmax(0, 1fr) auto; } .product-tip img { width: 110px; height: 110px; } .product-tip .button { grid-column: auto; } }
 .product-card .button { align-self: flex-start; }
+/* Productlink van bol: het script zet er een vak van 367px breed en 190px hoog neer */
+.bol-productlink { position: relative; min-height: 120px; }
+.bol-productlink [id^='PLbol_'] { width: auto; max-width: 100%; padding: 0; background: transparent; }
+.bol-productlink .right-div-preview { width: auto; height: auto; float: none; }
+.bol-productlink:has([id^='PLbol_']) .bol-reserve { display: none; }
+.product-card .bol-productlink img, .article-body .bol-productlink img { width: auto; max-width: 100px; height: auto; aspect-ratio: auto; margin: 0; border-radius: 0; background: none; box-shadow: none; }
+.product-card .bol-productlink img[width='1'], .article-body .bol-productlink img[width='1'] { position: absolute; width: 1px; height: 1px; }
+.product-tip { display: grid; gap: 8px; margin: 28px 0; padding: 16px; border: 1px solid var(--color-border); border-radius: var(--radius-medium); background: var(--color-surface); }
+.product-tip-tekst p, .article-body .product-tip-tekst p { margin: 0; font-size: .85rem; }
+.article-body .product-tip-tekst .product-tip-melding { margin-top: 4px; font-size: .7rem; }

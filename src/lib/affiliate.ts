@@ -56,11 +56,39 @@ function tekst(s: string) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
+let bolTeller = 0;
+
+// Productlink uit Promotiemateriaal van bol: toont foto, actuele prijs en knop en regelt de prijs zelf.
+// De id moet met bol_ beginnen en uniek zijn op de pagina. Een apostrof in linkName laat het script van bol vastlopen.
+// Wordt het script geblokkeerd, dan blijft de gewone partnerlink staan.
+export function bolProductlink(p: Product) {
+  const productId = p.url.match(/\/(\d{10,})\/?(?:[?#].*)?$/)?.[1];
+  if (!productId) throw new Error(`Geen bol-productnummer in de url van ${p.id}`);
+  const id = `bol_${productId}_${++bolTeller}`;
+  const instellingen = {
+    id,
+    baseUrl: 'partner.bol.com',
+    productId,
+    familyId: '',
+    siteId: (partners.winkels as Record<string, Winkel>).bol.siteId,
+    target: true,
+    rating: false,
+    price: true,
+    deliveryDescription: false,
+    button: true,
+    linkName: encodeURIComponent(p.naam).replace(/'/g, '%27'),
+    linkSubId: '',
+  };
+  return `<div class="bol-productlink"><a class="bol-reserve" href="${tekst(p.href)}" rel="sponsored nofollow noopener" target="_blank">Bekijk ${tekst(p.naam)} bij bol</a><script>var bol_sitebar_v2=${JSON.stringify(instellingen)};</script><script src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="${id}"></script></div>`;
+}
+
 function productTip(p: Product) {
-  const prijs = p.winkel === 'bol' && p.ean ? `<p class="product-prijs" data-bol-ean="${p.ean}" hidden></p>` : '';
-  const herkomst = p.winkel === 'bol' ? ' · foto en prijs van bol' : '';
   const rel = p.affiliate ? 'sponsored nofollow noopener' : 'nofollow noopener';
-  return `<aside class="product-tip"><img src="${tekst(p.afbeelding ?? '')}" alt="${tekst(p.naam)}" width="110" height="110" loading="lazy" decoding="async"><div class="product-tip-tekst"><p class="product-tip-naam">${tekst(p.naam)}</p><p>${tekst(p.kort)}</p>${prijs}<p class="product-tip-melding">${p.affiliate ? 'Affiliate-link' : 'Winkellink'}${herkomst}</p></div><a class="button button-outline" href="${tekst(p.href)}" rel="${rel}" target="_blank">Bekijk bij ${tekst(p.winkelLabel)}</a></aside>`;
+  const product = p.winkel === 'bol'
+    ? bolProductlink(p)
+    : `<img src="${tekst(p.afbeelding ?? '')}" alt="${tekst(p.naam)}" width="110" height="110" loading="lazy" decoding="async"><a class="button button-outline" href="${tekst(p.href)}" rel="${rel}" target="_blank">Bekijk bij ${tekst(p.winkelLabel)}</a>`;
+  const herkomst = p.winkel === 'bol' ? ' · foto en prijs van bol' : '';
+  return `<aside class="product-tip">${product}<div class="product-tip-tekst"><p>${tekst(p.kort)}</p><p class="product-tip-melding">${p.affiliate ? 'Affiliate-link' : 'Winkellink'}${herkomst}</p></div></aside>`;
 }
 
 // Zet een regel [[product:id]] in de Markdown om in een compacte productkaart midden in de tekst.
