@@ -7,6 +7,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "foto": "node scripts/foto.mjs",
+    "producten": "node scripts/producten.mjs",
     "redactie": "node scripts/redactie.mjs"
   },
   "dependencies": {

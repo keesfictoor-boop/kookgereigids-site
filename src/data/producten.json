@@ -1,5 +1,5 @@
 {
-  "_uitleg": "Producten die in artikelen genoemd worden. Een artikel toont ze via 'producten: [id, ...]' in de frontmatter. 'afbeelding' blijft leeg tot er een productfoto is die we mogen gebruiken (bijv. via het partnerprogramma van de winkel). De affiliate-link wordt gemaakt in src/lib/affiliate.ts zodra er een partner-ID in src/data/affiliate.json staat.",
+  "_uitleg": "Producten die in artikelen genoemd worden. Een artikel toont ze via 'producten: [id, ...]' in de frontmatter. 'afbeelding' blijft leeg tot er een productfoto is die we mogen gebruiken. Bol-producten komen via 'npm run producten' (scripts/producten.mjs): de foto blijft op de server van bol staan en prijzen worden niet opgeslagen. De affiliate-link wordt gemaakt in src/lib/affiliate.ts zodra er een partner-ID in src/data/affiliate.json staat.",
   "producten": {
     "tefal-duetto-4": {
       "naam": "Tefal Duetto+ kookpannenset 4-delig",
