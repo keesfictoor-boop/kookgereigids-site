@@ -25,6 +25,8 @@ Met deze pannen kook je vrijwel alles wat er doordeweeks op tafel komt.
 
 Het werkpaard van je keuken: voor pasta, aardappelen, rijst, groenten en soep. Kies verschillende maten, bijvoorbeeld 16, 20 en 24 cm. Dat zijn ook de maten die je in de meeste kookpannensets terugziet. Let op een **dikke bodem**, zodat rijst en saus minder snel aanbranden, en op een passend **deksel**.
 
+[[product:tefal-duetto-4]]
+
 ### 2. Een steelpan
 
 Een kleine pan met één lange steel. Ideaal voor een saus, een beetje melk, een eitje of het opwarmen van een restje. Omdat je hem met één hand vasthoudt, giet je makkelijk uit.
@@ -38,6 +40,8 @@ Voor alles wat je bakt: vlees, vis, eieren, groenten en pannenkoeken. Een koeken
 ### 4. Kook je graag oosters? Een wok
 
 Wij wokken veel en koken graag uit de wereldkeuken. Dan hoort een wok er wat mij betreft gewoon bij. Door de hoge, schuine wanden schep je ingrediënten snel om op hoog vuur, en heb je veel ruimte voor een flinke portie groenten en noedels. Kook je op inductie, kies dan een wok met een **vlakke, magnetische bodem**. In mijn gids [wokpan kiezen](/wokpan/) lees je welk materiaal en welke maat bij jou past.
+
+[[product:debuyer-mineralb-wok-32]]
 
 ## Fijne aanvullingen (geen must)
 

@@ -51,3 +51,23 @@ export function getProducten(ids: string[] = []): Product[] {
     return [{ id, ...p, winkelLabel: w.label, href: link ?? p.url, affiliate: link !== null }];
   });
 }
+
+function tekst(s: string) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function productTip(p: Product) {
+  const prijs = p.winkel === 'bol' && p.ean ? `<p class="product-prijs" data-bol-ean="${p.ean}" hidden></p>` : '';
+  const herkomst = p.winkel === 'bol' ? ' · foto en prijs van bol' : '';
+  const rel = p.affiliate ? 'sponsored nofollow noopener' : 'nofollow noopener';
+  return `<aside class="product-tip"><img src="${tekst(p.afbeelding ?? '')}" alt="${tekst(p.naam)}" width="110" height="110" loading="lazy" decoding="async"><div class="product-tip-tekst"><p class="product-tip-naam">${tekst(p.naam)}</p><p>${tekst(p.kort)}</p>${prijs}<p class="product-tip-melding">${p.affiliate ? 'Affiliate-link' : 'Winkellink'}${herkomst}</p></div><a class="button button-outline" href="${tekst(p.href)}" rel="${rel}" target="_blank">Bekijk bij ${tekst(p.winkelLabel)}</a></aside>`;
+}
+
+// Zet een regel [[product:id]] in de Markdown om in een compacte productkaart midden in de tekst.
+// Een product dat niet getoond mag worden, verdwijnt; een onbekend id laat de build mislukken.
+export function plaatsProducten(html: string) {
+  return html.replace(/<p>\[\[product:([a-z0-9-]+)\]\]<\/p>/g, (_, id: string) => {
+    const [p] = getProducten([id]);
+    return p ? productTip(p) : '';
+  });
+}

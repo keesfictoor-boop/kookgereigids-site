@@ -38,6 +38,8 @@ Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een s
 
 Veel mensen denken: RVS is metaal, dus dat werkt wel. Helaas niet altijd. RVS van het type 18/10 (18% chroom, 10% nikkel) is van zichzelf in de regel **niet magnetisch**. Een RVS-pan werkt alleen op inductie als er een magnetische bodem onder zit. Veel RVS-pannen hebben zo’n bodem, maar check het altijd.
 
+[[product:bk-profiline-5]]
+
 Kies het liefst een pan met een **volledig magnetische bodem**. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
 
 ## Zo test je je eigen pannen
@@ -77,6 +79,8 @@ Ja, bijna altijd. Een pan met een magnetische bodem werkt ook prima op gas, kera
 ## Wok op inductie: let op de bodem
 
 Wij wokken veel, dus voor ons is dit een belangrijke: kan een wok op inductie? Ja, als hij een **vlakke, magnetische bodem** heeft. Een klassieke wok met ronde bodem maakt te weinig contact met de vlakke kookplaat. Woks van plaatstaal of gietijzer met een platte bodem werken goed.
+
+[[product:debuyer-mineralb-wok-28]]
 
 ## Wat als je kookplaat de pan niet herkent?
 

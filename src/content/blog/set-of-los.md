@@ -28,15 +28,21 @@ Dit is de zuiverste vergelijking. De set en alle losse pannen worden op bol.com 
 
 Toen ik keek, was de set **ruim 30% goedkoper** dan die vijf pannen los.
 
+[[product:demeyere-classico3-5]]
+
 ### BK Profiline, 5-delig: los niet eens compleet te krijgen
 
 Bij BK’s eigen webshop kost de set €249,90. Vier van de vijf pannen los kosten daar samen al €250,60 (de soeppan was op dat moment uitverkocht), en de kookpan van 18 cm kon ik nergens los vinden: niet bij bk.nl, bol.com, Coolblue of BCC. Reken je die 18 cm-pan met de laatst bekende prijs van €54 mee, dan kom je los op ongeveer €305: de set is zo’n **18% goedkoper**.
 
 Op bol.com was dezelfde set op die dag een stuk goedkoper dan bij BK zelf. Dan is het verschil nog groter. Zo’n prijs is vaak een actie, dus vergelijk zelf even de actuele prijzen.
 
+[[product:bk-profiline-5]]
+
 ### Tefal Duetto+, 4-delig: twee losse pannen al duurder dan de set
 
 Alleen de kookpannen van 20 en 24 cm waren los te vinden. Die twee waren samen toen al **duurder dan de hele set** op bol.com, en dan mis je nog twee pannen. De pan van 20 cm heette op bol.com ‘Duetto’ en werd door een andere verkoper aangeboden, dus helemaal zuiver is deze vergelijking niet.
+
+[[product:tefal-duetto-4]]
 
 ### De uitkomst
 

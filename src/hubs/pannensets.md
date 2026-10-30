@@ -78,6 +78,8 @@ Het materiaal bepaalt grotendeels hoe een pan kookt, hoe lang hij meegaat en hoe
 
 **RVS** is het meest gekozen materiaal voor kookpannensets, en niet voor niets. Het roest niet, je kunt het flink gebruiken en het heeft geen coating die kan slijten. Van zichzelf geleidt RVS warmte niet zo goed. Daarom hebben goede RVS-pannen een **dikke bodem** of **sandwichbodem**: een laag aluminium of koper tussen twee lagen RVS. Bij **meerlagenstaal** (triply) loopt die geleidende laag door tot in de wand, waardoor de warmte nog gelijkmatiger is. Een goede bodem helpt ook tegen **kromtrekken**.
 
+[[product:bk-profiline-5]]
+
 RVS bevat nikkel. Volgens de Europese voedselautoriteit EFSA komt er uit RVS van goede kwaliteit waarschijnlijk weinig nikkel vrij, vergeleken met wat er van nature in eten zit. Heb je een nikkelallergie? Overleg dan met je huisarts of dermatoloog.
 
 ### Aluminium en antiaanbaklagen
@@ -151,9 +153,13 @@ Als het materiaal en de kookplaat kloppen, maken de details het verschil in het 
 
 Een **glazen deksel** is fijn, want je ziet zonder optillen of het water kookt. Sommige sets hebben een **afgietsysteem**: gaatjes in de rand van het deksel, zodat je pasta of aardappelen kunt afgieten zonder vergiet. Handig, maar geen must. Kijk vooral of er bij elke kookpan een **deksel** zit.
 
+[[product:bk-qlinair-5]]
+
 ### Handgrepen en stapelen
 
 Let op de **handgrepen**: zitten ze stevig vast en blijven ze redelijk koel? Heb je een kleine keuken, dan kan een set die **stapelbaar** is of een **afneembare handgreep** heeft veel kastruimte schelen. Zo'n afneembare greep vind je bijvoorbeeld bij de Tefal Ingenio-lijn.
+
+[[product:tefal-ingenio-ceram-8]]
 
 ### Vaatwasser en oven
 

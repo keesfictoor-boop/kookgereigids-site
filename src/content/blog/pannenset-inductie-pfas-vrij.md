@@ -32,6 +32,8 @@ De meest zekere keuze is een set **zonder antiaanbaklaag**. Ongecoat **RVS** (ro
 
 Let wel op bij RVS: niet elke RVS-pan werkt op inductie (daarover hieronder meer). De meeste RVS-pannensets die nu worden verkocht, zijn daar wel op gemaakt. Voorbeelden van ongecoate RVS-sets die volgens de winkel of fabrikant geschikt zijn voor inductie, zijn de BK Profiline, de Demeyere Classico 3 en de SilverCrest RVS-set van Lidl. In [hoeveel geef je uit aan een goede pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/) zie je wat zulke sets kosten.
 
+[[product:bk-profiline-5]]
+
 Bij gietijzer en plaatstaal is één ding goed om te weten: sommige worden voorbehandeld of met een laagje geleverd. Kijk dus per product wat de fabrikant erover zegt.
 
 ### Met coating: keramisch op een inductiebodem
@@ -41,6 +43,8 @@ Wil je toch een antiaanbaklaag, omdat je vaak eieren of pannenkoeken bakt? Dan i
 Er is wel een keerzijde. In labtests liet eten minder goed los van een keramische laag dan van een klassieke antiaanbaklaag. De laag ging ook sneller achteruit door slijtage en de vaatwasser. Het ging om maar een paar producten, dus het zegt niets over hoe lang jouw pan meegaat. Reken er wel op dat een keramische laag zorg vraagt.
 
 Voorbeelden van keramische sets die de fabrikant als PFAS-vrij en geschikt voor inductie verkoopt, zijn de GreenPan Mayflower en de Tefal Ingenio Intens'Ceram. "PFAS-vrij" is hier een bewering van de fabrikant; die hebben we niet zelf gecontroleerd.
+
+[[product:tefal-ingenio-ceram-8]]
 
 ## Zo check je of een set op inductie werkt
 

@@ -47,13 +47,19 @@ Een klassieke wok is gemaakt van **koolstofstaal** (carbonstaal, ook plaatstaal 
 
 Het nadeel: een carbonstalen wok kan roesten als je hem nat laat staan, en hij mag niet in de vaatwasser.
 
+[[product:debuyer-mineralb-wok-32]]
+
 ### RVS
 
 Dit is het type wok dat wij thuis gebruiken. Een **RVS-wok** (roestvrij staal) hoef je niet in te branden: een afwas met warm water en afwasmiddel is genoeg voor het eerste gebruik. Hij roest niet en vaak mag hij in de vaatwasser. Wel geeft RVS warmte zo'n drie keer slechter door dan koolstofstaal of gietijzer. Daarom hebben veel RVS-pannen een bodem of kern van aluminium of koper. Reken erop dat je in RVS wat meer vet en geduld nodig hebt om aanbakken te voorkomen.
 
+[[product:skottsberg-wok-rvs-28]]
+
 ### Gietijzer
 
 **Gietijzer** houdt de warmte lang vast en is heel stevig. Westerse gietijzeren woks zijn dik en zwaar; Chinese gietijzeren woks zijn veel dunner. De gietijzeren wok van 34 cm verderop weegt ruim 2,5 kilo: schudden en omscheppen gaat daar niet makkelijk mee. Veel gietijzeren pannen worden voorgebrand geleverd.
+
+[[product:skottsberg-wok-gietijzer-34]]
 
 ### Antiaanbak: PTFE of keramisch
 

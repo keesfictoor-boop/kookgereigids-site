@@ -54,6 +54,8 @@ Een tip: je kunt het vlees na het bakken even uit de pan halen en aan het eind t
 
 Het liefst een **wok**. Op gas mag dat een wok met bolle bodem zijn, op inductie of keramisch heb je een **vlakke bodem** nodig. Wij roerbakken zelf in een RVS-wok (de Demeyere Apollo 7) op inductie. Welk materiaal en welke maat bij jou past, lees je in [wokpan kiezen](/wokpan/). Een carbonstalen wok wordt snel heet en kan tegen hoge temperaturen; die moet je wel eerst [inbranden](/blog/wok-inbranden/).
 
+[[product:skottsberg-wok-rvs-28]]
+
 Heb je geen wok? Dan kan een grote [koekenpan](/blog/basis-pannen/) ook. Bak dan in kleinere porties, want het bakoppervlak is kleiner en je ingrediënten vallen er sneller uit.
 
 Kook je op inductie, til de pan dan niet steeds op om te schudden. Staat er een tijdje geen pan op de zone, dan schakelt de kookplaat die uit. Meer daarover in [wokpan voor inductie](/blog/wokpan-inductie/).

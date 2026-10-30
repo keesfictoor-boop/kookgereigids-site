@@ -34,6 +34,8 @@ Bij inbranden verhit je een dun laagje olie op het kale metaal. Door de hitte ve
 
 Kijk altijd eerst wat de fabrikant van jouw wok voorschrijft. De methodes verschillen per merk, en soms zelfs per handleiding van hetzelfde merk.
 
+[[product:debuyer-mineralb-wok-28]]
+
 ## Zo brand je een carbonstalen wok in
 
 ![Olie wordt uit een glazen fles in een hete pan geschonken](/assets/olie-schenken.jpg)

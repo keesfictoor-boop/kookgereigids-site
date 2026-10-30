@@ -2,10 +2,14 @@
 
 Op de site staat geen bronvermelding bij foto's, omdat de licenties van Pixabay en Unsplash die niet verplicht stellen (besluit eigenaar 29-10-2026). Hier staat wel bij welke foto waar vandaan komt.
 
-Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 6974153 (merknaam op de rand van de kookplaat), 3597348 (logo op het deksel), 487973 (merknaam op een machine).
+Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 4508015 (herkenbaar serviesontwerp), 2144916 (verpakkingen met labels), 6974153 (merknaam op de rand van de kookplaat), 3597348 (logo op het deksel), 487973 (merknaam op een machine).
 
 | Bestand (public/assets/) | Pixabay-id | Fotograaf | Gebruikt op |
 |---|---|---|---|
+| keuzehulp-snijbiet.jpg | 616712 | wolffsfa | /keuzehulp/ |
+| keuzehulp-rvs-pan.jpg | 4637613 | FlitsArt | /keuzehulp/ |
+| keuzehulp-steelpan.jpg | 1972423 | Three-shots | /keuzehulp/ |
+| home-curry.jpg | 7249247 | joannawielgosz | homepage |
 | wok-op-inductie.jpg | 1797624 | Fxq19910504 | pannen-inductie |
 | wok-groenten.jpg | 1835369 | Pexels | basis-pannen |
 | kookpan-stoom.jpg | 5035763 | werbeguru | set-of-los |

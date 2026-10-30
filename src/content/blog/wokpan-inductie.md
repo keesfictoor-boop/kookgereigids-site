@@ -36,6 +36,8 @@ Een traditionele wok heeft een **bolle bodem**. Die is gemaakt voor een gasvlam,
 
 Twijfel je over een wok die je al hebt? Houd er een magneet tegen. Blijft hij stevig plakken over de hele bodem, dan werkt hij. Hoe dat precies zit, lees je in [welke pannen werken op inductie](/blog/pannen-inductie/).
 
+[[product:debuyer-mineralb-wok-32]]
+
 ## Past de wok op je kookzone?
 
 Let bij een wok op inductie niet alleen op de maat die op de doos staat. Die gaat over de **bovenrand**; de bodem is veel kleiner. Bij de woks in [mijn wokgids](/wokpan/) is de bodem ongeveer 14 tot 20 cm, terwijl de bovenrand 28 tot 34 cm is. Elke kookzone heeft een minimale panmaat; die vind je in de handleiding van je kookplaat. Een te kleine bodem op een grote zone wordt soms niet herkend of verwarmt minder goed; kies dan een kleinere zone.
@@ -65,5 +67,7 @@ Ja, maar ze zijn zeldzaam. Sommige fabrikanten verkopen een inductie-wokkookzone
 - **RVS met een magnetische bodem** als je weinig onderhoud wilt.
 - **Een wok met antiaanbaklaag en inductiebodem** als je af en toe wokt en het makkelijk wilt houden.
 - **Gietijzer** als je grote porties maakt en het gewicht geen bezwaar is.
+
+[[product:bk-easy-induction-wok-30]]
 
 Meer uitleg over materialen, maten en PFAS lees je in mijn gids [wokpan kiezen](/wokpan/).

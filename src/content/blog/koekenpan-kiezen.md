@@ -50,11 +50,15 @@ De Consumentenbond test keramische koekenpannen. De kwaliteit van de laag versch
 
 Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet elke productpagina zegt daar iets over.
 
+[[product:bk-universe-koekenpan-24]]
+
 ## RVS zonder coating
 
 Fabrikant Demeyere noemt RVS vaak de beste keuze om in te bakken: ideaal voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Hij mag in de vaatwasser en gaat bij normaal gebruik heel lang mee. Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
 
 De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
+
+[[product:tefal-virtuoso-koekenpan-24]]
 
 ## Plaatstaal (carbonstaal)
 
@@ -63,6 +67,8 @@ Plaatstaal ken je misschien van de klassieke wok. Er zit geen coating op. De pan
 Er zijn ook nadelen. Niet laten weken, niet in de vaatwasser, en na het afwassen meteen afdrogen en licht invetten tegen roest. Zure ingrediënten zoals tomaat, witte wijn of citroen kunnen witte vlekken in de laag geven; dan brand je de pan opnieuw in. En op inductie: gebruik een matige stand, geen booster, en verhit de pan niet leeg. Vanaf 26 cm voorkom je daarmee dat de pan vervormt.
 
 Hoe inbranden precies gaat, lees je in [wok inbranden](/blog/wok-inbranden/). Voor een koekenpan van plaatstaal werkt het op dezelfde manier.
+
+[[product:debuyer-mineralb-koekenpan-24]]
 
 ## Gietijzer
 
