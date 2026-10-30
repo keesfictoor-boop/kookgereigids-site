@@ -18,7 +18,8 @@ Node.js 22.23 of nieuwer is nodig (zie `.node-version`).
 - `src/pages/` — de pagina's. De bestandsnaam bepaalt de URL (`over-ons.astro` → `/over-ons/`).
 - `src/layouts/Base.astro` — gedeelde `<head>`, header en footer, canonical, Open Graph en JSON-LD.
 - `src/content/blog/` — blogartikelen als Markdown.
-- `src/components/` — blogkaart en homepage-slider (vullen zich automatisch met de nieuwste artikelen).
+- `src/components/` — blogkaart en `Head.astro` (gedeelde kop van alle pagina's).
+- `src/layouts/Home.astro` en `public/home.css` — eigen opmaak van de homepagina (ontwerp versie 6). De andere pagina's gebruiken `Base.astro` en `styles.css`.
 - `public/` — bestanden die ongewijzigd worden meegeleverd: `styles.css`, foto's en lettertypen in `assets/`, `robots.txt`, `_redirects`.
 
 ## Een blogartikel toevoegen
@@ -50,7 +51,7 @@ Een notitieblok maak je met HTML in het Markdown-bestand:
 <div class="notice"><h3>Titel</h3><p>Tekst met een <a href="/keuzehulp/">link</a>.</p></div>
 ```
 
-De nieuwste drie artikelen verschijnen automatisch in de slider op de homepage; alle artikelen staan op `/blog/` en in de sitemap.
+Alle artikelen staan automatisch op `/blog/` en in de sitemap. De drie gidsen op de homepage staan vast in `src/pages/index.astro`; nieuwe artikelen verschijnen daar niet vanzelf.
 
 ## Zelf tekst aanpassen (redactie)
 

@@ -72,7 +72,7 @@ Bij elke bewering over gezondheid, materialen, hitte of voedingswaarde zoek je n
 - Tekst in `src/hubs/<slug>.md` (frontmatter zoals `src/hubs/wokpan.md`: title, description, intro, updatedDate, readingTime, image + bronvelden, producten).
 - Pagina: kopieer `src/pages/wokpan.astro` naar `src/pages/<slug>.astro` en pas aan: het importpad van de hub, de lijst `spokes` (slugs van bestaande artikelen onder deze gids), het broodkruimelpad, de tag en de koppen in de zijbalk.
 - Een gids is breed: het korte antwoord bovenaan, keuzecriteria, een materiaal- of soortentabel, maat, kookplaat, onderhoud en (alleen als het mag, zie stap 3 hieronder) een productblok, met doorverwijzingen naar de artikelen eronder. Geen vaste lengte: zo uitgebreid als nodig, zonder opvulling (een gids is in de praktijk breder dan een artikel). Foto's volgens de tabel in `tone-of-voice.md`.
-- Voeg de gids toe waar hij hoort: de categoriekaart op de homepage (`src/pages/index.astro`) en `src/pages/koopadvies.astro` mogen een link naar de nieuwe gids krijgen (alleen die link aanpassen).
+- Voeg de gids toe waar hij hoort: `src/pages/koopadvies.astro` mag een link naar de nieuwe gids krijgen (alleen die link aanpassen). De homepagina blijft ongewijzigd.
 
 ## Een artikel maken
 

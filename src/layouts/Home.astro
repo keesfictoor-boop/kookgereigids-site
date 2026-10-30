@@ -1,0 +1,25 @@
+---
+import Head from '../components/Head.astro';
+import { nav } from '../lib/nav';
+
+// Eigen opmaak voor de homepagina (ontwerp versie 6): laadt home.css in plaats van styles.css.
+---
+<!doctype html>
+<html lang="nl">
+<head>
+<Head {...Astro.props} />
+<link rel="stylesheet" href="/home.css?v=1">
+</head>
+<body>
+<a class="skip" href="#main">Direct naar de inhoud</a>
+<div class="top"><div class="wrap"><span>EERLIJK KOOPADVIES. VOOR JOUW KEUKEN.</span><span>UITGEZOCHT DOOR EEN THUISKOK UIT HAARLEM</span></div></div>
+<header class="wrap header"><a class="logo" href="/" aria-label="Kookgereigids, naar home"><span aria-hidden="true">♨︎</span>kookgerei<em>gids</em></a><button class="menu" aria-expanded="false" aria-controls="navigation">Menu</button><nav class="nav" id="navigation" aria-label="Hoofdnavigatie"><a href="#kiezen">Pannen kiezen</a><a href="#koopgidsen">Koopgidsen</a><a href="#over">Over Kees</a><a href="#vragen">Veelgestelde vragen</a></nav><a class="button" href="/keuzehulp/">Vind jouw pan <span aria-hidden="true">↗</span></a></header>
+<main id="main" class="wrap">
+<slot />
+</main><section class="bottom-cta" aria-labelledby="cta-title"><div class="wrap bottom-cta-inner"><div><h2 id="cta-title">Minder twijfelen.<br>Meer lekker koken.</h2><p>Begin bij jouw kookgewoonten. De juiste pan volgt vanzelf.</p></div><a class="button" href="/keuzehulp/">Ontdek jouw volgende pan <span aria-hidden="true">→</span></a></div></section>
+<footer class="site-footer"><div class="wrap"><div class="site-footer-grid"><div class="footer-brand"><a class="logo" href="/" aria-label="Kookgereigids, naar home"><span aria-hidden="true">♨︎</span>kookgerei<em>gids</em></a><p>Eerlijk advies over pannen, van een thuiskok voor thuiskoks. Ik zoek het uit, jij maakt er iets lekkers van.</p></div><nav aria-label="Footer hoofdnavigatie"><h2>Op het menu</h2>{nav.map((item) => <a href={item.href}>{item.label}</a>)}</nav><nav aria-label="Over het advies en privacy"><h2>Goed om te weten</h2><a href="/over-ons/#werkwijze">Zo kom ik tot mijn advies</a><a href="/over-ons/#affiliate">Hoe deze site wordt betaald</a><a href="/contact/#privacy">Jouw privacy</a><a href="/over-ons/#werkwijze">Mijn werkwijze</a></nav><div class="footer-contact"><h2>Schuif gerust aan</h2><a href="mailto:info@kookgereigids.nl">info@kookgereigids.nl</a><p>Een vraag over pannen?<br>We horen graag van je.</p><p>Deel Kookgereigids</p><div class="share-links"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkookgereigids.nl%2F" target="_blank" rel="noopener noreferrer" aria-label="Deel Kookgereigids op Facebook"><span aria-hidden="true">f</span></a><a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fkookgereigids.nl%2F&amp;description=Eerlijk%20advies%20over%20kookgerei" target="_blank" rel="noopener noreferrer" aria-label="Deel Kookgereigids op Pinterest"><span aria-hidden="true">p</span></a><a href="mailto:?subject=Kookgereigids&amp;body=https%3A%2F%2Fkookgereigids.nl%2F" aria-label="Deel Kookgereigids via e-mail"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="m3 6 9 7 9-7"/></svg></a></div></div></div><div class="footer-base"><span>© {new Date().getFullYear()} Kookgereigids · Met aandacht voor jouw keuken.</span><span>Gemaakt in Haarlem door Kees, met liefde voor koken.</span></div></div></footer>
+<script>
+const menu=document.querySelector('.menu');const nav=document.getElementById('navigation');menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav.classList.toggle('open',open)});nav.addEventListener('click',e=>{if(e.target.closest('a')){nav.classList.remove('open');menu.setAttribute('aria-expanded','false')}});document.addEventListener('keydown',e=>{if(e.key==='Escape'){nav.classList.remove('open');menu.setAttribute('aria-expanded','false')}});
+</script>
+</body>
+</html>
