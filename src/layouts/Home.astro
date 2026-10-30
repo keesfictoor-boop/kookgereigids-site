@@ -8,12 +8,12 @@ import { nav } from '../lib/nav';
 <html lang="nl">
 <head>
 <Head {...Astro.props} />
-<link rel="stylesheet" href="/home.css?v=3">
+<link rel="stylesheet" href="/home.css?v=4">
 </head>
 <body>
 <a class="skip" href="#main">Direct naar de inhoud</a>
 <div class="top"><div class="wrap"><span>EERLIJK KOOPADVIES. VOOR JOUW KEUKEN.</span></div></div>
-<header class="wrap header"><a class="logo" href="/" aria-label="Kookgereigids, naar home"><span aria-hidden="true">♨︎</span>kookgerei<em>gids</em></a><button class="menu" aria-expanded="false" aria-controls="navigation">Menu</button><nav class="nav" id="navigation" aria-label="Hoofdnavigatie"><a href="#kiezen">Pannen kiezen</a><a href="#koopgidsen">Koopgidsen</a><a href="#over">Over Kees</a><a href="#vragen">Veelgestelde vragen</a></nav><a class="button" href="/keuzehulp/">Vind jouw pan <span aria-hidden="true">↗</span></a></header>
+<header class="wrap header"><a class="logo" href="/" aria-label="Kookgereigids, naar home"><span aria-hidden="true">♨︎</span>kookgerei<em>gids</em></a><button class="menu" aria-expanded="false" aria-controls="navigation">Menu</button><nav class="nav" id="navigation" aria-label="Hoofdnavigatie">{nav.map((item) => <a href={item.href} aria-current={item.key === 'home' ? 'page' : undefined}>{item.label}</a>)}</nav><a class="button" href="/keuzehulp/">Vind jouw pan <span aria-hidden="true">↗</span></a></header>
 <main id="main" class="wrap">
 <slot />
 </main><section class="bottom-cta" aria-labelledby="cta-title"><div class="wrap bottom-cta-inner"><div><h2 id="cta-title">Minder twijfelen.<br>Meer lekker koken.</h2><p>Begin bij jouw kookgewoonten. De juiste pan volgt vanzelf.</p></div><a class="button" href="/keuzehulp/">Ontdek jouw volgende pan <span aria-hidden="true">→</span></a></div></section>
