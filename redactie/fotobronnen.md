@@ -6,10 +6,6 @@ Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 4508015 (herkenbaar se
 
 | Bestand (public/assets/) | Pixabay-id | Fotograaf | Gebruikt op |
 |---|---|---|---|
-| keuzehulp-snijbiet.jpg | 616712 | wolffsfa | /keuzehulp/ |
-| keuzehulp-rvs-pan.jpg | 4637613 | FlitsArt | /keuzehulp/ |
-| keuzehulp-steelpan.jpg | 1972423 | Three-shots | /keuzehulp/ |
-| home-curry.jpg | 7249247 | joannawielgosz | homepage |
 | wok-op-inductie.jpg | 1797624 | Fxq19910504 | pannen-inductie |
 | wok-groenten.jpg | 1835369 | Pexels | basis-pannen |
 | kookpan-stoom.jpg | 5035763 | werbeguru | set-of-los |
