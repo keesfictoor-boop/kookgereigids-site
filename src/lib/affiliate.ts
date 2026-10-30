@@ -82,13 +82,18 @@ export function bolProductlink(p: Product) {
   return `<div class="bol-productlink"><a class="bol-reserve" href="${tekst(p.href)}" rel="sponsored nofollow noopener" target="_blank">Bekijk ${tekst(p.naam)} bij bol</a><script>var bol_sitebar_v2=${JSON.stringify(instellingen)};</script><script src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="${id}"></script></div>`;
 }
 
+// Kleine vermelding bij elke tegel: reclame moet herkenbaar zijn en bol wil dat duidelijk is wie eigenaar is van de reviews.
+export function productMelding(p: Product) {
+  const soort = p.affiliate ? 'Affiliate-link' : 'Winkellink';
+  return p.winkel === 'bol' ? `${soort} · reviews zijn eigendom van bol` : soort;
+}
+
 function productTip(p: Product) {
   const rel = p.affiliate ? 'sponsored nofollow noopener' : 'nofollow noopener';
   const product = p.winkel === 'bol'
     ? bolProductlink(p)
     : `<img src="${tekst(p.afbeelding ?? '')}" alt="${tekst(p.naam)}" width="110" height="110" loading="lazy" decoding="async"><a class="button button-outline" href="${tekst(p.href)}" rel="${rel}" target="_blank">Bekijk bij ${tekst(p.winkelLabel)}</a>`;
-  const herkomst = p.winkel === 'bol' ? ' · foto, prijs en levertijd van bol · reviews zijn eigendom van bol' : '';
-  return `<aside class="product-tip">${product}<div class="product-tip-tekst"><p>${tekst(p.kort)}</p><p class="product-tip-melding">${p.affiliate ? 'Affiliate-link' : 'Winkellink'}${herkomst}</p></div></aside>`;
+  return `<aside class="product-tip">${product}<div class="product-tip-tekst"><p>${tekst(p.kort)}</p><p class="product-tip-melding">${productMelding(p)}</p></div></aside>`;
 }
 
 // Zet een regel [[product:id]] in de Markdown om in een compacte productkaart midden in de tekst.
