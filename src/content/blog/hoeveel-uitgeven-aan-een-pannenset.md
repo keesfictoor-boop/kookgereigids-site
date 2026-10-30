@@ -32,23 +32,23 @@ Een handige vuistregel:
 
 ### Prijsklassen in één tabel
 
-Dit zijn prijzen die ik zelf op de productpagina's heb gelezen. Prijzen veranderen vaak, en bij bol.com hangt de prijs ook af van de verkoper. Zie dit dus als een momentopname, niet als een vaste prijslijst.
+Deze indeling heb ik gemaakt op basis van de prijzen op de productpagina's. Prijzen veranderen vaak, en bij bol.com hangt de prijs ook af van de verkoper. Een set kan dus in een andere klasse terechtkomen. Zie dit als een globale indeling en kijk voor de actuele prijs bij de winkel.
 
-| Prijsklasse | Set | Wat je krijgt | Prijs |
-|---|---|---|---|
-| Tot €80 | Herzberg pannenset "12-delig" | RVS-pannen met glazen deksels (aantal op de pagina niet eenduidig) | €45,00 (bol.com, externe verkoper) |
-| Tot €80 | Tefal Duetto+ 4-delig | 4 RVS-pannen, 3 glazen deksels | €72,99 (bol.com) |
-| Tot €80 | SilverCrest RVS pannenset 5-delig | 5 RVS-pannen met deksels | €79,99 plus bezorgkosten (lidl.nl) |
-| €80–€150 | GreenPan Mayflower 9-delig | 4 pannen met keramische coating, 1 deksel, 4 accessoires | €124,90 (greenpan.nl) |
-| €80–€150 | Tefal Ingenio Intens'Ceram 8-delig | 4 pannen met keramische coating, afneembare greep | €129,99 (bol.com) |
-| €80–€150 | BK Profiline 5-delig | 5 RVS-pannen met sandwichbodem | €134,00 (bol.com) |
-| €80–€150 | WMF Comfort Line 5-delig | 5 RVS-pannen, 4 glazen deksels | €144,99 (bol.com, externe verkoper) |
-| €150–€200 | BK Q-linair Master Glas 5-delig | RVS-pannen, glazen deksels met afgietsysteem | €186,00 (bol.com) |
-| €150–€200 | Demeyere Classico 3 5-delig | 5 RVS-pannen, 4 deksels, bodem van 3 lagen | €198,90 (bol.com, verkoper Demeyere-Zwilling) |
+| Prijsklasse | Set | Wat je krijgt |
+|---|---|---|
+| Tot €80 | Herzberg pannenset "12-delig" | RVS-pannen met glazen deksels (aantal op de pagina niet eenduidig) |
+| Tot €80 | Tefal Duetto+ 4-delig | 4 RVS-pannen, 3 glazen deksels |
+| Tot €80 | SilverCrest RVS pannenset 5-delig | 5 RVS-pannen met deksels |
+| €80–€150 | GreenPan Mayflower 9-delig | 4 pannen met keramische coating, 1 deksel, 4 accessoires |
+| €80–€150 | Tefal Ingenio Intens'Ceram 8-delig | 4 pannen met keramische coating, afneembare greep |
+| €80–€150 | BK Profiline 5-delig | 5 RVS-pannen met sandwichbodem |
+| €80–€150 | WMF Comfort Line 5-delig | 5 RVS-pannen, 4 glazen deksels |
+| €150–€200 | BK Q-linair Master Glas 5-delig | RVS-pannen, glazen deksels met afgietsysteem |
+| €150–€200 | Demeyere Classico 3 5-delig | 5 RVS-pannen, 4 deksels, bodem van 3 lagen |
 
 Bronnen: de productpagina's op [bol.com](https://www.bol.com/), [lidl.nl](https://www.lidl.nl/p/silvercrest-rvs-pannenset-5-delig/p100409978) en [greenpan.nl](https://greenpan.nl/products/mayflower-set-9-delig).
 
-Opvallend: dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. De BK Profiline 5-delig kostte €249,90 in de webshop van BK zelf en €134,00 op bol.com, ongeveer €115 verschil voor dezelfde set ([bk.nl](https://bk.nl/products/profiline-pannenset-5-delig)). Een hoge "adviesprijs" zegt dus weinig over de kwaliteit.
+Opvallend: dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. De BK Profiline 5-delig was toen ik keek in de webshop van BK zelf bijna twee keer zo duur als op bol.com, voor dezelfde set ([bk.nl](https://bk.nl/products/profiline-pannenset-5-delig)). Een hoge "adviesprijs" zegt dus weinig over de kwaliteit.
 
 ## Waar betaal je eigenlijk voor?
 

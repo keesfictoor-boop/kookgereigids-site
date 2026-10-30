@@ -129,9 +129,9 @@ Welke sets geschikt zijn voor inductie én PFAS-vrij koken, en wat "PFAS-vrij" p
 
 Ik heb de prijzen van een aantal bekende sets zelf op de winkelpagina's bekeken. Grofweg zag het er zo uit:
 
-- **Tot ongeveer €80**: eenvoudige RVS-sets, bijvoorbeeld een Tefal Duetto+ 4-delig (€72,99 op bol.com) of de SilverCrest RVS-set van Lidl (€79,99 plus bezorging).
-- **€80 tot €150**: veel bekende merksets van RVS, zoals de BK Profiline 5-delig (€134,00 op bol.com), en keramische sets zoals de GreenPan Mayflower 9-delig (€124,90 op greenpan.nl).
-- **€150 tot €200**: sets met extra's of een zwaardere bodem, zoals de BK Q-linair Master Glas (€186,00) en de Demeyere Classico 3 (€198,90), allebei op bol.com.
+- **Tot ongeveer €80**: eenvoudige RVS-sets, bijvoorbeeld een Tefal Duetto+ 4-delig of de SilverCrest RVS-set van Lidl.
+- **€80 tot €150**: veel bekende merksets van RVS, zoals de BK Profiline 5-delig, en keramische sets zoals de GreenPan Mayflower 9-delig.
+- **€150 tot €200**: sets met extra's of een zwaardere bodem, zoals de BK Q-linair Master Glas en de Demeyere Classico 3.
 
 Prijzen veranderen snel, en dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. Waar het prijsverschil in zit en wanneer meer betalen zin heeft, lees je in [wat een goede pannenset kost](/blog/hoeveel-uitgeven-aan-een-pannenset/).
 
