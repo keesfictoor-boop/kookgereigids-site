@@ -57,7 +57,7 @@ Twee sets van RVS kunnen er op een foto hetzelfde uitzien. Het verschil zit voor
 
 ### De bodem en het materiaal
 
-De bodem is het belangrijkste onderdeel van een pan. Een **dikke bodem** of **sandwichbodem** (een laag aluminium of koper tussen twee lagen RVS) zorgt voor een betere **warmteverdeling**: je eten brandt minder snel aan op één plek. Bij BK staat bijvoorbeeld een bodemdikte van 4,5 mm vermeld voor de Profiline. Bij duurdere sets vind je soms **meerlagenstaal** (triply), waarbij die geleidende laag niet alleen in de bodem zit maar door de hele wand loopt.
+De bodem is het belangrijkste onderdeel van een pan. Een **dikke bodem** of **sandwichbodem** (een laag aluminium of koper tussen twee lagen RVS) zorgt voor een betere **warmteverdeling**: je eten brandt minder snel aan op één plek. Bij duurdere sets vind je soms **meerlagenstaal**, waarbij die laag niet alleen in de bodem zit maar door de hele wand loopt.
 
 [[product:bk-profiline-5]]
 
@@ -69,7 +69,7 @@ Een set met een **antiaanbaklaag** (bijvoorbeeld een keramische coating) bakt ma
 
 | Merk | Garantie op RVS of de pan zelf | Garantie op de coating |
 |---|---|---|
-| BK | 25 jaar volgens bk.nl (bol.com noemt 15 jaar) | 3 jaar (keramische Brilliant-lijn) |
+| BK | 25 jaar | 3 jaar (keramische Brilliant-lijn) |
 | Demeyere | 30 jaar, of 10 jaar bij de goedkopere lijnen zoals Classic 3 | 3 tot 5 jaar |
 | Tefal | 2 jaar; RVS met sterren-markering op de bodem 5 of 10 jaar | 2 jaar tegen blaren en afbladderen |
 | GreenPan (Mayflower) | levenslang op materiaal- en fabricagefouten | 5 jaar |

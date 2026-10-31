@@ -51,7 +51,7 @@ Wokken op inductie vraagt een paar aanpassingen:
 1. **Laat de wok op de plaat staan.** Til je de pan op, dan merkt de kookplaat dat er geen pan meer staat. De stand gaat knipperen en na een tijdje schakelt de zone uit. Veel opgooien en schudden, zoals bij een wok boven een grote vlam, werkt hier dus minder goed. Schep je eten om met een spatel of wokschep.
 2. **Verwarm de wok voor, maar niet leeg op de hoogste stand.** Inductie wordt heel snel heet. Gebruik daarom een matige stand zonder booster, en verhit de lege pan niet te lang. Vooral grote pannen kunnen anders vervormen. Een wok met antiaanbaklaag verhit je sowieso niet leeg. Roerbakken doe je wel op hoge temperatuur: de pan is heet genoeg als een druppel water opspringt en snel verdampt.
 3. **Bak in kleine porties.** Op inductie wordt vooral de bodem heet, en die is bij een wok klein. Te veel tegelijk in de pan, en je groenten gaan stoven in plaats van bakken.
-4. **Gebruik een olie die tegen hitte kan.** Bij wokken worden pan en olie 180 tot 230 °C. Het [Voedingscentrum](https://www.voedingscentrum.nl/encyclopedie/olien.aspx) raadt dan zonnebloemolie of roerbakolie aan; extra vierge olijfolie is minder geschikt.
+4. **Gebruik een olie die tegen hitte kan.** Bij wokken worden pan en olie heel heet. Neem daarom [zonnebloemolie of roerbakolie](https://www.voedingscentrum.nl/encyclopedie/olien.aspx); extra vierge olijfolie is minder geschikt.
 
 ![Bord met geroerbakte garnalen, peultjes, wortel en broccoli](/assets/garnalen-roerbak.jpg)
 

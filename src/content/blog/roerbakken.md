@@ -33,13 +33,13 @@ Nauwelijks. Wokken is roerbakken in een wok. Je kunt ook roerbakken in een grote
 
 1. **Snijd alles vooraf.** Als de pan eenmaal heet is, heb je geen tijd meer om te snijden. Zet alles klaar in bakjes. Snijd in kleine, gelijke stukjes, zodat alles tegelijk gaar is.
 2. **Maak de pan goed heet.** Doe een druppel water in de pan: springt die op en verdampt hij snel, dan is de pan heet genoeg. Heb je een wok met antiaanbaklaag? Verhit die dan niet leeg op de hoogste stand.
-3. **Gebruik weinig olie, en de juiste.** Ongeveer een eetlepel is genoeg. Bij wokken worden pan en olie 180 tot 230 °C. Neem dan een olie die daartegen kan, zoals zonnebloemolie of roerbakolie. Extra vierge olijfolie en lijnzaadolie roken al onder 180 °C.
+3. **Gebruik weinig olie, en de juiste.** Ongeveer een eetlepel is genoeg. Bij wokken worden pan en olie heel heet. Neem dan een olie die daartegen kan, zoals zonnebloemolie of roerbakolie. Extra vierge olijfolie en lijnzaadolie gaan dan te snel roken.
 4. **Niet te veel tegelijk.** Doe je te veel in de pan, dan zakt de temperatuur, komt er vocht uit de groenten en gaan ze stoven. Bak liever in twee keer.
 5. **Blijf omscheppen.** Met een spatel of wokschep, zodat alles even lang in contact met de hete bodem is.
 
 ## In welke volgorde gaat alles erin?
 
-Het [Voedingscentrum](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx) houdt deze volgorde aan:
+Een goede [volgorde](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp/roerbakken-hoe-roerbak-of-wok-ik-.aspx) is:
 
 1. **Eerst vlees, kip, vis, garnalen of een vleesvervanger.** Wok dit tot het gaar is.
 2. **Dan stevige groenten**, zoals wortel, broccoli of sperziebonen. Die kun je ook kort voorkoken.
@@ -62,9 +62,9 @@ Kook je op inductie, til de pan dan niet steeds op om te schudden. Staat er een 
 
 ## Is roerbakken gezond?
 
-Roerbakken heeft een paar dingen mee: je gebruikt weinig olie en je kunt er veel groenten in kwijt. Het Voedingscentrum schrijft dat je bij wokken veel smaak en vitamines behoudt.
+Roerbakken heeft een paar dingen mee: je gebruikt weinig olie en je kunt er veel groenten in kwijt. Ook behoud je bij wokken veel smaak en vitamines.
 
-Eén kanttekening: in een onderzoek met broccoli ging bij roerbakken wel wat vitamine C verloren, al minder dan bij koken. Bij stomen was er geen duidelijk verlies. Dat was één onderzoek met één groente, dus het zegt niet alles. Roerbakken is niet de "beste" manier om vitamines te bewaren, maar wel een smakelijke manier om veel groenten te eten.
+Eén kanttekening: ook bij roerbakken kan wat vitamine C verloren gaan, al lijkt dat minder dan bij koken. Roerbakken is niet de "beste" manier om vitamines te bewaren, maar wel een smakelijke manier om veel groenten te eten.
 
 Hoe gezond je roerbak is, hangt ook sterk af van wat erin gaat: veel groenten en niet te veel olie.
 

@@ -86,7 +86,7 @@ Dat hangt af van met hoeveel mensen je eet en van je kookplaat. Een paar aandach
 
 ### Welke maat koekenpan heb je nodig?
 
-Demeyere/Zwilling geeft deze vuistregel, gemeten aan de bovenrand:
+Een handige vuistregel, gemeten aan de bovenrand:
 
 | Huishouden | Maat koekenpan |
 |---|---|

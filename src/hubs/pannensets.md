@@ -69,14 +69,14 @@ Het materiaal bepaalt grotendeels hoe een pan kookt, hoe lang hij meegaat en hoe
 | Materiaal | Sterk in | Let op | Op inductie |
 |---|---|---|---|
 | RVS met sandwichbodem | dagelijks koken, lang meegaan, vaak vaatwasserbestendig | eten kan aanbakken als je geen vet gebruikt of de pan niet goed voorverwarmt | ja, als de bodem magnetisch is |
-| RVS meerlagenstaal (triply) | gelijkmatige warmte, ook in de wand | duurder en zwaarder | meestal, check de fabrikant |
+| RVS meerlagenstaal | gelijkmatige warmte, ook in de wand | duurder en zwaarder | meestal, check de fabrikant |
 | Aluminium met antiaanbaklaag | licht, warmt snel op, makkelijk bakken | de coating slijt; aluminium zelf werkt niet op inductie | alleen met een inductiebodem |
-| Keramische antiaanbaklaag | bakken met weinig vet, meestal zonder PFAS | antiaanbakwerking gaat sneller achteruit in labtests | alleen met een inductiebodem |
+| Keramische antiaanbaklaag | bakken met weinig vet, meestal zonder PFAS | antiaanbakwerking kan sneller achteruitgaan | alleen met een inductiebodem |
 | Emaille of gietijzer | warmte vasthouden, stoven en sudderen | zwaar; emaille kan schilferen bij een klap | ja |
 
 ### RVS: de degelijke basis
 
-**RVS** is het meest gekozen materiaal voor kookpannensets, en niet voor niets. Het roest niet, je kunt het flink gebruiken en het heeft geen coating die kan slijten. Van zichzelf geleidt RVS warmte niet zo goed. Daarom hebben goede RVS-pannen een **dikke bodem** of **sandwichbodem**: een laag aluminium of koper tussen twee lagen RVS. Bij **meerlagenstaal** loopt die geleidende laag door tot in de wand, waardoor de warmte nog gelijkmatiger is. Een goede bodem helpt ook tegen **kromtrekken**.
+**RVS** is het meest gekozen materiaal voor kookpannensets, en niet voor niets. Het roest niet, je kunt het flink gebruiken en het heeft geen coating die kan slijten. Van zichzelf geleidt RVS warmte niet zo goed. Daarom hebben goede RVS-pannen een **dikke bodem** of **sandwichbodem**: een laag aluminium of koper tussen twee lagen RVS. Bij **meerlagenstaal** loopt die laag door tot in de wand, waardoor de warmte nog gelijkmatiger is. Een goede bodem helpt ook tegen **kromtrekken**.
 
 [[product:bk-profiline-5]]
 
@@ -102,7 +102,7 @@ Dit is misschien wel de belangrijkste vraag, want een prachtige set die niet wer
 
 Op **gas**, keramisch en elektrisch werken bijna alle pannen, zolang de bodem vlak is. Veel sets worden verkocht als geschikt voor **alle warmtebronnen**.
 
-Voor **inductie** is het wat moeilijker. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom heb je pannen nodig met een magnetiseerbare, geleidende bodem die helemaal vlak is. Zo controleer je dat:
+Voor **inductie** is het wat moeilijker. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom heb je pannen nodig met een magnetische bodem die helemaal vlak is. Zo controleer je dat:
 
 - **Inductiesymbool**: een spiraal op de pan of de verpakking.
 - **Magneettest**: blijft een magneet stevig aan de bodem plakken, dan werkt de pan op inductie. Laat hij los of plakt hij maar een beetje, dan werkt de pan niet of minder goed. Meer uitleg: [de magneettest](/blog/pannen-inductie/).
@@ -117,11 +117,11 @@ Alle sets die we in [hoeveel geef je uit aan een pannenset](/blog/hoeveel-uitgev
 
 Bij pannen met een antiaanbaklaag komt vaak de vraag op of ze veilig zijn. Dat is een serieuze vraag, dus hier het korte, nuchtere antwoord.
 
-**PFAS** is een verzamelnaam voor een grote groep door mensen gemaakte stoffen die water en vet afstoten en heel langzaam afbreken, legt het [Voedingscentrum](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx) uit. Ook de klassieke antiaanbaklaag van PTFE (Teflon) valt eronder.
+**PFAS** is een [verzamelnaam](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx) voor een grote groep door mensen gemaakte stoffen die water en vet afstoten en heel langzaam afbreken. Ook de klassieke antiaanbaklaag van PTFE (Teflon) valt eronder.
 
-De Rijksoverheid zegt dat je een pan met antiaanbaklaag veilig kunt gebruiken als je de gebruiksaanwijzing volgt, en dat je een pan met een beschadigde laag moet weggooien. Het Duitse overheidsinstituut BfR waarschuwt dat zo'n laag vanaf ongeveer 360 °C kapot kan gaan en schadelijke dampen kan geven. Verhit een lege antiaanbakpan dus nooit op hoog vuur.
+Je kunt een pan met antiaanbaklaag veilig gebruiken als je de gebruiksaanwijzing volgt. Is de laag beschadigd, gooi de pan dan weg. Wordt zo'n laag veel te heet, dan kan hij kapotgaan en schadelijke dampen geven. Verhit een lege antiaanbakpan dus nooit op hoog vuur.
 
-Wil je PFAS zoveel mogelijk vermijden, ook voor het milieu? Dan is een **ongecoate RVS-set** de meest zekere keuze. Het Voedingscentrum noemt kiezen voor pannen zonder antiaanbaklaag als manier om minder PFAS in het milieu te laten komen. Wil je toch een antiaanbaklaag, dan zijn keramische lagen meestal zonder PFAS. Let op: "PFOA-vrij" op de doos zegt weinig, want PFOA is in de EU al sinds 2020 verboden.
+Wil je PFAS zoveel mogelijk vermijden, ook voor het milieu? Dan is een **ongecoate RVS-set** de meest zekere keuze. Wil je toch een antiaanbaklaag, dan zijn keramische lagen meestal zonder PFAS. Let op: "PFOA-vrij" op de doos zegt weinig, want PFOA is in de EU al sinds 2020 verboden.
 
 Welke sets geschikt zijn voor inductie én PFAS-vrij koken, en wat "PFAS-vrij" precies betekent, lees je in [pannensets voor inductie en PFAS-vrij](/blog/pannenset-inductie-pfas-vrij/).
 
@@ -167,7 +167,7 @@ Veel RVS-pannen mogen in de **vaatwasser**. Bij pannen met een antiaanbaklaag is
 
 De garantie zegt iets over hoe lang de fabrikant verwacht dat een pan meegaat. Op RVS geven merken vaak veel langer garantie dan op een coating. Een paar voorbeelden uit de voorwaarden van de fabrikanten:
 
-- BK: 25 jaar op de Profiline en Q-linair volgens bk.nl, 3 jaar op de keramische Brilliant-lijn.
+- BK: 25 jaar op de Profiline en Q-linair, 3 jaar op de keramische Brilliant-lijn.
 - Demeyere: 30 jaar op RVS, of 10 jaar bij de goedkopere lijnen, en 3 tot 5 jaar op coatings.
 - Tefal: 2 jaar, ook op de antiaanbaklaag; RVS met een sterren-markering op de bodem 5 of 10 jaar.
 - GreenPan (Mayflower): levenslang op de pan, 5 jaar op de coating.
@@ -176,9 +176,9 @@ Bij alle merken vallen normale slijtage, krassen en verkleuring buiten de garant
 
 ## Zo gaat je set langer mee
 
-Een goede set is een investering, en met een paar gewoontes haal je er meer jaren uit. Opvallend: wat fabrikanten in hun garantievoorwaarden uitsluiten, is meteen een prima lijstje met wat je beter niet kunt doen.
+Een goede set is een investering, en met een paar gewoontes haal je er meer jaren uit.
 
-- **Verhit een lege pan niet op hoog vuur.** Tefal sluit schade door oververhitting en door het verhitten van een lege pan uit van de garantie. Bij een antiaanbaklaag is dat extra belangrijk; Demeyere noemt voor zijn coatings een grens van 230 °C.
+- **Verhit een lege pan niet op hoog vuur.** Daar kan een pan van beschadigen, en bij een antiaanbaklaag is dat extra belangrijk.
 - **Voorkom grote temperatuurverschillen.** Een gloeiend hete pan onder de koude kraan kan de bodem laten vervormen. Laat de pan eerst wat afkoelen.
 - **Gebruik op inductie de juiste kookzone.** Kies een zone die past bij de bodem van je pan.
 - **Wees zacht voor coatings.** Gebruik bij een antiaanbaklaag liever houten of siliconen spatels en een zachte spons.
@@ -189,7 +189,7 @@ Is de antiaanbaklaag van een pan beschadigd? Dan is mijn advies: gooi de pan weg
 
 ## Kort samengevat
 
-- Voor dagelijks koken is een **RVS-pannenset met een dikke bodem** de veiligste basis.
+- Voor dagelijks koken is een **RVS-pannenset met een dikke bodem** de beste basis.
 - Tel de **pannen**, dus de pannen waar je daadwerkelijk in kookt, en niet de deksels, want die worden in sommige sets meegeteld!
 - Kook je op **inductie**, check dan het spiraalsymbool of doe de magneettest.
 - Wil je geen PFAS-coating, kies dan **ongecoat**; wil je een antiaanbaklaag, dan is keramisch meestal zonder PFAS, maar wel minder slijtvast.

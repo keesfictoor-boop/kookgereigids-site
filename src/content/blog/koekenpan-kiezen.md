@@ -34,9 +34,9 @@ Antiaanbak, keramisch, RVS, plaatstaal, gietijzer: de keuze is groot. In dit art
 
 De klassieke antiaanbakpan heeft een laag van PTFE, de stof die veel mensen kennen als Teflon. Zo'n pan is fijn voor kwetsbare vis en gepaneerde producten, en je hebt er weinig vet bij nodig. Wel is hij gevoeliger voor slijtage en oververhitting dan RVS, en je eten wordt er minder krokant in.
 
-Is zo'n pan veilig? De Rijksoverheid schrijft dat er PFAS in teflonpannen zitten, maar dat je ze veilig kunt blijven gebruiken als je de gebruiksaanwijzing volgt. Is de laag beschadigd, lever de pan dan in of gooi hem bij het restafval. Het [Voedingscentrum](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx) zegt hetzelfde over normaal gebruik, zolang de pan onbeschadigd is. Kies je een pan zonder antiaanbaklaag, dan komt er wel minder PFAS in het milieu. Of een pan PFAS bevat, staat niet op het etiket; je kunt het aan de fabrikant vragen.
+Is zo'n pan veilig? Er zit PFAS in teflonpannen, maar je kunt ze veilig blijven gebruiken als je de gebruiksaanwijzing volgt en de laag onbeschadigd is. Is de laag beschadigd, lever de pan dan in of gooi hem bij het restafval. Kies je een pan zonder antiaanbaklaag, dan komt er wel [minder PFAS in het milieu](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx). Of een pan PFAS bevat, staat niet op het etiket; je kunt het aan de fabrikant vragen.
 
-Ook het Duitse overheidsinstituut BfR verwacht bij normaal gebruik geen gezondheidsschade. Vanaf ongeveer 360 °C kan de laag kapotgaan, en dan kunnen schadelijke stoffen vrijkomen, ook zonder dat je rook ziet. Verhit een lege antiaanbakpan daarom nooit op hoog vuur.
+Wordt de laag veel te heet, dan kan hij kapotgaan. Dan kunnen er schadelijke stoffen vrijkomen, ook zonder dat je rook ziet. Verhit een lege antiaanbakpan daarom nooit op hoog vuur.
 
 Wil je hier meer over weten, lees dan [pannensets voor inductie en PFAS-vrij koken](/blog/pannenset-inductie-pfas-vrij/). Daar staat ook wat "PFOA-vrij" op de doos wel en niet betekent.
 
@@ -44,9 +44,9 @@ Wil je hier meer over weten, lees dan [pannensets voor inductie en PFAS-vrij kok
 
 ![Pannenkoekbeslag in een witte koekenpan op de kookplaat, met een spatel](/assets/witte-koekenpan-pannenkoek.jpg)
 
-Een keramische laag is een alternatief als je wel een antiaanbakpan wilt, maar zonder PTFE. Suikers, gluten en eiwitten hechten er minder aan, en het resultaat zit tussen een RVS-pan en een PTFE-pan in. Ook deze laag is gevoeliger voor slijtage en oververhitting dan RVS.
+Een keramische laag is een alternatief als je wel een antiaanbakpan wilt, maar zonder PTFE. Eten plakt er minder snel aan, en het resultaat zit tussen een RVS-pan en een PTFE-pan in. Ook deze laag is gevoeliger voor slijtage en oververhitting dan RVS.
 
-De Consumentenbond test keramische koekenpannen. De kwaliteit van de laag verschilt sterk per pan, en bij alle geteste pannen was de bodem aan het eind blijvend vervormd. Ook goed opbergen maakt veel uit. Mijn tip: leg een doekje of pannenbeschermer tussen gestapelde pannen.
+De kwaliteit van de laag verschilt sterk per pan, en de bodem kan op den duur vervormen. Ook goed opbergen maakt veel uit. Mijn tip: leg een doekje of pannenbeschermer tussen gestapelde pannen.
 
 Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet elke productpagina zegt daar iets over.
 
@@ -54,7 +54,7 @@ Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet
 
 ## RVS zonder coating
 
-Fabrikant Demeyere noemt RVS vaak de beste keuze om in te bakken: ideaal voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Hij mag in de vaatwasser en gaat bij normaal gebruik heel lang mee. Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
+RVS is een fijne keuze om in te bakken, vooral voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Zo'n pan mag meestal in de vaatwasser en gaat bij normaal gebruik heel lang mee. Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
 
 De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
 
@@ -62,7 +62,7 @@ De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanb
 
 Plaatstaal ken je misschien van de klassieke wok. Er zit geen coating op. De pan bouwt zelf een laag op: je brandt hem in, en daarna bakt hij beter hoe vaker je hem gebruikt. Hoe zwarter de binnenkant, hoe minder er aanbakt.
 
-Er zijn ook nadelen. Niet laten weken, niet in de vaatwasser, en na het afwassen meteen afdrogen en licht invetten tegen roest. Zure ingrediënten zoals tomaat, witte wijn of citroen kunnen witte vlekken in de laag geven; dan brand je de pan opnieuw in. En op inductie: gebruik een matige stand, geen booster, en verhit de pan niet leeg. Vanaf 26 cm voorkom je daarmee dat de pan vervormt.
+Er zijn ook nadelen. Niet laten weken, niet in de vaatwasser, en na het afwassen meteen afdrogen en licht invetten tegen roest. Zure ingrediënten zoals tomaat, witte wijn of citroen kunnen witte vlekken in de laag geven; dan brand je de pan opnieuw in. En op inductie: gebruik een matige stand, geen booster, en verhit de pan niet leeg. Zo voorkom je dat een grote pan vervormt.
 
 Hoe inbranden precies gaat, lees je in [wok inbranden](/blog/wok-inbranden/). Voor een koekenpan van plaatstaal werkt het op dezelfde manier.
 
@@ -78,7 +78,7 @@ Reken op gewicht: een grote gietijzeren pan weegt al snel een paar kilo. Daarmee
 
 ## Welke maat koekenpan heb je nodig?
 
-De maat van een koekenpan gaat meestal over de **bovenrand**. Het bakoppervlak onderin is kleiner. Demeyere geeft deze vuistregel:
+De maat van een koekenpan gaat meestal over de **bovenrand**. Het bakoppervlak onderin is kleiner. Een handige vuistregel:
 
 | Diameter | Aantal personen |
 |---|---|
@@ -93,7 +93,7 @@ Kijk daarnaast naar de **bodemdiameter**, zeker op inductie. De bodem is kleiner
 
 ## Koken op inductie
 
-Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetiseerbaar en helemaal vlak is. Gietijzer en plaatstaal werken in de regel op inductie (meer in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/)). Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt? In dat artikel over inductie lees je hoe je de magneettest doet.
+Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetisch en helemaal vlak is. Gietijzer en plaatstaal werken in de regel op inductie (meer in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/)). Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt? In dat artikel over inductie lees je hoe je de magneettest doet.
 
 ## Met of zonder deksel?
 

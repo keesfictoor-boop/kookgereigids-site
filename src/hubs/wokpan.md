@@ -1,6 +1,6 @@
 ---
 title: "Wokpan kiezen: welk materiaal, welke maat en welke bodem?"
-description: "Welke wokpan past bij jou? Carbonstaal, RVS, gietijzer of antiaanbak, vlakke of bolle bodem, de juiste maat en wat 'PFAS-vrij' betekent, met bronnen."
+description: "Welke wokpan past bij jou? Carbonstaal, RVS, gietijzer of antiaanbak, vlakke of bolle bodem, de juiste maat en wat 'PFAS-vrij' betekent."
 intro: "Voor de meeste thuiskoks is een wok van carbonstaal (plaatstaal) met een vlakke bodem van 28 tot 32 cm de fijnste keuze: hij wordt snel heet, werkt op gas en (als de fabrikant hem daarvoor geschikt noemt) op inductie, en bouwt zelf een antiaanbaklaag op. Wil je geen onderhoud, kies dan RVS of een wok met antiaanbaklaag."
 updatedDate: "2026-10-29"
 readingTime: 10
@@ -51,7 +51,7 @@ Het nadeel: een carbonstalen wok kan roesten als je hem nat laat staan, en hij m
 
 ### RVS
 
-Dit is het type wok dat wij thuis gebruiken. Een **RVS-wok** (roestvrij staal) hoef je niet in te branden: een afwas met warm water en afwasmiddel is genoeg voor het eerste gebruik. Hij roest niet en vaak mag hij in de vaatwasser. Wel geeft RVS warmte zo'n drie keer slechter door dan koolstofstaal of gietijzer. Daarom hebben veel RVS-pannen een bodem of kern van aluminium of koper. Reken erop dat je in RVS wat meer vet en geduld nodig hebt om aanbakken te voorkomen.
+Dit is het type wok dat wij thuis gebruiken. Een **RVS-wok** (roestvrij staal) hoef je niet in te branden: een afwas met warm water en afwasmiddel is genoeg voor het eerste gebruik. Hij roest niet en vaak mag hij in de vaatwasser. Wel geeft RVS warmte een stuk minder goed door dan koolstofstaal of gietijzer. Daarom hebben veel RVS-pannen een bodem of kern van aluminium of koper. Reken erop dat je in RVS wat meer vet en geduld nodig hebt om aanbakken te voorkomen.
 
 ### Gietijzer
 
@@ -73,7 +73,7 @@ Kook je op gas en wil je toch een bolle wok, dan heb je een wokring nodig zodat 
 
 ## Welke maat heb je nodig?
 
-Bij een wok gaat de maat over de **bovenrand**. De bodem is veel kleiner: bij een wok van 28 cm is die vaak 13 tot 17 cm, bij 32 cm zo'n 15 cm (volgens de productinformatie van de woks hieronder). Op inductie is juist die bodemmaat belangrijk, want die moet passen op je kookzone.
+Bij een wok gaat de maat over de **bovenrand**. De bodem is veel kleiner: bij een wok van 28 cm is die vaak 13 tot 17 cm, bij 32 cm zo'n 15 cm. Op inductie is juist die bodemmaat belangrijk, want die moet passen op je kookzone.
 
 - **28 cm**: fijn voor één tot twee personen, of als bijgerecht.
 - **30 tot 32 cm**: de handigste maat voor een gezin van vier. Met een gezin van vier zou ik niet kleiner kiezen: je hebt ruimte om om te scheppen zonder dat de helft over de rand vliegt.
@@ -89,7 +89,7 @@ Bij roerbakken heb je geen deksel nodig. Een deksel is handig als je ook stooft 
 
 "PFAS-vrij" staat op steeds meer woks. Wat betekent dat? Een wok **zonder antiaanbaklaag**, dus kaal carbonstaal, gietijzer of RVS, heeft geen coating en dus ook geen PFAS-coating. Een wok met **keramische antiaanbaklaag** is meestal zonder PFAS, maar dat blijft een bewering van de fabrikant. Een klassieke antiaanbaklaag van **PTFE** valt wel onder PFAS.
 
-Wat "PFOA-vrij" wel en niet zegt en wat de overheid adviseert, lees je in [pannensets voor inductie én PFAS-vrij koken](/blog/pannenset-inductie-pfas-vrij/). Dat geldt net zo goed voor een wok.
+Wat "PFOA-vrij" wel en niet zegt en wat je met een oude antiaanbakpan doet, lees je in [pannensets voor inductie én PFAS-vrij koken](/blog/pannenset-inductie-pfas-vrij/). Dat geldt net zo goed voor een wok.
 
 ## Welke wok past bij jou?
 

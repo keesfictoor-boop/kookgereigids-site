@@ -19,7 +19,7 @@ Een nieuwe inductiekookplaat is heerlijk: snel, strak en makkelijk schoon te mak
 
 ## Waarom werkt niet elke pan op inductie?
 
-Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Het glas wordt alleen warm doordat de hete pan erop staat. Daarom heb je een pan nodig met een **magnetiseerbare bodem die helemaal vlak is**. Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
+Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Het glas wordt alleen warm doordat de hete pan erop staat. Daarom heb je een pan nodig met een **magnetische bodem die helemaal vlak is**. Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
 
 ## Welke materialen werken wel en niet?
 

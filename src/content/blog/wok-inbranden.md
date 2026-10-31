@@ -40,9 +40,9 @@ Kijk altijd eerst wat de fabrikant van jouw wok voorschrijft. De methodes versch
 
 ![Olie wordt uit een glazen fles in een hete pan geschonken](/assets/olie-schenken.jpg)
 
-De Franse fabrikant De Buyer beschrijft het voor zijn plaatstalen pannen zo:
+Zo pak je het aan:
 
-1. **Was de wok** met zeer heet water. Zit er een beschermlaagje op (bij De Buyer is dat bijenwas), wrijf dat dan goed weg zoals de fabrikant aangeeft.
+1. **Was de wok** met zeer heet water. Zit er een beschermlaagje op, wrijf dat dan goed weg zoals de fabrikant aangeeft.
 2. **Droog de wok goed af** met keukenpapier.
 3. **Giet een laagje olie** van ongeveer 1 mm in de wok.
 4. **Verhit tot de olie licht rookt.** Zet de afzuigkap aan.
@@ -52,7 +52,7 @@ Er zijn ook andere manieren. Dan warm je de pan eerst voor, verdeel je de olie o
 
 ![Groenten roerbakken in een wok op een gasbrander, met een grote kookpan erachter](/assets/wok-groenten.jpg)
 
-**Welke olie?** Gebruik een neutrale olie die tegen hoge temperaturen kan, zoals zonnebloemolie. Extra vierge olijfolie en lijnzaadolie gaan volgens het [Voedingscentrum](https://www.voedingscentrum.nl/encyclopedie/olien.aspx) al onder 180 °C roken.
+**Welke olie?** Gebruik een neutrale olie die tegen hoge temperaturen kan, zoals zonnebloemolie. Extra vierge olijfolie en lijnzaadolie gaan [sneller roken](https://www.voedingscentrum.nl/encyclopedie/olien.aspx).
 
 ### Op inductie of keramisch
 
@@ -78,6 +78,6 @@ Gietijzer kun je ook in de oven inbranden: wassen, goed drogen, binnen en buiten
 - Wrijf hem in met een **dun laagje olie** en berg hem droog op.
 - **Niet laten weken** en **niet in de vaatwasser**.
 
-En afwasmiddel? Daar verschillen fabrikanten in: de een noemt alleen heet water en een spons, de ander vindt een beetje mild afwasmiddel prima. Niet laten weken, daar zijn ze het over eens.
+En afwasmiddel? Heet water en een spons zijn genoeg, maar een beetje mild afwasmiddel kan ook. Kijk wat er bij jouw wok staat.
 
 Op zoek naar een nieuwe wok die je kunt inbranden? In mijn gids [wokpan kiezen](/wokpan/) vind je de verschillen tussen carbonstaal, gietijzer en RVS. Kook je op inductie, lees dan ook [wokpan voor inductie](/blog/wokpan-inductie/).
