@@ -106,7 +106,7 @@ Voor **inductie** is het wat moeilijker. Een inductiekookplaat verwarmt de pan v
 
 - **Inductiesymbool**: een spiraal op de pan of de verpakking.
 - **Magneettest**: blijft een magneet stevig aan de bodem plakken, dan werkt de pan op inductie. Laat hij los of plakt hij maar een beetje, dan werkt de pan niet of minder goed. Meer uitleg: [de magneettest](/blog/pannen-inductie/).
-- **RVS is niet altijd magnetisch.** RVS van het type 18/10 is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een **magnetische bodem** heeft. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
+- **RVS is niet altijd magnetisch.** RVS is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een **magnetische bodem** heeft. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
 - **Bodemmaat**: de maat op de doos gaat meestal over de bovenrand, de bodem is kleiner. Elke kookzone heeft een minimale panmaat; die vind je in de handleiding van je kookplaat.
 
 Alle sets die we in [hoeveel geef je uit aan een pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/) noemen, worden door de winkel of fabrikant verkocht als geschikt voor inductie. Check het toch altijd zelf bij jouw set.
