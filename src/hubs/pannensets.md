@@ -181,8 +181,8 @@ Een goede set is een investering, en met een paar gewoontes haal je er meer jare
 - **Verhit een lege pan niet op hoog vuur.** Tefal sluit schade door oververhitting en door het verhitten van een lege pan uit van de garantie. Bij een antiaanbaklaag is dat extra belangrijk; Demeyere noemt voor zijn coatings een grens van 230 °C.
 - **Voorkom grote temperatuurverschillen.** Een gloeiend hete pan onder de koude kraan kan de bodem laten vervormen. Laat de pan eerst wat afkoelen.
 - **Gebruik op inductie de juiste kookzone.** Kies een zone die past bij de bodem van je pan.
-- **Wees zacht voor coatings.** Scherpe voorwerpen en schuurmiddelen vallen bij Demeyere buiten de garantie. Gebruik bij een antiaanbaklaag liever houten of siliconen spatels en een zachte spons.
-- **Let op met de vaatwasser bij coatings.** Demeyere sluit slijtage en verkleuring door de vaatwasser uit. Bij RVS is de vaatwasser meestal geen probleem; kijk bij gecoate pannen wat de fabrikant adviseert.
+- **Wees zacht voor coatings.** Gebruik bij een antiaanbaklaag liever houten of siliconen spatels en een zachte spons.
+- **Let op met de vaatwasser bij coatings.** Bij RVS is de vaatwasser meestal geen probleem; kijk bij gecoate pannen wat de fabrikant adviseert.
 - **Bewaar je aankoopbewijs.** Zonder bon is een lange garantie weinig waard; BK vraagt bijvoorbeeld om het aankoopbewijs.
 
 Is de antiaanbaklaag van een pan beschadigd, dan adviseert de Rijksoverheid om de pan weg te gooien. Een RVS-pan zonder coating kun je juist jarenlang blijven gebruiken, ook als hij wat verkleurd is.
