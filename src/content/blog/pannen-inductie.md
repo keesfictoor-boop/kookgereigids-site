@@ -29,14 +29,14 @@ Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een s
 | Geëmailleerd staal of gietijzer | ja | de kern is magnetisch |
 | Plaatstaal (carbonstaal) | ja | magnetisch, veel gebruikt voor koekenpannen en woks |
 | RVS met magnetische bodem | ja | let op: niet elk RVS is magnetisch (zie hieronder) |
-| RVS 18/10 zonder speciale bodem | meestal niet | 18/10-staal is van zichzelf in de regel niet magnetisch |
+| RVS zonder speciale bodem | meestal niet | RVS is van zichzelf in de regel niet magnetisch |
 | Aluminium | alleen met inductiebodem | er moet een magnetische plaat onder zitten |
 | Koper | alleen met inductiebodem | idem |
 | Glas, aardewerk | nee | |
 
 ### RVS: het grote misverstand
 
-Veel mensen denken: RVS is metaal, dus dat werkt wel. Helaas niet altijd. RVS van het type 18/10 (18% chroom, 10% nikkel) is van zichzelf in de regel **niet magnetisch**. Een RVS-pan werkt alleen op inductie als er een magnetische bodem onder zit. Veel RVS-pannen hebben zo’n bodem, maar check het altijd.
+Veel mensen denken: RVS is metaal, dus dat werkt wel. Helaas niet altijd. RVS is van zichzelf in de regel **niet magnetisch**. Een RVS-pan werkt alleen op inductie als er een magnetische bodem onder zit. Veel RVS-pannen hebben zo’n bodem, maar check het altijd.
 
 [[product:bk-profiline-5]]
 

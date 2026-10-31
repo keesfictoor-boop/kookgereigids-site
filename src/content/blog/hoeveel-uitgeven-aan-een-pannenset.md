@@ -61,7 +61,7 @@ De bodem is het belangrijkste onderdeel van een pan. Een **dikke bodem** of **sa
 
 [[product:bk-profiline-5]]
 
-Voor koken op **inductie** moet de bodem magnetisch zijn. Gewoon RVS van het type 18/10 is van zichzelf in de regel niet magnetisch, dus fabrikanten maken voor inductie een bodem met een magnetische laag. Alle sets in de tabel hierboven worden door de winkel of fabrikant als geschikt voor inductie verkocht. Twijfel je bij een pan die je al hebt? Doe dan [de magneettest](/blog/pannen-inductie/).
+Voor koken op **inductie** moet de bodem magnetisch zijn. Gewoon RVS is van zichzelf in de regel niet magnetisch, dus fabrikanten maken voor inductie een bodem met een magnetische laag. Alle sets in de tabel hierboven worden door de winkel of fabrikant als geschikt voor inductie verkocht. Twijfel je bij een pan die je al hebt? Doe dan [de magneettest](/blog/pannen-inductie/).
 
 ### Coating, deksels en garantie
 

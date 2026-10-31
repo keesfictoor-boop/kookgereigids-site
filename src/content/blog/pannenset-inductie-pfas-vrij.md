@@ -52,7 +52,7 @@ Een **inductiekookplaat** verwarmt de pan via een magnetisch veld. Daarom heeft 
 
 1. **Zoek het inductiesymbool.** Dat is een spiraal op de pan of de verpakking.
 2. **Doe de magneettest.** Houd een magneet tegen de onderkant. Blijft hij stevig plakken, dan is de pan geschikt. Laat hij los of plakt hij maar een beetje, dan werkt de pan niet of minder goed. Check de hele bodem: bij sommige pannen zit er aan de rand te weinig magnetisch materiaal. Meer uitleg vind je in [de magneettest](/blog/pannen-inductie/).
-3. **Let op RVS.** RVS van het type 18/10 is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een **magnetische bodem** heeft, bijvoorbeeld een ingekapselde bodem met een magnetische laag. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
+3. **Let op RVS.** RVS is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een **magnetische bodem** heeft, bijvoorbeeld een ingekapselde bodem met een magnetische laag. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
 4. **Kijk naar de bodemmaat.** De maat op de doos gaat meestal over de bovenrand; de bodem is kleiner. Elke kookzone heeft een minimale panmaat die je in de handleiding van je kookplaat vindt.
 
 Aluminium en koper werken zonder magnetische bodem niet op inductie. Bij een keramische set van aluminium moet de fabrikant dus een speciale inductiebodem toevoegen.
