@@ -185,7 +185,7 @@ Een goede set is een investering, en met een paar gewoontes haal je er meer jare
 - **Let op met de vaatwasser bij coatings.** Bij RVS is de vaatwasser meestal geen probleem; kijk bij gecoate pannen wat de fabrikant adviseert.
 - **Bewaar je aankoopbewijs.** Zonder bon is een lange garantie weinig waard. Het is altijd verstandig om hem te bewaren, desnoods digitaal in je mail. Zo heb je hem altijd bij de hand.
 
-Is de antiaanbaklaag van een pan beschadigd, dan adviseert de Rijksoverheid om de pan weg te gooien. Een RVS-pan zonder coating kun je juist jarenlang blijven gebruiken, ook als hij wat verkleurd is.
+Is de antiaanbaklaag van een pan beschadigd? Dan is mijn advies: gooi de pan weg. Een beschadigde laag doet zijn werk niet goed meer, en met twee kinderen aan tafel wil ik niet twijfelen over wat er in de pan loskomt. Een RVS-pan zonder coating kun je juist jarenlang blijven gebruiken, ook als hij wat verkleurd is.
 
 ## Kort samengevat
 
