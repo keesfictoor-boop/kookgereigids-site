@@ -127,13 +127,13 @@ Welke sets geschikt zijn voor inductie én PFAS-vrij koken, en wat "PFAS-vrij" p
 
 ## Wat mag een goede pannenset kosten?
 
-Ik heb de prijzen van een aantal bekende sets zelf op de winkelpagina's bekeken. Grofweg zag het er zo uit:
+Ik heb voor je bij een aantal bekende sets op de winkelpagina's gekeken. De prijzen lopen flink uiteen, maar grofweg kom je hierop uit:
 
 - **Tot ongeveer €80**: eenvoudige RVS-sets, bijvoorbeeld een Tefal Duetto+ 4-delig of de SilverCrest RVS-set van Lidl.
 - **€80 tot €150**: veel bekende merksets van RVS, zoals de BK Profiline 5-delig, en keramische sets zoals de GreenPan Mayflower 9-delig.
 - **€150 tot €200**: sets met extra's of een zwaardere bodem, zoals de BK Q-linair Master Glas en de Demeyere Classico 3.
 
-Prijzen veranderen snel, en dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. Waar het prijsverschil in zit en wanneer meer betalen zin heeft, lees je in [wat een goede pannenset kost](/blog/hoeveel-uitgeven-aan-een-pannenset/).
+Prijzen veranderen snel, en dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. Waar het prijsverschil in zit en wanneer meer betalen zin heeft, lees je in [wat een goede pannenset kost](/blog/hoeveel-uitgeven-aan-een-pannenset/). Goedkoop is niet altijd duurkoop!
 
 ## Set of losse pannen?
 
