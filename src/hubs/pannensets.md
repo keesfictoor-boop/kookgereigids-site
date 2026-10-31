@@ -80,7 +80,7 @@ Het materiaal bepaalt grotendeels hoe een pan kookt, hoe lang hij meegaat en hoe
 
 [[product:bk-profiline-5]]
 
-RVS bevat nikkel. Volgens de Europese voedselautoriteit EFSA komt er uit RVS van goede kwaliteit waarschijnlijk weinig nikkel vrij, vergeleken met wat er van nature in eten zit. Heb je een nikkelallergie? Overleg dan met je huisarts of dermatoloog.
+RVS bevat nikkel. Uit RVS van goede kwaliteit komt waarschijnlijk weinig nikkel vrij, vergeleken met wat er van nature in eten zit. Heb je een nikkelallergie? Overleg dan met je huisarts of dermatoloog.
 
 ### Aluminium en antiaanbaklagen
 
