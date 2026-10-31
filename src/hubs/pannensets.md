@@ -190,7 +190,7 @@ Is de antiaanbaklaag van een pan beschadigd? Dan is mijn advies: gooi de pan weg
 ## Kort samengevat
 
 - Voor dagelijks koken is een **RVS-pannenset met een dikke bodem** de veiligste basis.
-- Tel de **pannen**, niet de "delen".
+- Tel de **pannen**, dus de pannen waar je daadwerkelijk in kookt, en niet de deksels, want die worden in sommige sets meegeteld!
 - Kook je op **inductie**, check dan het spiraalsymbool of doe de magneettest.
 - Wil je geen PFAS-coating, kies dan **ongecoat**; wil je een antiaanbaklaag, dan is keramisch meestal zonder PFAS, maar wel minder slijtvast.
 - Een goede set kost grofweg **€70 tot €200**, maar dezelfde set kan per winkel flink in prijs verschillen.
