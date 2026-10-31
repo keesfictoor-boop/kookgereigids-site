@@ -88,7 +88,7 @@ RVS bevat nikkel. Volgens de Europese voedselautoriteit EFSA komt er uit RVS van
 
 **Aluminium** is licht en warmt snel op. Je vindt het vooral in sets met een **antiaanbaklaag**. Dat bakt makkelijk, maar de laag slijt met de tijd. Aluminium zelf werkt niet op inductie; daarvoor moet er een speciale magnetische bodem onder zitten.
 
-Keramische antiaanbaklagen zijn meestal zonder PFAS. In labtests ging hun antiaanbakwerking wel sneller achteruit dan bij een klassieke laag, vooral door slijtage en de vaatwasser. Het ging om maar een paar producten, dus het zegt niets over hoe lang jouw pan meegaat. Wel vraagt een keramische laag zorg.
+Keramische antiaanbaklagen zijn meestal zonder PFAS. Hun antiaanbakwerking kan wel sneller achteruitgaan dan bij een klassieke laag, vooral door slijtage en de vaatwasser. Een keramische laag vraagt dus zorg.
 
 ### Emaille en gietijzer
 
