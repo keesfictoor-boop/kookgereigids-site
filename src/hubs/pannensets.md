@@ -167,7 +167,7 @@ Veel RVS-pannen mogen in de **vaatwasser**. Bij pannen met een antiaanbaklaag is
 
 De garantie zegt iets over hoe lang de fabrikant verwacht dat een pan meegaat. Op RVS geven merken vaak veel langer garantie dan op een coating. Een paar voorbeelden uit de voorwaarden van de fabrikanten:
 
-- BK: 25 jaar op de Profiline en Q-linair volgens bk.nl (bol.com noemt 15 jaar), 3 jaar op de keramische Brilliant-lijn.
+- BK: 25 jaar op de Profiline en Q-linair volgens bk.nl, 3 jaar op de keramische Brilliant-lijn.
 - Demeyere: 30 jaar op RVS, of 10 jaar bij de goedkopere lijnen, en 3 tot 5 jaar op coatings.
 - Tefal: 2 jaar, ook op de antiaanbaklaag; RVS met een sterren-markering op de bodem 5 of 10 jaar.
 - GreenPan (Mayflower): levenslang op de pan, 5 jaar op de coating.
