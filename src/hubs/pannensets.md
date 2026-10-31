@@ -102,7 +102,7 @@ Dit is misschien wel de belangrijkste vraag, want een prachtige set die niet wer
 
 Op **gas**, keramisch en elektrisch werken bijna alle pannen, zolang de bodem vlak is. Veel sets worden verkocht als geschikt voor **alle warmtebronnen**.
 
-**Inductie** is kritischer. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom heb je pannen nodig met een magnetiseerbare, geleidende bodem die helemaal vlak is. Zo controleer je dat:
+Voor **inductie** is het wat moeilijker. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom heb je pannen nodig met een magnetiseerbare, geleidende bodem die helemaal vlak is. Zo controleer je dat:
 
 - **Inductiesymbool**: een spiraal op de pan of de verpakking.
 - **Magneettest**: blijft een magneet stevig aan de bodem plakken, dan werkt de pan op inductie. Laat hij los of plakt hij maar een beetje, dan werkt de pan niet of minder goed. Meer uitleg: [de magneettest](/blog/pannen-inductie/).
