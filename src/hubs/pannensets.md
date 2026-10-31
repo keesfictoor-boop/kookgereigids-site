@@ -193,7 +193,7 @@ Is de antiaanbaklaag van een pan beschadigd? Dan is mijn advies: gooi de pan weg
 - Tel de **pannen**, dus de pannen waar je daadwerkelijk in kookt, en niet de deksels, want die worden in sommige sets meegeteld!
 - Kook je op **inductie**, check dan het spiraalsymbool of doe de magneettest.
 - Wil je geen PFAS-coating, kies dan **ongecoat**; wil je een antiaanbaklaag, dan is keramisch meestal zonder PFAS, maar wel minder slijtvast.
-- Een goede set kost grofweg **€70 tot €200**, maar dezelfde set kan per winkel flink in prijs verschillen.
+- Een goede set kost grofweg **€70 tot €200**, maar dezelfde set kan per winkel flink in prijs verschillen. Vergelijken is dus altijd zinvol!
 
 Wil je nog breder kijken, bijvoorbeeld naar koekenpannen of naar waar je in het algemeen op let bij pannen kopen? Lees dan [waar je op let bij pannen kopen](/koopadvies/) of probeer de [keuzehulp](/keuzehulp/).
 
