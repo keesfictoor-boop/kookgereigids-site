@@ -183,7 +183,7 @@ Een goede set is een investering, en met een paar gewoontes haal je er meer jare
 - **Gebruik op inductie de juiste kookzone.** Kies een zone die past bij de bodem van je pan.
 - **Wees zacht voor coatings.** Gebruik bij een antiaanbaklaag liever houten of siliconen spatels en een zachte spons.
 - **Let op met de vaatwasser bij coatings.** Bij RVS is de vaatwasser meestal geen probleem; kijk bij gecoate pannen wat de fabrikant adviseert.
-- **Bewaar je aankoopbewijs.** Zonder bon is een lange garantie weinig waard; BK vraagt bijvoorbeeld om het aankoopbewijs.
+- **Bewaar je aankoopbewijs.** Zonder bon is een lange garantie weinig waard. Het is altijd verstandig om hem te bewaren, desnoods digitaal in je mail. Zo heb je hem altijd bij de hand.
 
 Is de antiaanbaklaag van een pan beschadigd, dan adviseert de Rijksoverheid om de pan weg te gooien. Een RVS-pan zonder coating kun je juist jarenlang blijven gebruiken, ook als hij wat verkleurd is.
 
