@@ -37,7 +37,7 @@ Bak je juist veel eieren, pannenkoeken of vis, en wil je dat zonder gedoe? Dan k
 Twijfel je tussen een paar sets? Loop dan deze vijf vragen langs. Het is geen wetenschap, wel een handige manier om te voorkomen dat je een set koopt die over een jaar in de kast staat.
 
 1. **Welke pannen gebruik ik echt?** Tel hoe vaak je kookt en wat je maakt: pasta, aardappelen, soep, sauzen, rijst? Bij ons zijn dat vooral soep en wokgerechten, dus een grote soeppan telt voor ons zwaarder dan een extra steelpan. Dan weet je hoeveel kookpannen je nodig hebt en welke maten.
-2. **Op welke kookplaat kook ik?** Inductie stelt eisen aan de bodem. Gas en keramisch zijn minder kritisch.
+2. **Op welke kookplaat kook ik?** Inductie stelt eisen aan de bodem. Op gas en keramisch is koken eenvoudiger, omdat daar meer pannen op passen.
 3. **Wil ik een coating, of liever niet?** Ongecoat is duurzamer en heeft geen PFAS-coating; een antiaanbaklaag is makkelijker bij bakken.
 4. **Hoeveel wil ik uitgeven, en hoe lang moet de set mee?** Een langere garantie op de pan zegt iets over hoe lang de fabrikant zelf verwacht dat hij meegaat.
 5. **Wat vind ik handig in de keuken?** Glazen deksels, een afgietsysteem, stapelbare pannen, of pannen die in de vaatwasser mogen.
