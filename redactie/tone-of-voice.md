@@ -16,14 +16,15 @@ Schrijf in duidelijk, toegankelijk en natuurlijk Nederlands. Help lezers begrijp
 - **Korte introducties.** Geen clichés, geen herhaling, geen algemene zinnen die weinig toevoegen.
 - **Duidelijke tussenkoppen**, en waar nuttig opsommingen of vergelijkingstabellen.
 
-## Bronnen en leesbaarheid (eigenaar 30-10-2026, leidend)
+## Bronnen en leesbaarheid (eigenaar 30-10-2026, aangescherpt 31-10-2026, leidend)
 
 - **Gebruik bronnen om informatie te halen, niet om ernaar te verwijzen.** Maximaal één uitgaande bronlink per pagina, en alleen als die de lezer echt helpt (meestal een publieksvriendelijke pagina van het Voedingscentrum of de Rijksoverheid). Geen link is ook goed. Links naar bol en andere winkels in productblokken tellen niet mee.
 - **Geen bronnenlijsten**, geen regels met "Bronnen:", geen auteursnamen, jaartallen van studies, DOI's, wetsartikelen of namen van commissies in de tekst.
 - **Schrijf als een ervaren kok die het uitlegt aan een vriend**, niet als een onderzoeker. Vertel wat de lezer moet weten en doen, niet hoe je het hebt uitgezocht.
 - **Vermijd vaktermen** als een gewoon woord ook kan: niet "polymeriseert", "sol-gel", "W/m·K", "voedselcontactmaterialen" of "ontleden". Is een term nodig om te kiezen (RVS, PTFE, inductie), leg hem dan kort uit.
-- **Niet in elke alinea "volgens fabrikant X".** Geef het advies gewoon. Noem een merk alleen als het echt alleen voor dat merk geldt, zoals een garantie.
-- **Bij gezondheid mag je de instantie wel noemen**, zonder link als de ene link al gebruikt is, want daar wil de lezer weten wie het zegt: "het Voedingscentrum", "de Rijksoverheid". Maak de bewering niet stelliger dan de bron. Gebruik geen labdetails: "in labtests" is genoeg.
+- **Geen "volgens fabrikant X".** Geef het advies gewoon. Voorwaarden van een merk zijn geen bewijs voor een tip. Noem een merk alleen als het merk zelf het onderwerp is, zoals in een overzicht van garantietermijnen.
+- **Noem geen instanties, onderzoek of labtests in de tekst, ook niet bij gezondheid.** Geef het advies in je eigen woorden, met een gewone reden of een persoonlijke reden uit de toegestane feiten, bijvoorbeeld: "Mijn advies: gooi de pan weg." Neem de voorzichtigheid van de bron over ("kan", "waarschijnlijk") en maak de bewering nooit stelliger of gevaarlijker dan de bron.
+- **Gebruik de woorden van een thuiskok.** Geen typeaanduidingen en vakwoorden zoals 18/10, triply of thermische schokken, en geen woorden als "kritisch". Zeg wat het voor de lezer betekent: "op gas passen meer pannen". Lijkt een alinea op een onderzoeksverslag, schrijf hem dan opnieuw als advies.
 - De onderbouwing verdwijnt niet: elke bewering heeft een bron in de brief en het logboek, en de onafhankelijke controle kijkt die na.
 
 ## SEO
