@@ -75,7 +75,7 @@ Het materiaal bepaalt grotendeels hoe een pan kookt, hoe lang hij meegaat en hoe
 
 ### RVS: de degelijke basis
 
-**RVS** is het meest gekozen materiaal voor kookpannensets. Het roest niet, je kunt het flink gebruiken en het heeft geen coating die kan slijten. Van zichzelf geleidt RVS warmte niet zo goed. Daarom hebben goede RVS-pannen een dikke bodem of sandwichbodem: een laag aluminium of koper tussen twee lagen RVS. Bij meerlagenstaal loopt die laag door tot in de wand, waardoor de warmte nog gelijkmatiger is. Een goede bodem helpt ook tegen kromtrekken.
+**RVS** is het meest gekozen materiaal voor kookpannensets. Het roest niet, je kunt het flink gebruiken en het heeft geen coating die kan slijten. Van zichzelf geleidt RVS warmte niet zo goed. Daarom hebben goede RVS-pannen een dikke bodem of sandwichbodem: een laag aluminium of koper tussen twee lagen RVS. Bij meerlagenstaal loopt die laag door tot in de wand, waardoor de warmte nog gelijkmatiger is. Een goede bodem helpt ook tegen kromtrekken. Vijf RVS-sets naast elkaar vind je in [beste RVS-pannenset](/blog/pannenset-rvs/).
 
 [[product:bk-profiline-5]]
 

@@ -3,7 +3,7 @@
   "producten": {
     "tefal-duetto-4": {
       "naam": "Tefal Duetto+ kookpannenset 4-delig",
-      "kort": "Vier RVS-kookpannen met glazen deksels; geschikt voor inductie.",
+      "kort": "Drie RVS-kookpannen met glazen deksel en een steelpan; geschikt voor inductie.",
       "winkel": "bol",
       "url": "https://www.bol.com/nl/nl/p/tefal-duetto-pannenset-4-delig-kookpannenset/9200000119891804/",
       "afbeelding": "https://media.s-bol.com/Nk8Lg8yWMZrN/550x402.jpg",
@@ -53,7 +53,7 @@
       "kort": "Vier kookpotten met deksel en een steelpan, RVS met capsulebodem.",
       "winkel": "bol",
       "url": "https://www.bol.com/nl/nl/p/demeyere-classico-3-kookpannenset-5-delig/9300000074934414/",
-      "afbeelding": "https://media.s-bol.com/3Om3pX0B041p/K1L6x4J/550x382.jpg",
+      "afbeelding": null,
       "ean": "5412191890059"
     },
     "greenpan-mayflower-9": {
@@ -142,6 +142,14 @@
       "url": "https://www.bol.com/nl/nl/p/debuyer-mineral-b-element-koekenpan-zilver-rond-o-24-cm/9200000002756842/",
       "afbeelding": "https://media.s-bol.com/0xnmk6LvrGJG/g51r21k/550x446.jpg",
       "ean": "3011245610241"
+    },
+    "demeyere-comfort3-5": {
+      "naam": "Demeyere Comfort 3 pannenset 5-delig",
+      "kort": "Vier kookpannen met glazen deksel en een steelpan, van RVS.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/demeyere-pannenset-comfort-3-vintage-5-delig/9300000148009811/",
+      "afbeelding": "https://media.s-bol.com/V6Xx773WKW0o/jZoz6mY/550x483.jpg",
+      "ean": "5412191230053"
     }
   }
 }

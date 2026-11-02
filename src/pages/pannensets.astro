@@ -7,7 +7,7 @@ import { getPosts } from '../lib/posts';
 import ProductList from '../components/ProductList.astro';
 
 // Hub-pagina (pijler Pannensets): de tekst staat in src/hubs/pannensets.md, de artikelen eronder komen uit de blog.
-const spokes = ['set-of-los', 'hoeveel-uitgeven-aan-een-pannenset', 'pannenset-inductie-pfas-vrij'];
+const spokes = ['set-of-los', 'hoeveel-uitgeven-aan-een-pannenset', 'pannenset-inductie-pfas-vrij', 'pannenset-rvs'];
 const posts = (await getPosts()).filter((p) => spokes.includes(p.id));
 const jsonLd = {
   '@type': 'Article',
