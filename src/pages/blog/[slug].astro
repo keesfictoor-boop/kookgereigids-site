@@ -1,5 +1,6 @@
 ---
 import { plaatsProducten } from '../../lib/affiliate';
+import { tabelKaarten } from '../../lib/tabellen';
 import Base from '../../layouts/Base.astro';
 import { getPosts } from '../../lib/posts';
 import ProductList from '../../components/ProductList.astro';
@@ -10,7 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { post, posts } = Astro.props;
-const html = plaatsProducten(post.rendered?.html ?? '');
+const html = tabelKaarten(plaatsProducten(post.rendered?.html ?? ''));
 const d = post.data;
 const jsonLd = {
   '@type': 'BlogPosting',
