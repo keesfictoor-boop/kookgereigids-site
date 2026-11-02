@@ -50,9 +50,14 @@ Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 4508015 (herkenbaar se
 | steelpan-kookplaat-stoom.jpg | 820012 | Republica | pannenset-inductie-pfas-vrij (extra foto, 29-10-2026) |
 | witte-koekenpan-pannenkoek.jpg | 5455249 | congerdesign | koekenpan-kiezen (extra foto, 29-10-2026) |
 | cooking.jpg, kitchen.jpg | Unsplash | Rick Barrett, Dane Deaner | home, over-ons, koopadvies |
+| pannenset-rvs-bloemkool.jpg | 2383332 | congerdesign | pannenset-rvs |
+| pannenset-rvs-deksel-condens.jpg | 5342898 | scratsmacker | pannenset-rvs |
+| pannenset-rvs-steelpan.jpg | 2474181 | Myriams-Fotos | pannenset-rvs |
 
 Afgewezen wave 3 (29-10-2026): 6660682 (logo op deksel), 573961 (mogelijk tekst op het mes), 1850233 (logo op kleding, persoon herkenbaar).
 
 Afgewezen koekenpan-kiezen (29-10-2026): 2969649 (merknaam leesbaar op de snijplank).
 
 Afgewezen extra foto's (29-10-2026): 10489109 (mogelijk AI-beeld, leesbare boekruggen), 338139 (merknaam op messenblok), 1006694 (tekst "SOUP"), 4229579 (logo op handvat).
+
+Afgewezen pannenset-rvs (2-11-2026): 3398117 (merkverpakking in beeld), 476346 (merknaam leesbaar op de pan), 750142, 3267634, 1927783 en 5629174 (geen RVS).

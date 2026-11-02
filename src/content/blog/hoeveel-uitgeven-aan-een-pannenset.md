@@ -117,5 +117,5 @@ Waar je niet voor hoeft te betalen: een hoge "van"-prijs, een groot aantal "dele
 5. **Lees de garantie bij de fabrikant**, en let op het verschil tussen de pan en de coating.
 6. **Vergelijk dezelfde set bij meerdere winkels**, inclusief bezorgkosten. Het verschil kan groot zijn.
 
-Wil je eerst het grote plaatje zien, met materialen en kookplaten op een rij? Kijk dan bij [pannenset kiezen](/pannensets/).
+Wil je eerst het grote plaatje zien, met materialen en kookplaten op een rij? Kijk dan bij [pannenset kiezen](/pannensets/). Twijfel je tussen sets van RVS, lees dan [beste RVS-pannenset](/blog/pannenset-rvs/).
 
