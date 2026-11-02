@@ -15,7 +15,7 @@ imageSourceUrl: "https://pixabay.com/photos/cooking-wok-chinese-asian-food-18353
 imageSource: "Pixabay"
 ---
 
-Er bestaan tientallen soorten pannen. Sudderpannen, sauteuses, grillpannen, paellapannen, tajines... Maar wees nou eens eerlijk, hoeveel daarvan gebruik je echt? Bij ons in Haarlem wordt elke dag gekookt, met twee kinderen en twee fulltime banen. Dan wil je een paar goede pannen, en geen kast waarin je er eerst drie moet verschuiven. En ja, ook wij zijn schuldig aan het kopen van pannen die veel te weinig gebruikt worden!
+Er bestaan tientallen soorten pannen. Sudderpannen, sauteuses, grillpannen, paellapannen, tajines... Maar wees nou eens eerlijk, hoeveel daarvan gebruik je echt? Bij ons in Haarlem wordt elke dag gekookt, met twee kinderen en twee fulltime banen. Dan wil je een paar goede pannen die je zo pakt, zonder eerst drie andere te verschuiven. En ja, ook wij zijn schuldig aan het kopen van pannen die veel te weinig gebruikt worden!
 
 ## De basis: vier of vijf pannen
 
@@ -65,14 +65,14 @@ Wij wokken veel en koken graag uit de wereldkeuken. Dan hoort een wok er wat mij
 
 ## Koekenpan of hapjespan: wat is het verschil?
 
-- Een koekenpan heeft een lage, vaak schuin oplopende rand. Daardoor kom je er makkelijk bij met een spatel en verdampt vocht snel. Dat helpt als je iets krokant wilt bakken.
-- Een hapjespan heeft een hogere, rechte rand en vaak een deksel. Daardoor past er meer in en spat er minder uit. Handig als je eerst iets aanbakt en het daarna laat sudderen in een saus.
+- Een **koekenpan** heeft een lage, vaak schuin oplopende rand. Daardoor kom je er makkelijk bij met een spatel en verdampt vocht snel. Dat helpt als je iets krokant wilt bakken.
+- Een **hapjespan** heeft een hogere, rechte rand en vaak een deksel. Daardoor past er meer in en spat er minder uit. Past goed als je eerst iets aanbakt en het daarna laat sudderen in een saus.
 
 Vuistregel: **bakken = koekenpan, bakken én sudderen = hapjespan.** Heb je weinig ruimte? Dan kan een hapjespan met deksel een koekenpan voor een groot deel vervangen. Andersom lukt dat minder goed.
 
 ## Koekenpan of wok?
 
-Een koekenpan heeft een groot, vlak bakoppervlak: handig voor een biefstuk of drie eieren naast elkaar. Een wok heeft een kleinere bodem en hoge, schuine wanden: daardoor kun je op hoog vuur snel roerbakken en blijft alles in de pan. Maak je vooral Hollandse pot, dan heb je genoeg aan een koekenpan. Kook je regelmatig oosters, dan is een wok de moeite waard.
+Een koekenpan heeft een groot, vlak bakoppervlak: daar passen een biefstuk of drie eieren naast elkaar op. Een wok heeft een kleinere bodem en hoge, schuine wanden: daardoor kun je op hoog vuur snel roerbakken en blijft alles in de pan. Maak je vooral Hollandse pot, dan heb je genoeg aan een koekenpan. Kook je regelmatig oosters, dan is een wok de moeite waard.
 
 ## Hoe groot moet je pannen zijn?
 
@@ -93,7 +93,7 @@ Een handige vuistregel, gemeten aan de bovenrand:
 | 3-4 personen | 28 cm |
 | 4 of meer personen | 30-32 cm |
 
-Sommige winkels rekenen wat ruimer: 24 cm voor 1 à 2 personen en 28 cm of groter voor een volle tafel. Twijfel je, neem dan de grotere maat. Bij een pan van 32 cm kun je de andere kookzones vaak niet tegelijk gebruiken.
+Sommige winkels rekenen wat ruimer: 24 cm voor 1 à 2 personen en 28 cm of groter voor een volle tafel. Twijfel je, neem dan de grotere maat. Een pan van 32 cm heeft wel een nadeel: je kunt de andere kookzones dan vaak niet tegelijk gebruiken.
 
 ## Set of losse pannen?
 
@@ -103,7 +103,7 @@ Begin je helemaal opnieuw, dan is een [kookpannenset](/pannensets/) vaak de makk
 
 - Basis: 2-3 kookpannen, een steelpan en een koekenpan.
 - Kook je oosters: een wok erbij.
-- **Hapjespan en braadpan** zijn fijne aanvullingen.
+- Hapjespan en braadpan zijn fijne aanvullingen.
 - Koop alleen wat je mist.
 
 <div class="notice"><h3>Wat past bij jouw keuken?</h3><p>In de <a href="/keuzehulp/">keuzehulp</a> vul je in op welke kookplaat je kookt en wat je graag maakt. Kook je op inductie, lees dan ook <a href="/blog/pannen-inductie/">welke pannen geschikt zijn voor inductie</a>.</p></div>

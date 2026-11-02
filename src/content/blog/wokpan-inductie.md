@@ -14,7 +14,7 @@ intro: "Ja, je kunt prima wokken op inductie, als je wok een vlakke, magnetische
 producten: ["debuyer-mineralb-wok-32", "skottsberg-wok-rvs-28", "bk-easy-induction-wok-30", "tefal-experience-wok-28"]
 ---
 
-Heb je een nieuwe inductiekookplaat? Dan vraag je je misschien af: kan mijn wok nog wel? Wokken en roerbakken doen we bij ons thuis veel, en dat op een AEG-inductiekookplaat met een RVS-wok van Demeyere (de Apollo 7). Die vraag snap ik dus goed. Je hebt de juiste wok nodig en je pakt het iets anders aan dan op een gasvlam.
+Heb je een nieuwe inductiekookplaat? Dan vraag je je misschien af: kan mijn wok nog wel? Wokken en roerbakken doen we bij ons thuis veel, en dat op een AEG-inductiekookplaat met een RVS-wok van Demeyere (de Apollo 7). Die vraag snap ik dus goed. Wokken op inductie kan prima: je hebt alleen de juiste wok nodig en je pakt het iets anders aan dan op een gasvlam.
 
 ## Kun je wokken op inductie?
 

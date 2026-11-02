@@ -21,7 +21,7 @@ Met twee kinderen en allebei een fulltime baan wil ik niet uren vergelijken. Ik 
 
 ## Het korte antwoord: wat kost een goede pannenset?
 
-Voor een degelijke RVS-pannenset met vier of vijf kookpannen die op inductie werkt, betaal je op dit moment grofweg €70 tot €200. Daaronder vind je ook sets, maar dan weet je vaak minder over de bodem en de garantie. Daarboven betaal je vooral voor een zwaardere bodem, een langere garantie en de afwerking.
+Voor een degelijke RVS-pannenset met vier of vijf kookpannen die op inductie werkt, betaal je op dit moment grofweg **€70 tot €200**. Daaronder vind je ook sets, maar dan weet je vaak minder over de bodem en de garantie. Daarboven betaal je vooral voor een zwaardere bodem, een langere garantie en de afwerking.
 
 Een handige vuistregel:
 

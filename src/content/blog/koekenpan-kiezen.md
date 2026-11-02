@@ -16,7 +16,7 @@ imageSource: "Pixabay"
 
 Een koekenpan pak je bijna elke dag. Een ei voor de lunch, een stukje vis, groenten die je even wilt laten kleuren. Juist daarom is het fijn als hij doet wat je verwacht. Wij werken allebei fulltime, dus doordeweeks is er niet veel tijd om te koken. Dan wil je geen pan waar je bij elk gerecht over moet nadenken.
 
-Antiaanbak, keramisch, RVS, plaatstaal of gietijzer: de keuze is groot. Ik zet de materialen naast elkaar; zelf testen we geen pannen.
+Antiaanbak, keramisch, RVS, plaatstaal of gietijzer: de keuze is groot. Ik zet de materialen naast elkaar. Zelf testen we geen pannen.
 
 ## De materialen naast elkaar
 
@@ -56,7 +56,7 @@ Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet
 
 RVS is een fijne keuze om in te bakken, vooral voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Zo'n pan mag meestal in de vaatwasser en gaat bij normaal gebruik heel lang mee. Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
 
-Zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
+Zonder coating vraagt bakken wel wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
 
 ## Plaatstaal (carbonstaal)
 

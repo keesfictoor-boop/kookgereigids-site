@@ -26,7 +26,7 @@ Ik heb drie bekende RVS-sets vergeleken met precies dezelfde pannen, los gekocht
 
 Dit is de zuiverste vergelijking. De set en alle losse pannen worden op bol.com verkocht door Demeyere-Zwilling zelf, en alles was op voorraad. Ik telde de vijf pannen los bij elkaar op: kookpannen van 16, 18, 20 en 24 cm met deksel en een steelpan van 16 cm.
 
-Toen ik keek, was de set ruim 30% goedkoper dan die vijf pannen los.
+Toen ik keek, was de set **ruim 30% goedkoper** dan die vijf pannen los.
 
 [[product:demeyere-classico3-5]]
 
@@ -62,7 +62,7 @@ Een kookpannenset bevat meestal kookpannen in oplopende maten (16, 20, 24 cm) en
 
 - Je hebt al een paar goede pannen en mist er maar één of twee.
 - Je wilt per pan een ander materiaal: bijvoorbeeld RVS-kookpannen, een gietijzeren braadpan en een wok van plaatstaal. Wok je, net als wij, veel? Dan is zo’n mix vaak logischer dan alles uit één serie.
-- De set bevat maten die je niet gebruikt. Kook je voor twee, dan heb je misschien niets aan een soeppan van 24 cm. Ben je juist gek op soep, zoals wij, dan is die grote pan juist handig.
+- De set bevat maten die je niet gebruikt. Kook je voor twee, dan heb je misschien niets aan een soeppan van 24 cm. Ben je juist gek op soep, zoals wij, dan komt die grote pan goed van pas.
 
 ## Let op: ‘delig’ betekent niet hetzelfde
 
@@ -78,11 +78,11 @@ Op de doos staat ‘5-delig’ of ‘10-delig’, maar daar is geen vaste regel 
 
 ## Kort samengevat
 
-- Een set was in mijn vergelijking 18 tot 30% goedkoper dan dezelfde pannen los.
-- Dat voordeel telt alleen als je alle pannen gebruikt.
+- Een set was in mijn vergelijking **18 tot 30% goedkoper** dan dezelfde pannen los.
+- Dat voordeel telt alleen als je **alle pannen gebruikt**.
 - **Opnieuw beginnen?** Kies een set en koop de koekenpan los.
 - **Aanvullen?** Koop gericht los, en kies per pan het materiaal dat bij je past.
 
 <div class="notice"><h3>Welke pannen heb jij nodig?</h3><p>Alles over het kiezen van een set, van materiaal tot garantie, lees je in <a href="/pannensets/">pannenset kiezen</a>. Wat een goede set kost, zie je in <a href="/blog/hoeveel-uitgeven-aan-een-pannenset/">hoeveel geef je uit aan een pannenset</a>. Lees eerst <a href="/blog/basis-pannen/">welke pannen je echt nodig hebt</a>, of vul de <a href="/keuzehulp/">keuzehulp</a> in. Kook je op inductie, check dan ook <a href="/blog/pannen-inductie/">welke pannen geschikt zijn voor inductie</a>.</p></div>
 
-Vergelijking op basis van prijzen bij bol.com, bk.nl, Coolblue en BCC op het moment dat ik keek. Prijzen veranderen snel; controleer ze bij de winkel voordat je koopt.
+Ik vergeleek de prijzen bij bol.com, bk.nl, Coolblue en BCC op het moment dat ik keek. Prijzen veranderen snel; controleer ze bij de winkel voordat je koopt.

@@ -15,7 +15,7 @@ intro: "Roerbakken (wokken) is kleine stukjes groente, vlees, vis of tofu in een
 
 Wokken doen we bij ons thuis veel. We houden van de oosterse keuken, we werken allebei fulltime, en een roerbakgerecht staat snel op tafel, met makkelijk een flinke berg groenten erin. Ik vind het ook fijn om te doen: even alles snijden, de pan heet, en dan een paar minuten vol aandacht koken. Dat is mijn rustmoment na het werk.
 
-Toch gaat het vaak net mis: de groenten worden slap, er staat een plasje vocht in de pan en het smaakt meer naar stoofpot dan naar wok.
+Toch gaat het vaak net mis: de groenten worden slap, er staat een plasje vocht in de pan en het smaakt meer naar stoofpot dan naar wok. Meestal ligt dat aan de hitte of de hoeveelheid.
 
 ## Wat is roerbakken?
 
@@ -64,7 +64,7 @@ Kook je op inductie, til de pan dan niet steeds op om te schudden. Staat er een 
 
 Roerbakken heeft een paar dingen mee: je gebruikt weinig olie en je kunt er veel groenten in kwijt. Ook behoud je bij wokken veel smaak en vitamines.
 
-Ook bij roerbakken kan wat vitamine C verloren gaan, al lijkt dat minder dan bij koken. Roerbakken is niet de "beste" manier om vitamines te bewaren, maar wel een smakelijke manier om veel groenten te eten.
+Wel kan ook bij roerbakken wat vitamine C verloren gaan, al lijkt dat minder dan bij koken. Roerbakken is niet de "beste" manier om vitamines te bewaren, maar wel een smakelijke manier om veel groenten te eten.
 
 Hoe gezond je roerbak is, hangt ook sterk af van wat erin gaat: veel groenten en niet te veel olie.
 

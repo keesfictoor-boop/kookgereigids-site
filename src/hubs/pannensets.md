@@ -21,7 +21,7 @@ Met twee kinderen en allebei een fulltime baan hebben mijn vrouw en ik weinig ti
 
 ### De korte versie
 
-Voor de meeste huishoudens is een pannenset van RVS (roestvrij staal) met vier of vijf kookpannen de beste basis voor dagelijks koken. RVS is sterk, gaat lang mee en heeft geen antiaanbaklaag die kan slijten. Let op drie dingen:
+Voor de meeste huishoudens is een **pannenset van RVS (roestvrij staal) met vier of vijf kookpannen** de beste basis voor dagelijks koken. RVS is sterk, gaat lang mee en heeft geen antiaanbaklaag die kan slijten. Let op drie dingen:
 
 1. **Een dikke bodem of sandwichbodem**, voor een goede warmteverdeling, zodat je eten minder snel aanbrandt.
 2. **Geschikt voor jouw kookplaat.** Kook je op inductie, dan heb je een magnetische bodem nodig.
@@ -33,7 +33,7 @@ Bak je juist veel eieren, pannenkoeken of vis, en wil je dat zonder gedoe? Dan k
 
 ### Checklist in vijf vragen
 
-Twijfel je tussen een paar sets? Loop dan deze vijf vragen langs. Zo voorkom je dat je een set koopt die over een jaar in de kast staat.
+Twijfel je tussen een paar sets? Loop dan deze vijf vragen langs. Zo koop je minder snel een set die over een jaar in de kast staat.
 
 1. **Welke pannen gebruik ik echt?** Tel hoe vaak je kookt en wat je maakt: pasta, aardappelen, soep, sauzen, rijst? Bij ons zijn dat vooral soep en wokgerechten, dus een grote soeppan telt voor ons zwaarder dan een extra steelpan. Dan weet je hoeveel kookpannen je nodig hebt en welke maten.
 2. **Op welke kookplaat kook ik?** Inductie stelt eisen aan de bodem. Op gas en keramisch is koken eenvoudiger, omdat daar meer pannen op passen.
@@ -59,7 +59,7 @@ Een gewone kookpannenset bestaat meestal uit een paar kookpannen in oplopende ma
 
 Bij grote sets betaal je soms voor pannen die je nooit gebruikt. Een pan die ongebruikt in de kast staat, is vooral kastruimte. Daarom is het slim om eerst op te schrijven welke pannen je mist, en daarna pas te kijken welke set daarbij past.
 
-Daarbij helpt [welke pannen je echt nodig hebt](/blog/basis-pannen/). Twijfel je of je beter een set of losse pannen kunt kopen, kijk dan bij [pannenset of losse pannen](/blog/set-of-los/).
+Hoe je dat bepaalt, lees je in [welke pannen je echt nodig hebt](/blog/basis-pannen/). Twijfel je of je beter een set of losse pannen kunt kopen, kijk dan bij [pannenset of losse pannen](/blog/set-of-los/).
 
 ## Materialen in een set vergeleken
 

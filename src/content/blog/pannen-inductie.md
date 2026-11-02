@@ -15,11 +15,11 @@ imageSourceUrl: "https://pixabay.com/photos/stir-fry-potato-floss-1797624/"
 imageSource: "Pixabay"
 ---
 
-Een nieuwe inductiekookplaat is heerlijk: snel, strak en makkelijk schoon te maken. Dan wil je weten of je pannen mee kunnen. Dat zoek je zelf in een paar minuten uit, en je hoeft niet meteen alles te vervangen.
+Een nieuwe inductiekookplaat is heerlijk: snel, strak en makkelijk schoon te maken. Maar dan wil je wel weten of je pannen mee kunnen. Dat zoek je zelf in een paar minuten uit, en je hoeft niet meteen alles te vervangen.
 
 ## Waarom werkt niet elke pan op inductie?
 
-Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Het glas wordt alleen warm doordat de hete pan erop staat. Daarom heb je een pan nodig met een magnetische bodem die helemaal vlak is. Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
+Bij inductie komt de warmte niet uit de kookplaat zelf. Onder het glas zit een spoel die een magnetisch veld opwekt, en dat veld verwarmt de bodem van de pan. Het glas wordt alleen warm doordat de hete pan erop staat. Daarom heb je een pan nodig met een **magnetische bodem die helemaal vlak is**. Zonder magnetisch materiaal gebeurt er niets: de kookplaat herkent de pan niet.
 
 ## Welke materialen werken wel en niet?
 
@@ -96,8 +96,8 @@ Blijft het onduidelijk, vraag dan de fabrikant van de pan of de kookplaat om adv
 ## Kort samengevat
 
 - Een pan werkt op inductie als de bodem magnetisch en vlak is.
-- **Gietijzer, emaille en plaatstaal** werken vrijwel altijd; RVS alleen met een magnetische bodem.
-- **Aluminium en koper** alleen met een inductiebodem; glas en aardewerk niet.
+- Gietijzer, emaille en plaatstaal werken vrijwel altijd; RVS alleen met een magnetische bodem.
+- Aluminium en koper alleen met een inductiebodem; glas en aardewerk niet.
 - Test je pannen met een magneet, en vervang alleen wat niet werkt.
 - Inductiepannen werken ook op gas, andersom niet altijd.
 

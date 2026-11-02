@@ -15,9 +15,9 @@ producten: ["debuyer-mineralb-wok-28", "debuyer-mineralb-wok-32", "skottsberg-wo
 
 Bij ons thuis wordt veel gewokt. We houden van de wereldkeuken, en vooral van de oosterse. En met twee kinderen en allebei een fulltime baan is een roerbakgerecht ook gewoon praktisch: groenten snijden, alles kort op hoog vuur, en het eten staat snel op tafel. Voor mij is dat ook een rustmoment na het werk.
 
-Zelf koken we op een AEG-inductiekookplaat en wokken we met een RVS-wok van Demeyere, de Apollo 7. Dat is niet voor iedereen de beste keuze: er zijn goede redenen om voor carbonstaal, gietijzer of een antiaanbaklaag te gaan.
+Zelf koken we op een AEG-inductiekookplaat en wokken we met een RVS-wok van Demeyere, de Apollo 7. Dat hoeft voor jou niet de beste keuze te zijn: er zijn goede redenen om voor carbonstaal, gietijzer of een antiaanbaklaag te gaan.
 
-In de winkel zie je woks van een paar tientjes tot een paar honderd euro, van zwart staal, glanzend RVS, zwaar gietijzer of met een antiaanbaklaag. Ik test zelf geen pannen.
+In de winkel zie je woks van een paar tientjes tot een paar honderd euro, van zwart staal, glanzend RVS, zwaar gietijzer of met een antiaanbaklaag. Ik test zelf geen pannen, maar leg wel uit waar je op let.
 
 ## Waar let je op bij een wokpan?
 

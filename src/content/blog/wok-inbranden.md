@@ -72,9 +72,9 @@ Gietijzer kun je ook in de oven inbranden: wassen, goed drogen, binnen en buiten
 ## Zo onderhoud je een ingebrande wok
 
 - Maak de wok na het koken schoon met warm water en een spons of borstel.
-- **Droog hem meteen af**, eventueel kort op het vuur.
+- Droog hem meteen af, eventueel kort op het vuur.
 - Wrijf hem in met een dun laagje olie en berg hem droog op.
-- **Niet laten weken** en niet in de vaatwasser.
+- Niet laten weken en niet in de vaatwasser.
 
 En afwasmiddel? Heet water en een spons zijn genoeg, maar een beetje mild afwasmiddel kan ook. Kijk wat er bij jouw wok staat.
 
