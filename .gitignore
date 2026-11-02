@@ -4,7 +4,8 @@ node_modules/
 dist/
 build/
 .astro/
-.claude/
+.claude/*
+!.claude/skills/
 .wrangler/
 Thumbs.db
 desktop.ini

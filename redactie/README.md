@@ -10,6 +10,7 @@ Deze map wordt niet gebouwd (Astro gebruikt alleen `src/` en `public/`). Hij bev
 - `onderwerpen.md`: vervallen (oude wachtrij); niet meer gebruiken.
 - `logboek.md`: wat er per run gedaan is (onderwerp, bronnen, controle-uitslag, gepubliceerd of niet).
 - `fotobronnen.md`: register van alle gebruikte foto's (Pixabay-id, fotograaf, pagina) en afgewezen foto's.
+- `../.claude/skills/humanizer/SKILL.md`: skill om AI-taal uit tekst te halen (zie 'Een artikel maken', stap 4b). Kopie van blader/humanizer, gelijk houden met de project-repo.
 
 ## Onderzoeksdata (privé-repo, alleen lezen)
 
@@ -92,6 +93,7 @@ Bij elke bewering over gezondheid, materialen, hitte of voedingswaarde zoek je n
 
    Amazon en andere winkels hebben nog geen toegestane foto's: daarvan geen producten opnemen.
 4. **Schrijven** in `src/content/blog/<slug>.md`. Frontmatter zoals de bestaande artikelen (`title`, `description` (max ±160 tekens), `category`, `image`, `imageAlt`, `readingTime`, `pubDate` (vandaag), `intro`, optioneel `producten`). Volg de **schrijfstijl en SEO-richtlijnen in `tone-of-voice.md`**: één zoekvraag en de behoefte erachter (kiezen, vergelijken, gebruiken of onderhouden), zoekterm natuurlijk in `title` en H1, beschrijvende tussenkoppen, voordelen én nadelen, termen uitgelegd, eigen meerwaarde. `title` is de SEO-titel, `description` de metaomschrijving zonder overdreven beloften. De `intro` geeft meteen het korte antwoord (2–3 zinnen, citeerbaar). Geen vast aantal woorden: zo uitgebreid als nodig, zonder opvulling. Maximaal één uitgaande bronlink per pagina, en geen bronnenlijst (zie 'Bronnen en leesbaarheid' in `tone-of-voice.md`). Gebruik tabellen en genummerde stappen waar dat helpt.
+4b. **Nalezen op AI-taal:** lees `.claude/skills/humanizer/SKILL.md` en haal die patronen uit je artikel of gids, met `intro` erbij. Frontmatter, links, foto's en `[[product:...]]`-regels blijven verder staan. De skill is Engels: zoek de Nederlandse tegenhangers. `tone-of-voice.md` en de vaste regels gaan altijd voor: voeg geen ervaring, reactie, feit of voorbeeld toe dat niet in `tone-of-voice.md` of de brief staat, en laat de voorzichtige formuleringen bij gezondheid staan.
 5. **Interne links:** minstens 2 links naar bestaande pagina's (zie `src/content/blog/`, `/pannensets/`, `/wokpan/`, `/keuzehulp/`, `/koopadvies/`), en voeg in 1 of 2 bestaande, passende artikelen een natuurlijke link naar het nieuwe artikel toe. Herschrijf bestaande pagina's verder niet.
 6. **Foto's:** minimaal 3 per pagina, meer bij langere pagina's (tot ca. 1500 woorden 3, tot ca. 2200 4, tot ca. 2900 5, daarna 1 extra per ca. 700 woorden; zie `tone-of-voice.md`), van Pixabay:
    - zoeken: `npm run foto -- zoek "<term>"`
