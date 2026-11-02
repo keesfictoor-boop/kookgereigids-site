@@ -12,8 +12,8 @@ Al klaar (niet opnieuw maken): /pannensets/ (H1), basis-pannen (H1.S02), hoeveel
 
 | # | Wave | Actie | Type | Slug (voorstel) | Onderwerp | Gids | Eigenaar van (zoekwoorden/vragen) | Status |
 |---|---|---|---|---|---|---|---|---|
-| 1 | 2 | H2 | gids | pannen-voor-inductie | Hub: Pannen voor inductie | – |  | open |
-| 2 | 2 | H1.S08 | koopgids | beste-pannenset-rvs | Beste pannenset (RVS) | Pannensets en pannen kiezen | roestvrij staal pannenset, pannenset rvs | open |
+| 1 | 2 | H2 | gids | pannen-voor-inductie | Hub: Pannen voor inductie | – |  | afgedekt door /blog/pannen-inductie/ |
+| 2 | 2 | H1.S08 | koopgids | beste-pannenset-rvs | Beste pannenset (RVS) | Pannensets en pannen kiezen | roestvrij staal pannenset, pannenset rvs | concept (na 3 controles afgekeurd; op branch concept/pannenset-rvs, wacht op eigenaar) |
 | 3 | 2 | H1.S03 | vraag | welke-pannen-gaan-het-langst-mee | Welke pannen gaan het langst mee? | Pannensets en pannen kiezen | Welke pannen gaan het langst mee?, Welke pannen gebruiken ze in Masterchef?, Wat zijn de nadelen van keramische pannen?, Wat zijn de top 3 pannen?, Hoe lang kun je met pannen doen? | open |
 | 4 | 2 | H1.S06 | vraag | welke-pannenmerken-zijn-het-beste-in-nederland | Welke pannenmerken zijn het beste in Nederland? | Pannensets en pannen kiezen | Welke pannenmerken zijn het beste in Nederland?, Welke pannen gebruiken ze in Masterchef?, Welke pannen gebruikt Jeroen Meus?, Hoe goed zijn de pannen van de Action?, Welke merken zijn PFAS vrij? | open |
 | 5 | 2 | H1.S07 | vraag | waarom-trekt-een-pan-krom-en-hoe-voorkom-je-dat | Waarom trekt een pan krom en hoe voorkom je dat? | Pannensets en pannen kiezen | Waarom trekt een pan krom en hoe voorkom je dat?, Waarom koekt mijn pan steeds aan?, Welke pannen werken niet op inductie?, Waarom geen olijfolie in keramische pan?, Wat is het gezondste materiaal voor pannen? | open |
