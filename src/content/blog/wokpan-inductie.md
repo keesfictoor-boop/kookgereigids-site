@@ -14,13 +14,13 @@ intro: "Ja, je kunt prima wokken op inductie, als je wok een vlakke, magnetische
 producten: ["debuyer-mineralb-wok-32", "skottsberg-wok-rvs-28", "bk-easy-induction-wok-30", "tefal-experience-wok-28"]
 ---
 
-Heb je een nieuwe inductiekookplaat? Dan vraag je je misschien af: kan mijn wok nog wel? Wokken en roerbakken doen we bij ons thuis veel, en dat op een AEG-inductiekookplaat met een RVS-wok van Demeyere (de Apollo 7). Die vraag snap ik dus goed. Het goede nieuws: wokken op inductie kan prima. Je hebt alleen de juiste wok nodig en je pakt het iets anders aan dan op een gasvlam.
+Heb je een nieuwe inductiekookplaat? Dan vraag je je misschien af: kan mijn wok nog wel? Wokken en roerbakken doen we bij ons thuis veel, en dat op een AEG-inductiekookplaat met een RVS-wok van Demeyere (de Apollo 7). Die vraag snap ik dus goed. Je hebt de juiste wok nodig en je pakt het iets anders aan dan op een gasvlam.
 
 ## Kun je wokken op inductie?
 
-Ja. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarvoor moet de bodem van de pan **magnetisch** zijn en **helemaal vlak en glad**. Anders herkent de kookplaat de pan slecht of niet.
+Ja. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarvoor moet de bodem van de pan magnetisch zijn en helemaal vlak en glad. Anders herkent de kookplaat de pan slecht of niet.
 
-Een traditionele wok heeft een **bolle bodem**. Die is gemaakt voor een gasvlam, waar de hitte zich op de bodem concentreert. Op een vlakke inductieplaat raakt zo'n wok de plaat maar op een klein stukje, en dat is te weinig contact. Voor inductie kies je dus een wok met een **vlakke bodem**.
+Een traditionele wok heeft een bolle bodem. Die is gemaakt voor een gasvlam, waar de hitte zich op de bodem concentreert. Op een vlakke inductieplaat raakt zo'n wok de plaat maar op een klein stukje, en dat is te weinig contact. Voor inductie kies je dus een wok met een vlakke bodem.
 
 ## Welke wokpan werkt op inductie?
 
@@ -40,13 +40,11 @@ Twijfel je over een wok die je al hebt? Houd er een magneet tegen. Blijft hij st
 
 ## Past de wok op je kookzone?
 
-Let bij een wok op inductie niet alleen op de maat die op de doos staat. Die gaat over de **bovenrand**; de bodem is veel kleiner. Bij de woks in [mijn wokgids](/wokpan/) is de bodem ongeveer 14 tot 20 cm, terwijl de bovenrand 28 tot 34 cm is. Elke kookzone heeft een minimale panmaat; die vind je in de handleiding van je kookplaat. Een te kleine bodem op een grote zone wordt soms niet herkend of verwarmt minder goed; kies dan een kleinere zone.
+De maat op de doos gaat over de bovenrand; de bodem is veel kleiner. Bij de woks in [mijn wokgids](/wokpan/) is de bodem ongeveer 14 tot 20 cm, terwijl de bovenrand 28 tot 34 cm is. Elke kookzone heeft een minimale panmaat; die vind je in de handleiding van je kookplaat. Een te kleine bodem op een grote zone wordt soms niet herkend of verwarmt minder goed; kies dan een kleinere zone.
 
 Kijk ook naar het gewicht. Op inductie hoef je je wok niet op te tillen om te schudden (daarover zo meer), maar een gietijzeren wok van 34 cm weegt ruim 2,5 kilo. Een carbonstalen wok van 32 cm is lichter, ongeveer 1,8 kilo.
 
 ## Zo wok je op inductie
-
-Wokken op inductie vraagt een paar aanpassingen:
 
 1. **Laat de wok op de plaat staan.** Til je de pan op, dan merkt de kookplaat dat er geen pan meer staat. De stand gaat knipperen en na een tijdje schakelt de zone uit. Veel opgooien en schudden, zoals bij een wok boven een grote vlam, werkt hier dus minder goed. Schep je eten om met een spatel of wokschep.
 2. **Verwarm de wok voor, maar niet leeg op de hoogste stand.** Inductie wordt heel snel heet. Gebruik daarom een matige stand zonder booster, en verhit de lege pan niet te lang. Vooral grote pannen kunnen anders vervormen. Een wok met antiaanbaklaag verhit je sowieso niet leeg. Roerbakken doe je wel op hoge temperatuur: de pan is heet genoeg als een druppel water opspringt en snel verdampt.

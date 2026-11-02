@@ -15,14 +15,13 @@ imageSource: "Pixabay"
 producten: ["herzberg-12", "tefal-duetto-4", "silvercrest-5", "greenpan-mayflower-9", "tefal-ingenio-ceram-8", "bk-profiline-5", "wmf-comfortline-5", "bk-qlinair-5", "demeyere-classico3-5"]
 ---
 
-
 Je staat in de winkel (of, eerlijker gezegd, je scrolt 's avonds op de bank door een webshop) en ziet sets van €45 én van €300. Allebei RVS, allebei geschikt voor inductie, allebei met glimmende deksels op de foto. Wat is dan het verschil? En hoeveel moet je nu echt uitgeven?
 
-Eerlijk is eerlijk: met twee kinderen en allebei een fulltime baan wil ik niet uren vergelijken. Ik wil een set die na een werkdag gewoon doet wat hij moet doen. Daarom zet ik hieronder op een rij wat je in elke prijsklasse krijgt, waar het prijsverschil in zit en wanneer meer betalen zin heeft.
+Met twee kinderen en allebei een fulltime baan wil ik niet uren vergelijken. Ik wil een set die na een werkdag doet wat hij moet doen.
 
 ## Het korte antwoord: wat kost een goede pannenset?
 
-Voor een degelijke RVS-pannenset met vier of vijf kookpannen die op inductie werkt, betaal je op dit moment grofweg **€70 tot €200**. Daaronder vind je ook sets, maar dan weet je vaak minder over de bodem en de garantie. Daarboven betaal je vooral voor een zwaardere bodem, een langere garantie en de afwerking.
+Voor een degelijke RVS-pannenset met vier of vijf kookpannen die op inductie werkt, betaal je op dit moment grofweg €70 tot €200. Daaronder vind je ook sets, maar dan weet je vaak minder over de bodem en de garantie. Daarboven betaal je vooral voor een zwaardere bodem, een langere garantie en de afwerking.
 
 Een handige vuistregel:
 
@@ -46,8 +45,7 @@ Deze indeling heb ik gemaakt op basis van de prijzen op de productpagina's. Prij
 | €150–€200 | BK Q-linair Master Glas 5-delig | RVS-pannen, glazen deksels met afgietsysteem |
 | €150–€200 | Demeyere Classico 3 5-delig | 5 RVS-pannen, 4 deksels, bodem van 3 lagen |
 
-
-Opvallend: dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. De BK Profiline 5-delig was toen ik keek in de webshop van BK zelf bijna twee keer zo duur als op bol.com, voor dezelfde set. Een hoge "adviesprijs" zegt dus weinig over de kwaliteit.
+Dezelfde set kan bij de ene winkel veel duurder zijn dan bij de andere. De BK Profiline 5-delig was toen ik keek in de webshop van BK zelf bijna twee keer zo duur als op bol.com, voor dezelfde set. Een hoge "adviesprijs" zegt dus weinig over de kwaliteit.
 
 ## Waar betaal je eigenlijk voor?
 
@@ -57,15 +55,15 @@ Twee sets van RVS kunnen er op een foto hetzelfde uitzien. Het verschil zit voor
 
 ### De bodem en het materiaal
 
-De bodem is het belangrijkste onderdeel van een pan. Een **dikke bodem** of **sandwichbodem** (een laag aluminium of koper tussen twee lagen RVS) zorgt voor een betere **warmteverdeling**: je eten brandt minder snel aan op één plek. Bij duurdere sets vind je soms **meerlagenstaal**, waarbij die laag niet alleen in de bodem zit maar door de hele wand loopt.
+De bodem is het belangrijkste onderdeel van een pan. Een dikke bodem of sandwichbodem (een laag aluminium of koper tussen twee lagen RVS) zorgt voor een betere warmteverdeling: je eten brandt minder snel aan op één plek. Bij duurdere sets vind je soms meerlagenstaal, waarbij die laag niet alleen in de bodem zit maar door de hele wand loopt.
 
 [[product:bk-profiline-5]]
 
-Voor koken op **inductie** moet de bodem magnetisch zijn. Gewoon RVS is van zichzelf in de regel niet magnetisch, dus fabrikanten maken voor inductie een bodem met een magnetische laag. Alle sets in de tabel hierboven worden door de winkel of fabrikant als geschikt voor inductie verkocht. Twijfel je bij een pan die je al hebt? Doe dan [de magneettest](/blog/pannen-inductie/).
+Voor koken op inductie moet de bodem magnetisch zijn. Gewoon RVS is van zichzelf in de regel niet magnetisch, dus fabrikanten maken voor inductie een bodem met een magnetische laag. Alle sets in de tabel hierboven worden door de winkel of fabrikant als geschikt voor inductie verkocht. Twijfel je bij een pan die je al hebt? Doe dan [de magneettest](/blog/pannen-inductie/).
 
 ### Coating, deksels en garantie
 
-Een set met een **antiaanbaklaag** (bijvoorbeeld een keramische coating) bakt makkelijker, maar zo'n laag slijt. Je ziet dat terug in de garantie: op RVS geven merken vaak veel langer garantie dan op een coating.
+Een set met een antiaanbaklaag (bijvoorbeeld een keramische coating) bakt makkelijker, maar zo'n laag slijt. Je ziet dat terug in de garantie: op RVS geven merken vaak veel langer garantie dan op een coating.
 
 | Merk | Garantie op RVS of de pan zelf | Garantie op de coating |
 |---|---|---|
@@ -74,22 +72,21 @@ Een set met een **antiaanbaklaag** (bijvoorbeeld een keramische coating) bakt ma
 | Tefal | 2 jaar; RVS met sterren-markering op de bodem 5 of 10 jaar | 2 jaar tegen blaren en afbladderen |
 | GreenPan (Mayflower) | levenslang op materiaal- en fabricagefouten | 5 jaar |
 
+Bij alle merken vallen normale slijtage, krassen en verkleuring buiten de garantie. En de garantie die een winkel noemt, wijkt soms af van wat de fabrikant zegt. Kijk daarom altijd naar de voorwaarden van de fabrikant zelf, en bewaar je aankoopbewijs.
 
-Let op: bij alle merken vallen normale slijtage, krassen en verkleuring buiten de garantie. En de garantie die een winkel noemt, wijkt soms af van wat de fabrikant zegt. Kijk daarom altijd naar de voorwaarden van de fabrikant zelf, en bewaar je aankoopbewijs.
-
-Verder betaal je bij duurdere sets vaak voor gemak: **glazen deksels** waardoor je kunt meekijken, een **afgietsysteem** in het deksel, koele of stevigere **handgrepen**, of een set die **stapelbaar** is. Fijn, maar geen must.
+Verder betaal je bij duurdere sets vaak voor gemak: glazen deksels waardoor je kunt meekijken, een afgietsysteem in het deksel, koele of stevigere handgrepen, of een set die stapelbaar is. Fijn, maar geen must.
 
 ## Tel de delen, niet de doos
 
-"5-delig", "9-delig", "12-delig": het klinkt als een eerlijke vergelijking, maar dat is het niet. Er is geen vaste regel voor wat een "deel" is.
+Er is geen vaste regel voor wat een "deel" is. Daardoor zegt "5-delig", "9-delig" of "12-delig" weinig als je sets vergelijkt.
 
-- Een Tefal Duetto+-set met **5 pannen en 5 deksels** staat op bol.com als "10 stuks".
-- De GreenPan Mayflower "9-delig" bestaat uit **4 pannen, 1 deksel en 4 accessoires**.
-- Bij BK, SilverCrest, WMF en Demeyere betekent "5-delig" juist **5 pannen**, en krijg je de deksels erbij.
+- Een Tefal Duetto+-set met 5 pannen en 5 deksels staat op bol.com als "10 stuks".
+- De GreenPan Mayflower "9-delig" bestaat uit 4 pannen, 1 deksel en 4 accessoires.
+- Bij BK, SilverCrest, WMF en Demeyere betekent "5-delig" juist 5 pannen, en krijg je de deksels erbij.
 
 Een "12-delige" set kan dus minder pannen hebben dan een "5-delige". Tel daarom altijd het aantal pannen, en kijk welke maten en deksels erbij zitten.
 
-Hoeveel pannen heb je nodig? Voor de meeste huishoudens is een handvol goede pannen genoeg: een paar kookpannen in verschillende maten, een steelpan en een **koekenpan**. Een set bevat vaak alleen kookpannen, dus een koekenpan koop je meestal los. In [welke pannen heb je echt nodig](/blog/basis-pannen/) lees je hoe je dat voor jouw keuken bepaalt.
+Hoeveel pannen heb je nodig? Voor de meeste huishoudens is een handvol goede pannen genoeg: een paar kookpannen in verschillende maten, een steelpan en een koekenpan. Een set bevat vaak alleen kookpannen, dus een koekenpan koop je meestal los. In [welke pannen heb je echt nodig](/blog/basis-pannen/) lees je hoe je dat voor jouw keuken bepaalt.
 
 ## Wanneer meer betalen zin heeft, en wanneer niet
 
@@ -109,7 +106,7 @@ Minder uitgeven is prima als:
 
 [[product:tefal-duetto-4]]
 
-Waar je níét voor hoeft te betalen: een hoge "van"-prijs, een groot aantal "delen" en een merknaam alleen. Een merk zegt iets over de garantie en de service, maar niet automatisch dat elke set beter is.
+Waar je niet voor hoeft te betalen: een hoge "van"-prijs, een groot aantal "delen" en een merknaam alleen. Een merk zegt iets over de garantie en de service, maar niet automatisch dat elke set beter is.
 
 ## Zo vergelijk je slim
 
@@ -121,5 +118,4 @@ Waar je níét voor hoeft te betalen: een hoge "van"-prijs, een groot aantal "de
 6. **Vergelijk dezelfde set bij meerdere winkels**, inclusief bezorgkosten. Het verschil kan groot zijn.
 
 Wil je eerst het grote plaatje zien, met materialen en kookplaten op een rij? Kijk dan bij [pannenset kiezen](/pannensets/).
-
 

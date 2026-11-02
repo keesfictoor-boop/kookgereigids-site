@@ -13,28 +13,27 @@ imageSource: "Pixabay"
 producten: ["tefal-duetto-4", "silvercrest-5", "bk-profiline-5", "greenpan-mayflower-9", "bk-qlinair-5", "demeyere-classico3-5"]
 ---
 
-
 Een nieuwe keuken, een nieuwe inductiekookplaat, of pannen waarvan de bodem al jaren bol staat: er komt een moment dat je aan een nieuwe pannenset toe bent. En dan blijkt het aanbod enorm. Vier delen, tien delen, RVS, keramisch, met of zonder coating, van €45 tot zo’n €300.
 
-Eerlijk is eerlijk: met twee kinderen en allebei een fulltime baan hebben mijn vrouw en ik weinig tijd om dat allemaal uit te zoeken. Maar dat halfuurtje dat ik wel kook, is mijn moment van rust, en dan wil ik pannen waar ik niet over hoef na te denken. Op deze pagina zet ik alles op een rij wat je nodig hebt om een pannenset te kiezen: welke set past bij dagelijks koken, wat er in een set zit, welke materialen er zijn, of hij op jouw kookplaat werkt, hoe het zit met coatings en PFAS, en wat je ongeveer kwijt bent. Waar je dieper wilt duiken, verwijs ik je door.
+Met twee kinderen en allebei een fulltime baan hebben mijn vrouw en ik weinig tijd om dat allemaal uit te zoeken. Maar dat halfuurtje dat ik wel kook, is mijn moment van rust, en dan wil ik pannen waar ik niet over hoef na te denken.
 
 ## Welke pannenset past bij dagelijks koken?
 
 ### De korte versie
 
-Voor de meeste huishoudens is een **pannenset van RVS (roestvrij staal) met vier of vijf kookpannen** de beste basis voor dagelijks koken. RVS is sterk, gaat lang mee en heeft geen antiaanbaklaag die kan slijten. Let op drie dingen:
+Voor de meeste huishoudens is een pannenset van RVS (roestvrij staal) met vier of vijf kookpannen de beste basis voor dagelijks koken. RVS is sterk, gaat lang mee en heeft geen antiaanbaklaag die kan slijten. Let op drie dingen:
 
 1. **Een dikke bodem of sandwichbodem**, voor een goede warmteverdeling, zodat je eten minder snel aanbrandt.
 2. **Geschikt voor jouw kookplaat.** Kook je op inductie, dan heb je een magnetische bodem nodig.
 3. **Deksels bij de kookpannen**, en handgrepen die prettig vastzitten.
 
-Een **koekenpan** zit meestal niet in zo'n set. Die koop je vaak los, en dan kun je kiezen of je een antiaanbaklaag wilt of liever een ongecoate pan.
+Een koekenpan zit meestal niet in zo'n set. Die koop je vaak los, en dan kun je kiezen of je een antiaanbaklaag wilt of liever een ongecoate pan.
 
 Bak je juist veel eieren, pannenkoeken of vis, en wil je dat zonder gedoe? Dan kan een set met een keramische antiaanbaklaag passen. Reken er wel op dat zo'n laag meer zorg vraagt en minder lang garantie heeft dan de pan zelf.
 
 ### Checklist in vijf vragen
 
-Twijfel je tussen een paar sets? Loop dan deze vijf vragen langs. Het is geen wetenschap, wel een handige manier om te voorkomen dat je een set koopt die over een jaar in de kast staat.
+Twijfel je tussen een paar sets? Loop dan deze vijf vragen langs. Zo voorkom je dat je een set koopt die over een jaar in de kast staat.
 
 1. **Welke pannen gebruik ik echt?** Tel hoe vaak je kookt en wat je maakt: pasta, aardappelen, soep, sauzen, rijst? Bij ons zijn dat vooral soep en wokgerechten, dus een grote soeppan telt voor ons zwaarder dan een extra steelpan. Dan weet je hoeveel kookpannen je nodig hebt en welke maten.
 2. **Op welke kookplaat kook ik?** Inductie stelt eisen aan de bodem. Op gas en keramisch is koken eenvoudiger, omdat daar meer pannen op passen.
@@ -46,7 +45,7 @@ Heb je antwoord op deze vijf vragen, dan valt een groot deel van het aanbod al a
 
 ## Wat zit er in een pannenset?
 
-Op de doos staat "5-delig" of "10-delig". Dat klinkt als een eerlijke vergelijking, maar er is geen vaste regel voor wat een "deel" is.
+Op de doos staat "5-delig" of "10-delig". Er is alleen geen vaste regel voor wat een "deel" is.
 
 - Een Tefal Duetto+-set met 5 pannen en 5 deksels staat op bol.com als "10 stuks".
 - De GreenPan Mayflower "9-delig" bestaat uit 4 pannen, 1 deksel en 4 accessoires.
@@ -54,13 +53,13 @@ Op de doos staat "5-delig" of "10-delig". Dat klinkt als een eerlijke vergelijki
 
 Een set met veel "delen" kan dus minder pannen hebben dan een set met weinig delen. Tel altijd het aantal pannen, en kijk welke maten en deksels erbij zitten.
 
-Een gewone kookpannenset bestaat meestal uit een paar **kookpannen** in oplopende maten (bijvoorbeeld 16, 20 en 24 cm), soms een hoge soeppan, en een **steelpan** voor sauzen, melk of een eitje. Er zijn ook sets met koekenpannen, zogenoemde **koekenpannensets**, met bijvoorbeeld een kleine en een grote koekenpan. Die zijn handig als je veel bakt, maar dan heb je nog steeds kookpannen nodig.
+Een gewone kookpannenset bestaat meestal uit een paar kookpannen in oplopende maten (bijvoorbeeld 16, 20 en 24 cm), soms een hoge soeppan, en een steelpan voor sauzen, melk of een eitje. Er zijn ook sets met koekenpannen, zogenoemde koekenpannensets, met bijvoorbeeld een kleine en een grote koekenpan. Die zijn handig als je veel bakt, maar dan heb je nog steeds kookpannen nodig.
 
 ### Welke pannen gebruik je echt?
 
-Een groot nadeel van grote sets: je betaalt soms voor pannen die je nooit gebruikt. Een pan die ongebruikt in de kast staat, is vooral kastruimte. Daarom is het slim om eerst op te schrijven welke pannen je mist, en daarna pas te kijken welke set daarbij past.
+Bij grote sets betaal je soms voor pannen die je nooit gebruikt. Een pan die ongebruikt in de kast staat, is vooral kastruimte. Daarom is het slim om eerst op te schrijven welke pannen je mist, en daarna pas te kijken welke set daarbij past.
 
-Hoe je bepaalt welke pannen je echt nodig hebt, lees je in [welke pannen je echt nodig hebt](/blog/basis-pannen/). Twijfel je of je beter een set of losse pannen kunt kopen, kijk dan bij [pannenset of losse pannen](/blog/set-of-los/).
+Daarbij helpt [welke pannen je echt nodig hebt](/blog/basis-pannen/). Twijfel je of je beter een set of losse pannen kunt kopen, kijk dan bij [pannenset of losse pannen](/blog/set-of-los/).
 
 ## Materialen in een set vergeleken
 
@@ -76,7 +75,7 @@ Het materiaal bepaalt grotendeels hoe een pan kookt, hoe lang hij meegaat en hoe
 
 ### RVS: de degelijke basis
 
-**RVS** is het meest gekozen materiaal voor kookpannensets, en niet voor niets. Het roest niet, je kunt het flink gebruiken en het heeft geen coating die kan slijten. Van zichzelf geleidt RVS warmte niet zo goed. Daarom hebben goede RVS-pannen een **dikke bodem** of **sandwichbodem**: een laag aluminium of koper tussen twee lagen RVS. Bij **meerlagenstaal** loopt die laag door tot in de wand, waardoor de warmte nog gelijkmatiger is. Een goede bodem helpt ook tegen **kromtrekken**.
+**RVS** is het meest gekozen materiaal voor kookpannensets. Het roest niet, je kunt het flink gebruiken en het heeft geen coating die kan slijten. Van zichzelf geleidt RVS warmte niet zo goed. Daarom hebben goede RVS-pannen een dikke bodem of sandwichbodem: een laag aluminium of koper tussen twee lagen RVS. Bij meerlagenstaal loopt die laag door tot in de wand, waardoor de warmte nog gelijkmatiger is. Een goede bodem helpt ook tegen kromtrekken.
 
 [[product:bk-profiline-5]]
 
@@ -86,7 +85,7 @@ RVS bevat nikkel. Uit RVS van goede kwaliteit komt waarschijnlijk weinig nikkel 
 
 ![Spekjes bakken in een koekenpan met donkere antiaanbaklaag](/assets/antiaanbakpan-spekjes.jpg)
 
-**Aluminium** is licht en warmt snel op. Je vindt het vooral in sets met een **antiaanbaklaag**. Dat bakt makkelijk, maar de laag slijt met de tijd. Aluminium zelf werkt niet op inductie; daarvoor moet er een speciale magnetische bodem onder zitten.
+**Aluminium** is licht en warmt snel op. Je vindt het vooral in sets met een antiaanbaklaag. Dat bakt makkelijk, maar de laag slijt met de tijd. Aluminium zelf werkt niet op inductie; daarvoor moet er een speciale magnetische bodem onder zitten.
 
 Keramische antiaanbaklagen zijn meestal zonder PFAS. Hun antiaanbakwerking kan wel sneller achteruitgaan dan bij een klassieke laag, vooral door slijtage en de vaatwasser. Een keramische laag vraagt dus zorg.
 
@@ -100,13 +99,13 @@ Geëmailleerde of gietijzeren pannen zitten minder vaak in een kookpannenset, ma
 
 Dit is misschien wel de belangrijkste vraag, want een prachtige set die niet werkt op je kookplaat is vooral een prachtige teleurstelling.
 
-Op **gas**, keramisch en elektrisch werken bijna alle pannen, zolang de bodem vlak is. Veel sets worden verkocht als geschikt voor **alle warmtebronnen**.
+Op gas, keramisch en elektrisch werken bijna alle pannen, zolang de bodem vlak is. Veel sets worden verkocht als geschikt voor alle warmtebronnen.
 
-Voor **inductie** is het wat moeilijker. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom heb je pannen nodig met een magnetische bodem die helemaal vlak is. Zo controleer je dat:
+Voor inductie is het wat moeilijker. Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom heb je pannen nodig met een magnetische bodem die helemaal vlak is. Zo controleer je dat:
 
 - **Inductiesymbool**: een spiraal op de pan of de verpakking.
 - **Magneettest**: blijft een magneet stevig aan de bodem plakken, dan werkt de pan op inductie. Laat hij los of plakt hij maar een beetje, dan werkt de pan niet of minder goed. Meer uitleg: [de magneettest](/blog/pannen-inductie/).
-- **RVS is niet altijd magnetisch.** RVS is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een **magnetische bodem** heeft. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
+- **RVS is niet altijd magnetisch.** RVS is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een magnetische bodem heeft. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
 - **Bodemmaat**: de maat op de doos gaat meestal over de bovenrand, de bodem is kleiner. Elke kookzone heeft een minimale panmaat; die vind je in de handleiding van je kookplaat.
 
 Alle sets die we in [hoeveel geef je uit aan een pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/) noemen, worden door de winkel of fabrikant verkocht als geschikt voor inductie. Check het toch altijd zelf bij jouw set.
@@ -115,13 +114,11 @@ Alle sets die we in [hoeveel geef je uit aan een pannenset](/blog/hoeveel-uitgev
 
 ![Kleurrijke groenten in een RVS-pan, van bovenaf gezien](/assets/pan-groenten.jpg)
 
-Bij pannen met een antiaanbaklaag komt vaak de vraag op of ze veilig zijn. Dat is een serieuze vraag, dus hier het korte, nuchtere antwoord.
-
 **PFAS** is een [verzamelnaam](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx) voor een grote groep door mensen gemaakte stoffen die water en vet afstoten en heel langzaam afbreken. Ook de klassieke antiaanbaklaag van PTFE (Teflon) valt eronder.
 
 Je kunt een pan met antiaanbaklaag veilig gebruiken als je de gebruiksaanwijzing volgt. Is de laag beschadigd, gooi de pan dan weg. Wordt zo'n laag veel te heet, dan kan hij kapotgaan en schadelijke dampen geven. Verhit een lege antiaanbakpan dus nooit op hoog vuur.
 
-Wil je PFAS zoveel mogelijk vermijden, ook voor het milieu? Dan is een **ongecoate RVS-set** de meest zekere keuze. Wil je toch een antiaanbaklaag, dan zijn keramische lagen meestal zonder PFAS. Let op: "PFOA-vrij" op de doos zegt weinig, want PFOA is in de EU al sinds 2020 verboden.
+Wil je PFAS zoveel mogelijk vermijden, ook voor het milieu? Dan is een ongecoate RVS-set de meest zekere keuze. Wil je toch een antiaanbaklaag, dan zijn keramische lagen meestal zonder PFAS. "PFOA-vrij" op de doos zegt weinig, want PFOA is in de EU al sinds 2020 verboden.
 
 Welke sets geschikt zijn voor inductie én PFAS-vrij koken, en wat "PFAS-vrij" precies betekent, lees je in [pannensets voor inductie en PFAS-vrij](/blog/pannenset-inductie-pfas-vrij/).
 
@@ -145,23 +142,23 @@ Vergelijk dan wel eerlijk: tel bij een set alleen de pannen die je echt gebruikt
 
 ## Gemak in de keuken: deksels, grepen, stapelen, vaatwasser en garantie
 
-Als het materiaal en de kookplaat kloppen, maken de details het verschil in het dagelijks gebruik.
+Als het materiaal en de kookplaat kloppen, kijk je naar de details.
 
 ### Deksels en afgieten
 
 ![Twee dampende RVS-kookpannen op het fornuis, een met een deksel vol condens](/assets/pannen-deksels-stoom.jpg)
 
-Een **glazen deksel** is fijn, want je ziet zonder optillen of het water kookt. Sommige sets hebben een **afgietsysteem**: gaatjes in de rand van het deksel, zodat je pasta of aardappelen kunt afgieten zonder vergiet. Handig, maar geen must. Kijk vooral of er bij elke kookpan een **deksel** zit.
+Een glazen deksel is fijn, want je ziet zonder optillen of het water kookt. Sommige sets hebben een afgietsysteem: gaatjes in de rand van het deksel, zodat je pasta of aardappelen kunt afgieten zonder vergiet. Handig, maar geen must. Kijk vooral of er bij elke kookpan een deksel zit.
 
 [[product:bk-qlinair-5]]
 
 ### Handgrepen en stapelen
 
-Let op de **handgrepen**: zitten ze stevig vast en blijven ze redelijk koel? Heb je een kleine keuken, dan kan een set die **stapelbaar** is of een **afneembare handgreep** heeft veel kastruimte schelen. Zo'n afneembare greep vind je bijvoorbeeld bij de Tefal Ingenio-lijn.
+Let op de handgrepen: zitten ze stevig vast en blijven ze redelijk koel? Heb je een kleine keuken, dan kan een set die stapelbaar is of een afneembare handgreep heeft veel kastruimte schelen. Zo'n afneembare greep vind je bijvoorbeeld bij de Tefal Ingenio-lijn.
 
 ### Vaatwasser en oven
 
-Veel RVS-pannen mogen in de **vaatwasser**. Bij pannen met een antiaanbaklaag is dat vaak af te raden, omdat de laag er sneller van slijt. Wil je een pan ook in de **oven** gebruiken, kijk dan of de handgrepen en het deksel daar tegen kunnen. De fabrikant vermeldt dat meestal.
+Veel RVS-pannen mogen in de vaatwasser. Bij pannen met een antiaanbaklaag is dat vaak af te raden, omdat de laag er sneller van slijt. Wil je een pan ook in de oven gebruiken, kijk dan of de handgrepen en het deksel daar tegen kunnen. De fabrikant vermeldt dat meestal.
 
 ### Garantie
 
@@ -176,7 +173,7 @@ Bij alle merken vallen normale slijtage, krassen en verkleuring buiten de garant
 
 ## Zo gaat je set langer mee
 
-Een goede set is een investering, en met een paar gewoontes haal je er meer jaren uit.
+Met een paar gewoontes haal je meer jaren uit je set.
 
 - **Verhit een lege pan niet op hoog vuur.** Daar kan een pan van beschadigen, en bij een antiaanbaklaag is dat extra belangrijk.
 - **Voorkom grote temperatuurverschillen.** Een gloeiend hete pan onder de koude kraan kan de bodem laten vervormen. Laat de pan eerst wat afkoelen.
@@ -189,12 +186,11 @@ Is de antiaanbaklaag van een pan beschadigd? Dan is mijn advies: gooi de pan weg
 
 ## Kort samengevat
 
-- Voor dagelijks koken is een **RVS-pannenset met een dikke bodem** de beste basis.
+- Voor dagelijks koken is een RVS-pannenset met een dikke bodem de beste basis.
 - Tel de **pannen**, dus de pannen waar je daadwerkelijk in kookt, en niet de deksels, want die worden in sommige sets meegeteld!
-- Kook je op **inductie**, check dan het spiraalsymbool of doe de magneettest.
-- Wil je geen PFAS-coating, kies dan **ongecoat**; wil je een antiaanbaklaag, dan is keramisch meestal zonder PFAS, maar wel minder slijtvast.
-- Een goede set kost grofweg **€70 tot €200**, maar dezelfde set kan per winkel flink in prijs verschillen. Vergelijken is dus altijd zinvol!
+- Kook je op inductie, check dan het spiraalsymbool of doe de magneettest.
+- Wil je geen PFAS-coating, kies dan ongecoat; wil je een antiaanbaklaag, dan is keramisch meestal zonder PFAS, maar wel minder slijtvast.
+- Een goede set kost grofweg €70 tot €200, maar dezelfde set kan per winkel flink in prijs verschillen. Vergelijken is dus altijd zinvol!
 
 Wil je nog breder kijken, bijvoorbeeld naar koekenpannen of naar waar je in het algemeen op let bij pannen kopen? Lees dan [waar je op let bij pannen kopen](/koopadvies/) of probeer de [keuzehulp](/keuzehulp/).
-
 

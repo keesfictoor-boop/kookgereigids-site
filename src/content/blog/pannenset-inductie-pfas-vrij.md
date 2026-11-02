@@ -15,32 +15,29 @@ imageSource: "Pixabay"
 producten: ["bk-profiline-5", "demeyere-classico3-5", "silvercrest-5", "greenpan-mayflower-9", "tefal-ingenio-ceram-8"]
 ---
 
-
-Je kookt op inductie (of gaat dat binnenkort doen) en je hebt over PFAS gehoord. Dan wil je een pannenset die op je kookplaat werkt, en waarbij je je over de coating geen zorgen hoeft te maken. Goed nieuws: die combinatie is prima te vinden. Je moet alleen weten waar je op let, want "PFAS-vrij" op een doos zegt minder dan je zou denken.
-
-In dit artikel lees je welke soorten sets aan allebei de eisen voldoen, hoe je zelf controleert of een set op inductie werkt, en wat je moet weten over PFAS in pannen.
+Je kookt op inductie (of gaat dat binnenkort doen) en je hebt over PFAS gehoord. Dan wil je een pannenset die op je kookplaat werkt, en waarbij je je over de coating geen zorgen hoeft te maken. Die combinatie is prima te vinden, als je weet waar je op let. "PFAS-vrij" op een doos zegt namelijk minder dan je zou denken.
 
 ## Het korte antwoord: welke sets voldoen aan allebei?
 
-Een pannenset is geschikt voor inductie én PFAS-vrij koken als hij **een magnetische bodem** heeft en **geen antiaanbaklaag met PFAS**. Grofweg kom je dan bij twee soorten sets uit.
+Een pannenset is geschikt voor inductie én PFAS-vrij koken als hij een magnetische bodem heeft en geen antiaanbaklaag met PFAS. Grofweg kom je dan bij twee soorten sets uit.
 
 ### Ongecoat: RVS, emaille, gietijzer en plaatstaal
 
 ![Zelfgebakken brood in een gietijzeren pan](/assets/gietijzer-brood.jpg)
 
-De meest zekere keuze is een set **zonder antiaanbaklaag**. Ongecoat **RVS** (roestvrij staal) heeft geen coating, dus ook geen PFAS-coating. Hetzelfde geldt voor ongecoat **gietijzer** en **plaatstaal**, en voor **emaille** (geëmailleerd staal of gietijzer). Kies je een pan zonder antiaanbaklaag, dan komt er ook [minder PFAS in het milieu](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx).
+De meest zekere keuze is een set zonder antiaanbaklaag. Ongecoat RVS (roestvrij staal) heeft geen coating, dus ook geen PFAS-coating. Hetzelfde geldt voor ongecoat gietijzer en plaatstaal, en voor emaille (geëmailleerd staal of gietijzer). Kies je een pan zonder antiaanbaklaag, dan komt er ook [minder PFAS in het milieu](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx).
 
 Let wel op bij RVS: niet elke RVS-pan werkt op inductie (daarover hieronder meer). De meeste RVS-pannensets die nu worden verkocht, zijn daar wel op gemaakt. Voorbeelden van ongecoate RVS-sets die volgens de winkel of fabrikant geschikt zijn voor inductie, zijn de BK Profiline, de Demeyere Classico 3 en de SilverCrest RVS-set van Lidl. In [hoeveel geef je uit aan een goede pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/) zie je wat zulke sets kosten.
 
 [[product:bk-profiline-5]]
 
-Bij gietijzer en plaatstaal is één ding goed om te weten: sommige worden voorbehandeld of met een laagje geleverd. Kijk dus per product wat de fabrikant erover zegt.
+Sommige gietijzeren en plaatstalen pannen worden voorbehandeld of met een laagje geleverd. Kijk dus per product wat de fabrikant erover zegt.
 
 ### Met coating: keramisch op een inductiebodem
 
-Wil je toch een antiaanbaklaag, omdat je vaak eieren of pannenkoeken bakt? Dan is een set met een **keramische antiaanbaklaag** een mogelijkheid. Die zijn meestal zonder PFAS, maar dat geldt niet automatisch voor elke pan die "keramisch" heet. Check dus wat de fabrikant zegt.
+Wil je toch een antiaanbaklaag, omdat je vaak eieren of pannenkoeken bakt? Dan is een set met een keramische antiaanbaklaag een mogelijkheid. Die zijn meestal zonder PFAS, maar dat geldt niet automatisch voor elke pan die "keramisch" heet. Check dus wat de fabrikant zegt.
 
-Er is wel een keerzijde. Eten kan minder goed loslaten dan bij een klassieke antiaanbaklaag, en de laag kan sneller achteruitgaan door slijtage en de vaatwasser. Reken er dus op dat een keramische laag zorg vraagt.
+Eten kan wel minder goed loslaten dan bij een klassieke antiaanbaklaag, en de laag kan sneller achteruitgaan door slijtage en de vaatwasser. Reken er dus op dat een keramische laag zorg vraagt.
 
 Voorbeelden van keramische sets die de fabrikant als PFAS-vrij en geschikt voor inductie verkoopt, zijn de GreenPan Mayflower en de Tefal Ingenio Intens'Ceram. "PFAS-vrij" is hier een bewering van de fabrikant; die hebben we niet zelf gecontroleerd.
 
@@ -48,11 +45,11 @@ Voorbeelden van keramische sets die de fabrikant als PFAS-vrij en geschikt voor 
 
 ![Dampende steelpan op een glazen kookplaat](/assets/steelpan-kookplaat-stoom.jpg)
 
-Een **inductiekookplaat** verwarmt de pan via een magnetisch veld. Daarom heeft je pan een bodem nodig die magnetisch is, en die helemaal vlak is. Zo controleer je dat:
+Een inductiekookplaat verwarmt de pan via een magnetisch veld. Daarom heeft je pan een bodem nodig die magnetisch is, en die helemaal vlak is. Zo controleer je dat:
 
 1. **Zoek het inductiesymbool.** Dat is een spiraal op de pan of de verpakking.
 2. **Doe de magneettest.** Houd een magneet tegen de onderkant. Blijft hij stevig plakken, dan is de pan geschikt. Laat hij los of plakt hij maar een beetje, dan werkt de pan niet of minder goed. Check de hele bodem: bij sommige pannen zit er aan de rand te weinig magnetisch materiaal. Meer uitleg vind je in [de magneettest](/blog/pannen-inductie/).
-3. **Let op RVS.** RVS is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een **magnetische bodem** heeft, bijvoorbeeld een bodem met een magnetische laag. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
+3. **Let op RVS.** RVS is van zichzelf in de regel niet magnetisch. Een RVS-pan werkt alleen op inductie als hij een magnetische bodem heeft, bijvoorbeeld een bodem met een magnetische laag. Kies het liefst een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
 4. **Kijk naar de bodemmaat.** De maat op de doos gaat meestal over de bovenrand; de bodem is kleiner. Elke kookzone heeft een minimale panmaat die je in de handleiding van je kookplaat vindt.
 
 Aluminium en koper werken zonder magnetische bodem niet op inductie. Bij een keramische set van aluminium moet de fabrikant dus een speciale inductiebodem toevoegen.
@@ -61,15 +58,15 @@ Aluminium en koper werken zonder magnetische bodem niet op inductie. Bij een ker
 
 ![Gebakken ei in een zwarte koekenpan met antiaanbaklaag](/assets/antiaanbakpan-ei.jpg)
 
-**PFAS** is een verzamelnaam voor een grote groep door mensen gemaakte stoffen. Ze stoten water en vet af en breken heel langzaam af. Ook **PTFE** valt eronder, de stof die je kent als **Teflon**. Dat is de klassieke antiaanbaklaag op koekenpannen.
+**PFAS** is een verzamelnaam voor een grote groep door mensen gemaakte stoffen. Ze stoten water en vet af en breken heel langzaam af. Ook PTFE valt eronder, de stof die je kent als Teflon. Dat is de klassieke antiaanbaklaag op koekenpannen.
 
 Omdat PFAS in het milieu niet of nauwelijks afbreken, heten ze ook wel "eeuwige chemicaliën". Ze komen daar terecht via fabrieken, producten en afval. Die milieukant speelt dus ook als je pan in je eigen keuken veilig is.
 
-Lastig is dat op het etiket niet staat of een pan PFAS bevat. Bij twijfel kun je het aan de fabrikant vragen. Er komt misschien een verplicht PFAS-etiket, maar hoe en wanneer is nog niet bekend. Een keurmerk voor "PFAS-vrij" op pannen heb ik niet gevonden. Zie het dus als een bewering van de fabrikant.
+Op het etiket staat niet of een pan PFAS bevat. Bij twijfel kun je het aan de fabrikant vragen. Er komt misschien een verplicht PFAS-etiket, maar hoe en wanneer is nog niet bekend. Een keurmerk voor "PFAS-vrij" op pannen heb ik niet gevonden. Zie het dus als een bewering van de fabrikant.
 
 ### 'PFOA-vrij' is niet hetzelfde
 
-Op oudere pannen en dozen zie je vaak "PFOA-vrij". **PFOA** is één specifieke PFAS die vroeger werd gebruikt om PTFE te maken. In de EU is PFOA sinds juli 2020 verboden. Een nieuwe pan die "PFOA-vrij" heet, doet dus niet meer dan wat de wet vraagt. De antiaanbaklaag kan nog steeds van PTFE zijn, en dat is zelf een PFAS.
+Op oudere pannen en dozen zie je vaak "PFOA-vrij". PFOA is één specifieke PFAS die vroeger werd gebruikt om PTFE te maken. In de EU is PFOA sinds juli 2020 verboden. Een nieuwe pan die "PFOA-vrij" heet, doet dus niet meer dan wat de wet vraagt. De antiaanbaklaag kan nog steeds van PTFE zijn, en dat is zelf een PFAS.
 
 ### Moet je je huidige antiaanbakpan weggooien?
 
@@ -85,7 +82,7 @@ Voor alle pannen, met of zonder coating, gelden ook Europese regels. Een pan mag
 
 ## Keramisch of ongecoat: wat past bij jou?
 
-Na een werkdag wil je een pan die gewoon doet wat hij moet doen. Welke soort daarbij past, hangt af van hoe je kookt.
+Welke soort bij je past, hangt af van hoe je kookt.
 
 | | Ongecoat RVS | Emaille / gietijzer / plaatstaal | Keramische coating |
 |---|---|---|---|
@@ -95,7 +92,7 @@ Na een werkdag wil je een pan die gewoon doet wat hij moet doen. Welke soort daa
 | Onderhoud | eenvoudig, vaak vaatwasserbestendig | gietijzer en plaatstaal droog houden en invetten | voorzichtig, liefst geen vaatwasser |
 | Garantie op de coating | n.v.t. | n.v.t. | vaak korter dan op de pan zelf |
 
-RVS heeft één aandachtspunt: het bevat nikkel. Uit RVS van goede kwaliteit komt waarschijnlijk weinig nikkel vrij, vergeleken met wat er van nature in eten zit. Heb je een **nikkelallergie**? Overleg dan met je huisarts of dermatoloog welke pannen voor jou het beste zijn.
+RVS bevat nikkel. Uit RVS van goede kwaliteit komt waarschijnlijk weinig nikkel vrij, vergeleken met wat er van nature in eten zit. Heb je een nikkelallergie? Overleg dan met je huisarts of dermatoloog welke pannen voor jou het beste zijn.
 
 Een veelgebruikte combinatie: een ongecoate RVS-set voor koken, aangevuld met één losse koekenpan voor bakken. Dan heb je de duurzaamheid van RVS en het gemak van een bakpan, zonder een hele set met coating.
 
@@ -112,5 +109,5 @@ Een veelgebruikte combinatie: een ongecoate RVS-set voor koken, aangevuld met é
 
 Meer over materialen, prijzen en wat je in een set nodig hebt, lees je bij [alles over pannensets](/pannensets/).
 
-*Regelgeving rond PFAS verandert; ik werk dit artikel bij als er nieuws is.*
+Regelgeving rond PFAS verandert; ik werk dit artikel bij als er nieuws is.
 

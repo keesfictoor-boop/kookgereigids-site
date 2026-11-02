@@ -10,18 +10,18 @@ imageSourceUrl: "https://pixabay.com/photos/food-cook-pan-frying-healthy-4343863
 imageSource: "Pixabay"
 readingTime: 6
 pubDate: "2026-10-29"
-intro: "Roerbakken (wokken) is kleine stukjes groente, vlees, vis of tofu in een beetje olie heel snel gaar bakken op hoog vuur, terwijl je blijft omscheppen. Het geheim: een goed hete pan, alles vooraf gesneden, kleine porties en de juiste volgorde."
+intro: "Roerbakken (wokken) is kleine stukjes groente, vlees, vis of tofu in een beetje olie heel snel gaar bakken op hoog vuur, terwijl je blijft omscheppen. Dat lukt met een goed hete pan, alles vooraf gesneden, kleine porties en de juiste volgorde."
 ---
 
-Wokken doen we bij ons thuis veel. We houden van de oosterse keuken, we werken allebei fulltime, en een roerbakgerecht staat snel op tafel, met makkelijk een flinke berg groenten erin. En eerlijk: ik vind het ook gewoon fijn om te doen. Even alles snijden, de pan heet, en dan een paar minuten vol aandacht koken. Dat is mijn rustmoment na het werk.
+Wokken doen we bij ons thuis veel. We houden van de oosterse keuken, we werken allebei fulltime, en een roerbakgerecht staat snel op tafel, met makkelijk een flinke berg groenten erin. Ik vind het ook fijn om te doen: even alles snijden, de pan heet, en dan een paar minuten vol aandacht koken. Dat is mijn rustmoment na het werk.
 
-Toch gaat het vaak net mis: de groenten worden slap, er staat een plasje vocht in de pan en het smaakt meer naar stoofpot dan naar wok. Hieronder lees je hoe je dat voorkomt.
+Toch gaat het vaak net mis: de groenten worden slap, er staat een plasje vocht in de pan en het smaakt meer naar stoofpot dan naar wok.
 
 ## Wat is roerbakken?
 
-**Roerbakken** of **wokken** is kleine stukjes groente, vlees, vis of kip in een klein beetje olie heel snel gaar bakken op hoge temperatuur. Je blijft omscheppen, zodat alles gelijkmatig gaart en niets aanbrandt.
+**Roerbakken** of wokken is kleine stukjes groente, vlees, vis of kip in een klein beetje olie heel snel gaar bakken op hoge temperatuur. Je blijft omscheppen, zodat alles gelijkmatig gaart en niets aanbrandt.
 
-De techniek komt uit China. De rokerige smaak die je in een goed restaurant proeft, *wok hei*, wordt vooral met de Kantonese keuken in verband gebracht.
+De techniek komt uit China. De rokerige smaak die je in een goed restaurant proeft, wok hei, wordt vooral met de Kantonese keuken in verband gebracht.
 
 ### Is er verschil tussen wokken en roerbakken?
 
@@ -46,13 +46,13 @@ Een goede [volgorde](https://www.voedingscentrum.nl/nl/gezonde-recepten/kookhulp
 3. **Dan groenten met een korte gaartijd**, zoals courgette, paprika, champignons of taugé.
 4. **Tot slot kruiden en specerijen.**
 
-Een tip: je kunt het vlees na het bakken even uit de pan halen en aan het eind terugdoen. Doe een saus pas helemaal aan het eind erbij, als de groenten bijna klaar zijn. Gaat er te vroeg veel vocht in de pan, dan stopt het bakken en gaan je groenten koken.
+Je kunt het vlees na het bakken even uit de pan halen en aan het eind terugdoen. Doe een saus pas helemaal aan het eind erbij, als de groenten bijna klaar zijn. Gaat er te vroeg veel vocht in de pan, dan stopt het bakken en gaan je groenten koken.
 
 ![Gesneden roerbakgroenten met wortel en paprika in een metalen zeef](/assets/roerbakgroenten-zeef.jpg)
 
 ## Welke pan gebruik je?
 
-Het liefst een **wok**. Op gas mag dat een wok met bolle bodem zijn, op inductie of keramisch heb je een **vlakke bodem** nodig. Wij roerbakken zelf in een RVS-wok (de Demeyere Apollo 7) op inductie. Welk materiaal en welke maat bij jou past, lees je in [wokpan kiezen](/wokpan/). Een carbonstalen wok wordt snel heet en kan tegen hoge temperaturen; die moet je wel eerst [inbranden](/blog/wok-inbranden/).
+Het liefst een wok. Op gas mag dat een wok met bolle bodem zijn, op inductie of keramisch heb je een vlakke bodem nodig. Wij roerbakken zelf in een RVS-wok (de Demeyere Apollo 7) op inductie. Welk materiaal en welke maat bij jou past, lees je in [wokpan kiezen](/wokpan/). Een carbonstalen wok wordt snel heet en kan tegen hoge temperaturen; die moet je wel eerst [inbranden](/blog/wok-inbranden/).
 
 [[product:skottsberg-wok-rvs-28]]
 
@@ -64,7 +64,7 @@ Kook je op inductie, til de pan dan niet steeds op om te schudden. Staat er een 
 
 Roerbakken heeft een paar dingen mee: je gebruikt weinig olie en je kunt er veel groenten in kwijt. Ook behoud je bij wokken veel smaak en vitamines.
 
-Eén kanttekening: ook bij roerbakken kan wat vitamine C verloren gaan, al lijkt dat minder dan bij koken. Roerbakken is niet de "beste" manier om vitamines te bewaren, maar wel een smakelijke manier om veel groenten te eten.
+Ook bij roerbakken kan wat vitamine C verloren gaan, al lijkt dat minder dan bij koken. Roerbakken is niet de "beste" manier om vitamines te bewaren, maar wel een smakelijke manier om veel groenten te eten.
 
 Hoe gezond je roerbak is, hangt ook sterk af van wat erin gaat: veel groenten en niet te veel olie.
 

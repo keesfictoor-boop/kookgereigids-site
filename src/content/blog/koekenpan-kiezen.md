@@ -16,7 +16,7 @@ imageSource: "Pixabay"
 
 Een koekenpan pak je bijna elke dag. Een ei voor de lunch, een stukje vis, groenten die je even wilt laten kleuren. Juist daarom is het fijn als hij doet wat je verwacht. Wij werken allebei fulltime, dus doordeweeks is er niet veel tijd om te koken. Dan wil je geen pan waar je bij elk gerecht over moet nadenken.
 
-Antiaanbak, keramisch, RVS, plaatstaal, gietijzer: de keuze is groot. In dit artikel zet ik de materialen naast elkaar, leg ik uit welke maat je nodig hebt en waar je op let als je op inductie kookt. We testen zelf geen pannen.
+Antiaanbak, keramisch, RVS, plaatstaal of gietijzer: de keuze is groot. Ik zet de materialen naast elkaar; zelf testen we geen pannen.
 
 ## De materialen naast elkaar
 
@@ -56,13 +56,13 @@ Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet
 
 RVS is een fijne keuze om in te bakken, vooral voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Zo'n pan mag meestal in de vaatwasser en gaat bij normaal gebruik heel lang mee. Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
 
-De keerzijde: zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
+Zonder coating vraagt bakken wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
 
 ## Plaatstaal (carbonstaal)
 
 Plaatstaal ken je misschien van de klassieke wok. Er zit geen coating op. De pan bouwt zelf een laag op: je brandt hem in, en daarna bakt hij beter hoe vaker je hem gebruikt. Hoe zwarter de binnenkant, hoe minder er aanbakt.
 
-Er zijn ook nadelen. Niet laten weken, niet in de vaatwasser, en na het afwassen meteen afdrogen en licht invetten tegen roest. Zure ingrediënten zoals tomaat, witte wijn of citroen kunnen witte vlekken in de laag geven; dan brand je de pan opnieuw in. En op inductie: gebruik een matige stand, geen booster, en verhit de pan niet leeg. Zo voorkom je dat een grote pan vervormt.
+Plaatstaal heeft ook nadelen. Laat de pan niet weken, zet hem niet in de vaatwasser, en droog hem na het afwassen meteen af en vet hem licht in tegen roest. Zure ingrediënten zoals tomaat, witte wijn of citroen kunnen witte vlekken in de laag geven; dan brand je de pan opnieuw in. En op inductie: gebruik een matige stand, geen booster, en verhit de pan niet leeg. Zo voorkom je dat een grote pan vervormt.
 
 Hoe inbranden precies gaat, lees je in [wok inbranden](/blog/wok-inbranden/). Voor een koekenpan van plaatstaal werkt het op dezelfde manier.
 
@@ -78,7 +78,7 @@ Reken op gewicht: een grote gietijzeren pan weegt al snel een paar kilo. Daarmee
 
 ## Welke maat koekenpan heb je nodig?
 
-De maat van een koekenpan gaat meestal over de **bovenrand**. Het bakoppervlak onderin is kleiner. Een handige vuistregel:
+De maat van een koekenpan gaat meestal over de bovenrand. Het bakoppervlak onderin is kleiner. Een handige vuistregel:
 
 | Diameter | Aantal personen |
 |---|---|
@@ -89,7 +89,7 @@ De maat van een koekenpan gaat meestal over de **bovenrand**. Het bakoppervlak o
 
 Je bakt het best in een pan die vrij vol ligt. Groter is dus niet automatisch beter.
 
-Kijk daarnaast naar de **bodemdiameter**, zeker op inductie. De bodem is kleiner dan de bovenrand, en de fabrikant noemt hem vaak apart in de productgegevens. Die bodem moet passen bij de kookzone waar je de pan op zet. Meer daarover lees je in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/).
+Kijk daarnaast naar de bodemdiameter, zeker op inductie. De bodem is kleiner dan de bovenrand, en de fabrikant noemt hem vaak apart in de productgegevens. Die bodem moet passen bij de kookzone waar je de pan op zet. Meer daarover lees je in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/).
 
 ## Koken op inductie
 
