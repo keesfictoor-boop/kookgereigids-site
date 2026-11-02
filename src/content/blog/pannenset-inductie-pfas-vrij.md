@@ -37,7 +37,7 @@ Sommige gietijzeren en plaatstalen pannen worden voorbehandeld of met een laagje
 
 Wil je toch een antiaanbaklaag, omdat je vaak eieren of pannenkoeken bakt? Dan is een set met een keramische antiaanbaklaag een mogelijkheid. Die zijn meestal zonder PFAS, maar dat geldt niet automatisch voor elke pan die "keramisch" heet. Check dus wat de fabrikant zegt.
 
-Eten kan wel minder goed loslaten dan bij een klassieke antiaanbaklaag, en de laag kan sneller achteruitgaan door slijtage en de vaatwasser. Reken er dus op dat een keramische laag zorg vraagt.
+Het nadeel is dat eten minder goed kan loslaten dan bij een klassieke antiaanbaklaag, en dat de laag sneller achteruit kan gaan door slijtage en de vaatwasser. Reken er dus op dat een keramische laag zorg vraagt.
 
 Voorbeelden van keramische sets die de fabrikant als PFAS-vrij en geschikt voor inductie verkoopt, zijn de GreenPan Mayflower en de Tefal Ingenio Intens'Ceram. "PFAS-vrij" is hier een bewering van de fabrikant; die hebben we niet zelf gecontroleerd.
 

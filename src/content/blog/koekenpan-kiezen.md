@@ -16,7 +16,7 @@ imageSource: "Pixabay"
 
 Een koekenpan pak je bijna elke dag. Een ei voor de lunch, een stukje vis, groenten die je even wilt laten kleuren. Juist daarom is het fijn als hij doet wat je verwacht. Wij werken allebei fulltime, dus doordeweeks is er niet veel tijd om te koken. Dan wil je geen pan waar je bij elk gerecht over moet nadenken.
 
-Antiaanbak, keramisch, RVS, plaatstaal of gietijzer: de keuze is groot. Ik zet de materialen naast elkaar. Zelf testen we geen pannen.
+Antiaanbak, keramisch, RVS, plaatstaal of gietijzer: de keuze is groot. Ik zet de materialen naast elkaar. Zelf test ik geen pannen.
 
 ## De materialen naast elkaar
 
@@ -62,7 +62,7 @@ Zonder coating vraagt bakken wel wat meer aandacht dan in een antiaanbakpan. Een
 
 Plaatstaal ken je misschien van de klassieke wok. Er zit geen coating op. De pan bouwt zelf een laag op: je brandt hem in, en daarna bakt hij beter hoe vaker je hem gebruikt. Hoe zwarter de binnenkant, hoe minder er aanbakt.
 
-Plaatstaal heeft ook nadelen. Laat de pan niet weken, zet hem niet in de vaatwasser, en droog hem na het afwassen meteen af en vet hem licht in tegen roest. Zure ingrediënten zoals tomaat, witte wijn of citroen kunnen witte vlekken in de laag geven; dan brand je de pan opnieuw in. En op inductie: gebruik een matige stand, geen booster, en verhit de pan niet leeg. Zo voorkom je dat een grote pan vervormt.
+Plaatstaal heeft ook nadelen. Laat de pan niet weken en zet hem niet in de vaatwasser. Droog hem na het afwassen meteen af en vet hem licht in tegen roest. Zure ingrediënten zoals tomaat, witte wijn of citroen kunnen witte vlekken in de laag geven; dan brand je de pan opnieuw in. En op inductie: gebruik een matige stand, geen booster, en verhit de pan niet leeg. Zo voorkom je dat een grote pan vervormt.
 
 Hoe inbranden precies gaat, lees je in [wok inbranden](/blog/wok-inbranden/). Voor een koekenpan van plaatstaal werkt het op dezelfde manier.
 

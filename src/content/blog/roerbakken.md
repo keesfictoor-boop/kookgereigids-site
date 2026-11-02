@@ -15,13 +15,13 @@ intro: "Roerbakken (wokken) is kleine stukjes groente, vlees, vis of tofu in een
 
 Wokken doen we bij ons thuis veel. We houden van de oosterse keuken, we werken allebei fulltime, en een roerbakgerecht staat snel op tafel, met makkelijk een flinke berg groenten erin. Ik vind het ook fijn om te doen: even alles snijden, de pan heet, en dan een paar minuten vol aandacht koken. Dat is mijn rustmoment na het werk.
 
-Toch gaat het vaak net mis: de groenten worden slap, er staat een plasje vocht in de pan en het smaakt meer naar stoofpot dan naar wok. Meestal ligt dat aan de hitte of de hoeveelheid.
+Toch gaat het vaak net mis: de groenten worden slap, er staat een plasje vocht in de pan en het smaakt meer naar stoofpot dan naar wok. Dat kan komen door te weinig hitte of te veel tegelijk in de pan.
 
 ## Wat is roerbakken?
 
-**Roerbakken** of wokken is kleine stukjes groente, vlees, vis of kip in een klein beetje olie heel snel gaar bakken op hoge temperatuur. Je blijft omscheppen, zodat alles gelijkmatig gaart en niets aanbrandt.
+Roerbakken of wokken is kleine stukjes groente, vlees, vis of kip in een klein beetje olie heel snel gaar bakken op hoge temperatuur. Je blijft omscheppen, zodat alles gelijkmatig gaart en niets aanbrandt.
 
-De techniek komt uit China. De rokerige smaak die je in een goed restaurant proeft, wok hei, wordt vooral met de Kantonese keuken in verband gebracht.
+De techniek komt uit China. De rokerige smaak die je in een goed restaurant proeft (wok hei) wordt vooral met de Kantonese keuken in verband gebracht.
 
 ### Is er verschil tussen wokken en roerbakken?
 

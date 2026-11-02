@@ -23,7 +23,7 @@ Met deze pannen kook je vrijwel alles wat er doordeweeks op tafel komt.
 
 ### 1. Twee of drie kookpannen
 
-Deze pannen gebruik je voor pasta, aardappelen, rijst, groenten en soep. Kies verschillende maten, bijvoorbeeld 16, 20 en 24 cm. Dat zijn ook de maten die je in de meeste kookpannensets terugziet. Let op een dikke bodem, zodat rijst en saus minder snel aanbranden, en op een passend deksel.
+Hierin kook je pasta, aardappelen, rijst, groenten en soep. Kies verschillende maten, bijvoorbeeld 16, 20 en 24 cm. Dat zijn ook de maten die je in de meeste kookpannensets terugziet. Let op een dikke bodem, zodat rijst en saus minder snel aanbranden, en op een passend deksel.
 
 [[product:tefal-duetto-4]]
 
@@ -66,13 +66,13 @@ Wij wokken veel en koken graag uit de wereldkeuken. Dan hoort een wok er wat mij
 ## Koekenpan of hapjespan: wat is het verschil?
 
 - Een **koekenpan** heeft een lage, vaak schuin oplopende rand. Daardoor kom je er makkelijk bij met een spatel en verdampt vocht snel. Dat helpt als je iets krokant wilt bakken.
-- Een **hapjespan** heeft een hogere, rechte rand en vaak een deksel. Daardoor past er meer in en spat er minder uit. Past goed als je eerst iets aanbakt en het daarna laat sudderen in een saus.
+- Een **hapjespan** heeft een hogere, rechte rand en vaak een deksel. Daardoor past er meer in en spat er minder uit. Goed als je eerst iets aanbakt en het daarna laat sudderen in een saus.
 
 Vuistregel: **bakken = koekenpan, bakken én sudderen = hapjespan.** Heb je weinig ruimte? Dan kan een hapjespan met deksel een koekenpan voor een groot deel vervangen. Andersom lukt dat minder goed.
 
 ## Koekenpan of wok?
 
-Een koekenpan heeft een groot, vlak bakoppervlak: daar passen een biefstuk of drie eieren naast elkaar op. Een wok heeft een kleinere bodem en hoge, schuine wanden: daardoor kun je op hoog vuur snel roerbakken en blijft alles in de pan. Maak je vooral Hollandse pot, dan heb je genoeg aan een koekenpan. Kook je regelmatig oosters, dan is een wok de moeite waard.
+Een koekenpan heeft een groot, vlak bakoppervlak: daar past een biefstuk op, of drie eieren naast elkaar. Een wok heeft een kleinere bodem en hoge, schuine wanden: daardoor kun je op hoog vuur snel roerbakken en blijft alles in de pan. Maak je vooral Hollandse pot, dan heb je genoeg aan een koekenpan. Kook je regelmatig oosters, dan is een wok de moeite waard.
 
 ## Hoe groot moet je pannen zijn?
 

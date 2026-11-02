@@ -85,4 +85,4 @@ Op de doos staat ‘5-delig’ of ‘10-delig’, maar daar is geen vaste regel 
 
 <div class="notice"><h3>Welke pannen heb jij nodig?</h3><p>Alles over het kiezen van een set, van materiaal tot garantie, lees je in <a href="/pannensets/">pannenset kiezen</a>. Wat een goede set kost, zie je in <a href="/blog/hoeveel-uitgeven-aan-een-pannenset/">hoeveel geef je uit aan een pannenset</a>. Lees eerst <a href="/blog/basis-pannen/">welke pannen je echt nodig hebt</a>, of vul de <a href="/keuzehulp/">keuzehulp</a> in. Kook je op inductie, check dan ook <a href="/blog/pannen-inductie/">welke pannen geschikt zijn voor inductie</a>.</p></div>
 
-Ik vergeleek de prijzen bij bol.com, bk.nl, Coolblue en BCC op het moment dat ik keek. Prijzen veranderen snel; controleer ze bij de winkel voordat je koopt.
+Ik vergeleek de prijzen bij bol.com, bk.nl, Coolblue en BCC. Die veranderen snel, dus controleer ze bij de winkel voordat je koopt.
