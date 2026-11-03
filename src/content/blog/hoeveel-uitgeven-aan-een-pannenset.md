@@ -72,7 +72,7 @@ Een set met een antiaanbaklaag (bijvoorbeeld een keramische coating) bakt makkel
 | Tefal | 2 jaar; RVS met sterren-markering op de bodem 5 of 10 jaar | 2 jaar tegen blaren en afbladderen |
 | GreenPan (Mayflower) | levenslang op materiaal- en fabricagefouten | 5 jaar |
 
-Bij alle merken vallen normale slijtage, krassen en verkleuring buiten de garantie. En de garantie die een winkel noemt, wijkt soms af van wat de fabrikant zegt. Kijk daarom altijd naar de voorwaarden van de fabrikant zelf, en bewaar je aankoopbewijs.
+Bij alle merken vallen normale slijtage, krassen en verkleuring buiten de garantie. En de garantie die een winkel noemt, wijkt soms af van wat de fabrikant zegt. Kijk daarom altijd naar de voorwaarden van de fabrikant zelf, en bewaar je aankoopbewijs. Hoe lang pannen per materiaal meegaan, lees je in [welke pannen het langst meegaan](/blog/pannen-langst-mee/).
 
 Verder betaal je bij duurdere sets vaak voor gemak: glazen deksels waardoor je kunt meekijken, een afgietsysteem in het deksel, koele of stevigere handgrepen, of een set die stapelbaar is. Fijn, maar geen must.
 

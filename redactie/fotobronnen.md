@@ -53,6 +53,9 @@ Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 4508015 (herkenbaar se
 | pannenset-rvs-bloemkool.jpg | 2383332 | congerdesign | pannenset-rvs |
 | pannenset-rvs-deksel-condens.jpg | 5342898 | scratsmacker | pannenset-rvs |
 | pannenset-rvs-steelpan.jpg | 2474181 | Myriams-Fotos | pannenset-rvs |
+| pannen-langst-mee-eendenborst.jpg | 4813261 | RitaE | pannen-langst-mee (hoofdfoto) |
+| pannen-langst-mee-eieren.jpg | 3238173 | Alexas_Fotos | pannen-langst-mee |
+| pannen-langst-mee-emaille.jpg | 934905 | fvk | pannen-langst-mee |
 
 Afgewezen wave 3 (29-10-2026): 6660682 (logo op deksel), 573961 (mogelijk tekst op het mes), 1850233 (logo op kleding, persoon herkenbaar).
 

@@ -101,7 +101,7 @@ Bij een koekenpan zit niet altijd een deksel. Handig is het wel, bijvoorbeeld al
 
 ## Welke koekenpan past bij jou?
 
-- **Je bakt vooral eieren, pannenkoeken en vis, en wilt weinig gedoe:** een pan met antiaanbaklaag, PTFE of keramisch. De laag slijt wel, dus zo'n pan gaat minder lang mee dan een pan zonder coating.
+- **Je bakt vooral eieren, pannenkoeken en vis, en wilt weinig gedoe:** een pan met antiaanbaklaag, PTFE of keramisch. De laag slijt wel, dus zo'n pan [gaat minder lang mee](/blog/pannen-langst-mee/) dan een pan zonder coating.
 - **Je wilt geen coating en een pan die mag in de vaatwasser:** RVS. Het vraagt wat oefening met eieren.
 - **Je schroeit graag vlees dicht en vindt onderhoud geen probleem:** plaatstaal. Lichter dan gietijzer, maar wel inbranden en droog houden.
 - **Je wilt een pan die ook de oven in kan en je vindt gewicht geen bezwaar:** gietijzer.
