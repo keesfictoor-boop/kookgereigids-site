@@ -106,7 +106,7 @@ Minder uitgeven is prima als:
 
 [[product:tefal-duetto-4]]
 
-Waar je niet voor hoeft te betalen: een hoge "van"-prijs, een groot aantal "delen" en een merknaam alleen. Een merk zegt iets over de garantie en de service, maar niet automatisch dat elke set beter is.
+Waar je niet voor hoeft te betalen: een hoge "van"-prijs, een groot aantal "delen" en een merknaam alleen. Een merk zegt iets over de garantie en de service, maar niet automatisch dat elke set beter is. Meer daarover lees je in [welke pannenmerken het beste zijn](/blog/beste-pannenmerken/).
 
 ## Zo vergelijk je slim
 

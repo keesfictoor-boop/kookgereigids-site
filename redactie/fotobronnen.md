@@ -56,6 +56,9 @@ Gecontroleerd op AI-beelden, merken en logo's. Afgewezen: 4508015 (herkenbaar se
 | pannen-langst-mee-eendenborst.jpg | 4813261 | RitaE | pannen-langst-mee (hoofdfoto) |
 | pannen-langst-mee-eieren.jpg | 3238173 | Alexas_Fotos | pannen-langst-mee |
 | pannen-langst-mee-emaille.jpg | 934905 | fvk | pannen-langst-mee |
+| pannenmerken-tomatensaus.jpg | 8031137 | eatde | beste-pannenmerken (hoofdfoto) |
+| pannenmerken-groenten.jpg | 8027678 | Mondgesicht | beste-pannenmerken |
+| pannenmerken-paella.jpg | 2201193 | TonyPrats | beste-pannenmerken |
 
 Afgewezen wave 3 (29-10-2026): 6660682 (logo op deksel), 573961 (mogelijk tekst op het mes), 1850233 (logo op kleding, persoon herkenbaar).
 
@@ -64,3 +67,5 @@ Afgewezen koekenpan-kiezen (29-10-2026): 2969649 (merknaam leesbaar op de snijpl
 Afgewezen extra foto's (29-10-2026): 10489109 (mogelijk AI-beeld, leesbare boekruggen), 338139 (merknaam op messenblok), 1006694 (tekst "SOUP"), 4229579 (logo op handvat).
 
 Afgewezen pannenset-rvs (2-11-2026): 3398117 (merkverpakking in beeld), 476346 (merknaam leesbaar op de pan), 750142, 3267634, 1927783 en 5629174 (geen RVS).
+
+Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pan in beeld).

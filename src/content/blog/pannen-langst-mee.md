@@ -41,7 +41,7 @@ De garantie geeft een goede indruk van hoe lang de fabrikant verwacht dat een pa
 
 Onze eigen wok is een Demeyere Apollo 7 van RVS. Dat is een van de lijnen waar die 30 jaar voor geldt.
 
-Let wel op wat er niet onder valt. Normale slijtage, krassen en verkleuring vallen bij alle merken buiten de garantie, net als schade door oververhitting of een pan die is gevallen. Een lange garantie dekt dus fabricagefouten. Een laag die na een paar jaar slijt, valt er nooit onder. Meer garantietermijnen per merk staan in [hoeveel je uitgeeft aan een pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/).
+Let wel op wat er niet onder valt. Normale slijtage, krassen en verkleuring vallen bij alle merken buiten de garantie, net als schade door oververhitting of een pan die is gevallen. Een lange garantie dekt dus fabricagefouten. Een laag die na een paar jaar slijt, valt er nooit onder. Meer garantietermijnen per merk staan in [hoeveel je uitgeeft aan een pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/). Wat de bekende merken verder van elkaar onderscheidt, lees je in [welke pannenmerken het beste zijn](/blog/beste-pannenmerken/).
 
 ## Waarom een pan met antiaanbaklaag minder lang meegaat
 
