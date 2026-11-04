@@ -60,7 +60,7 @@ Aluminium en koper werken zonder magnetische bodem niet op inductie. Bij een ker
 
 **PFAS** is een verzamelnaam voor een grote groep door mensen gemaakte stoffen. Ze stoten water en vet af en breken heel langzaam af. Ook PTFE valt eronder, de stof die je kent als Teflon. Dat is de klassieke antiaanbaklaag op koekenpannen.
 
-Omdat PFAS in het milieu niet of nauwelijks afbreken, heten ze ook wel "eeuwige chemicaliën". Ze komen daar terecht via fabrieken, producten en afval. Die milieukant speelt dus ook als je pan in je eigen keuken veilig is.
+Omdat PFAS in het milieu niet of nauwelijks afbreken, heten ze ook wel "eeuwige chemicaliën". Ze komen daar terecht via fabrieken, producten en afval. Die milieukant speelt dus ook als je pan in je eigen keuken veilig is. Wat een pan verder duurzaam maakt, lees je in [duurzame en recyclebare pannen](/blog/pannen-duurzaam/).
 
 Op het etiket staat niet of een pan PFAS bevat. Bij twijfel kun je het aan de fabrikant vragen. Er komt misschien een verplicht PFAS-etiket, maar hoe en wanneer is nog niet bekend. Een keurmerk voor "PFAS-vrij" op pannen heb ik niet gevonden. Zie het dus als een bewering van de fabrikant.
 

@@ -69,7 +69,7 @@ Bij een pan met antiaanbaklaag let je op deze signalen:
 2. **Er zitten diepe krassen in** en de laag ziet er dof en droog uit.
 3. **Alles blijft plakken**, ook als je de pan goed voorverwarmt en wat vet gebruikt.
 
-Is de antiaanbaklaag beschadigd, dan is mijn advies: gooi de pan weg. Hij bakt dan toch niet goed meer, en ik wil niet twijfelen over wat er loskomt in het eten van mijn kinderen.
+Is de antiaanbaklaag beschadigd, dan is mijn advies: gooi de pan weg. Hij bakt dan toch niet goed meer, en ik wil niet twijfelen over wat er loskomt in het eten van mijn kinderen. Waar je de oude pan inlevert, lees je in [welke pannen duurzaam en goed recyclebaar zijn](/blog/pannen-duurzaam/).
 
 Bij geëmailleerd gietijzer geldt hetzelfde voor het emaille aan de binnenkant. Is het gebarsten of afgesprongen, vervang de pan dan. Kook je erin door, dan kunnen er stukjes emaille loskomen.
 

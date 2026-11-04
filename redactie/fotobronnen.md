@@ -86,6 +86,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | gerecht-zalm-pan.jpg | 6233959 | congerdesign | pan-per-gerecht |
 | gerecht-vlees-pan.jpg | 3873890 | felix_w | pan-per-gerecht |
 | gerecht-pannenkoeken.jpg | 8031139 | eatde | pan-per-gerecht |
+| duurzaam-gietijzer.jpg | 2202193 | WikimediaImages | pannen-duurzaam (hoofdfoto) |
+| duurzaam-oud-ijzer.jpg | 1508237 | Alexas_Fotos | pannen-duurzaam |
+| duurzaam-pan-deksel.jpg | 5174083 | scratsmacker | pannen-duurzaam |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
 
@@ -94,3 +97,5 @@ Afgewezen pannenset-gietijzer (4-11-2026): geen; bekeken en niet gekozen: 263178
 Afgewezen pan-per-gerecht (4-11-2026): 5883820 (vis in een frituurbak op een markt, past niet bij bakken in een koekenpan; deels zichtbare persoon).
 
 Afgewezen pannen-hoge-temperatuur (4-11-2026): geen; bekeken en niet gekozen: 1239328, 1726677, 1728504, 5240007 (speelgoed of geen keuken), 1827747, 1994807, 2399627, 3736239, 4072916, 4717175, 4864995, 5345954, 6675198, 9418029. Op 1303315 is alleen een hand te zien.
+
+Afgewezen pannen-duurzaam (4-11-2026): 7080761 (leesbare tekst op een keukenspatel), 663714 (merknaam op de steel), 6398053 (logo op de pan, etiket op een verpakking), 3083125 (merknaam op een blender). 3597348 al eerder gebruikt.
