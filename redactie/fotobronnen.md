@@ -79,6 +79,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | gietijzer-tomaten.jpg | 1476093 | ponce_photography | pannenset-gietijzer (hoofdfoto) |
 | gietijzer-biefstuk.jpg | 3766592 | felix_w | pannenset-gietijzer |
 | gietijzer-oven.jpg | 7624743 | Ray_Shrewsberry | pannenset-gietijzer |
+| hoog-vuur-worst.jpg | 1303315 | zoli2003 | pannen-hoge-temperatuur (hoofdfoto) |
+| gehaktballen-pan.jpg | 602841 | moerschy | pannen-hoge-temperatuur |
+| oven-bakvorm.jpg | 3010450 | xeno4ka | pannen-hoge-temperatuur |
 | gerecht-eieren-pan.jpg | 9310290 | jhenning | pan-per-gerecht (hoofdfoto) |
 | gerecht-zalm-pan.jpg | 6233959 | congerdesign | pan-per-gerecht |
 | gerecht-vlees-pan.jpg | 3873890 | felix_w | pan-per-gerecht |
@@ -89,3 +92,5 @@ Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode bee
 Afgewezen pannenset-gietijzer (4-11-2026): geen; bekeken en niet gekozen: 2631780, 2730917, 3729044, 4396809, 4895036, 5909430, 6123746, 6784952 (niet passend bij de tekst). Bij 3766592 is niet zeker te zien dat de pan van gietijzer is; alt-tekst daarom 'zwarte pan'.
 
 Afgewezen pan-per-gerecht (4-11-2026): 5883820 (vis in een frituurbak op een markt, past niet bij bakken in een koekenpan; deels zichtbare persoon).
+
+Afgewezen pannen-hoge-temperatuur (4-11-2026): geen; bekeken en niet gekozen: 1239328, 1726677, 1728504, 5240007 (speelgoed of geen keuken), 1827747, 1994807, 2399627, 3736239, 4072916, 4717175, 4864995, 5345954, 6675198, 9418029. Op 1303315 is alleen een hand te zien.

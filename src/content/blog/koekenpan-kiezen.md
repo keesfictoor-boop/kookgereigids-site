@@ -36,7 +36,7 @@ De klassieke antiaanbakpan heeft een laag van PTFE, de stof die veel mensen kenn
 
 Is zo'n pan veilig? Er zit PFAS in teflonpannen, maar je kunt ze veilig blijven gebruiken als je de gebruiksaanwijzing volgt en de laag onbeschadigd is. Is de laag beschadigd, lever de pan dan in of gooi hem bij het restafval. Kies je een pan zonder antiaanbaklaag, dan komt er wel [minder PFAS in het milieu](https://www.voedingscentrum.nl/encyclopedie/pfas.aspx). Of een pan PFAS bevat, staat niet op het etiket; je kunt het aan de fabrikant vragen.
 
-Wordt de laag veel te heet, dan kan hij kapotgaan. Dan kunnen er schadelijke stoffen vrijkomen, ook zonder dat je rook ziet. Verhit een lege antiaanbakpan daarom nooit op hoog vuur.
+Wordt de laag veel te heet, dan kan hij kapotgaan. Dan kunnen er schadelijke stoffen vrijkomen, ook zonder dat je rook ziet. Verhit een lege antiaanbakpan daarom nooit op hoog vuur. Welke pannen wel tegen hoog vuur kunnen, lees je in [pannen voor hoge temperaturen](/blog/pannen-hoge-temperatuur/).
 
 Wil je hier meer over weten, lees dan [pannensets voor inductie en PFAS-vrij koken](/blog/pannenset-inductie-pfas-vrij/). Daar staat ook wat "PFOA-vrij" op de doos wel en niet betekent.
 

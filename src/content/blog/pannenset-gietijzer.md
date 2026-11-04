@@ -118,7 +118,7 @@ Is het emaille aan de binnenkant gebarsten? Kook er dan niet meer in: er kunnen 
 ## Welke gietijzeren set past bij jou?
 
 - **Je stooft graag en wilt weinig gedoe:** een geëmailleerde set met een braadpan en een kookpan met deksel.
-- **Je braadt en bakt veel, ook in de oven:** kale koekenpannen in twee of drie maten.
+- **Je braadt en bakt veel, ook in de oven:** kale koekenpannen in twee of drie maten. Tot welke temperatuur een pan de oven in mag, lees je in [pannen voor hoge temperaturen](/blog/pannen-hoge-temperatuur/).
 - **Je wilt alles in gietijzer:** een set met een pan met deksel en een paar koekenpannen, zoals de Lodge-set. Reken wel op zwaar tilwerk.
 - **Je kookt vooral pasta, aardappelen en soep:** neem een RVS-set en koop er één gietijzeren braadpan los bij.
 
