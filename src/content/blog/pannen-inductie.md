@@ -89,7 +89,7 @@ Loop dan dit rijtje af:
 1. Is de bodem magnetisch, over de hele onderkant?
 2. Is de bodem groot genoeg voor de kookzone?
 3. Staat de pan in het midden van de zone?
-4. Is de bodem vlak, of is hij bol of krom getrokken?
+4. Is de bodem vlak, of is hij bol of krom getrokken? Hoe je dat test, lees je in [waarom een pan krom trekt](/blog/pan-trekt-krom/).
 
 Blijft het onduidelijk, vraag dan de fabrikant van de pan of de kookplaat om advies voordat je iets nieuws koopt.
 

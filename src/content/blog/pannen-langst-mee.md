@@ -81,7 +81,7 @@ Een pan zonder coating vervang je bijna nooit om slijtage. Verkleuring, kleine k
 
 Met een paar gewoontes win je jaren, welk materiaal je ook hebt.
 
-- **Zet een lege pan niet op hoog vuur.** Een lege pan wordt te snel te heet. Daar kan de bodem krom van trekken, emaille van barsten en een antiaanbaklaag van beschadigen. Bij geëmailleerd gietijzer mag het vuur wel hoog als er water in zit, zoals bij pasta.
+- **Zet een lege pan niet op hoog vuur.** Een lege pan wordt te snel te heet. Daar kan de bodem [krom van trekken](/blog/pan-trekt-krom/), emaille van barsten en een antiaanbaklaag van beschadigen. Bij geëmailleerd gietijzer mag het vuur wel hoog als er water in zit, zoals bij pasta.
 - **Gebruik op inductie een matige stand om voor te verwarmen.** Inductie wordt heel snel heet. Bij een stalen pan sla je de boosterstand dan beter over.
 - **Laat een hete pan eerst afkoelen** voordat je hem onder de koude kraan houdt. Bij geëmailleerd gietijzer wacht je minstens een kwartier.
 - **Wees zacht voor coatings.** Geen staalwol, geen schuurmiddel en geen scherpe voorwerpen in een pan met antiaanbaklaag.

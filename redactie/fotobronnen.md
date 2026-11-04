@@ -69,3 +69,12 @@ Afgewezen extra foto's (29-10-2026): 10489109 (mogelijk AI-beeld, leesbare boekr
 Afgewezen pannenset-rvs (2-11-2026): 3398117 (merkverpakking in beeld), 476346 (merknaam leesbaar op de pan), 750142, 3267634, 1927783 en 5629174 (geen RVS).
 
 Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pan in beeld).
+
+| Bestand | Pixabay-id | Fotograaf | Pagina |
+|---|---|---|---|
+| pan-krom-koekenpan.jpg | 554072 | Silberfuchs | pan-trekt-krom (hoofdfoto) |
+| pan-krom-kokend-water.jpg | 883036 | music4life | pan-trekt-krom |
+| pan-krom-gasvlam.jpg | 5580691 | Maklay62 | pan-trekt-krom |
+| pan-krom-boter.jpg | 5979722 | scratsmacker | pan-trekt-krom |
+
+Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).

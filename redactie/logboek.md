@@ -58,3 +58,14 @@ Per run: datum, onderwerp en slug, gebruikte bronnen (kort), aantal controlerond
 - **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8). Alle bronnen geopend (curl, pdftotext).
 - **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
 - **Beter-punten (niet verwerkt):** (1) goedkope pan: ACM zegt 'minder verwachten', beter '…mag je wel minder verwachten dan van een dure pan'; (2) eigenaarsbron voor Zwilling (Demeyere, Staub, Ballarini) in de brief zetten; (3) 'keramische lagen zijn meestal zonder PFAS' heeft geen eigen bron in de brief (wel in run-02-onderzoek P6), eventueel 'merken van keramische pannen zeggen…'; (4) Dagelijkse Kost: 'veel van die pannen hebben een keramische laag' (er zijn ook kookpannen zonder vermelde coating); (5) 'meest gekozen basis' → 'veelgekozen basis'; (6) 'dikkere bodem' en 'duidelijke informatie' bij duurdere merken zonder bron, opgevangen door 'vaak'; (7) uitsluiting slijtage niet nagekeken voor WMF en de Buyer; (8) 'PTFE' bij de Action-checklist uitleggen als 'PTFE (teflon)'.
+
+## 04-11-2026 – pan-trekt-krom (H1.S07, cloudroutine)
+
+- **Onderwerp:** Waarom trekt een pan krom en hoe voorkom je dat? Slug `pan-trekt-krom`, URL: /blog/pan-trekt-krom/
+- **Bronnen:** zie redactie/briefs/H1.S07-pan-krom.md (Zwilling/Demeyere-onderhoud, -FAQ en -garantie, De Schouw, Radar, Keukenloods, Siemens, id.nl). Geen gezondheidsclaims, dus geen BRON- of OFFICIEEL-regels. Wetenschapsscript (profiel H1, Europe PMC + OpenAlex, sleutel werkte) gaf geen bruikbare publicaties; fabrikantdocumentatie gebruikt, zoals het profiel aanraadt. Clustervragen over olijfolie in een keramische pan en het gezondste materiaal niet behandeld (horen bij gids H4).
+- **Producten:** geen productblok en geen kaart. `npm run producten -- test` werkt; `ververs --alleen-met-foto --schrijf` gaf geen wijzigingen.
+- **Foto's:** Pixabay werkte. 554072 (hoofdfoto), 883036, 5580691, 5979722; afgewezen 3513464, 3857475.
+- **Interne links toegevoegd in:** pannen-langst-mee en pannen-inductie.
+- **Controle:** ronde 1 AFGEKEURD (1 moet: verzonnen gewoonte "de boosterstand gebruik ik alleen voor een pan vol water"; natuurlijkheid 8). Verwerkt, plus beter-punten (bol/hol eenduidig uitgelegd, aanbakzin zonder bron afgezwakt). Ronde 2 GOEDGEKEURD (0 moet; natuurlijkheid 8). Alle bronnen geopend.
+- **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
+- **Beter-punten (niet verwerkt):** (1) losse zin "Wij koken zelf ook op een AEG-inductiekookplaat." voegt weinig toe; schrappen of koppelen aan het advies ("juist daar valt een kromme bodem op"); (2) "70 tot 80 procent …, ook als je wilt bakken" loopt niet; beter "Verwarm de pan voor het bakken op ongeveer 70 tot 80 procent"; (3) garantievoorbeeld met Zwilling-merken eventueel algemener; (4) categorie "Pannen kiezen" bij een onderhoudsvraag; (5) vier lijsten met vette labels, één omzetten naar lopende tekst.
