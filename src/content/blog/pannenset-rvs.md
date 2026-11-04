@@ -92,4 +92,4 @@ RVS-pannen bevatten vaak nikkel. Uit RVS van goede kwaliteit komt waarschijnlijk
 
 ## De koekenpan koop je er los bij
 
-In deze sets zit geen koekenpan. Die koop je apart, en dan kies je meteen zelf of je een antiaanbaklaag wilt. In [welke koekenpan past bij jou](/blog/koekenpan-kiezen/) zet ik de materialen naast elkaar. Twijfel je nog of RVS wel bij je past, begin dan bij [pannenset kiezen](/pannensets/).
+In deze sets zit geen koekenpan. Die koop je apart, en dan kies je meteen zelf of je een antiaanbaklaag wilt. In [welke koekenpan past bij jou](/blog/koekenpan-kiezen/) zet ik de materialen naast elkaar. Twijfel je nog of RVS wel bij je past, begin dan bij [pannenset kiezen](/pannensets/). Wil je liever gietijzer, lees dan eerst [of een gietijzeren pannenset slim is](/blog/pannenset-gietijzer/).

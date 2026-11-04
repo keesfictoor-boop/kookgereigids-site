@@ -76,5 +76,10 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | pan-krom-kokend-water.jpg | 883036 | music4life | pan-trekt-krom |
 | pan-krom-gasvlam.jpg | 5580691 | Maklay62 | pan-trekt-krom |
 | pan-krom-boter.jpg | 5979722 | scratsmacker | pan-trekt-krom |
+| gietijzer-tomaten.jpg | 1476093 | ponce_photography | pannenset-gietijzer (hoofdfoto) |
+| gietijzer-biefstuk.jpg | 3766592 | felix_w | pannenset-gietijzer |
+| gietijzer-oven.jpg | 7624743 | Ray_Shrewsberry | pannenset-gietijzer |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
+
+Afgewezen pannenset-gietijzer (4-11-2026): geen; bekeken en niet gekozen: 2631780, 2730917, 3729044, 4396809, 4895036, 5909430, 6123746, 6784952 (niet passend bij de tekst). Bij 3766592 is niet zeker te zien dat de pan van gietijzer is; alt-tekst daarom 'zwarte pan'.
