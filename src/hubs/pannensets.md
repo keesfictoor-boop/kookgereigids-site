@@ -192,5 +192,7 @@ Is de antiaanbaklaag van een pan beschadigd? Dan is mijn advies: gooi de pan weg
 - Wil je geen PFAS-coating, kies dan ongecoat; wil je een antiaanbaklaag, dan is keramisch meestal zonder PFAS, maar wel minder slijtvast.
 - Een goede set kost grofweg €70 tot €200, maar dezelfde set kan per winkel flink in prijs verschillen. Vergelijken is dus altijd zinvol!
 
+Welke koekenpan je voor welk gerecht gebruikt, lees je in [de beste pan per gerecht](/blog/pan-per-gerecht/).
+
 Wil je nog breder kijken, bijvoorbeeld naar koekenpannen of naar waar je in het algemeen op let bij pannen kopen? Lees dan [waar je op let bij pannen kopen](/koopadvies/) of probeer de [keuzehulp](/keuzehulp/).
 

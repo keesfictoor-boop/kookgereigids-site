@@ -106,7 +106,7 @@ Bij een koekenpan zit niet altijd een deksel. Handig is het wel, bijvoorbeeld al
 - **Je schroeit graag vlees dicht en vindt onderhoud geen probleem:** plaatstaal. Lichter dan gietijzer, maar wel inbranden en droog houden.
 - **Je wilt een pan die ook de oven in kan en je vindt gewicht geen bezwaar:** gietijzer.
 
-Je kunt ook twee koekenpannen nemen: een antiaanbakpan voor eieren en pannenkoeken, en een pan zonder coating voor vlees en groenten. Dat hoeft niet meteen. Begin met de pan die past bij wat je het vaakst bakt.
+Je kunt ook twee koekenpannen nemen: een antiaanbakpan voor eieren en pannenkoeken, en een pan zonder coating voor vlees en groenten. Dat hoeft niet meteen. Begin met de pan die past bij wat je het vaakst bakt. Welke pan je per gerecht pakt, lees je in [de beste pan voor eieren, vis, vlees of pannenkoeken](/blog/pan-per-gerecht/).
 
 ## Checklist voor je koopt
 

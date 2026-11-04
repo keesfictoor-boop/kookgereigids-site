@@ -80,3 +80,15 @@ Per run: datum, onderwerp en slug, gebruikte bronnen (kort), aantal controlerond
 - **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8). Alle bronnen en ean's geopend.
 - **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
 - **Beter-punten (niet verwerkt):** (1) 'koelt nauwelijks af … mooie korst' is een afleiding, voorzichtiger 'koelt minder snel af'; (2) tabel zuur, emaille: 'geen inbrandlaag die kan slijten' klopt niet helemaal (mat emaille van Staub krijgt wel een laag), beter 'Zuur is geen probleem voor het emaille'; (3) 'Gietijzer buigt niet, het breekt' iets stelliger dan Lodge ('breekt eerder dan het buigt'); (4) BK-rij: 'Een braadpan en cocottes van 10 cm' om misverstand over de maat te voorkomen; (5) prijsbandbreedte 50 tot ruim 300 euro kan verschuiven; (6) Hage-kaart liever na de alinea over gebarsten emaille.
+
+## 04-11-2026 – pan-per-gerecht (H1.S09, cloudroutine 13:00)
+
+- **Onderwerp:** Welke pan is het beste voor eieren, vis, vlees of pannenkoeken? Slug `pan-per-gerecht`, URL: /blog/pan-per-gerecht/. Niet 'afgedekt' door koekenpan-kiezen: die vergelijkt materialen, dit artikel gaat per gerecht (warmte, vet, omdraaien, fouten).
+- **Bronnen:** zie redactie/briefs/H1.S09-pan-per-gerecht.md (Zwilling/Demeyere: RVS of antikleef, wat bak je in RVS, bakken in RVS, bakken in keramiek, pannenkoekenpannen, pannenkoeken; de Buyer Mineral B (pdf); VRT; Radar; Voedingscentrum roerbakken, oliën en PFAS; Rijksoverheid; BfR). Gezondheidsbeweringen alleen via vaste formuleringen uit officiele-bronnen.json (opnieuw geopend, geen afwijkingen), dus geen nieuwe OFFICIEEL- of BRON-regels. Wetenschapsscript: profiel H1 gedraaid en één zoekopdracht (Europe PMC + OpenAlex, sleutel werkte); geen publicatie nodig.
+- **Producten:** geen productblok; twee kaarten met bestaande producten (bk-universe-koekenpan-24, tefal-virtuoso-koekenpan-24). `npm run producten -- test` werkt; `ververs --alleen-met-foto --schrijf` gaf geen wijzigingen.
+- **Foto's:** Pixabay werkte. 9310290 (hoofdfoto), 6233959, 3873890, 8031139; afgewezen 5883820.
+- **Interne links toegevoegd in:** koekenpan-kiezen en /pannensets/.
+- **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8). Alle 14 bronnen en beide ean's geopend.
+- **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
+- **Beter-punten (niet verwerkt):** (1) 'Wordt zo'n pan te heet … PFAS' geldt voor PTFE (teflon), niet voor keramisch; beter 'een pan met een PTFE-laag (teflon)'; (2) Tefal Virtuoso-kaart bij vlees: fabrikant zegt laag tot middelhoog vuur, terwijl tabel 'hoog tot middelhoog' zegt; voorzichtiger formuleren; (3) vis-tips 'in elk soort pan' komen uit RVS-bronnen (twee minuten is ruim voor een dunne filet in antiaanbak); (4) 'RVS is het makkelijkst in onderhoud' zonder eigen bron, eventueel 'hoeft niet ingebrand te worden'; (5) 'houdt de warmte beter vast' → 'geeft de warmte gelijkmatiger af' (dichter bij de bron); weekendzinnetje leest wat ingevoegd.
+
