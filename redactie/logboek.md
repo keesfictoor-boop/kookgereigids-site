@@ -126,3 +126,7 @@ Per run: datum, onderwerp en slug, gebruikte bronnen (kort), aantal controlerond
 - **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8). Alle bronnen en ean's geopend.
 - **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
 - **Beter-punten (niet verwerkt):** (1) 'RVS geeft warmte niet zo goed door': bron zegt 'reageert traag op temperatuurveranderingen'; (2) 'vooral bij sauzen' staat niet in de bron (alleen eten aan de rand); (3) 'zonnebloemolie' in de brief zetten; (4) prijsbandbreedte plus 'de Tefal is de voordeligste' geeft indirect een prijs bij één product; beter algemene bandbreedte of 'voordeligste' weg; (5) bij het sausadvies vermelden dat geen van de vijf pannen volgens de productinfo lagen tot in de wand heeft; (6) zin over inductie in de eerste alinea staat wat los; (7) Tefal-kaart en uienfoto direct onder elkaar; (8) foto's in de tekst tonen antiaanbakpannen in een RVS-artikel; later vervangen door RVS-foto's.
+
+## 07-11-2026 – besluit H3.S01
+
+- **Besluit eigenaar:** H3.S01 'Wat is de beste koekenpan volgens de Consumentenbond?' wordt niet geschreven (status 'overgeslagen' in planning.md). Reden: testuitslagen staan achter de betaalmuur en tone-of-voice verbiedt instanties in de tekst. De routine neemt deze regel niet meer; de volgende open regel is H3.S04 (koekenpan voor inductie).
