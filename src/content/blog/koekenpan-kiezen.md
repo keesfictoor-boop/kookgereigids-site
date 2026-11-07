@@ -56,7 +56,7 @@ Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet
 
 RVS is een fijne keuze om in te bakken, vooral voor vlees en gevogelte, en ook voor groenten en vette vis zoals zalm. Zo'n pan mag meestal in de vaatwasser en gaat bij normaal gebruik heel lang mee. Er zit geen coating op die kan slijten, dus ook geen PFAS-laag.
 
-Zonder coating vraagt bakken wel wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel.
+Zonder coating vraagt bakken wel wat meer aandacht dan in een antiaanbakpan. Een gebakken ei vraagt in RVS wat oefening, en een spatel met geduld. Let ook op de bodem. Een bodem van meerdere lagen verdeelt de warmte gelijkmatiger en vervormt minder snel. Hoe je een RVS-koekenpan kiest en erin bakt zonder dat het plakt, lees je in [RVS-koekenpan kiezen](/blog/koekenpan-rvs/).
 
 ## Plaatstaal (carbonstaal)
 

@@ -82,6 +82,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | hoog-vuur-worst.jpg | 1303315 | zoli2003 | pannen-hoge-temperatuur (hoofdfoto) |
 | gehaktballen-pan.jpg | 602841 | moerschy | pannen-hoge-temperatuur |
 | oven-bakvorm.jpg | 3010450 | xeno4ka | pannen-hoge-temperatuur |
+| vlees-korst-pan.jpg | 5003273 | planet_fox | koekenpan-rvs (hoofdfoto) |
+| pan-omscheppen-gas.jpg | 9450869 | MichelRigottiPhotographer | koekenpan-rvs |
+| uien-fruiten-pan.jpg | 2424515 | agamaszota | koekenpan-rvs |
 | gerecht-eieren-pan.jpg | 9310290 | jhenning | pan-per-gerecht (hoofdfoto) |
 | gerecht-zalm-pan.jpg | 6233959 | congerdesign | pan-per-gerecht |
 | gerecht-vlees-pan.jpg | 3873890 | felix_w | pan-per-gerecht |
@@ -99,3 +102,5 @@ Afgewezen pan-per-gerecht (4-11-2026): 5883820 (vis in een frituurbak op een mar
 Afgewezen pannen-hoge-temperatuur (4-11-2026): geen; bekeken en niet gekozen: 1239328, 1726677, 1728504, 5240007 (speelgoed of geen keuken), 1827747, 1994807, 2399627, 3736239, 4072916, 4717175, 4864995, 5345954, 6675198, 9418029. Op 1303315 is alleen een hand te zien.
 
 Afgewezen pannen-duurzaam (4-11-2026): 7080761 (leesbare tekst op een keukenspatel), 663714 (merknaam op de steel), 6398053 (logo op de pan, etiket op een verpakking), 3083125 (merknaam op een blender). 3597348 al eerder gebruikt.
+
+Afgewezen koekenpan-rvs (7-11-2026): 4644950 (leesbaar logo op schort), 1271991 (kleine leesbare tekst op plank en kookplaat). Geen bruikbare Pixabay-foto van een RVS-koekenpan gevonden; de gekozen foto's tonen pannen met coating of een onbekende pan en zijn sfeerbeeld, alt-teksten noemen geen RVS.
