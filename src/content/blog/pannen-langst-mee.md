@@ -59,7 +59,7 @@ Keramische pannen hebben een harde, glasachtige laag in plaats van PTFE. Die laa
 - **De vaatwasser is slecht voor de laag.** Na een aantal vaatwasserbeurten kan het loslaten flink achteruitgaan. Was een keramische pan daarom liever met de hand.
 - **De laag is bros.** Een harde stoot of een pan die valt, kan barstjes in de laag geven.
 
-Een keramische pan is een prima tweede pan voor eieren en pannenkoeken. Wil je een pan die jaren meegaat, dan is een pan zonder coating de betere keuze. Meer over de verschillen lees je in [welke koekenpan bij je past](/blog/koekenpan-kiezen/).
+Een keramische pan is een prima tweede pan voor eieren en pannenkoeken. Hoe je er een kiest en de laag zo lang mogelijk goed houdt, lees je in [keramische koekenpan kiezen](/blog/koekenpan-keramisch/). Wil je een pan die jaren meegaat, dan is een pan zonder coating de betere keuze. Meer over de verschillen lees je in [welke koekenpan bij je past](/blog/koekenpan-kiezen/).
 
 ## Wanneer moet je een pan vervangen?
 

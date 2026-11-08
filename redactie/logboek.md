@@ -130,3 +130,15 @@ Per run: datum, onderwerp en slug, gebruikte bronnen (kort), aantal controlerond
 ## 07-11-2026 – besluit H3.S01
 
 - **Besluit eigenaar:** H3.S01 'Wat is de beste koekenpan volgens de Consumentenbond?' wordt niet geschreven (status 'overgeslagen' in planning.md). Reden: testuitslagen staan achter de betaalmuur en tone-of-voice verbiedt instanties in de tekst. De routine neemt deze regel niet meer; de volgende open regel is H3.S04 (koekenpan voor inductie).
+
+## 08-11-2026 – koekenpan-keramisch (H3.S07, lokale sessie op verzoek eigenaar)
+
+- **Onderwerp:** keramische koekenpan kiezen. Slug `koekenpan-keramisch`, URL: /blog/koekenpan-keramisch/. Bewust H3.S07 genomen zodat de routine van 11-11 H3.S04 t/m S06 kan doen.
+- **Bronnen:** zie redactie/briefs/H3.S07-koekenpan-keramisch.md (Demeyere 'bakken in een keramische koekenpan', GreenPan-onderhoudsblog, openbaar deel Consumentenbond als achtergrond, run-02-onderzoek P6). PFAS en weggooien via vaste formuleringen voedingscentrum_pfas en rijksoverheid_antiaanbakpan. Geen nieuwe OFFICIEEL-regels.
+- BRON: doi=10.1007/s11998-022-00611-3 | artikel=koekenpan-keramisch | toegang=volledige_tekst | claim=Een keramische (sol-gel) antiaanbaklaag laat minder goed los dan PTFE en verliest na slijtage en vaatwasserbeurten sneller zijn antiaanbakwerking.
+- **Producten:** productblok met tefal-cookchange-koekenpan-28, bk-universe-koekenpan-24 (bestaand), greenpan-venicepro-koekenpan-28, demeyere-ceraforce-koekenpan-28, hdb-hybride-koekenpan-28 (nieuw, alle met foto en aanbod). Kaarten: bk-universe-koekenpan-24 en demeyere-ceraforce-koekenpan-28. Verbinding bol getest: werkt.
+- **Foto's:** 947434 (hoofdfoto), 3819386, 7663954; zie fotobronnen.md.
+- **Interne links toegevoegd in:** koekenpan-kiezen en pannen-langst-mee.
+- **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8,5). Alle bronnen en ean's geopend.
+- **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
+- **Beter-punten (niet verwerkt):** (1) 'Dat staat niet altijd op het etiket': bron zegt 'staat niet op het etiket'; (2) 'gladde, harde laag': liever 'gladde laag' (laag is in labtest juist brosser); (3) Demeyere Ceraforce ovenbestendig tot 230 °C staat op de productpagina van Zwilling, niet in de bol-info; in de brief zetten; (4) 'bij veel keramische pannen rond 160 °C' berust alleen op BK; beter 'bij sommige pannen met kunststof greep'; (5) bodemdikte '3,5 tot 5 mm' en 'dikste bodem' kloppen niet voor alle vijf (Tefal onbekend, Herman den Blijker 2,8 mm constructie); (6) 'Was de pan voor het eerste gebruik af' en 'op inductie ongelijk warm' zonder eigen bron; (7) hybride: 'patroon van staal' niet in de bron, beter 'honingraatpatroon'; (8) slot kan explicieter naar de tabel verwijzen; (9) vettest: bron zegt verticaal houden met koud water.

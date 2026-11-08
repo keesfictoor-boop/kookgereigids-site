@@ -48,7 +48,7 @@ Een keramische laag is een alternatief als je wel een antiaanbakpan wilt, maar z
 
 De kwaliteit van de laag verschilt sterk per pan, en de bodem kan op den duur vervormen. Ook goed opbergen maakt veel uit. Mijn tip: leg een doekje of pannenbeschermer tussen gestapelde pannen.
 
-Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet elke productpagina zegt daar iets over.
+Kijk bij een keramische pan wel wat de fabrikant precies belooft over PFAS. Niet elke productpagina zegt daar iets over. Waar je verder op let, lees je in [keramische koekenpan kiezen](/blog/koekenpan-keramisch/).
 
 [[product:bk-universe-koekenpan-24]]
 

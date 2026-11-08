@@ -85,6 +85,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | vlees-korst-pan.jpg | 5003273 | planet_fox | koekenpan-rvs (hoofdfoto) |
 | pan-omscheppen-gas.jpg | 9450869 | MichelRigottiPhotographer | koekenpan-rvs |
 | uien-fruiten-pan.jpg | 2424515 | agamaszota | koekenpan-rvs |
+| keramische-koekenpan-omelet.jpg | 947434 | cegoh | koekenpan-keramisch (hoofdfoto) |
+| keramisch-omelet-champignons.jpg | 3819386 | ivabalk | koekenpan-keramisch |
+| keramisch-gebakken-ei.jpg | 7663954 | Ray_Shrewsberry | koekenpan-keramisch |
 | gerecht-eieren-pan.jpg | 9310290 | jhenning | pan-per-gerecht (hoofdfoto) |
 | gerecht-zalm-pan.jpg | 6233959 | congerdesign | pan-per-gerecht |
 | gerecht-vlees-pan.jpg | 3873890 | felix_w | pan-per-gerecht |
@@ -104,3 +107,5 @@ Afgewezen pannen-hoge-temperatuur (4-11-2026): geen; bekeken en niet gekozen: 12
 Afgewezen pannen-duurzaam (4-11-2026): 7080761 (leesbare tekst op een keukenspatel), 663714 (merknaam op de steel), 6398053 (logo op de pan, etiket op een verpakking), 3083125 (merknaam op een blender). 3597348 al eerder gebruikt.
 
 Afgewezen koekenpan-rvs (7-11-2026): 4644950 (leesbaar logo op schort), 1271991 (kleine leesbare tekst op plank en kookplaat). Geen bruikbare Pixabay-foto van een RVS-koekenpan gevonden; de gekozen foto's tonen pannen met coating of een onbekende pan en zijn sfeerbeeld, alt-teksten noemen geen RVS.
+
+Afgewezen koekenpan-keramisch (8-11-2026): geen; bekeken en niet gekozen: 49585, 806081, 932189, 2088553 (uitgeknipt), 8027678, 4813261 en 3238173 (al gebruikt), 1838785, 610002, 1512834 (herkenbaar persoon). Op geen enkele foto is te zien dat de laag keramisch is; alt-teksten noemen daarom geen keramiek.
