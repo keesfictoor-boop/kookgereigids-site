@@ -104,6 +104,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | gietijzer-koekenpan-spek.jpg | 2592913 | StockSnap | koekenpan-gietijzer (hoofdfoto) |
 | gietijzer-koekenpan-biefstuk.jpg | 2568056 | Blendbloke | koekenpan-gietijzer |
 | gietijzer-koekenpan-zoete-aardappel.jpg | 8295778 | Mondgesicht | koekenpan-gietijzer |
+| koekenpan-klein-groot-shakshuka.jpg | 2955466 | DanielaElenaTentis | koekenpan-klein-groot (hoofdfoto) |
+| koekenpan-klein-groot-beslag.jpg | 933208 | tookapic | koekenpan-klein-groot |
+| koekenpan-klein-groot-twee-grepen.jpg | 4142573 | Tjena | koekenpan-klein-groot |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
 
@@ -124,3 +127,5 @@ Afgewezen koekenpan-inductie (11-11-2026): 7508926 (merknaam leesbaar op de kook
 Afgewezen koekenpan-maat (11-11-2026): geen; bekeken en niet gekozen: 1878024 en 840113 (losse liniaal zonder pan), 2805959 (ovale pan), 2470605, 2470600, 2777322, 2470225. Geen foto van een pan met meetlint of liniaal gevonden. 2478410 toont een stralingszone, geen inductie; alt-tekst noemt geen inductie.
 
 Afgewezen koekenpan-gietijzer (11-11-2026): 1882887 (merklogo op de steel), 3125697 (pan met antiaanbaklaag, tekst op eierschaal), 4644940 (leesbaar logo op schort, persoon), 721076 (witte keramische pan), 5909434 en 1835631 (geen gietijzer: stalen pan en pan met coating). Op de gekozen foto's is niet zeker te zien dat de pan van gietijzer is; alt-teksten zeggen 'zwarte pan'.
+
+Afgewezen koekenpan-klein-groot (11-11-2026): 1583152 (ingeslagen merkteken midden op de pan, persoon op de achtergrond), 1706421 (eieren op een bakplaat, geen pan), 3604676 en 1798444 (geen keuken). Op de gekozen foto's is de maat van de pan niet te zien; alt-teksten noemen geen maat.

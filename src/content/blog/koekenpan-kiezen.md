@@ -87,7 +87,7 @@ De maat van een koekenpan gaat meestal over de bovenrand. Het bakoppervlak onder
 | 28 cm | 5, of 4 grote eters |
 | 32 cm | 6, of 5 grote eters |
 
-Je bakt het best in een pan die vrij vol ligt. Groter is dus niet automatisch beter. Hoe je de maat van je eigen pan meet, lees je in [koekenpan maat meten](/blog/koekenpan-maat/).
+Je bakt het best in een pan die vrij vol ligt. Groter is dus niet automatisch beter; wanneer een kleine of juist een grote pan handig is, lees je in [kleine of grote koekenpan](/blog/koekenpan-klein-groot/). Hoe je de maat van je eigen pan meet, lees je in [koekenpan maat meten](/blog/koekenpan-maat/).
 
 Kijk daarnaast naar de bodemdiameter, zeker op inductie. De bodem is kleiner dan de bovenrand, en de fabrikant noemt hem vaak apart in de productgegevens. Die bodem moet passen bij de kookzone waar je de pan op zet. Meer daarover lees je in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/).
 

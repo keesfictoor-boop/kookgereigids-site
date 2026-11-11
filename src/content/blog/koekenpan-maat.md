@@ -61,7 +61,7 @@ Een deksel van 28 cm is gemaakt voor een pan van 28 cm. Meet dus eerst de bovenr
 
 ## Hoeveel personen passen er in een koekenpan van 24 cm?
 
-Ongeveer drie personen, of twee grote eters. Een pan van 28 cm is voor vier à vijf personen. Je bakt het best in een pan waarin het eten de bodem grotendeels bedekt, zonder dat de stukken elkaar raken. Is de pan te vol, dan kan het vocht niet weg en ga je eerder stoven dan bakken. Ligt er veel lege bodem, dan wordt het vet daar te heet. Spinazie en champignons slinken flink; daarvoor mag je een maat groter nemen. Een overzicht van maten per huishouden staat in [welke koekenpan past bij jou](/blog/koekenpan-kiezen/).
+Ongeveer drie personen, of twee grote eters. Een pan van 28 cm is voor vier à vijf personen. Je bakt het best in een pan waarin het eten de bodem grotendeels bedekt, zonder dat de stukken elkaar raken. Is de pan te vol, dan kan het vocht niet weg en ga je eerder stoven dan bakken. Ligt er veel lege bodem, dan wordt het vet daar te heet. Spinazie en champignons slinken flink; daarvoor mag je een maat groter nemen. Een overzicht van maten per huishouden staat in [welke koekenpan past bij jou](/blog/koekenpan-kiezen/), en wanneer je beter een kleine of een grote pan neemt in [kleine of grote koekenpan](/blog/koekenpan-klein-groot/).
 
 ### En een braadpan van 24 cm?
 
