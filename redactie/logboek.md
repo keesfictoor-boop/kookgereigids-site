@@ -168,3 +168,7 @@ Per run: datum, onderwerp en slug, gebruikte bronnen (kort), aantal controlerond
 - **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8,5). Alle bronnen geopend.
 - **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
 - **Beter-punten (niet verwerkt):** (1) 'Is de zone veel kleiner, dan wordt vooral het midden heet' staat niet in de bronnen van deze brief (wel in de brief van koekenpan-rvs); (2) 'Hetzelfde geldt voor kookpannen' is een eigen uitbreiding; (3) deksel-advies zonder bron (volgt uit meetverschillen per merk); (4) 'Veel makers zetten de bodemmaat apart' alleen bij Zwilling/Demeyere gezien, beter 'soms'; (5) intro 'bij 28 cm vaak 22 à 23 cm' steunt op twee pannen van één merk, beter 'bijvoorbeeld'; (6) 'ik kijk bij een pan altijd naar twee maten' en 'twee pannen die ik heb opgezocht' neutraler formuleren; (7) kop over braadpan 24 cm geeft niet direct het aantal personen; (8) intro en eerste sectie overlappen licht.
+
+## 11-11-2026 – besluit H3.S09
+
+- **Besluit eigenaar:** H3.S09 'Wanneer moet je een koekenpan vervangen?' op 'afgedekt door /blog/pannen-langst-mee/' gezet. Reden: die pagina heeft al de sectie 'Wanneer moet je een pan vervangen?'; restafval staat in pannen-duurzaam en vervangen van keramisch in koekenpan-keramisch. Een aparte pagina zou vooral herhalen.
