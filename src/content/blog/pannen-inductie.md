@@ -40,7 +40,7 @@ Veel mensen denken dat RVS altijd werkt, omdat het metaal is. Maar RVS is van zi
 
 [[product:bk-profiline-5]]
 
-Kies het liefst een pan met een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm.
+Kies het liefst een pan met een volledig magnetische bodem. Is de bodem maar deels magnetisch, dan wordt alleen dat deel warm. Zoek je een nieuwe koekenpan, lees dan [waar je op let bij een koekenpan voor inductie](/blog/koekenpan-inductie/).
 
 ## Zo test je je eigen pannen
 

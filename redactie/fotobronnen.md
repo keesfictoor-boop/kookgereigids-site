@@ -95,6 +95,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | duurzaam-gietijzer.jpg | 2202193 | WikimediaImages | pannen-duurzaam (hoofdfoto) |
 | duurzaam-oud-ijzer.jpg | 1508237 | Alexas_Fotos | pannen-duurzaam |
 | duurzaam-pan-deksel.jpg | 5174083 | scratsmacker | pannen-duurzaam |
+| boter-smelt-koekenpan.jpg | 5003297 | planet_fox | koekenpan-inductie |
+| ei-gietijzeren-pannetje.jpg | 6011611 | romjanaly | koekenpan-inductie |
+| ui-glazen-kookplaat.jpg | 2470600 | congerdesign | koekenpan-inductie |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
 
@@ -109,3 +112,5 @@ Afgewezen pannen-duurzaam (4-11-2026): 7080761 (leesbare tekst op een keukenspat
 Afgewezen koekenpan-rvs (7-11-2026): 4644950 (leesbaar logo op schort), 1271991 (kleine leesbare tekst op plank en kookplaat). Geen bruikbare Pixabay-foto van een RVS-koekenpan gevonden; de gekozen foto's tonen pannen met coating of een onbekende pan en zijn sfeerbeeld, alt-teksten noemen geen RVS.
 
 Afgewezen koekenpan-keramisch (8-11-2026): geen; bekeken en niet gekozen: 49585, 806081, 932189, 2088553 (uitgeknipt), 8027678, 4813261 en 3238173 (al gebruikt), 1838785, 610002, 1512834 (herkenbaar persoon). Op geen enkele foto is te zien dat de laag keramisch is; alt-teksten noemen daarom geen keramiek.
+
+Afgewezen koekenpan-inductie (11-11-2026): 7508926 (merknaam leesbaar op de kookplaat). Bekeken en niet gekozen: 5003890, 2470605, 3357374 (niet passend). Op geen foto is te zien dat het om inductie gaat; de alt-teksten noemen dat daarom niet.

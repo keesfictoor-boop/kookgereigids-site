@@ -29,7 +29,7 @@
       "kort": "Vijf RVS-pannen met sandwichbodem, zonder coating.",
       "winkel": "bol",
       "url": "https://www.bol.com/nl/nl/p/bk-profiline-pannenset-5-delig-rvs-nductie/9200000002757685/",
-      "afbeelding": "https://media.s-bol.com/3LWNlJ6Z6Oq9/LZzOWWv/550x552.jpg",
+      "afbeelding": null,
       "ean": "8710704151565"
     },
     "bk-qlinair-5": {
@@ -172,7 +172,7 @@
       "kort": "Gietijzeren braadpan en cocottes van 10 cm, van binnen wit geëmailleerd; in de oven tot 230 °C.",
       "winkel": "bol",
       "url": "https://www.bol.com/nl/nl/p/bourgogne-4pc-set-met-spatel-set/9300000398232285/",
-      "afbeelding": "https://media.s-bol.com/qzLRArylo4Nk/oZyxE0j/550x470.jpg",
+      "afbeelding": "https://media.s-bol.com/B3D38gLG65BN/nRAvvlY/550x369.jpg",
       "ean": "4894871123236"
     },
     "vevor-gietijzer-4": {
@@ -246,6 +246,22 @@
       "url": "https://www.bol.com/nl/nl/p/herman-den-blijker-hybride-koekenpan-o-28-cm-100-pfas-vrij-krasvrije-keramische-antiaanbaklaag-geschikt-voor-inductie-oven-en-alle-andere-warmtebronnen-vaatwasserbestendig/9300000267785782/",
       "afbeelding": "https://media.s-bol.com/Owx0lpw9kQKB/Yvp3kBY/550x321.jpg",
       "ean": "5740007835261"
+    },
+    "tefal-unlimited-koekenpan-26": {
+      "naam": "Tefal Unlimited koekenpan 26 cm",
+      "kort": "Aluminium met een antiaanbaklaag die tegen metalen keukengerei kan; inductie, oven tot 175 °C.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/tefal-unlimited-koekenpan-o-26-cm/9300000035382043/",
+      "afbeelding": "https://media.s-bol.com/YQwXOwJ9VVA9/YEqy0BO/550x279.jpg",
+      "ean": "3168430311817"
+    },
+    "lodge-logic-koekenpan-26": {
+      "naam": "Lodge Logic koekenpan 26 cm",
+      "kort": "Kaal gietijzer uit één stuk; inductie en oven.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/lodge-logic-koekenpan-o-26cm-gietijzer/9200000049766154/",
+      "afbeelding": "https://media.s-bol.com/6Ry3PPQZEjyl/550x248.jpg",
+      "ean": "0075536300801"
     }
   }
 }

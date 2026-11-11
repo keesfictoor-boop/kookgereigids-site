@@ -93,7 +93,7 @@ Kijk daarnaast naar de bodemdiameter, zeker op inductie. De bodem is kleiner dan
 
 ## Koken op inductie
 
-Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetisch en helemaal vlak is. Gietijzer en plaatstaal werken in de regel op inductie (meer in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/)). Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt? In dat artikel over inductie lees je hoe je de magneettest doet.
+Wij koken thuis op een AEG-inductiekookplaat, dus deze vraag speelt bij ons ook. Een pan werkt op inductie als de bodem magnetisch en helemaal vlak is. Gietijzer en plaatstaal werken in de regel op inductie (meer in [welke pannen zijn geschikt voor inductie](/blog/pannen-inductie/)). Bij RVS en bij aluminium pannen met een coating hangt het af van de bodem: kijk of het inductiesymbool erop staat of dat de fabrikant inductie noemt. Twijfel je bij een pan die je al hebt? In dat artikel over inductie lees je hoe je de magneettest doet. Waar je bij een nieuwe pan op let, lees je in [koekenpan voor inductie](/blog/koekenpan-inductie/).
 
 ## Met of zonder deksel?
 
