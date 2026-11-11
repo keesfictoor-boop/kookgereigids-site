@@ -156,7 +156,7 @@
       "kort": "Kaal gietijzer, al voorbehandeld met olie: een pan van 4,7 liter met deksel, twee koekenpannen en een pannenkoekenpan.",
       "winkel": "bol",
       "url": "https://www.bol.com/nl/nl/p/lodge-gietijzeren-pannenset-5-delen-koken-bakken/9300000179074052/",
-      "afbeelding": "https://media.s-bol.com/2KD1W9grqzxK/ywXQ0R6/550x550.jpg",
+      "afbeelding": null,
       "ean": "0075536383507"
     },
     "hage-gietijzer-3": {
@@ -262,6 +262,38 @@
       "url": "https://www.bol.com/nl/nl/p/lodge-logic-koekenpan-o-26cm-gietijzer/9200000049766154/",
       "afbeelding": "https://media.s-bol.com/6Ry3PPQZEjyl/550x248.jpg",
       "ean": "0075536300801"
+    },
+    "skottsberg-koekenpan-28": {
+      "naam": "Skottsberg gietijzeren koekenpan 28 cm",
+      "kort": "Kale gietijzeren koekenpan, al ingebrand, met een holle RVS-steel; oven tot 250 °C.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/skottsberg-koekenpan-cast-iron-28-cm-gietijzer-pfas-vrij/9300000000270615/",
+      "afbeelding": "https://media.s-bol.com/g490Rm134jwl/Z4wV915/550x239.jpg",
+      "ean": "8717522225881"
+    },
+    "petromax-skillet-25": {
+      "naam": "Petromax skillet 25 cm",
+      "kort": "Kale gietijzeren pan met twee handgrepen, al ingebrand; weegt ongeveer 2,3 kilo.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/petromax-fp25h-t-skillet-25-cm-pan-met-handgrepen-gietijzer-zwart/9200000069193916/",
+      "afbeelding": "https://media.s-bol.com/7qQYlx7pKrL8/o2JKn3B/550x380.jpg",
+      "ean": "4250435730577"
+    },
+    "kinghoff-gietijzer-koekenpan-26": {
+      "naam": "Kinghoff geëmailleerde gietijzeren koekenpan 26 cm",
+      "kort": "Geëmailleerde gietijzeren koekenpan met twee schenktuitjes; met de hand wassen.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/kinghoff-1519-gietijzeren-koekenpan-o26-cm-geemailleerd/9300000083970383/",
+      "afbeelding": "https://media.s-bol.com/m86EMxZoL6Vp/E8z0wqk/550x213.jpg",
+      "ean": "5908287215191"
+    },
+    "combekk-gietijzer-koekenpan-28": {
+      "naam": "Combekk Sous-Chef gietijzeren koekenpan 28 cm",
+      "kort": "Geëmailleerde koekenpan van gerecycled gietijzer met twee grepen; mag na afkoelen in de vaatwasser.",
+      "winkel": "bol",
+      "url": "https://www.bol.com/nl/nl/p/combekk-sous-chef-koekenpan-28cm-2-grepen-oranje/9300000043289504/",
+      "afbeelding": "https://media.s-bol.com/R8PqB6gqR6Q0/WnrG5mo/550x252.jpg",
+      "ean": "8720254579009"
     }
   }
 }

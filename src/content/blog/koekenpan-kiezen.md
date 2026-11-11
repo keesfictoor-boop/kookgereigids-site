@@ -74,7 +74,7 @@ Hoe inbranden precies gaat, lees je in [wok inbranden](/blog/wok-inbranden/). Vo
 
 Gietijzer is zwaar en houdt warmte lang vast. Sommige gietijzeren pannen worden al ingebrand verkocht. Die laag is olie die op het ijzer is gebakken, en hij wordt beter naarmate je de pan meer gebruikt. Wacht met zure gerechten liever tot de laag goed is opgebouwd.
 
-Reken op gewicht: een grote gietijzeren pan weegt al snel een paar kilo. Daarmee schud je niet even een pan groenten om. Gietijzeren pannen mogen vaak de oven in; handig als je iets eerst aanbakt en daarna in de oven laat garen.
+Reken op gewicht: een grote gietijzeren pan weegt al snel een paar kilo. Daarmee schud je niet even een pan groenten om. Gietijzeren pannen mogen vaak de oven in; handig als je iets eerst aanbakt en daarna in de oven laat garen. Kaal of geëmailleerd, en waar je verder op let, lees je in [gietijzeren koekenpan kiezen](/blog/koekenpan-gietijzer/).
 
 ## Welke maat koekenpan heb je nodig?
 

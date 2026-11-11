@@ -32,7 +32,7 @@ Er zijn ook nadelen:
 - **Het is traag.** Een gietijzeren pan heeft tijd nodig om heet te worden en blijft daarna lang warm. Zet je het vuur lager, dan reageert de pan pas na een tijdje.
 - **Het vraagt aandacht.** Kaal gietijzer moet je na de afwas drogen en invetten. Emaille moet je rustig opwarmen.
 
-Voor pasta, aardappelen of een pan soep heb je weinig aan die zware bodem. Je wilt dan juist een lichte pan die je makkelijk afgiet. Mijn advies: gebruik gietijzer voor de klussen waar het goed in is, zoals aanbraden, stoven en bakken in de oven. Kook de rest in RVS. Twijfel je tussen een set of losse pannen, lees dan [wanneer een set voordeliger is](/blog/set-of-los/). Zoek je een set voor elke dag, kijk dan bij de [RVS-pannensets](/blog/pannenset-rvs/).
+Voor pasta, aardappelen of een pan soep heb je weinig aan die zware bodem. Je wilt dan juist een lichte pan die je makkelijk afgiet. Mijn advies: gebruik gietijzer voor de klussen waar het goed in is, zoals aanbraden, stoven en bakken in de oven. Kook de rest in RVS. Twijfel je tussen een set of losse pannen, lees dan [wanneer een set voordeliger is](/blog/set-of-los/). Zoek je een set voor elke dag, kijk dan bij de [RVS-pannensets](/blog/pannenset-rvs/). Wil je eerst één pan proberen, lees dan [gietijzeren koekenpan kiezen](/blog/koekenpan-gietijzer/).
 
 ## Kaal of geëmailleerd gietijzer: wat is het verschil?
 
