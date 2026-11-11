@@ -172,3 +172,17 @@ Per run: datum, onderwerp en slug, gebruikte bronnen (kort), aantal controlerond
 ## 11-11-2026 – besluit H3.S09
 
 - **Besluit eigenaar:** H3.S09 'Wanneer moet je een koekenpan vervangen?' op 'afgedekt door /blog/pannen-langst-mee/' gezet. Reden: die pagina heeft al de sectie 'Wanneer moet je een pan vervangen?'; restafval staat in pannen-duurzaam en vervangen van keramisch in koekenpan-keramisch. Een aparte pagina zou vooral herhalen.
+
+## 11-11-2026 – koekenpan-gietijzer (H3.S05, routine woensdag 13:00)
+
+- **Onderwerp:** gietijzeren koekenpan kiezen. Slug `koekenpan-gietijzer`, URL: /blog/koekenpan-gietijzer/. Niet afgedekt door /blog/pannenset-gietijzer/ (die gaat over sets) of /blog/koekenpan-kiezen/ (één korte alinea over gietijzer).
+- **Bronnen:** zie redactie/briefs/H3.S05-koekenpan-gietijzer.md (Lodge vijf pagina's, Zwilling cookware-FAQ, Zwilling Staub-onderhoud en koekenpan kiezen, Radar emaille, Cookinglife maat, Voedingscentrum roerbakken en oliën via de vaste formuleringen, bol-productinfo). Geen nieuwe officiële bronnen, dus geen OFFICIEEL-regels.
+- **Wetenschap:** profiel H3 bekeken; gezocht met het script (Europe PMC en OpenAlex, sleutel werkte) op 'cooking oil polymerization seasoning cast iron': niets bruikbaars, geen publicatie gebruikt, dus geen BRON-regels. Geen gezondheidsclaims in het artikel.
+- **Producten:** verbinding bol getest: werkt. Productblok met lodge-logic-koekenpan-26 (bestaand), skottsberg-koekenpan-28, petromax-skillet-25, kinghoff-gietijzer-koekenpan-26, combekk-gietijzer-koekenpan-28 (nieuw), alle met foto en aanbod. Kaarten: skottsberg-koekenpan-28 en kinghoff-gietijzer-koekenpan-26.
+- **Ververs productblokken:** lodge-gietijzer-5 (Lodge-pannenset 5-delig) wordt bij bol niet meer aangeboden; afbeelding nu leeg, dus het product en de kaart verdwijnen van /blog/pannenset-gietijzer/. Let op: de tekst en de tabel op die pagina noemen de Lodge-set nog ('zoals de Lodge-set'). Niet aangepast (bestaande pagina, akkoord eigenaar nodig).
+- **Foto's:** 2592913 (hoofdfoto), 2568056, 8295778; afgewezen zie fotobronnen.md. Ca. 1480 woorden, dus 3 foto's.
+- **Interne links toegevoegd in:** koekenpan-kiezen (sectie Gietijzer) en pannenset-gietijzer (inleiding).
+- **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8). Alle 12 bron-URL's en 7 ean's geopend.
+- **Uitslag:** gepubliceerd op `main` zoals beoordeeld. Tussentijds stond het concept op branch `concept/koekenpan-gietijzer` (voor de controle; kan weg).
+- **Beter-punten (niet verwerkt):** (1) 'koelt nauwelijks af als je er vlees in legt' zonder eigen bron in de brief; (2) 'Een greep van gietijzer wordt mee heet' stelliger dan de bron ('kan warm worden'); (3) tabel 'Breekt als hij hard valt': Lodge zegt alleen 'breaks before it bends', beter 'kan breken'; (4) reden 'ruwe ijzer kan krassen maken' bij niet schuiven staat niet in de bronnen; (5) 'RVS is lichter en reageert sneller' zonder bron in de brief; (6) Lodge Logic 'al ingebrand' staat niet in de bol-info, wel in Lodge cast-iron-myths: bron in de brief zetten; (7) 'lees je in/bij' vijf keer; (8) vetgedrukte labels in de nadelenlijst ogen licht schematisch.
+
