@@ -25,7 +25,7 @@ Even belangrijk is dat de bodem **helemaal vlak** is. Alleen het deel dat contac
 
 ## De bodem moet passen bij je kookzone
 
-De maat op de doos, zoals 24 of 28 cm, gaat meestal over de bovenrand. De bodem is kleiner. Vaak staat de bodemmaat apart in de productgegevens.
+De maat op de doos, zoals 24 of 28 cm, gaat meestal over de bovenrand. De bodem is kleiner. Vaak staat de bodemmaat apart in de productgegevens. Hoe je beide zelf meet, lees je in [koekenpan maat meten](/blog/koekenpan-maat/).
 
 Die bodem verschilt het liefst niet meer dan zo'n 2 cm met je kookzone.
 

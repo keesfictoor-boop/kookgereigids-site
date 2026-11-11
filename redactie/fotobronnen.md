@@ -88,6 +88,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | keramische-koekenpan-omelet.jpg | 947434 | cegoh | koekenpan-keramisch (hoofdfoto) |
 | keramisch-omelet-champignons.jpg | 3819386 | ivabalk | koekenpan-keramisch |
 | keramisch-gebakken-ei.jpg | 7663954 | Ray_Shrewsberry | koekenpan-keramisch |
+| koekenpan-maat-pannen-deksels.jpg | 1796139 | sabinevanerp | koekenpan-maat (hoofdfoto) |
+| koekenpan-maat-schuine-rand.jpg | 1018963 | stina_magnus | koekenpan-maat |
+| koekenpan-maat-kookzone.jpg | 2478410 | congerdesign | koekenpan-maat |
 | gerecht-eieren-pan.jpg | 9310290 | jhenning | pan-per-gerecht (hoofdfoto) |
 | gerecht-zalm-pan.jpg | 6233959 | congerdesign | pan-per-gerecht |
 | gerecht-vlees-pan.jpg | 3873890 | felix_w | pan-per-gerecht |
@@ -114,3 +117,5 @@ Afgewezen koekenpan-rvs (7-11-2026): 4644950 (leesbaar logo op schort), 1271991 
 Afgewezen koekenpan-keramisch (8-11-2026): geen; bekeken en niet gekozen: 49585, 806081, 932189, 2088553 (uitgeknipt), 8027678, 4813261 en 3238173 (al gebruikt), 1838785, 610002, 1512834 (herkenbaar persoon). Op geen enkele foto is te zien dat de laag keramisch is; alt-teksten noemen daarom geen keramiek.
 
 Afgewezen koekenpan-inductie (11-11-2026): 7508926 (merknaam leesbaar op de kookplaat). Bekeken en niet gekozen: 5003890, 2470605, 3357374 (niet passend). Op geen foto is te zien dat het om inductie gaat; de alt-teksten noemen dat daarom niet.
+
+Afgewezen koekenpan-maat (11-11-2026): geen; bekeken en niet gekozen: 1878024 en 840113 (losse liniaal zonder pan), 2805959 (ovale pan), 2470605, 2470600, 2777322, 2470225. Geen foto van een pan met meetlint of liniaal gevonden. 2478410 toont een stralingszone, geen inductie; alt-tekst noemt geen inductie.

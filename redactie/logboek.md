@@ -156,3 +156,15 @@ Per run: datum, onderwerp en slug, gebruikte bronnen (kort), aantal controlerond
 - **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8). Alle bronnen en ean's geopend.
 - **Uitslag:** gepubliceerd op `main` zoals beoordeeld. Planning en logboek kwamen door een scriptfout in een aparte vervolgcommit.
 - **Beter-punten (niet verwerkt):** (1) 'maat op de doos gaat over de bovenrand' zonder bron in de brief (staat wel op koekenpan-kiezen); (2) 'vooral op een hoge stand' bij zoemen staat niet letterlijk in de bronnen; (3) 'plaatstaal en gietijzer moet je inbranden': de Lodge wordt voorbehandeld verkocht, beter 'inbranden of goed onderhouden'; (4) 'lees je in' komt zes keer terug, afwisselen; (5) 'volgens Tefal/BK' in de tabel: mag als fabrikantbewering, maar let op de regel tegen 'volgens fabrikant X'.
+
+## 11-11-2026 – koekenpan-maat (H3.S08, lokale sessie op verzoek eigenaar)
+
+- **Planning:** H3.S05 en H3.S06 bewust overgeslagen (routine 13:00 en 19:00). H3.S09 (wanneer vervangen) niet gekozen: grotendeels gedekt door /blog/pannen-langst-mee/ ('Wanneer moet je een pan vervangen?'), pannen-duurzaam (restafval) en koekenpan-keramisch; eventueel later op 'afgedekt' zetten (besluit eigenaar). Dit artikel gaat over meten; welke maat je kiest laat het aan H3.S06 en koekenpan-kiezen.
+- **Onderwerp:** koekenpan maat meten. Slug `koekenpan-maat`, URL: /blog/koekenpan-maat/. 'Welke Ikea pannen zijn goed?' niet behandeld (geen controleerbare bron).
+- **Bronnen:** zie redactie/briefs/H3.S08-koekenpan-maat.md (Zwilling/Demeyere koekenpan kiezen en panmaat, twee Demeyere-productpagina's met bodemdiameter, Cookinglife braadpan, Prudent Reviews, Cook & Pan). Geen gezondheidsclaims, geen BRON- of OFFICIEEL-regels.
+- **Producten:** geen productblok of kaart (vraagartikel; bol-productinfo noemt geen bodemmaat).
+- **Foto's:** 1796139 (hoofdfoto), 1018963, 2478410; zie fotobronnen.md.
+- **Interne links toegevoegd in:** koekenpan-kiezen en koekenpan-inductie.
+- **Controle:** ronde 1 GOEDGEKEURD (0 moet; natuurlijkheid 8,5). Alle bronnen geopend.
+- **Uitslag:** gepubliceerd op `main` zoals beoordeeld.
+- **Beter-punten (niet verwerkt):** (1) 'Is de zone veel kleiner, dan wordt vooral het midden heet' staat niet in de bronnen van deze brief (wel in de brief van koekenpan-rvs); (2) 'Hetzelfde geldt voor kookpannen' is een eigen uitbreiding; (3) deksel-advies zonder bron (volgt uit meetverschillen per merk); (4) 'Veel makers zetten de bodemmaat apart' alleen bij Zwilling/Demeyere gezien, beter 'soms'; (5) intro 'bij 28 cm vaak 22 à 23 cm' steunt op twee pannen van één merk, beter 'bijvoorbeeld'; (6) 'ik kijk bij een pan altijd naar twee maten' en 'twee pannen die ik heb opgezocht' neutraler formuleren; (7) kop over braadpan 24 cm geeft niet direct het aantal personen; (8) intro en eerste sectie overlappen licht.
