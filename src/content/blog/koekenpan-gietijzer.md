@@ -48,7 +48,7 @@ Bak je vooral eieren en pannenkoeken en wil je een lichte pan, kijk dan eerst na
 | Opwarmen | Rustig | Rustig, en nooit leeg op hoog vuur |
 | Zwakke plek | Breekt als hij hard valt | Emaille kan afschilferen of barsten |
 
-Twijfel je, dan is dit een simpele vuistregel: wil je een pan voor hoge hitte en vind je invetten geen probleem, neem kaal. Wil je weinig onderhoud, neem geëmailleerd. Meer over beide soorten lees je bij de [gietijzeren pannensets](/blog/pannenset-gietijzer/).
+Alle soorten gietijzeren pannen, van braadpan tot grillpan, staan in de [gids over gietijzeren pannen](/gietijzeren-pannen/). Twijfel je, dan is dit een simpele vuistregel: wil je een pan voor hoge hitte en vind je invetten geen probleem, neem kaal. Wil je weinig onderhoud, neem geëmailleerd. Meer over beide soorten lees je bij de [gietijzeren pannensets](/blog/pannenset-gietijzer/).
 
 ## Waar let je op bij een gietijzeren koekenpan?
 

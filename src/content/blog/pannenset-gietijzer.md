@@ -122,4 +122,4 @@ Is het emaille aan de binnenkant gebarsten? Kook er dan niet meer in: er kunnen 
 - **Je wilt alles in gietijzer:** een set met een pan met deksel en een paar koekenpannen, zoals de Lodge-set. Reken wel op zwaar tilwerk.
 - **Je kookt vooral pasta, aardappelen en soep:** neem een RVS-set en koop er één gietijzeren braadpan los bij.
 
-Wat een goede set mag kosten, lees je in [hoeveel je uitgeeft aan een pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/). Alle soorten sets naast elkaar vind je bij de [pannensets](/pannensets/).
+Wat een goede set mag kosten, lees je in [hoeveel je uitgeeft aan een pannenset](/blog/hoeveel-uitgeven-aan-een-pannenset/). Alle soorten sets naast elkaar vind je bij de [pannensets](/pannensets/). Inbranden, schoonmaken en de verschillende soorten gietijzeren pannen staan in de [gids over gietijzeren pannen](/gietijzeren-pannen/).

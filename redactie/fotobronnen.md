@@ -91,6 +91,10 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | koekenpan-maat-pannen-deksels.jpg | 1796139 | sabinevanerp | koekenpan-maat (hoofdfoto) |
 | koekenpan-maat-schuine-rand.jpg | 1018963 | stina_magnus | koekenpan-maat |
 | koekenpan-maat-kookzone.jpg | 2478410 | congerdesign | koekenpan-maat |
+| gietijzer-braadpannen-rood.jpg | 553873 | fas | gietijzeren-pannen (gids, hoofdfoto) |
+| gietijzer-grillpan-biefstuk.jpg | 996112 | dbaezol | gietijzeren-pannen (gids) |
+| gietijzer-pan-boven-vuur.jpg | 2603922 | StockSnap | gietijzeren-pannen (gids) |
+| gietijzer-dutch-oven-houtskool.jpg | 3912429 | MikeGoad | gietijzeren-pannen (gids) |
 | gerecht-eieren-pan.jpg | 9310290 | jhenning | pan-per-gerecht (hoofdfoto) |
 | gerecht-zalm-pan.jpg | 6233959 | congerdesign | pan-per-gerecht |
 | gerecht-vlees-pan.jpg | 3873890 | felix_w | pan-per-gerecht |
@@ -129,3 +133,5 @@ Afgewezen koekenpan-maat (11-11-2026): geen; bekeken en niet gekozen: 1878024 en
 Afgewezen koekenpan-gietijzer (11-11-2026): 1882887 (merklogo op de steel), 3125697 (pan met antiaanbaklaag, tekst op eierschaal), 4644940 (leesbaar logo op schort, persoon), 721076 (witte keramische pan), 5909434 en 1835631 (geen gietijzer: stalen pan en pan met coating). Op de gekozen foto's is niet zeker te zien dat de pan van gietijzer is; alt-teksten zeggen 'zwarte pan'.
 
 Afgewezen koekenpan-klein-groot (11-11-2026): 1583152 (ingeslagen merkteken midden op de pan, persoon op de achtergrond), 1706421 (eieren op een bakplaat, geen pan), 3604676 en 1798444 (geen keuken). Op de gekozen foto's is de maat van de pan niet te zien; alt-teksten noemen geen maat.
+
+Afgewezen gietijzeren-pannen (15-11-2026): 733816 (merknaam op het deksel); al eerder gebruikt: 6660815, 4396809, 4166286, 777094, 7624743, 3766548. Bekeken en niet gekozen: 10390527, 3643921, 1069061, 353941, 4014661. Bij 996112 is niet te zien of de grillpan van gietijzer is; alt-tekst 'zwarte grillpan'.
