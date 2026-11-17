@@ -74,7 +74,7 @@ Gietijzer is magnetisch en werkt dus op inductie. Op gas en op een keramische pl
 - **Warm rustig op.** Begin een paar minuten op een lage of middelhoge stand en zet hem daarna hoger als dat nodig is. Middelhoog is meestal genoeg.
 - **Haal de pan na het koken van de plaat.** Hij blijft lang heet.
 
-Een kale gietijzeren pan mag de oven in. Bij geëmailleerde pannen en bij pannen met een houten of siliconen greep staat in de productinformatie tot welke temperatuur. Een dekselknop van metaal kan vaak tot 250 °C, een greep van siliconen vaak tot 200 °C. Meer over pannen in de oven lees je in [welke pannen tegen hoge temperaturen kunnen](/blog/pannen-hoge-temperatuur/). Welke pannen op inductie werken, staat in [pannen voor inductie](/blog/pannen-inductie/).
+Een kale gietijzeren pan mag de oven in. Bij geëmailleerde pannen en bij pannen met een houten of siliconen greep staat in de productinformatie tot welke temperatuur. Een dekselknop van metaal kan vaak tot 250 °C, een greep van siliconen vaak tot 200 °C. Meer over pannen in de oven lees je in [welke pannen tegen hoge temperaturen kunnen](/blog/pannen-hoge-temperatuur/). Welke pannen op inductie werken, staat in [pannen voor inductie](/blog/pannen-inductie/). Waar je bij een gietijzeren pan op inductie op let, lees je in [gietijzeren pan op inductie](/blog/gietijzeren-pan-inductie/).
 
 ## Gietijzer op de barbecue en boven vuur
 

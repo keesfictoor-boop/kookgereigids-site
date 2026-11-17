@@ -111,6 +111,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | koekenpan-klein-groot-shakshuka.jpg | 2955466 | DanielaElenaTentis | koekenpan-klein-groot (hoofdfoto) |
 | koekenpan-klein-groot-beslag.jpg | 933208 | tookapic | koekenpan-klein-groot |
 | koekenpan-klein-groot-twee-grepen.jpg | 4142573 | Tjena | koekenpan-klein-groot |
+| gietijzer-inductie-ovale-pan.jpg | 2777322 | Engin_Akyurt | gietijzeren-pan-inductie (hoofdfoto) |
+| gietijzer-inductie-blauwe-pan.jpg | 4895036 | matthiasboeckel | gietijzeren-pan-inductie |
+| gietijzer-inductie-houtskool.jpg | 4396809 | distelAPPArath | gietijzeren-pan-inductie |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
 
@@ -135,3 +138,5 @@ Afgewezen koekenpan-gietijzer (11-11-2026): 1882887 (merklogo op de steel), 3125
 Afgewezen koekenpan-klein-groot (11-11-2026): 1583152 (ingeslagen merkteken midden op de pan, persoon op de achtergrond), 1706421 (eieren op een bakplaat, geen pan), 3604676 en 1798444 (geen keuken). Op de gekozen foto's is de maat van de pan niet te zien; alt-teksten noemen geen maat.
 
 Afgewezen gietijzeren-pannen (15-11-2026): 733816 (merknaam op het deksel); al eerder gebruikt: 6660815, 4396809, 4166286, 777094, 7624743, 3766548. Bekeken en niet gekozen: 10390527, 3643921, 1069061, 353941, 4014661. Bij 996112 is niet te zien of de grillpan van gietijzer is; alt-tekst 'zwarte grillpan'.
+
+Afgewezen gietijzeren-pan-inductie (17-11-2026): 2568486 (merknaam op de kookplaat), 1839094 (gegraveerde tekst op de pollepel), 1348517 (reliëf met naam op het deksel), 777094 (al gebruikt op /koopadvies/). Pixabay heeft weinig foto's van pannen op inductie; de gekozen foto's zijn sfeerbeeld. Bij 2777322 is niet zeker te zien of de pan van gietijzer is; alt-tekst 'zwarte braadpan'.
