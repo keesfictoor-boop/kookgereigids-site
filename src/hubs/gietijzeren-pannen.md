@@ -23,7 +23,7 @@ Gietijzer slaat warmte op en verdeelt die gelijkmatig. Dat merk je vooral hier:
 - **Stoven.** Een stoofpot of soep pruttelt rustig door op een lage stand.
 - **Oven en buiten.** Een kale gietijzeren pan kan de oven in en op de barbecue.
 
-Er zijn ook nadelen:
+Er zijn ook [nadelen](/blog/gietijzeren-pan-nadelen/):
 
 - **Gewicht.** Een koekenpan van 25 cm weegt al gauw 2,3 kilo. Een dutch oven van 5,5 liter weegt met deksel zo'n 9 kilo.
 - **Traag.** Opwarmen kost een paar minuten. Zet je het vuur lager, dan merk je dat pas na een tijdje.
