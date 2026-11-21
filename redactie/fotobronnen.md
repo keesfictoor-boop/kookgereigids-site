@@ -117,6 +117,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | gietijzer-nadelen-pan-vuur.jpg | 4970255 | StephanieJ247 | gietijzeren-pan-nadelen |
 | gietijzer-nadelen-tomaten.jpg | 5463596 | memoaaguilar | gietijzeren-pan-nadelen |
 | gietijzer-nadelen-rvs-pan.jpg | 645455 | el_duderino123 | gietijzeren-pan-nadelen |
+| rvs-gietijzer-aluminium-pannen.jpg | 5156691 | congerdesign | rvs-gietijzer-aluminium |
+| rvs-gietijzer-aluminium-kookpan.jpg | 3397581 | Antociano | rvs-gietijzer-aluminium |
+| rvs-gietijzer-aluminium-aanbraden.jpg | 4230797 | webandi | rvs-gietijzer-aluminium |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
 
@@ -145,3 +148,6 @@ Afgewezen gietijzeren-pannen (15-11-2026): 733816 (merknaam op het deksel); al e
 Afgewezen gietijzeren-pan-inductie (17-11-2026): 2568486 (merknaam op de kookplaat), 1839094 (gegraveerde tekst op de pollepel), 1348517 (reliëf met naam op het deksel), 777094 (al gebruikt op /koopadvies/). Pixabay heeft weinig foto's van pannen op inductie; de gekozen foto's zijn sfeerbeeld. Bij 2777322 is niet zeker te zien of de pan van gietijzer is; alt-tekst 'zwarte braadpan'.
 
 Afgewezen gietijzeren-pan-nadelen (19-11-2026): 1839094 (tekst op de pollepel, eerder ook afgewezen), 3809713 (merknaam op het deksel), 2969649 (tekst op de snijplank), 2535546 en 2695304 (geen gietijzer te zien), 4586892 (pan met aluminium deksel). 3513464 eerst gekozen, na de controle weggehaald: stond al als afgewezen geregistreerd (rode beeldfouten). Bij 645455 is niet zeker of de pan van RVS is (binnenkant donker); alt-tekst 'metalen koekenpan'. De etiketten op de fles zijn onleesbaar.
+
+
+Afgewezen rvs-gietijzer-aluminium (21-11-2026): 4644941 (leesbaar logo op schort, zelfde reeks als 4644950), 10558697 (tags wijzen op gegenereerd beeld: 'copy space', 'still life'). Bij 3397581 is niet zeker te zien of de pan van aluminium is; alt-tekst 'metalen kookpan'. Bij 4230797 is de pan niet te zien; het is een beeld van aanbraden.

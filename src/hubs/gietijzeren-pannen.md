@@ -29,6 +29,8 @@ Er zijn ook [nadelen](/blog/gietijzeren-pan-nadelen/):
 - **Traag.** Opwarmen kost een paar minuten. Zet je het vuur lager, dan merk je dat pas na een tijdje.
 - **Zorg.** Kaal gietijzer kan roesten als het nat blijft. Emaille kan afschilferen als de pan valt of ergens tegenaan stoot.
 
+Twijfel je tussen gietijzer en een ander materiaal, lees dan [RVS, gietijzer of aluminium](/blog/rvs-gietijzer-aluminium/).
+
 ## Kaal of geëmailleerd gietijzer?
 
 Kaal gietijzer is zwart en heeft geen coating. De fabriek bakt er een dun laagje olie op, en elke keer dat je met vet bakt, groeit die laag. Daardoor laat eten steeds makkelijker los.
