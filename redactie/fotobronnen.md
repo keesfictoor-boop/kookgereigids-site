@@ -120,6 +120,9 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | rvs-gietijzer-aluminium-pannen.jpg | 5156691 | congerdesign | rvs-gietijzer-aluminium |
 | rvs-gietijzer-aluminium-kookpan.jpg | 3397581 | Antociano | rvs-gietijzer-aluminium |
 | rvs-gietijzer-aluminium-aanbraden.jpg | 4230797 | webandi | rvs-gietijzer-aluminium |
+| ijzeren-pan-vis-groenten.jpg | 996454 | mar_qs | gietijzeren-pan-onderhouden |
+| olie-lepel-kookplaat.jpg | 4482643 | congerdesign | gietijzeren-pan-onderhouden |
+| poffertjespan-hartjes.jpg | 5645258 | CharlotteGovaert | gietijzeren-pan-onderhouden |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
 
@@ -151,3 +154,5 @@ Afgewezen gietijzeren-pan-nadelen (19-11-2026): 1839094 (tekst op de pollepel, e
 
 
 Afgewezen rvs-gietijzer-aluminium (21-11-2026): 4644941 (leesbaar logo op schort, zelfde reeks als 4644950), 10558697 (tags wijzen op gegenereerd beeld: 'copy space', 'still life'). Bij 3397581 is niet zeker te zien of de pan van aluminium is; alt-tekst 'metalen kookpan'. Bij 4230797 is de pan niet te zien; het is een beeld van aanbraden.
+
+Afgewezen gietijzeren-pan-onderhouden (23-11-2026): 2435504 (merknaam op de kamado), 655268 (merknaam in reliëf op het deksel). Bij 996454 zeggen de Pixabay-tags tonijn, maar het lijkt zalm; alt-tekst 'vis'. Niet zeker te zien of de pan van gietijzer of plaatstaal is; alt-tekst 'zwarte ijzeren pan'. Bij 5645258 is de pan een bakplaat met hartvormige kuiltjes; alt-tekst noemt het materiaal 'ijzeren'.

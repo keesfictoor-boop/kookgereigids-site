@@ -110,7 +110,7 @@ Zo brand je een gietijzeren pan in de oven in:
 4. **Zet de pan ondersteboven op het middelste rooster** van een oven van 230 à 250 °C.
 5. **Laat hem een uur in de oven staan.** Zet de oven daarna uit en laat de pan erin afkoelen.
 
-De eerste lagen kunnen er vlekkerig uitzien. Dat geeft niet: door gewoon te blijven koken met wat vet, wordt de laag vanzelf egaler. Geëmailleerd gietijzer hoef je niet in te branden. Hoe inbranden op het fornuis gaat, lees je in [wok inbranden](/blog/wok-inbranden/); bij een gietijzeren pan werkt dat net zo.
+De eerste lagen kunnen er vlekkerig uitzien. Dat geeft niet: door gewoon te blijven koken met wat vet, wordt de laag vanzelf egaler. Geëmailleerd gietijzer hoef je niet in te branden. Hoe inbranden op het fornuis gaat, lees je in [wok inbranden](/blog/wok-inbranden/); bij een gietijzeren pan werkt dat net zo. Welke olie je neemt en wat je doet bij een plakkerige laag, lees je in [gietijzeren pan onderhouden en inbranden](/blog/gietijzeren-pan-onderhouden/).
 
 [[product:isenvi-byron-grillpan-28]]
 
