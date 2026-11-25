@@ -123,6 +123,10 @@ Afgewezen beste-pannenmerken (3-11-2026): 7655184 (stoofpot op een bord, geen pa
 | ijzeren-pan-vis-groenten.jpg | 996454 | mar_qs | gietijzeren-pan-onderhouden |
 | olie-lepel-kookplaat.jpg | 4482643 | congerdesign | gietijzeren-pan-onderhouden |
 | poffertjespan-hartjes.jpg | 5645258 | CharlotteGovaert | gietijzeren-pan-onderhouden |
+| gietijzer-wat-niet-tomaten.jpg | 5463595 | memoaaguilar | gietijzeren-pan-wat-niet |
+| gietijzer-wat-niet-tomatensaus.jpg | 4556866 | Sinawa | gietijzeren-pan-wat-niet |
+| gietijzer-wat-niet-spatel.jpg | 3915146 | ivabalk | gietijzeren-pan-wat-niet |
+| gietijzer-wat-niet-vlees.jpg | 3196386 | werbeguru | gietijzeren-pan-wat-niet |
 
 Afgewezen pan-trekt-krom (4-11-2026): 3513464 (uitgeknipte pan met rare rode beeldfouten), 3857475 (merknamen leesbaar op oven en potten).
 
@@ -156,3 +160,5 @@ Afgewezen gietijzeren-pan-nadelen (19-11-2026): 1839094 (tekst op de pollepel, e
 Afgewezen rvs-gietijzer-aluminium (21-11-2026): 4644941 (leesbaar logo op schort, zelfde reeks als 4644950), 10558697 (tags wijzen op gegenereerd beeld: 'copy space', 'still life'). Bij 3397581 is niet zeker te zien of de pan van aluminium is; alt-tekst 'metalen kookpan'. Bij 4230797 is de pan niet te zien; het is een beeld van aanbraden.
 
 Afgewezen gietijzeren-pan-onderhouden (23-11-2026): 2435504 (merknaam op de kamado), 655268 (merknaam in reliëf op het deksel). Bij 996454 zeggen de Pixabay-tags tonijn, maar het lijkt zalm; alt-tekst 'vis'. Niet zeker te zien of de pan van gietijzer of plaatstaal is; alt-tekst 'zwarte ijzeren pan'. Bij 5645258 is de pan een bakplaat met hartvormige kuiltjes; alt-tekst noemt het materiaal 'ijzeren'.
+
+Afgewezen gietijzeren-pan-wat-niet (25-11-2026): 10478953 (oogt als gegenereerd beeld), 5408752 (leesbare tekst op een doos). Bekeken en niet gekozen: 683054, 2650322, 3294263, 4612330, 8032832. De pannen op 4556866 en 3915146 lijken een antiaanbaklaag te hebben; het zijn sfeerbeelden bij tomatensaus en een houten spatel, de alt-teksten noemen geen gietijzer. Bij 3196386 is niet zeker of de pan van gietijzer of plaatstaal is; alt-tekst 'zwarte ijzeren pan'.

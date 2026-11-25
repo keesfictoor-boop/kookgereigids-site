@@ -141,6 +141,8 @@ Meer over het onderhoud van een gietijzeren koekenpan staat in [gietijzeren koek
 - **Extra vierge olijfolie op hoog vuur.** Die gaat al bij een lagere temperatuur roken. Neem voor heet bakken liever zonnebloemolie. Laat olie nooit roken.
 - **Koken in een pan met gebarsten emaille aan de binnenkant.** Er kunnen dan stukjes emaille in je eten komen. Een donkere laag op kaal gietijzer is iets anders; die mag blijven.
 
+De hele lijst, met de verschillen tussen kaal en geëmailleerd, staat in [wat mag er niet in een gietijzeren pan](/blog/gietijzeren-pan-wat-niet/).
+
 ## Heeft een gietijzeren pan PFAS?
 
 Een pan zonder coating heeft geen PFAS-laag. Dat geldt voor kaal gietijzer, en ook emaille is geen antiaanbaklaag met PFAS. Let wel op: er zijn gietijzeren braadpannen met een extra antiaanbaklaag aan de binnenkant. Kijk dus in de productinformatie wat er precies op de binnenkant zit. Meer over PFAS in pannen lees je bij de [pannensets](/pannensets/).
