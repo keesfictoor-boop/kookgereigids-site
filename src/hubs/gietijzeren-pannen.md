@@ -132,7 +132,7 @@ De eerste lagen kunnen er vlekkerig uitzien. Dat geeft niet: door gewoon te blij
 - Bruine vlekken op de bodem horen bij het koken. Je haalt ze meestal weg met een niet-schurend middel.
 - Sommige pannen mogen in de vaatwasser, maar met de hand wassen is beter voor het emaille.
 
-Meer over het onderhoud van een gietijzeren koekenpan staat in [gietijzeren koekenpan kiezen](/blog/koekenpan-gietijzer/).
+Meer over het onderhoud van een gietijzeren koekenpan staat in [gietijzeren koekenpan kiezen](/blog/koekenpan-gietijzer/). Is er iets aangebrand, ook in een pan van een ander materiaal, lees dan [hoe je een aangebrande pan schoonmaakt](/blog/aangebrande-pan-schoonmaken/).
 
 ## Wat doe je beter niet in een gietijzeren pan?
 
